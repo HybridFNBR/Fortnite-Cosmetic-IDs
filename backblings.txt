@@ -662,6 +662,7 @@ BID_684_HolidayLightsMale
 BID_685_PlumRetro_EY7ZM
 BID_686_TiramisuMale_1YMN4
 BID_687_GrilledCheese_C9FB6
+BID_688_Nightmare_S85HI
 BID_691_LexaMale
 BID_695_StreetFashionEclipse
 BID_696_CombatDoll
