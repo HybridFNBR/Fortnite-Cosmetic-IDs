@@ -1,4264 +1,4264 @@
-Recruit
-Standard issue combatant outfit.
-CID_001_Athena_Commando_F_Default
-
-Recruit
-Standard issue combatant outfit.
-CID_002_Athena_Commando_F_Default
-
-Recruit
-Standard issue combatant outfit.
-CID_003_Athena_Commando_F_Default
-
-Recruit
-Standard issue combatant outfit.
-CID_004_Athena_Commando_F_Default
-
-Recruit
-Standard issue combatant outfit.
-CID_005_Athena_Commando_M_Default
-
-Recruit
-Standard issue combatant outfit.
-CID_006_Athena_Commando_M_Default
-
-Recruit
-Standard issue combatant outfit.
-CID_007_Athena_Commando_M_Default
-
-Recruit
-Standard issue combatant outfit.
-CID_008_Athena_Commando_M_Default
-
-Tracker
-Uncommon tracker outfit.
-CID_009_Athena_Commando_M
-
-Ranger
-Uncommon ranger outfit.
-CID_010_Athena_Commando_M
-
-Scout
-Uncommon scout outfit.
-CID_011_Athena_Commando_M
-
-Trooper
-Uncommon trooper outfit.
-CID_012_Athena_Commando_M
-
-Renegade
-Uncommon renegade outfit.
-CID_013_Athena_Commando_F
-
-Pathfinder
-Uncommon pathfinder outfit.
-CID_014_Athena_Commando_F
-
-Assault Trooper
-Uncommon assault trooper outfit.
-CID_015_Athena_Commando_F
-
-Commando
-Uncommon commando outfit.
-CID_016_Athena_Commando_F
-
-Aerial Assault Trooper
-Rare aerial assault trooper outfit.
-CID_017_Athena_Commando_M
-
-Recon Scout
-Rare recon scout outfit.
-CID_018_Athena_Commando_M
-
-Infiltrator
-Rare infiltrator outfit.
-CID_019_Athena_Commando_M
-
-Special Forces
-Rare special forces outfit.
-CID_020_Athena_Commando_M
-
-Brawler
-Rare brawler outfit.
-CID_021_Athena_Commando_F
-
-Recon Expert
-Rare recon expert outfit.
-CID_022_Athena_Commando_F
-
-Munitions Expert
-Rare munitions expert outfit.
-CID_023_Athena_Commando_F
-
-Recon Specialist
-Rare recon specialist outfit.
-CID_024_Athena_Commando_F
-
-First strike Specialist
-Rare first strike specialist outfit.
-CID_025_Athena_Commando_M
-
-Desperado
-Rare desperado outfit.
-CID_026_Athena_Commando_M
-
-Survival Specialist
-Rare Survival Specialist outfit.
-CID_027_Athena_Commando_F
-
-Renegade Raider
-Rare renegade raider outfit.
-CID_028_Athena_Commando_F
-
-Ghoul Trooper
-Epic ghoul trooper outfit.
-CID_029_Athena_Commando_F_Halloween
-
-Skull Trooper
-Victory runs bone-deep.
-CID_030_Athena_Commando_M_Halloween
-
-Raptor
-Royale Air Force test pilot.
-CID_031_Athena_Commando_M_Retro
-
-Blue Squire
-The bold warrior of Moisty Mire.
-CID_032_Athena_Commando_M_Medieval
-
-Royale Knight
-The dauntless champion of Tomato Town.
-CID_033_Athena_Commando_F_Medieval
-
-Red Knight
-The red menace of Anarchy Acres.
-CID_034_Athena_Commando_F_Medieval
-
-Black Knight
-The odious scourge of Wailing Woods.
-CID_035_Athena_Commando_M_Medieval
-
-Absolute Zero
-Freeze out the competition.
-CID_036_Athena_Commando_M_WinterCamo
-
-Arctic Assassin
-Stay frosty.
-CID_037_Athena_Commando_F_WinterCamo
-
-Funk Ops
-Boogie on down to umbrella town.
-CID_038_Athena_Commando_M_Disco
-
-Sparkle Specialist
-It's time to shine!
-CID_039_Athena_Commando_F_Disco
-
-Devastator
-Dominate the eye of the storm.
-CID_040_Athena_Commando_M_District
-
-Dominator
-One step ahead of the pack.
-CID_041_Athena_Commando_F_District
-
-Circuit Breaker
-The deadliest keyboard cowboy in the west.
-CID_042_Athena_Commando_M_Cyberpunk
-
-Shadow Ops
-You didn't see a thing.
-CID_043_Athena_Commando_F_Stealth
-
-Brite Bomber
-The future looks bright...
-CID_044_Athena_Commando_F_SciPop
-
-Yuletide Ranger
-Up on the rooftop...
-CID_045_Athena_Commando_M_HolidaySweater
-
-Nog Ops
-Have yourself a merry little skirmish.
-CID_046_Athena_Commando_F_HolidaySweater
-
-Red-Nosed Raider
-It's time for some reindeer games.
-CID_047_Athena_Commando_F_HolidayReindeer
-
-Ginger Gunner
-Spread some holiday fear.
-CID_048_Athena_Commando_F_HolidayGingerbread
-
-Merry Marauder
-Sing a slaying song tonight.
-CID_049_Athena_Commando_M_HolidayGingerbread
-
-Crackshot
-Get out there and... crack some nuts.
-CID_050_Athena_Commando_M_HolidayNutcracker
-
-Codename E.L.F.
-Elusive. Lethal. Festive.
-CID_051_Athena_Commando_M_HolidayElf
-
-Blue Team Leader
-Lead your squad to victory.
-CID_052_Athena_Commando_F_PSBlue
-
-Alpine Ace
-So Aerodynamic!
-CID_053_Athena_Commando_M_SkiDude
-
-Alpine Ace (USA)
-So Aerodynamic!
-CID_054_Athena_Commando_M_SkiDude_USA
-
-Alpine Ace (CAN)
-So Aerodynamic!
-CID_055_Athena_Commando_M_SkiDude_CAN
-
-Alpine Ace (GBR)
-So Aerodynamic!
-CID_056_Athena_Commando_M_SkiDude_GBR
-
-Alpine Ace (FRA)
-So Aerodynamic!
-CID_057_Athena_Commando_M_SkiDude_FRA
-
-Alpine Ace (GER)
-So Aerodynamic!
-CID_058_Athena_Commando_M_SkiDude_GER
-
-Alpine Ace (CHN)
-So Aerodynamic!
-CID_059_Athena_Commando_M_SkiDude_CHN
-
-Alpine Ace (KOR)
-So Aerodynamic!
-CID_060_Athena_Commando_M_SkiDude_KOR
-
-Mogul Master
-Carve through the competition.
-CID_061_Athena_Commando_F_SkiGirl
-
-Mogul Master (USA)
-Carve through the competition.
-CID_062_Athena_Commando_F_SkiGirl_USA
-
-Mogul Master (CAN)
-Carve through the competition.
-CID_063_Athena_Commando_F_SkiGirl_CAN
-
-Mogul Master (GBR)
-Carve through the competition.
-CID_064_Athena_Commando_F_SkiGirl_GBR
-
-Mogul Master (FRA)
-Carve through the competition.
-CID_065_Athena_Commando_F_SkiGirl_FRA
-
-Mogul Master (GER)
-Carve through the competition.
-CID_066_Athena_Commando_F_SkiGirl_GER
-
-Mogul Master (CHN)
-Carve through the competition.
-CID_067_Athena_Commando_F_SkiGirl_CHN
-
-Mogul Master (KOR)
-Carve through the competition.
-CID_068_Athena_Commando_F_SkiGirl_KOR
-
-Cuddle Team Leader
-Hug it out.
-CID_069_Athena_Commando_F_PinkBear
-
-Love Ranger
-Aim for the heart.
-CID_070_Athena_Commando_M_Cupid
-
-Wukong
-Long live the king!
-CID_071_Athena_Commando_M_Wukong
-
-Sash Sergeant
-Set up camp and start a firefight.
-CID_072_Athena_Commando_M_Scout
-
-Snorkel Ops
-Diving head first into the fight.
-CID_073_Athena_Commando_F_Scuba
-
-Jungle Scout
-Blaze a trail to victory.
-CID_074_Athena_Commando_F_Stripe
-
-Tactics Officer
-Ready for action.
-CID_075_Athena_Commando_F_Stripe
-
-Dazzle
-The dominator of Dusty Depot.
-CID_076_Athena_Commando_F_Sup
-
-Hyperion
-The gladiator of Greasy Grove.
-CID_077_Athena_Commando_M_Sup
-
-Highrise Assault Trooper
-Rise to the top.
-CID_078_Athena_Commando_M_Camo
-
-Tower Recon Specialist
-Master of the mean streets.
-CID_079_Athena_Commando_F_Camo
-
-Mission Specialist
-All systems go.
-CID_080_Athena_Commando_M_Space
-
-Moonwalker
-Boldly going for victory.
-CID_081_Athena_Commando_F_Space
-
-Rust Lord
-King of the scrap heap.
-CID_082_Athena_Commando_M_Scavenger
-
-Elite Agent
-Failure is not an option.
-CID_083_Athena_Commando_F_Tactical
-
-The Reaper
-Vengeance for hire.
-CID_084_Athena_Commando_M_Assassin
-
-Sub Commander
-Show 'em how it's done.
-CID_085_Athena_Commando_M_Twitch
-
-Crimson Scout
-A dashing and deadly scout.
-CID_086_Athena_Commando_M_RedSilk
-
-Scarlet Defender
-Poised for victory.
-CID_087_Athena_Commando_F_RedSilk
-
-Dark Voyager
-From the vast darkness of deep space.
-CID_088_Athena_Commando_M_SpaceBlack
-
-Havoc
-Striking fear into the opposition.
-CID_089_Athena_Commando_M_RetroGrey
-
-Rogue Agent
-Agent status: Unknown
-CID_090_Athena_Commando_M_Tactical
-
-Radiant Striker
-Strike first.
-CID_091_Athena_Commando_M_RedShirt
-
-Brilliant Striker
-Strike true.
-CID_092_Athena_Commando_F_RedShirt
-
-Rex
-Hunting the competition to extinction.
-CID_093_Athena_Commando_M_Dinosaur
-
-Burnout
-All roads lead to victory.
-CID_094_Athena_Commando_M_Rider
-
-Warpaint
-Dress for the job you want.
-CID_095_Athena_Commando_M_Founder
-
-Rose Team Leader
-Stop and smell the victory.
-CID_096_Athena_Commando_F_Founder
-
-Power Chord
-Bring on the noise complaints.
-CID_097_Athena_Commando_F_RockerPunk
-
-Sgt. Green Clover
-Good luck out there!
-CID_098_Athena_Commando_F_StPatty
-
-Highland Warrior
-The shadow of Ulster.
-CID_099_Athena_Commando_F_Scathach
-
-Battle Hound
-Release the hound!
-CID_100_Athena_Commando_M_CuChulainn
-
-Midnight Ops
-Strike by night.
-CID_101_Athena_Commando_M_Stealth
-
-Raven
-Brooding master of dark skies.
-CID_102_Athena_Commando_M_Raven
-
-Rabbit Raider
-Scary cute.
-CID_103_Athena_Commando_M_Bunny
-
-Bunny Brawler
-Hop into action.
-CID_104_Athena_Commando_F_Bunny
-
-Dark Vanguard
-Exploring the outer limits.
-CID_105_Athena_Commando_F_SpaceBlack
-
-Whiplash
-Brake for no one.
-CID_106_Athena_Commando_F_Taxi
-
-Tricera Ops
-Sink your teeth into victory.
-CID_107_Athena_Commando_F_PajamaParty
-
-Leviathan
-Call me fishman.
-CID_108_Athena_Commando_M_Fishhead
-
-Tomatohead
-Extra saucy.
-CID_109_Athena_Commando_M_Pizza
-
-Cipher
-Decoding the opposition's weakness.
-CID_110_Athena_Commando_F_CircuitBreaker
-
-Steelsight
-Victory demands nerves of steel.
-CID_111_Athena_Commando_F_Robo
-
-Brite Gunner
-Look on the bright side.
-CID_112_Athena_Commando_M_Brite
-
-Royale Bomber
-Searching for a target-rich environment.
-CID_113_Athena_Commando_M_BlueAce
-
-Trailblazer
-On the forefront of victory.
-CID_114_Athena_Commando_F_TacticalWoodland
-
-Carbide
-Heed the call to action.
-CID_115_Athena_Commando_M_CarbideBlue
-
-Omega
-There can be only one.
-CID_116_Athena_Commando_M_CarbideBlack
-
-Squad Leader
-First in, last out.
-CID_117_Athena_Commando_M_TacticalJungle
-
-Valor
-A beacon for hope.
-CID_118_Athena_Commando_F_Valor
-
-Zoey
-Candy-coated chaos.
-CID_119_Athena_Commando_F_Candy
-
-Teknique
-Spray up a storm.
-CID_120_Athena_Commando_F_Graffiti
-
-Abstrakt
-The writing's on the wall.
-CID_121_Athena_Commando_M_Graffiti
-
-Diecast
-The die has been cast.
-CID_122_Athena_Commando_M_Metal
-
-Chromium
-Solid to the core.
-CID_123_Athena_Commando_F_Metal
-
-Nitelite
-Never afraid of the dark.
-CID_124_Athena_Commando_F_AuroraGlow
-
-Battlehawk
-Swoop in and claim victory.
-CID_125_Athena_Commando_M_TacticalWoodland
-
-Liteshow
-Light it up!
-CID_126_Athena_Commando_M_AuroraGlow
-
-Toxic Trooper
-Dominate the hot zone.
-CID_127_Athena_Commando_M_Hazmat
-
-Hazard Agent
-Warning: Hazardous!
-CID_128_Athena_Commando_F_Hazmat
-
-Venturion
-Adventure awaits!
-CID_129_Athena_Commando_M_Deco
-
-Moisty Merman
-From the moisty depths of... the backlot of Studio B.
-CID_130_Athena_Commando_M_Merman
-
-Bandolier
-No shirt. No surrender.
-CID_131_Athena_Commando_M_Warpaint
-
-Flytrap
-Deviously inescapable.
-CID_132_Athena_Commando_M_Venus
-
-Ventura
-Destined for greatness.
-CID_133_Athena_Commando_F_Deco
-
-Scoundrel
-Moisty's most wanted.
-CID_134_Athena_Commando_M_Jailbird
-
-Rapscallion
-Bail out of the Battle Bus.
-CID_135_Athena_Commando_F_Jailbird
-
-Jumpshot
-Vertical victory.
-CID_136_Athena_Commando_M_StreetBasketball
-
-Triple Threat
-It's all about the fundamentals.
-CID_137_Athena_Commando_F_StreetBasketball
-
-Blue Striker
-Make victory your reality.
-CID_138_Athena_Commando_M_PSBurnout
-
-Wingman
-Flying under the radar.
-CID_139_Athena_Commando_M_FighterPilot
-
-The Visitor
-Intentions unknown.
-CID_140_Athena_Commando_M_Visitor
-
-Omen
-Your victory has been foretold.
-CID_141_Athena_Commando_M_DarkEagle
-
-Sky Stalker
-Barrel roll through the competition.
-CID_142_Athena_Commando_M_WWIIPilot
-
-Fate
-Prepare to meet your fate.
-CID_143_Athena_Commando_F_DarkNinja
-
-Super Striker
-Represent your country in style!
-CID_144_Athena_Commando_M_SoccerDudeA
-
-Midfield Maestro
-Represent your country in style!
-CID_145_Athena_Commando_M_SoccerDudeB
-
-Aerial Threat
-Represent your country in style!
-CID_146_Athena_Commando_M_SoccerDudeC
-
-Stalwart Sweeper
-Represent your country in style!
-CID_147_Athena_Commando_M_SoccerDudeD
-
-Dynamic Dribbler
-Represent your country in style!
-CID_148_Athena_Commando_F_SoccerGirlA
-
-Poised Playmaker
-Represent your country in style!
-CID_149_Athena_Commando_F_SoccerGirlB
-
-Finesse Finisher
-Represent your country in style!
-CID_150_Athena_Commando_F_SoccerGirlC
-
-Clinical Crosser
-Represent your country in style!
-CID_151_Athena_Commando_F_SoccerGirlD
-
-Criterion
-Unwavering dedication.
-CID_152_Athena_Commando_F_CarbideOrange
-
-Oblivion
-Unending vengeance.
-CID_153_Athena_Commando_F_CarbideBlack
-
-Sleuth
-This detective is on the case.
-CID_154_Athena_Commando_M_Gumshoe
-
-Gumshoe
-The kid's got gumption.
-CID_155_Athena_Commando_F_Gumshoe
-
-Fireworks Team Leader
-Life, liberty, and the bear suit of happiness.
-CID_156_Athena_Commando_F_FuzzyBearInd
-
-Star-Spangled Trooper
-Salute your stripes.
-CID_157_Athena_Commando_M_StarsAndStripes
-
-Star-Spangled Ranger
-Make 'em see stars.
-CID_158_Athena_Commando_F_StarsAndStripes
-
-Noir
-Infiltrating the seedy underbelly of Tilted Towers.
-CID_159_Athena_Commando_M_GumshoeDark
-
-Vertex
-From beyond the point of no return.
-CID_160_Athena_Commando_M_SpeedyRed
-
-Drift
-Journey into the unknown, and find your way to victory.
-CID_161_Athena_Commando_M_Drift
-
-Redline
-Revving beyond the limit.
-CID_162_Athena_Commando_F_StreetRacer
-
-Huntress
-The fearless raider from storm-tossed seas.
-CID_163_Athena_Commando_F_Viking
-
-Magnus
-Conquer The Storm.
-CID_164_Athena_Commando_M_Viking
-
-Ragnarok
-The cold harbinger of fate.
-CID_165_Athena_Commando_M_DarkViking
-
-Sun Strider
-It's all fun in the sun.
-CID_166_Athena_Commando_F_Lifeguard
-
-Sledgehammer
-Demolish the competition.
-CID_167_Athena_Commando_M_TacticalBadass
-
-Chomp Sr.
-Take a bite out of victory.
-CID_168_Athena_Commando_M_Shark
-
-Masked Fury
-Who's behind the mask?
-CID_169_Athena_Commando_M_Luchador
-
-Dynamo
-Rule the ring.
-CID_170_Athena_Commando_F_Luchador
-
-Moniker
-Make a name for yourself.
-CID_171_Athena_Commando_M_SharpDresser
-
-Fortune
-Take charge of your fortune.
-CID_172_Athena_Commando_F_SharpDresser
-
-Rook
-Promoted from desk jockey to field agent.
-CID_173_Athena_Commando_F_StarfishUniform
-
-Eon
-Timeless design.
-CID_174_Athena_Commando_F_CarbideWhite
-
-Galaxy
-Victory is written in the stars.
-CID_175_Athena_Commando_M_Celestial
-
-Sun Tan Specialist
-Don't get burned.
-CID_176_Athena_Commando_M_Lifeguard
-
-Maverick
-Just drive.
-CID_177_Athena_Commando_M_StreetRacerCobra
-
-Shade
-Stay cool.
-CID_178_Athena_Commando_F_StreetRacerCobra
-
-Reef Ranger
-Dive into the fray.
-CID_179_Athena_Commando_F_Scuba
-
-Wreck Raider
-Wrecks to riches.
-CID_180_Athena_Commando_M_Scuba
-
-Archetype
-Engineered for combat performance.
-CID_182_Athena_Commando_M_ModernMilitary
-
-Double Helix
-Spiral toward victory.
-CID_183_Athena_Commando_M_ModernMilitaryRed
-
-Grill Sergeant
-Make it sizzle.
-CID_184_Athena_Commando_M_DurrburgerWorker
-
-Beef Boss
-Victory well done.
-CID_185_Athena_Commando_M_DurrburgerHero
-
-Mullet Marauder
-Totally. Totally radical.
-CID_186_Athena_Commando_M_Exercise
-
-P.A.N.D.A Team Leader
-Victory now. Nap later.
-CID_187_Athena_Commando_F_FuzzyBearPanda
-
-Whiteout
-Break away from the pack.
-CID_188_Athena_Commando_F_StreetRacerWhite
-
-Aerobic Assassin
-Flex your victory muscles.
-CID_189_Athena_Commando_F_Exercise
-
-Overtaker
-Take over the competition.
-CID_190_Athena_Commando_M_StreetRacerWhite
-
-Sushi Master
-Roll out!
-CID_191_Athena_Commando_M_SushiChef
-
-Far Out Man
-Out of sight.
-CID_192_Athena_Commando_M_Hippie
-
-Dreamflower
-Can you dig it?
-CID_193_Athena_Commando_F_Hippie
-
-Ravage
-Circling overhead, shrouded by night...
-CID_194_Athena_Commando_F_RavenQuill
-
-The Ace
-Stack the deck.
-CID_195_Athena_Commando_F_Bling
-
-Backbone
-King of the highway.
-CID_196_Athena_Commando_M_Biker
-
-Chopper
-No one crosses Chopper and rides away.
-CID_197_Athena_Commando_F_Biker
-
-Musha
-A fearless and noble warrior.
-CID_198_Athena_Commando_M_BlueSamurai
-
-Hime
-Catlike grace under pressure.
-CID_199_Athena_Commando_F_BlueSamurai
-
-Enforcer
-Balance and order must be restored.
-CID_200_Athena_Commando_M_DarkPaintballer
-
-Armadillo
-Thick skinned and battle hardened.
-CID_201_Athena_Commando_M_DesertOps
-
-Scorpion
-Beware the stinger.
-CID_202_Athena_Commando_F_DesertOps
-
-Cloaked Star
-Cloaked in mystery.
-CID_203_Athena_Commando_M_CloakedStar
-
-Stage Slayer
-Crank it up!
-CID_204_Athena_Commando_M_GarageBand
-
-Synth Star
-Ride a new wave to victory.
-CID_205_Athena_Commando_F_GarageBand
-
-Wild Card
-Pick a card, any card.
-CID_206_Athena_Commando_M_Bling
-
-End Zone
-Deep in opposition territory.
-CID_207_Athena_Commando_M_FootballDudeA
-
-Gridiron
-Dominate the field.
-CID_208_Athena_Commando_M_FootballDudeB
-
-Spike
-Throw it on the ground.
-CID_209_Athena_Commando_M_FootballDudeC
-
-Blitz
-Catch 'em off guard.
-CID_210_Athena_Commando_F_FootballGirlA
-
-Rush
-Just keep running.
-CID_211_Athena_Commando_F_FootballGirlB
-
-Interceptor
-Take what's theirs.
-CID_212_Athena_Commando_F_FootballGirlC
-
-Whistle Warrior
-Throw a flag on the play.
-CID_214_Athena_Commando_F_FootballReferee
-
-Striped Soldier
-Call it like you see it.
-CID_215_Athena_Commando_M_FootballReferee
-
-Field Surgeon
-Scalpel!
-CID_216_Athena_Commando_F_Medic
-
-Triage Trooper
-No one is beyond saving.
-CID_217_Athena_Commando_M_Medic
-
-Garrison
-Hold down the fort.
-CID_218_Athena_Commando_M_GreenBeret
-
-Hacivat
-From lore to legend.
-CID_219_Athena_Commando_M_Hacivat
-
-Peekaboo
-I see you!
-CID_220_Athena_Commando_F_Clown
-
-Nite Nite
-Sleep tight!
-CID_221_Athena_Commando_M_Clown
-
-Valkyrie
-A chilling revelation.
-CID_222_Athena_Commando_F_DarkViking
-
-Maximilian
-Pilot your way to victory.
-CID_223_Athena_Commando_M_Dieselpunk
-
-Airheart
-Setting records flying solo.
-CID_224_Athena_Commando_F_Dieselpunk
-
-Ludwig
-Best of the wurst.
-CID_225_Athena_Commando_M_Octoberfest
-
-Heidi
-Fest with the best.
-CID_226_Athena_Commando_F_Octoberfest
-
-Dusk
-Creatures of the nite pack a dangerous bite.
-CID_227_Athena_Commando_F_Vampire
-
-Sanctum
-Bestill your beating heart.
-CID_228_Athena_Commando_M_Vampire
-
-Dark Bomber
-The future looks dark.
-CID_229_Athena_Commando_F_DarkBomber
-
-Dire
-Leader of the pack.
-CID_230_Athena_Commando_M_Werewolf
-
-Fable
-The forest isn't safe... from her.
-CID_231_Athena_Commando_F_RedRiding
-
-Nightshade
-Protector of the sauce.
-CID_232_Athena_Commando_F_HalloweenTomato
-
-DJ Yonder
-Packing a playlist for the perfect party.
-CID_233_Athena_Commando_M_FortniteDJ
-
-Giddy-up
-Yee-haw!
-CID_234_Athena_Commando_M_LlamaRider
-
-Hay Man
-Scare. Those. Crows.
-CID_235_Athena_Commando_M_Scarecrow
-
-Straw Ops
-The harvest grows near.
-CID_236_Athena_Commando_F_Scarecrow
-
-Calamity
-From ranch hand to righteous retribution.
-CID_237_Athena_Commando_F_Cowgirl
-
-Juke
-Leave them in your dust.
-CID_238_Athena_Commando_F_FootballGirlD
-
-Strong Guard
-Protect the blind side.
-CID_239_Athena_Commando_M_FootballDudeD
-
-Scourge
-Seeking the cure.
-CID_240_Athena_Commando_F_Plague
-
-Plague
-The doctor is in...
-CID_241_Athena_Commando_M_Plague
-
-Bullseye
-I never miss.
-CID_242_Athena_Commando_F_Bullseye
-
-Hollowhead
-All tricks. No treats.
-CID_243_Athena_Commando_M_PumpkinSlice
-
-Jack Gourdon
-Squash the competition.
-CID_244_Athena_Commando_M_PumpkinSuit
-
-Onesie
-Smash that snooze button.
-CID_245_Athena_Commando_F_DurrburgerPjs
-
-Skull Ranger
-She's got a bone to pick.
-CID_246_Athena_Commando_F_Grave
-
-Guan Yu
-Loyalty and bravery at all times.
-CID_247_Athena_Commando_M_GuanYu
-
-Spider Knight
-They'll fall into your web.
-CID_248_Athena_Commando_M_BlackWidow
-
-Arachne
-Weave a web to victory.
-CID_249_Athena_Commando_F_BlackWidow
-
-Deadfire
-This town ain't big enough...
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_001_Athena_Commando_F_Default
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_002_Athena_Commando_F_Default
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_003_Athena_Commando_F_Default
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_004_Athena_Commando_F_Default
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_005_Athena_Commando_M_Default
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_006_Athena_Commando_M_Default
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_007_Athena_Commando_M_Default
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_008_Athena_Commando_M_Default
+
+name: Tracker
+description: Uncommon tracker outfit.
+id: CID_009_Athena_Commando_M
+
+name: Ranger
+description: Uncommon ranger outfit.
+id: CID_010_Athena_Commando_M
+
+name: Scout
+description: Uncommon scout outfit.
+id: CID_011_Athena_Commando_M
+
+name: Trooper
+description: Uncommon trooper outfit.
+id: CID_012_Athena_Commando_M
+
+name: Renegade
+description: Uncommon renegade outfit.
+id: CID_013_Athena_Commando_F
+
+name: Pathfinder
+description: Uncommon pathfinder outfit.
+id: CID_014_Athena_Commando_F
+
+name: Assault Trooper
+description: Uncommon assault trooper outfit.
+id: CID_015_Athena_Commando_F
+
+name: Commando
+description: Uncommon commando outfit.
+id: CID_016_Athena_Commando_F
+
+name: Aerial Assault Trooper
+description: Rare aerial assault trooper outfit.
+id: CID_017_Athena_Commando_M
+
+name: Recon Scout
+description: Rare recon scout outfit.
+id: CID_018_Athena_Commando_M
+
+name: Infiltrator
+description: Rare infiltrator outfit.
+id: CID_019_Athena_Commando_M
+
+name: Special Forces
+description: Rare special forces outfit.
+id: CID_020_Athena_Commando_M
+
+name: Brawler
+description: Rare brawler outfit.
+id: CID_021_Athena_Commando_F
+
+name: Recon Expert
+description: Rare recon expert outfit.
+id: CID_022_Athena_Commando_F
+
+name: Munitions Expert
+description: Rare munitions expert outfit.
+id: CID_023_Athena_Commando_F
+
+name: Recon Specialist
+description: Rare recon specialist outfit.
+id: CID_024_Athena_Commando_F
+
+name: First strike Specialist
+description: Rare first strike specialist outfit.
+id: CID_025_Athena_Commando_M
+
+name: Desperado
+description: Rare desperado outfit.
+id: CID_026_Athena_Commando_M
+
+name: Survival Specialist
+description: Rare Survival Specialist outfit.
+id: CID_027_Athena_Commando_F
+
+name: Renegade Raider
+description: Rare renegade raider outfit.
+id: CID_028_Athena_Commando_F
+
+name: Ghoul Trooper
+description: Epic ghoul trooper outfit.
+id: CID_029_Athena_Commando_F_Halloween
+
+name: Skull Trooper
+description: Victory runs bone-deep.
+id: CID_030_Athena_Commando_M_Halloween
+
+name: Raptor
+description: Royale Air Force test pilot.
+id: CID_031_Athena_Commando_M_Retro
+
+name: Blue Squire
+description: The bold warrior of Moisty Mire.
+id: CID_032_Athena_Commando_M_Medieval
+
+name: Royale Knight
+description: The dauntless champion of Tomato Town.
+id: CID_033_Athena_Commando_F_Medieval
+
+name: Red Knight
+description: The red menace of Anarchy Acres.
+id: CID_034_Athena_Commando_F_Medieval
+
+name: Black Knight
+description: The odious scourge of Wailing Woods.
+id: CID_035_Athena_Commando_M_Medieval
+
+name: Absolute Zero
+description: Freeze out the competition.
+id: CID_036_Athena_Commando_M_WinterCamo
+
+name: Arctic Assassin
+description: Stay frosty.
+id: CID_037_Athena_Commando_F_WinterCamo
+
+name: Funk Ops
+description: Boogie on down to umbrella town.
+id: CID_038_Athena_Commando_M_Disco
+
+name: Sparkle Specialist
+description: It's time to shine!
+id: CID_039_Athena_Commando_F_Disco
+
+name: Devastator
+description: Dominate the eye of the storm.
+id: CID_040_Athena_Commando_M_District
+
+name: Dominator
+description: One step ahead of the pack.
+id: CID_041_Athena_Commando_F_District
+
+name: Circuit Breaker
+description: The deadliest keyboard cowboy in the west.
+id: CID_042_Athena_Commando_M_Cyberpunk
+
+name: Shadow Ops
+description: You didn't see a thing.
+id: CID_043_Athena_Commando_F_Stealth
+
+name: Brite Bomber
+description: The future looks bright...
+id: CID_044_Athena_Commando_F_SciPop
+
+name: Yuletide Ranger
+description: Up on the rooftop...
+id: CID_045_Athena_Commando_M_HolidaySweater
+
+name: Nog Ops
+description: Have yourself a merry little skirmish.
+id: CID_046_Athena_Commando_F_HolidaySweater
+
+name: Red-Nosed Raider
+description: It's time for some reindeer games.
+id: CID_047_Athena_Commando_F_HolidayReindeer
+
+name: Ginger Gunner
+description: Spread some holiday fear.
+id: CID_048_Athena_Commando_F_HolidayGingerbread
+
+name: Merry Marauder
+description: Sing a slaying song tonight.
+id: CID_049_Athena_Commando_M_HolidayGingerbread
+
+name: Crackshot
+description: Get out there and... crack some nuts.
+id: CID_050_Athena_Commando_M_HolidayNutcracker
+
+name: Codename E.L.F.
+description: Elusive. Lethal. Festive.
+id: CID_051_Athena_Commando_M_HolidayElf
+
+name: Blue Team Leader
+description: Lead your squad to victory.
+id: CID_052_Athena_Commando_F_PSBlue
+
+name: Alpine Ace
+description: So Aerodynamic!
+id: CID_053_Athena_Commando_M_SkiDude
+
+name: Alpine Ace (USA)
+description: So Aerodynamic!
+id: CID_054_Athena_Commando_M_SkiDude_USA
+
+name: Alpine Ace (CAN)
+description: So Aerodynamic!
+id: CID_055_Athena_Commando_M_SkiDude_CAN
+
+name: Alpine Ace (GBR)
+description: So Aerodynamic!
+id: CID_056_Athena_Commando_M_SkiDude_GBR
+
+name: Alpine Ace (FRA)
+description: So Aerodynamic!
+id: CID_057_Athena_Commando_M_SkiDude_FRA
+
+name: Alpine Ace (GER)
+description: So Aerodynamic!
+id: CID_058_Athena_Commando_M_SkiDude_GER
+
+name: Alpine Ace (CHN)
+description: So Aerodynamic!
+id: CID_059_Athena_Commando_M_SkiDude_CHN
+
+name: Alpine Ace (KOR)
+description: So Aerodynamic!
+id: CID_060_Athena_Commando_M_SkiDude_KOR
+
+name: Mogul Master
+description: Carve through the competition.
+id: CID_061_Athena_Commando_F_SkiGirl
+
+name: Mogul Master (USA)
+description: Carve through the competition.
+id: CID_062_Athena_Commando_F_SkiGirl_USA
+
+name: Mogul Master (CAN)
+description: Carve through the competition.
+id: CID_063_Athena_Commando_F_SkiGirl_CAN
+
+name: Mogul Master (GBR)
+description: Carve through the competition.
+id: CID_064_Athena_Commando_F_SkiGirl_GBR
+
+name: Mogul Master (FRA)
+description: Carve through the competition.
+id: CID_065_Athena_Commando_F_SkiGirl_FRA
+
+name: Mogul Master (GER)
+description: Carve through the competition.
+id: CID_066_Athena_Commando_F_SkiGirl_GER
+
+name: Mogul Master (CHN)
+description: Carve through the competition.
+id: CID_067_Athena_Commando_F_SkiGirl_CHN
+
+name: Mogul Master (KOR)
+description: Carve through the competition.
+id: CID_068_Athena_Commando_F_SkiGirl_KOR
+
+name: Cuddle Team Leader
+description: Hug it out.
+id: CID_069_Athena_Commando_F_PinkBear
+
+name: Love Ranger
+description: Aim for the heart.
+id: CID_070_Athena_Commando_M_Cupid
+
+name: Wukong
+description: Long live the king!
+id: CID_071_Athena_Commando_M_Wukong
+
+name: Sash Sergeant
+description: Set up camp and start a firefight.
+id: CID_072_Athena_Commando_M_Scout
+
+name: Snorkel Ops
+description: Diving head first into the fight.
+id: CID_073_Athena_Commando_F_Scuba
+
+name: Jungle Scout
+description: Blaze a trail to victory.
+id: CID_074_Athena_Commando_F_Stripe
+
+name: Tactics Officer
+description: Ready for action.
+id: CID_075_Athena_Commando_F_Stripe
+
+name: Dazzle
+description: The dominator of Dusty Depot.
+id: CID_076_Athena_Commando_F_Sup
+
+name: Hyperion
+description: The gladiator of Greasy Grove.
+id: CID_077_Athena_Commando_M_Sup
+
+name: Highrise Assault Trooper
+description: Rise to the top.
+id: CID_078_Athena_Commando_M_Camo
+
+name: Tower Recon Specialist
+description: Master of the mean streets.
+id: CID_079_Athena_Commando_F_Camo
+
+name: Mission Specialist
+description: All systems go.
+id: CID_080_Athena_Commando_M_Space
+
+name: Moonwalker
+description: Boldly going for victory.
+id: CID_081_Athena_Commando_F_Space
+
+name: Rust Lord
+description: King of the scrap heap.
+id: CID_082_Athena_Commando_M_Scavenger
+
+name: Elite Agent
+description: Failure is not an option.
+id: CID_083_Athena_Commando_F_Tactical
+
+name: The Reaper
+description: Vengeance for hire.
+id: CID_084_Athena_Commando_M_Assassin
+
+name: Sub Commander
+description: Show 'em how it's done.
+id: CID_085_Athena_Commando_M_Twitch
+
+name: Crimson Scout
+description: A dashing and deadly scout.
+id: CID_086_Athena_Commando_M_RedSilk
+
+name: Scarlet Defender
+description: Poised for victory.
+id: CID_087_Athena_Commando_F_RedSilk
+
+name: Dark Voyager
+description: From the vast darkness of deep space.
+id: CID_088_Athena_Commando_M_SpaceBlack
+
+name: Havoc
+description: Striking fear into the opposition.
+id: CID_089_Athena_Commando_M_RetroGrey
+
+name: Rogue Agent
+description: Agent status: Unknown
+id: CID_090_Athena_Commando_M_Tactical
+
+name: Radiant Striker
+description: Strike first.
+id: CID_091_Athena_Commando_M_RedShirt
+
+name: Brilliant Striker
+description: Strike true.
+id: CID_092_Athena_Commando_F_RedShirt
+
+name: Rex
+description: Hunting the competition to extinction.
+id: CID_093_Athena_Commando_M_Dinosaur
+
+name: Burnout
+description: All roads lead to victory.
+id: CID_094_Athena_Commando_M_Rider
+
+name: Warpaint
+description: Dress for the job you want.
+id: CID_095_Athena_Commando_M_Founder
+
+name: Rose Team Leader
+description: Stop and smell the victory.
+id: CID_096_Athena_Commando_F_Founder
+
+name: Power Chord
+description: Bring on the noise complaints.
+id: CID_097_Athena_Commando_F_RockerPunk
+
+name: Sgt. Green Clover
+description: Good luck out there!
+id: CID_098_Athena_Commando_F_StPatty
+
+name: Highland Warrior
+description: The shadow of Ulster.
+id: CID_099_Athena_Commando_F_Scathach
+
+name: Battle Hound
+description: Release the hound!
+id: CID_100_Athena_Commando_M_CuChulainn
+
+name: Midnight Ops
+description: Strike by night.
+id: CID_101_Athena_Commando_M_Stealth
+
+name: Raven
+description: Brooding master of dark skies.
+id: CID_102_Athena_Commando_M_Raven
+
+name: Rabbit Raider
+description: Scary cute.
+id: CID_103_Athena_Commando_M_Bunny
+
+name: Bunny Brawler
+description: Hop into action.
+id: CID_104_Athena_Commando_F_Bunny
+
+name: Dark Vanguard
+description: Exploring the outer limits.
+id: CID_105_Athena_Commando_F_SpaceBlack
+
+name: Whiplash
+description: Brake for no one.
+id: CID_106_Athena_Commando_F_Taxi
+
+name: Tricera Ops
+description: Sink your teeth into victory.
+id: CID_107_Athena_Commando_F_PajamaParty
+
+name: Leviathan
+description: Call me fishman.
+id: CID_108_Athena_Commando_M_Fishhead
+
+name: Tomatohead
+description: Extra saucy.
+id: CID_109_Athena_Commando_M_Pizza
+
+name: Cipher
+description: Decoding the opposition's weakness.
+id: CID_110_Athena_Commando_F_CircuitBreaker
+
+name: Steelsight
+description: Victory demands nerves of steel.
+id: CID_111_Athena_Commando_F_Robo
+
+name: Brite Gunner
+description: Look on the bright side.
+id: CID_112_Athena_Commando_M_Brite
+
+name: Royale Bomber
+description: Searching for a target-rich environment.
+id: CID_113_Athena_Commando_M_BlueAce
+
+name: Trailblazer
+description: On the forefront of victory.
+id: CID_114_Athena_Commando_F_TacticalWoodland
+
+name: Carbide
+description: Heed the call to action.
+id: CID_115_Athena_Commando_M_CarbideBlue
+
+name: Omega
+description: There can be only one.
+id: CID_116_Athena_Commando_M_CarbideBlack
+
+name: Squad Leader
+description: First in, last out.
+id: CID_117_Athena_Commando_M_TacticalJungle
+
+name: Valor
+description: A beacon for hope.
+id: CID_118_Athena_Commando_F_Valor
+
+name: Zoey
+description: Candy-coated chaos.
+id: CID_119_Athena_Commando_F_Candy
+
+name: Teknique
+description: Spray up a storm.
+id: CID_120_Athena_Commando_F_Graffiti
+
+name: Abstrakt
+description: The writing's on the wall.
+id: CID_121_Athena_Commando_M_Graffiti
+
+name: Diecast
+description: The die has been cast.
+id: CID_122_Athena_Commando_M_Metal
+
+name: Chromium
+description: Solid to the core.
+id: CID_123_Athena_Commando_F_Metal
+
+name: Nitelite
+description: Never afraid of the dark.
+id: CID_124_Athena_Commando_F_AuroraGlow
+
+name: Battlehawk
+description: Swoop in and claim victory.
+id: CID_125_Athena_Commando_M_TacticalWoodland
+
+name: Liteshow
+description: Light it up!
+id: CID_126_Athena_Commando_M_AuroraGlow
+
+name: Toxic Trooper
+description: Dominate the hot zone.
+id: CID_127_Athena_Commando_M_Hazmat
+
+name: Hazard Agent
+description: Warning: Hazardous!
+id: CID_128_Athena_Commando_F_Hazmat
+
+name: Venturion
+description: Adventure awaits!
+id: CID_129_Athena_Commando_M_Deco
+
+name: Moisty Merman
+description: From the moisty depths of... the backlot of Studio B.
+id: CID_130_Athena_Commando_M_Merman
+
+name: Bandolier
+description: No shirt. No surrender.
+id: CID_131_Athena_Commando_M_Warpaint
+
+name: Flytrap
+description: Deviously inescapable.
+id: CID_132_Athena_Commando_M_Venus
+
+name: Ventura
+description: Destined for greatness.
+id: CID_133_Athena_Commando_F_Deco
+
+name: Scoundrel
+description: Moisty's most wanted.
+id: CID_134_Athena_Commando_M_Jailbird
+
+name: Rapscallion
+description: Bail out of the Battle Bus.
+id: CID_135_Athena_Commando_F_Jailbird
+
+name: Jumpshot
+description: Vertical victory.
+id: CID_136_Athena_Commando_M_StreetBasketball
+
+name: Triple Threat
+description: It's all about the fundamentals.
+id: CID_137_Athena_Commando_F_StreetBasketball
+
+name: Blue Striker
+description: Make victory your reality.
+id: CID_138_Athena_Commando_M_PSBurnout
+
+name: Wingman
+description: Flying under the radar.
+id: CID_139_Athena_Commando_M_FighterPilot
+
+name: The Visitor
+description: Intentions unknown.
+id: CID_140_Athena_Commando_M_Visitor
+
+name: Omen
+description: Your victory has been foretold.
+id: CID_141_Athena_Commando_M_DarkEagle
+
+name: Sky Stalker
+description: Barrel roll through the competition.
+id: CID_142_Athena_Commando_M_WWIIPilot
+
+name: Fate
+description: Prepare to meet your fate.
+id: CID_143_Athena_Commando_F_DarkNinja
+
+name: Super Striker
+description: Represent your country in style!
+id: CID_144_Athena_Commando_M_SoccerDudeA
+
+name: Midfield Maestro
+description: Represent your country in style!
+id: CID_145_Athena_Commando_M_SoccerDudeB
+
+name: Aerial Threat
+description: Represent your country in style!
+id: CID_146_Athena_Commando_M_SoccerDudeC
+
+name: Stalwart Sweeper
+description: Represent your country in style!
+id: CID_147_Athena_Commando_M_SoccerDudeD
+
+name: Dynamic Dribbler
+description: Represent your country in style!
+id: CID_148_Athena_Commando_F_SoccerGirlA
+
+name: Poised Playmaker
+description: Represent your country in style!
+id: CID_149_Athena_Commando_F_SoccerGirlB
+
+name: Finesse Finisher
+description: Represent your country in style!
+id: CID_150_Athena_Commando_F_SoccerGirlC
+
+name: Clinical Crosser
+description: Represent your country in style!
+id: CID_151_Athena_Commando_F_SoccerGirlD
+
+name: Criterion
+description: Unwavering dedication.
+id: CID_152_Athena_Commando_F_CarbideOrange
+
+name: Oblivion
+description: Unending vengeance.
+id: CID_153_Athena_Commando_F_CarbideBlack
+
+name: Sleuth
+description: This detective is on the case.
+id: CID_154_Athena_Commando_M_Gumshoe
+
+name: Gumshoe
+description: The kid's got gumption.
+id: CID_155_Athena_Commando_F_Gumshoe
+
+name: Fireworks Team Leader
+description: Life, liberty, and the bear suit of happiness.
+id: CID_156_Athena_Commando_F_FuzzyBearInd
+
+name: Star-Spangled Trooper
+description: Salute your stripes.
+id: CID_157_Athena_Commando_M_StarsAndStripes
+
+name: Star-Spangled Ranger
+description: Make 'em see stars.
+id: CID_158_Athena_Commando_F_StarsAndStripes
+
+name: Noir
+description: Infiltrating the seedy underbelly of Tilted Towers.
+id: CID_159_Athena_Commando_M_GumshoeDark
+
+name: Vertex
+description: From beyond the point of no return.
+id: CID_160_Athena_Commando_M_SpeedyRed
+
+name: Drift
+description: Journey into the unknown, and find your way to victory.
+id: CID_161_Athena_Commando_M_Drift
+
+name: Redline
+description: Revving beyond the limit.
+id: CID_162_Athena_Commando_F_StreetRacer
+
+name: Huntress
+description: The fearless raider from storm-tossed seas.
+id: CID_163_Athena_Commando_F_Viking
+
+name: Magnus
+description: Conquer The Storm.
+id: CID_164_Athena_Commando_M_Viking
+
+name: Ragnarok
+description: The cold harbinger of fate.
+id: CID_165_Athena_Commando_M_DarkViking
+
+name: Sun Strider
+description: It's all fun in the sun.
+id: CID_166_Athena_Commando_F_Lifeguard
+
+name: Sledgehammer
+description: Demolish the competition.
+id: CID_167_Athena_Commando_M_TacticalBadass
+
+name: Chomp Sr.
+description: Take a bite out of victory.
+id: CID_168_Athena_Commando_M_Shark
+
+name: Masked Fury
+description: Who's behind the mask?
+id: CID_169_Athena_Commando_M_Luchador
+
+name: Dynamo
+description: Rule the ring.
+id: CID_170_Athena_Commando_F_Luchador
+
+name: Moniker
+description: Make a name for yourself.
+id: CID_171_Athena_Commando_M_SharpDresser
+
+name: Fortune
+description: Take charge of your fortune.
+id: CID_172_Athena_Commando_F_SharpDresser
+
+name: Rook
+description: Promoted from desk jockey to field agent.
+id: CID_173_Athena_Commando_F_StarfishUniform
+
+name: Eon
+description: Timeless design.
+id: CID_174_Athena_Commando_F_CarbideWhite
+
+name: Galaxy
+description: Victory is written in the stars.
+id: CID_175_Athena_Commando_M_Celestial
+
+name: Sun Tan Specialist
+description: Don't get burned.
+id: CID_176_Athena_Commando_M_Lifeguard
+
+name: Maverick
+description: Just drive.
+id: CID_177_Athena_Commando_M_StreetRacerCobra
+
+name: Shade
+description: Stay cool.
+id: CID_178_Athena_Commando_F_StreetRacerCobra
+
+name: Reef Ranger
+description: Dive into the fray.
+id: CID_179_Athena_Commando_F_Scuba
+
+name: Wreck Raider
+description: Wrecks to riches.
+id: CID_180_Athena_Commando_M_Scuba
+
+name: Archetype
+description: Engineered for combat performance.
+id: CID_182_Athena_Commando_M_ModernMilitary
+
+name: Double Helix
+description: Spiral toward victory.
+id: CID_183_Athena_Commando_M_ModernMilitaryRed
+
+name: Grill Sergeant
+description: Make it sizzle.
+id: CID_184_Athena_Commando_M_DurrburgerWorker
+
+name: Beef Boss
+description: Victory well done.
+id: CID_185_Athena_Commando_M_DurrburgerHero
+
+name: Mullet Marauder
+description: Totally. Totally radical.
+id: CID_186_Athena_Commando_M_Exercise
+
+name: P.A.N.D.A Team Leader
+description: Victory now. Nap later.
+id: CID_187_Athena_Commando_F_FuzzyBearPanda
+
+name: Whiteout
+description: Break away from the pack.
+id: CID_188_Athena_Commando_F_StreetRacerWhite
+
+name: Aerobic Assassin
+description: Flex your victory muscles.
+id: CID_189_Athena_Commando_F_Exercise
+
+name: Overtaker
+description: Take over the competition.
+id: CID_190_Athena_Commando_M_StreetRacerWhite
+
+name: Sushi Master
+description: Roll out!
+id: CID_191_Athena_Commando_M_SushiChef
+
+name: Far Out Man
+description: Out of sight.
+id: CID_192_Athena_Commando_M_Hippie
+
+name: Dreamflower
+description: Can you dig it?
+id: CID_193_Athena_Commando_F_Hippie
+
+name: Ravage
+description: Circling overhead, shrouded by night...
+id: CID_194_Athena_Commando_F_RavenQuill
+
+name: The Ace
+description: Stack the deck.
+id: CID_195_Athena_Commando_F_Bling
+
+name: Backbone
+description: King of the highway.
+id: CID_196_Athena_Commando_M_Biker
+
+name: Chopper
+description: No one crosses Chopper and rides away.
+id: CID_197_Athena_Commando_F_Biker
+
+name: Musha
+description: A fearless and noble warrior.
+id: CID_198_Athena_Commando_M_BlueSamurai
+
+name: Hime
+description: Catlike grace under pressure.
+id: CID_199_Athena_Commando_F_BlueSamurai
+
+name: Enforcer
+description: Balance and order must be restored.
+id: CID_200_Athena_Commando_M_DarkPaintballer
+
+name: Armadillo
+description: Thick skinned and battle hardened.
+id: CID_201_Athena_Commando_M_DesertOps
+
+name: Scorpion
+description: Beware the stinger.
+id: CID_202_Athena_Commando_F_DesertOps
+
+name: Cloaked Star
+description: Cloaked in mystery.
+id: CID_203_Athena_Commando_M_CloakedStar
+
+name: Stage Slayer
+description: Crank it up!
+id: CID_204_Athena_Commando_M_GarageBand
+
+name: Synth Star
+description: Ride a new wave to victory.
+id: CID_205_Athena_Commando_F_GarageBand
+
+name: Wild Card
+description: Pick a card, any card.
+id: CID_206_Athena_Commando_M_Bling
+
+name: End Zone
+description: Deep in opposition territory.
+id: CID_207_Athena_Commando_M_FootballDudeA
+
+name: Gridiron
+description: Dominate the field.
+id: CID_208_Athena_Commando_M_FootballDudeB
+
+name: Spike
+description: Throw it on the ground.
+id: CID_209_Athena_Commando_M_FootballDudeC
+
+name: Blitz
+description: Catch 'em off guard.
+id: CID_210_Athena_Commando_F_FootballGirlA
+
+name: Rush
+description: Just keep running.
+id: CID_211_Athena_Commando_F_FootballGirlB
+
+name: Interceptor
+description: Take what's theirs.
+id: CID_212_Athena_Commando_F_FootballGirlC
+
+name: Whistle Warrior
+description: Throw a flag on the play.
+id: CID_214_Athena_Commando_F_FootballReferee
+
+name: Striped Soldier
+description: Call it like you see it.
+id: CID_215_Athena_Commando_M_FootballReferee
+
+name: Field Surgeon
+description: Scalpel!
+id: CID_216_Athena_Commando_F_Medic
+
+name: Triage Trooper
+description: No one is beyond saving.
+id: CID_217_Athena_Commando_M_Medic
+
+name: Garrison
+description: Hold down the fort.
+id: CID_218_Athena_Commando_M_GreenBeret
+
+name: Hacivat
+description: From lore to legend.
+id: CID_219_Athena_Commando_M_Hacivat
+
+name: Peekaboo
+description: I see you!
+id: CID_220_Athena_Commando_F_Clown
+
+name: Nite Nite
+description: Sleep tight!
+id: CID_221_Athena_Commando_M_Clown
+
+name: Valkyrie
+description: A chilling revelation.
+id: CID_222_Athena_Commando_F_DarkViking
+
+name: Maximilian
+description: Pilot your way to victory.
+id: CID_223_Athena_Commando_M_Dieselpunk
+
+name: Airheart
+description: Setting records flying solo.
+id: CID_224_Athena_Commando_F_Dieselpunk
+
+name: Ludwig
+description: Best of the wurst.
+id: CID_225_Athena_Commando_M_Octoberfest
+
+name: Heidi
+description: Fest with the best.
+id: CID_226_Athena_Commando_F_Octoberfest
+
+name: Dusk
+description: Creatures of the nite pack a dangerous bite.
+id: CID_227_Athena_Commando_F_Vampire
+
+name: Sanctum
+description: Bestill your beating heart.
+id: CID_228_Athena_Commando_M_Vampire
+
+name: Dark Bomber
+description: The future looks dark.
+id: CID_229_Athena_Commando_F_DarkBomber
+
+name: Dire
+description: Leader of the pack.
+id: CID_230_Athena_Commando_M_Werewolf
+
+name: Fable
+description: The forest isn't safe... from her.
+id: CID_231_Athena_Commando_F_RedRiding
+
+name: Nightshade
+description: Protector of the sauce.
+id: CID_232_Athena_Commando_F_HalloweenTomato
+
+name: DJ Yonder
+description: Packing a playlist for the perfect party.
+id: CID_233_Athena_Commando_M_FortniteDJ
+
+name: Giddy-up
+description: Yee-haw!
+id: CID_234_Athena_Commando_M_LlamaRider
+
+name: Hay Man
+description: Scare. Those. Crows.
+id: CID_235_Athena_Commando_M_Scarecrow
+
+name: Straw Ops
+description: The harvest grows near.
+id: CID_236_Athena_Commando_F_Scarecrow
+
+name: Calamity
+description: From ranch hand to righteous retribution.
+id: CID_237_Athena_Commando_F_Cowgirl
+
+name: Juke
+description: Leave them in your dust.
+id: CID_238_Athena_Commando_F_FootballGirlD
+
+name: Strong Guard
+description: Protect the blind side.
+id: CID_239_Athena_Commando_M_FootballDudeD
+
+name: Scourge
+description: Seeking the cure.
+id: CID_240_Athena_Commando_F_Plague
+
+name: Plague
+description: The doctor is in...
+id: CID_241_Athena_Commando_M_Plague
+
+name: Bullseye
+description: I never miss.
+id: CID_242_Athena_Commando_F_Bullseye
+
+name: Hollowhead
+description: All tricks. No treats.
+id: CID_243_Athena_Commando_M_PumpkinSlice
+
+name: Jack Gourdon
+description: Squash the competition.
+id: CID_244_Athena_Commando_M_PumpkinSuit
+
+name: Onesie
+description: Smash that snooze button.
+id: CID_245_Athena_Commando_F_DurrburgerPjs
+
+name: Skull Ranger
+description: She's got a bone to pick.
+id: CID_246_Athena_Commando_F_Grave
+
+name: Guan Yu
+description: Loyalty and bravery at all times.
+id: CID_247_Athena_Commando_M_GuanYu
+
+name: Spider Knight
+description: They'll fall into your web.
+id: CID_248_Athena_Commando_M_BlackWidow
+
+name: Arachne
+description: Weave a web to victory.
+id: CID_249_Athena_Commando_F_BlackWidow
+
+name: Deadfire
+description: This town ain't big enough...
 Reactive: Transforms by dealing damage, or by outliving other players.
-CID_250_Athena_Commando_M_EvilCowboy
+id: CID_250_Athena_Commando_M_EvilCowboy
 
-Rosa
-Celebrate the unknown.
+name: Rosa
+description: Celebrate the unknown.
 Reactive: Glows in the dark
-CID_251_Athena_Commando_F_Muertos
+id: CID_251_Athena_Commando_F_Muertos
 
-Dante
-Back for more.
+name: Dante
+description: Back for more.
 Reactive: Glows in the dark
-CID_252_Athena_Commando_M_Muertos
-
-Summit Striker
-Always first to the top.
-CID_253_Athena_Commando_M_MilitaryFashion2
-
-Brainiac
-Victory takes braaaains.
-CID_254_Athena_Commando_M_Zombie
-
-Bunnymoon
-Who are you supposed to be again?
-CID_255_Athena_Commando_F_HalloweenBunny
-
-Patch Patroller
-Self-appointed Grand Guardian of the Gourd.
-CID_256_Athena_Commando_M_Pumpkin
-
-Shogun
-Suited for the ultimate showdown.
-CID_257_Athena_Commando_M_SamuraiUltra
-
-Spooky Team Leader
-Find delight in fright.
-CID_258_Athena_Commando_F_FuzzyBearHalloween
-
-Reflex
-Quick to react, first to retaliate.
-CID_259_Athena_Commando_M_StreetOps
-
-Instinct
-Victory comes naturally.
-CID_260_Athena_Commando_F_StreetOps
-
-Frostbite
-Brave the cold.
-CID_261_Athena_Commando_M_RaptorArcticCamo
-
-Ruckus
-Bring the bedlam.
-CID_262_Athena_Commando_M_MadCommander
-
-Mayhem
-Embrace the destruction.
-CID_263_Athena_Commando_F_MadCommander
-
-Growler
-This good boy is not afraid to bare his teeth.
-CID_264_Athena_Commando_M_AnimalJackets
-
-Flapjackie
-Loves pancakes almost as much as victory.
-CID_265_Athena_Commando_F_AnimalJackets
-
-Yee-Haw!
-Giddy-up!
-CID_266_Athena_Commando_F_LlamaRider
-
-A.I.M.
-Scanning area for targets...
-CID_267_Athena_Commando_M_RobotRed
-
-Riot
-Defining the pre-post-punk-post-hardcore scene.
-CID_268_Athena_Commando_M_RockerPunk
-
-Castor
-The wandering warlock of Wailing Woods.
-CID_269_Athena_Commando_M_Wizard
-
-Elmira
-She'll literally charm you.
-CID_270_Athena_Commando_F_Witch
-
-Maki Master
-Roll up your sleeves and get to work.
-CID_271_Athena_Commando_F_SushiChef
-
-Taro
-Protector of the wilds.
-CID_272_Athena_Commando_M_HornedMask
-
-Nara
-Messenger of the spirits.
-CID_273_Athena_Commando_F_HornedMask
-
-Tender Defender
-Protect your nuggets.
-CID_274_Athena_Commando_M_Feathers
-
-Longshot
-No target is out of range.
-CID_275_Athena_Commando_M_SniperHood
-
-Insight
-Target in sight.
-CID_276_Athena_Commando_F_SniperHood
-
-Mothmando
-Out of the shadows, and into the light.
-CID_277_Athena_Commando_M_Moth
-
-Trog
-Trog fight good!
-CID_278_Athena_Commando_M_Yeti
-
-Sgt. Winter
-You don't want to be on his list.
-CID_279_Athena_Commando_M_TacticalSanta
-
-Slushy Soldier
-Make every day a snow day.
-CID_280_Athena_Commando_M_Snowman
-
-Powder
-Catch the air and kiss the sky.
-CID_281_Athena_Commando_F_SnowBoard
-
-Lynx
-Who needs nine lives when one is enough?
-CID_286_Athena_Commando_F_NeonCat
-
-Zenith
-Peak performance at any elevation.
-CID_287_Athena_Commando_M_ArcticSniper
-
-The Ice King
-All hail the ruler of ice and snow.
-CID_288_Athena_Commando_M_IceKing
-
-Waypoint
-Make your move.
-CID_290_Athena_Commando_F_BlueBadass
-
-Cloudbreaker
-Turbulent by nature.
-CID_291_Athena_Commando_M_Dieselpunk02
-
-Wingtip
-Flying on the edge.
-CID_292_Athena_Commando_F_Dieselpunk02
-
-Frozen Raven
-Brooding master of frozen feathers.
-CID_293_Athena_Commando_M_RavenWinter
-
-Frozen Red Knight
-Frozen menace of icy tundra.
-CID_294_Athena_Commando_F_RedKnightWinter
-
-Frozen Love Ranger
-Aim for the cold-hearted.
-CID_295_Athena_Commando_M_CupidWinter
-
-Prodigy
-Never afraid to divide by zero.
-CID_296_Athena_Commando_M_Math
-
-Maven
-Victory is the common denominator.
-CID_297_Athena_Commando_F_Math
-
-Glimmer
-Elegantly reclaiming winter's crown.
-CID_298_Athena_Commando_F_IceMaiden
-
-Snowfoot
-Tread lightly, and never leave a trace.
-CID_299_Athena_Commando_M_SnowNinja
-
-Ark
-Upholding the principles of righteous victory.
-CID_300_Athena_Commando_F_Angel
-
-Beastmode
-Gassed up and ready to roar.
-CID_301_Athena_Commando_M_Rhino
-
-Crackabella
-She's a hard nut to crack.
-CID_302_Athena_Commando_F_Nutcracker
-
-Sugarplum
-As sugary sweet as winter berries.
-CID_303_Athena_Commando_F_SnowFairy
-
-Grimbles
-This garden gnome is at home on the roam in a snowy biome.
-CID_304_Athena_Commando_M_Gnome
-
-DJ Bop
-Lose yourself in the beat.
-CID_308_Athena_Commando_F_FortniteDJ
+id: CID_252_Athena_Commando_M_Muertos
+
+name: Summit Striker
+description: Always first to the top.
+id: CID_253_Athena_Commando_M_MilitaryFashion2
+
+name: Brainiac
+description: Victory takes braaaains.
+id: CID_254_Athena_Commando_M_Zombie
+
+name: Bunnymoon
+description: Who are you supposed to be again?
+id: CID_255_Athena_Commando_F_HalloweenBunny
+
+name: Patch Patroller
+description: Self-appointed Grand Guardian of the Gourd.
+id: CID_256_Athena_Commando_M_Pumpkin
+
+name: Shogun
+description: Suited for the ultimate showdown.
+id: CID_257_Athena_Commando_M_SamuraiUltra
+
+name: Spooky Team Leader
+description: Find delight in fright.
+id: CID_258_Athena_Commando_F_FuzzyBearHalloween
+
+name: Reflex
+description: Quick to react, first to retaliate.
+id: CID_259_Athena_Commando_M_StreetOps
+
+name: Instinct
+description: Victory comes naturally.
+id: CID_260_Athena_Commando_F_StreetOps
+
+name: Frostbite
+description: Brave the cold.
+id: CID_261_Athena_Commando_M_RaptorArcticCamo
+
+name: Ruckus
+description: Bring the bedlam.
+id: CID_262_Athena_Commando_M_MadCommander
+
+name: Mayhem
+description: Embrace the destruction.
+id: CID_263_Athena_Commando_F_MadCommander
+
+name: Growler
+description: This good boy is not afraid to bare his teeth.
+id: CID_264_Athena_Commando_M_AnimalJackets
+
+name: Flapjackie
+description: Loves pancakes almost as much as victory.
+id: CID_265_Athena_Commando_F_AnimalJackets
+
+name: Yee-Haw!
+description: Giddy-up!
+id: CID_266_Athena_Commando_F_LlamaRider
+
+name: A.I.M.
+description: Scanning area for targets...
+id: CID_267_Athena_Commando_M_RobotRed
+
+name: Riot
+description: Defining the pre-post-punk-post-hardcore scene.
+id: CID_268_Athena_Commando_M_RockerPunk
+
+name: Castor
+description: The wandering warlock of Wailing Woods.
+id: CID_269_Athena_Commando_M_Wizard
+
+name: Elmira
+description: She'll literally charm you.
+id: CID_270_Athena_Commando_F_Witch
+
+name: Maki Master
+description: Roll up your sleeves and get to work.
+id: CID_271_Athena_Commando_F_SushiChef
+
+name: Taro
+description: Protector of the wilds.
+id: CID_272_Athena_Commando_M_HornedMask
+
+name: Nara
+description: Messenger of the spirits.
+id: CID_273_Athena_Commando_F_HornedMask
+
+name: Tender Defender
+description: Protect your nuggets.
+id: CID_274_Athena_Commando_M_Feathers
+
+name: Longshot
+description: No target is out of range.
+id: CID_275_Athena_Commando_M_SniperHood
+
+name: Insight
+description: Target in sight.
+id: CID_276_Athena_Commando_F_SniperHood
+
+name: Mothmando
+description: Out of the shadows, and into the light.
+id: CID_277_Athena_Commando_M_Moth
+
+name: Trog
+description: Trog fight good!
+id: CID_278_Athena_Commando_M_Yeti
+
+name: Sgt. Winter
+description: You don't want to be on his list.
+id: CID_279_Athena_Commando_M_TacticalSanta
+
+name: Slushy Soldier
+description: Make every day a snow day.
+id: CID_280_Athena_Commando_M_Snowman
+
+name: Powder
+description: Catch the air and kiss the sky.
+id: CID_281_Athena_Commando_F_SnowBoard
+
+name: Lynx
+description: Who needs nine lives when one is enough?
+id: CID_286_Athena_Commando_F_NeonCat
+
+name: Zenith
+description: Peak performance at any elevation.
+id: CID_287_Athena_Commando_M_ArcticSniper
+
+name: The Ice King
+description: All hail the ruler of ice and snow.
+id: CID_288_Athena_Commando_M_IceKing
+
+name: Waypoint
+description: Make your move.
+id: CID_290_Athena_Commando_F_BlueBadass
+
+name: Cloudbreaker
+description: Turbulent by nature.
+id: CID_291_Athena_Commando_M_Dieselpunk02
+
+name: Wingtip
+description: Flying on the edge.
+id: CID_292_Athena_Commando_F_Dieselpunk02
+
+name: Frozen Raven
+description: Brooding master of frozen feathers.
+id: CID_293_Athena_Commando_M_RavenWinter
+
+name: Frozen Red Knight
+description: Frozen menace of icy tundra.
+id: CID_294_Athena_Commando_F_RedKnightWinter
+
+name: Frozen Love Ranger
+description: Aim for the cold-hearted.
+id: CID_295_Athena_Commando_M_CupidWinter
+
+name: Prodigy
+description: Never afraid to divide by zero.
+id: CID_296_Athena_Commando_M_Math
+
+name: Maven
+description: Victory is the common denominator.
+id: CID_297_Athena_Commando_F_Math
+
+name: Glimmer
+description: Elegantly reclaiming winter's crown.
+id: CID_298_Athena_Commando_F_IceMaiden
+
+name: Snowfoot
+description: Tread lightly, and never leave a trace.
+id: CID_299_Athena_Commando_M_SnowNinja
+
+name: Ark
+description: Upholding the principles of righteous victory.
+id: CID_300_Athena_Commando_F_Angel
+
+name: Beastmode
+description: Gassed up and ready to roar.
+id: CID_301_Athena_Commando_M_Rhino
+
+name: Crackabella
+description: She's a hard nut to crack.
+id: CID_302_Athena_Commando_F_Nutcracker
+
+name: Sugarplum
+description: As sugary sweet as winter berries.
+id: CID_303_Athena_Commando_F_SnowFairy
+
+name: Grimbles
+description: This garden gnome is at home on the roam in a snowy biome.
+id: CID_304_Athena_Commando_M_Gnome
+
+name: DJ Bop
+description: Lose yourself in the beat.
+id: CID_308_Athena_Commando_F_FortniteDJ
 
-Paradox
-Strike the impossible balance.
-CID_309_Athena_Commando_M_StreetGoth
+name: Paradox
+description: Strike the impossible balance.
+id: CID_309_Athena_Commando_M_StreetGoth
 
-Lace
-Lives for the thrill of the frill.
-CID_310_Athena_Commando_F_StreetGoth
+name: Lace
+description: Lives for the thrill of the frill.
+id: CID_310_Athena_Commando_F_StreetGoth
 
-Red-nosed Ranger
-Known for his antler antics.
-CID_311_Athena_Commando_M_Reindeer
+name: Red-nosed Ranger
+description: Known for his antler antics.
+id: CID_311_Athena_Commando_M_Reindeer
 
-Disco Diva
-Make way for the queen of the dance floor.
-CID_312_Athena_Commando_F_FunkOps
+name: Disco Diva
+description: Make way for the queen of the dance floor.
+id: CID_312_Athena_Commando_F_FunkOps
 
-IKONIK
-Define the moment.
-CID_313_Athena_Commando_M_KpopFashion
+name: IKONIK
+description: Define the moment.
+id: CID_313_Athena_Commando_M_KpopFashion
 
-Krampus
-Here comes anti-claus...
-CID_314_Athena_Commando_M_Krampus
+name: Krampus
+description: Here comes anti-claus...
+id: CID_314_Athena_Commando_M_Krampus
 
-Fishstick
-Keep far away from Maki Master.
-CID_315_Athena_Commando_M_TeriyakiFish
+name: Fishstick
+description: Keep far away from Maki Master.
+id: CID_315_Athena_Commando_M_TeriyakiFish
 
-Tinseltoes
-Keep the competition on their toes.
-CID_316_Athena_Commando_F_WinterHoliday
+name: Tinseltoes
+description: Keep the competition on their toes.
+id: CID_316_Athena_Commando_F_WinterHoliday
 
-Cloaked Shadow
-Cast an ominous shadow.
-CID_317_Athena_Commando_M_WinterGhoul
+name: Cloaked Shadow
+description: Cast an ominous shadow.
+id: CID_317_Athena_Commando_M_WinterGhoul
 
-Malcore
-Malevolent to the core.
-CID_318_Athena_Commando_M_Demon
+name: Malcore
+description: Malevolent to the core.
+id: CID_318_Athena_Commando_M_Demon
 
-Deep Sea Dominator
-In a completely different league.
-CID_319_Athena_Commando_F_Nautilus
+name: Deep Sea Dominator
+description: In a completely different league.
+id: CID_319_Athena_Commando_F_Nautilus
 
-Deep Sea Destroyer
-Straight out of the trenches.
-CID_320_Athena_Commando_M_Nautilus
+name: Deep Sea Destroyer
+description: Straight out of the trenches.
+id: CID_320_Athena_Commando_M_Nautilus
 
-Verge
-Always on the forefront.
-CID_321_Athena_Commando_M_MilitaryFashion1
+name: Verge
+description: Always on the forefront.
+id: CID_321_Athena_Commando_M_MilitaryFashion1
 
-Tech Ops
-Overtake the battlefield.
-CID_322_Athena_Commando_M_TechOps
+name: Tech Ops
+description: Overtake the battlefield.
+id: CID_322_Athena_Commando_M_TechOps
 
-Jaeger
-Leading the hunt.
-CID_323_Athena_Commando_M_Barbarian
+name: Jaeger
+description: Leading the hunt.
+id: CID_323_Athena_Commando_M_Barbarian
 
-Fyra
-Lives for the chase.
-CID_324_Athena_Commando_F_Barbarian
+name: Fyra
+description: Lives for the chase.
+id: CID_324_Athena_Commando_F_Barbarian
 
-Bendie
-Plagued by uncontrollable fits of bending.
-CID_325_Athena_Commando_M_WavyMan
+name: Bendie
+description: Plagued by uncontrollable fits of bending.
+id: CID_325_Athena_Commando_M_WavyMan
 
-Twistie
-Partially inflated, and ready to flop to the top.
-CID_326_Athena_Commando_F_WavyMan
+name: Twistie
+description: Partially inflated, and ready to flop to the top.
+id: CID_326_Athena_Commando_F_WavyMan
 
-Cobalt
-Search and destroy.
-CID_327_Athena_Commando_M_BlueMystery
+name: Cobalt
+description: Search and destroy.
+id: CID_327_Athena_Commando_M_BlueMystery
 
-Volley Girl
-If you get served, it's not her fault.
-CID_328_Athena_Commando_F_Tennis
+name: Volley Girl
+description: If you get served, it's not her fault.
+id: CID_328_Athena_Commando_F_Tennis
 
-Snowstrike
-Strike swiftly, and always leave your mark.
-CID_329_Athena_Commando_F_SnowNinja
+name: Snowstrike
+description: Strike swiftly, and always leave your mark.
+id: CID_329_Athena_Commando_F_SnowNinja
 
-The Ice Queen
-Long live the queen.
-CID_330_Athena_Commando_F_IceQueen
+name: The Ice Queen
+description: Long live the queen.
+id: CID_330_Athena_Commando_F_IceQueen
 
-Cabbie
-First to the fare. First to the finishline.
-CID_331_Athena_Commando_M_Taxi
+name: Cabbie
+description: First to the fare. First to the finishline.
+id: CID_331_Athena_Commando_M_Taxi
 
-The Prisoner
-Unchained, and out to restore balance.
-CID_332_Athena_Commando_M_Prisoner
+name: The Prisoner
+description: Unchained, and out to restore balance.
+id: CID_332_Athena_Commando_M_Prisoner
 
-Marshmello
-Start the party.
+name: Marshmello
+description: Start the party.
 Reactive: Lights up while using musical emotes.
-CID_333_Athena_Commando_M_Squishy
+id: CID_333_Athena_Commando_M_Squishy
 
-Kitbash
-Show 'em what you're made of.
-CID_334_Athena_Commando_M_Scrapyard
+name: Kitbash
+description: Show 'em what you're made of.
+id: CID_334_Athena_Commando_M_Scrapyard
 
-Sparkplug
-Scrap the competition.
-CID_335_Athena_Commando_F_Scrapyard
+name: Sparkplug
+description: Scrap the competition.
+id: CID_335_Athena_Commando_F_Scrapyard
 
-Firewalker
-Fueled by flames.
-CID_336_Athena_Commando_M_DragonMask
+name: Firewalker
+description: Fueled by flames.
+id: CID_336_Athena_Commando_M_DragonMask
 
-Galaxy Scout
-Discover victory in the stars.
-CID_337_Athena_Commando_F_Celestial
+name: Galaxy Scout
+description: Discover victory in the stars.
+id: CID_337_Athena_Commando_F_Celestial
 
-Bao Bros
-Steamed up and ready for action.
-CID_338_Athena_Commando_M_DumplingMan
+name: Bao Bros
+description: Steamed up and ready for action.
+id: CID_338_Athena_Commando_M_DumplingMan
 
-Revolt
-Conquer the system.
-CID_339_Athena_Commando_M_RobotTrouble
+name: Revolt
+description: Conquer the system.
+id: CID_339_Athena_Commando_M_RobotTrouble
 
-Rebel
-Oppose the establishment.
-CID_340_Athena_Commando_F_RobotTrouble
+name: Rebel
+description: Oppose the establishment.
+id: CID_340_Athena_Commando_F_RobotTrouble
 
-Skully
-Accept nothing less than stylish domination.
-CID_341_Athena_Commando_F_SkullBrite
+name: Skully
+description: Accept nothing less than stylish domination.
+id: CID_341_Athena_Commando_F_SkullBrite
 
-Honor Guard
-Battle with honor.
-CID_342_Athena_Commando_M_StreetRacerMetallic
+name: Honor Guard
+description: Battle with honor.
+id: CID_342_Athena_Commando_M_StreetRacerMetallic
 
-Fallen Love Ranger
-Love hurts.
-CID_343_Athena_Commando_M_CupidDark
+name: Fallen Love Ranger
+description: Love hurts.
+id: CID_343_Athena_Commando_M_CupidDark
 
-Lil Whip
-Whipped up, and ready to serve.
-CID_344_Athena_Commando_M_IceCream
+name: Lil Whip
+description: Whipped up, and ready to serve.
+id: CID_344_Athena_Commando_M_IceCream
 
-Heartbreaker
-Roses are red, violets are blue, victory is sweet, but not without you.
-CID_345_Athena_Commando_M_LoveLlama
+name: Heartbreaker
+description: Roses are red, violets are blue, victory is sweet, but not without you.
+id: CID_345_Athena_Commando_M_LoveLlama
 
-Hybrid
-Become the dragon.
-CID_346_Athena_Commando_M_DragonNinja
+name: Hybrid
+description: Become the dragon.
+id: CID_346_Athena_Commando_M_DragonNinja
 
-Blackheart
-The dreaded captain of the stormy seas.
-CID_347_Athena_Commando_M_PirateProgressive
+name: Blackheart
+description: The dreaded captain of the stormy seas.
+id: CID_347_Athena_Commando_M_PirateProgressive
 
-Sidewinder
-Coiled and ready to strike gold.
-CID_348_Athena_Commando_F_Medusa
+name: Sidewinder
+description: Coiled and ready to strike gold.
+id: CID_348_Athena_Commando_F_Medusa
 
-Peely
-Go bananas.
+name: Peely
+description: Go bananas.
 Reactive: Ripens, changing color over time in a match.
-CID_349_Athena_Commando_M_Banana
-
-Master Key
-Unlock your true potential. The key lies within.
-CID_350_Athena_Commando_M_MasterKey
-
-Ember
-Take steady aim with hands of flame.
-CID_351_Athena_Commando_F_FireElf
-
-Luxe
-Don't try me. I'm unstoppable.
-CID_352_Athena_Commando_F_Shiny
-
-Bandolette
-Unrivaled ambush predator of the jungle.
-CID_353_Athena_Commando_F_Bandolier
-
-Munitions Major
-Fire in the hole!
-CID_354_Athena_Commando_M_MunitionsExpert
-
-Hayseed
-Roll up your sleeves and battle the field.
-CID_355_Athena_Commando_M_Farmer
-
-Sunflower
-Certified organic.
-CID_356_Athena_Commando_F_Farmer
-
-Hypernova
-Undeniable.
-CID_357_Athena_Commando_M_OrangeCamo
-
-Mezmer
-All eyes are on you.
-CID_358_Athena_Commando_M_Aztec
-
-Sunbird
-Fly in light, and eclipse the sun.
-CID_359_Athena_Commando_F_Aztec
-
-Carbon Commando
-Redefining state of the art.
-CID_360_Athena_Commando_M_TechOpsBlue
-
-Kenji
-Strike from the shadows.
-CID_361_Athena_Commando_M_BandageNinja
-
-Kuno
-Master the art of deception.
-CID_362_Athena_Commando_F_BandageNinja
-
-Axiom
-Envision the win.
-CID_363_Athena_Commando_M_SciOps
-
-Psion
-Mind over matter.
-CID_364_Athena_Commando_F_SciOps
-
-Lucky Rider
-Ride on and make your own luck.
-CID_365_Athena_Commando_M_LuckyRider
-
-Marino
-Tame the tropics.
-CID_366_Athena_Commando_M_Tropical
-
-Laguna
-Storm the beach.
-CID_367_Athena_Commando_F_Tropical
-
-Malice
-Misery is her playground.
-CID_369_Athena_Commando_F_DevilRock
-
-Inferno
-Ignite your inner fire.
-CID_370_Athena_Commando_M_EvilSuit
-
-Dark Vertex
-Return from the darkness.
-CID_371_Athena_Commando_M_SpeedyMidnight
-
-Buccaneer
-Sail the salty seas.
-CID_372_Athena_Commando_F_Pirate01
-
-Sea Wolf
-Howl at the sea.
-CID_373_Athena_Commando_M_Pirate01
-
-Shaman
-Embody the spirit of victory.
-CID_376_Athena_Commando_M_DarkShaman
-
-Nightwitch
-Rise with the moon.
-CID_377_Athena_Commando_F_DarkShaman
-
-Ruin
-All will fall.
-CID_378_Athena_Commando_M_FurnaceFace
-
-Molten Battle Hound
-Release the molten hound!
-CID_379_Athena_Commando_M_BattleHoundFire
-
-Molten Valkyrie
-A fiery revelation.
-CID_380_Athena_Commando_F_DarkViking_Fire
-
-Fastball
-Another victory is on deck.
-CID_381_Athena_Commando_F_BaseballKitbash
-
-Slugger
-Batter up!
-CID_382_Athena_Commando_M_BaseballKitbash
-
-Prickly Patroller
-Just a cactus being a cactus.
-CID_383_Athena_Commando_F_Cacti
-
-Red Strike
-Often challenged, never bested.
-CID_384_Athena_Commando_M_StreetAssassin
-
-Supersonic
-Approaching mach speed.
-CID_385_Athena_Commando_M_PilotSkull
-
-Stealth Reflex
-Protect your turf.
-CID_386_Athena_Commando_M_StreetOpsStealth
-
-Birdie
-No mulligans required.
-CID_387_Athena_Commando_F_Golf
-
-Splode
-Countdown to a big boom!
-CID_388_Athena_Commando_M_TheBomb
-
-Nitehare
-Hopping straight out of your nightmares.
-CID_390_Athena_Commando_M_EvilBunny
-
-Hopper
-Hop into the heist.
-CID_391_Athena_Commando_M_HoppityHeist
-
-Pastel
-Spring into action.
-CID_392_Athena_Commando_F_BountyBunny
-
-Sterling
-Shine like a diamond.
-CID_393_Athena_Commando_M_Shiny
-
-Luminos
-From the dark side to the light.
-CID_394_Athena_Commando_M_MoonlightAssassin
-
-Dream
-Light breaks through.
-CID_395_Athena_Commando_F_ShatterFly
-
-Daring Duelist
-En garde!
-CID_396_Athena_Commando_F_Swashbuckler
-
-Aura
-Get the goods in style.
-CID_397_Athena_Commando_F_TreasureHunterFashion
-
-Guild
-On the path to riches.
-CID_398_Athena_Commando_M_TreasureHunterFashion
-
-Black Widow Outfit
-Whatever it takes.
-CID_399_Athena_Commando_F_AshtonBoardwalk
-
-Star-Lord Outfit
-Do something good, something bad, a bit of both!
-CID_400_Athena_Commando_M_AshtonSaltLake
-
-Cole
-It's a dirty job but somebody's gotta do it.
-CID_401_Athena_Commando_M_Miner
-
-Sentinel
-A new era rises.
-CID_403_Athena_Commando_M_Rooster
-
-Vega
-A lone force of vengeance.
-CID_404_Athena_Commando_F_BountyHunter
-
-Demi
-Armed with power of the dragon.
-CID_405_Athena_Commando_F_Masako
-
-Stratus
-Venture into the eye of danger.
-CID_406_Athena_Commando_M_StormTracker
-
-Vendetta
-Upgrade and override.
-CID_407_Athena_Commando_M_BattleSuit
-
-Rox
-Keep it fresh.
-CID_408_Athena_Commando_F_StrawberryPilot
-
-Bunker Jonesy
-Debunk'd.
-CID_409_Athena_Commando_M_BunkerMan
-
-Ether
-Infiltrate and conquer.
-CID_410_Athena_Commando_M_CyberScavenger
-
-Versa
-Mastermind for hire.
-CID_411_Athena_Commando_F_CyberScavenger
-
-Velocity
-Royale Air Force flying ace.
-CID_412_Athena_Commando_F_Raptor
-
-Cryptic
-Master of mystery.
-CID_413_Athena_Commando_M_StreetDemon
-
-Bracer
-Advanced tactics, classic cool.
-CID_414_Athena_Commando_F_MilitaryFashion
-
-Sofia
-The assassin's assassin.
-CID_415_Athena_Commando_F_AssassinSuit
-
-John Wick
-Every action has consequences.
-CID_416_Athena_Commando_M_AssassinSuit
-
-Takara
-Agent of influence and intrigue.
-CID_418_Athena_Commando_F_Geisha
-
-Doggo
-Who's a good boy?
-CID_419_Athena_Commando_M_Pug
-
-Wilde
-More than a little wild.
-CID_420_Athena_Commando_F_WhiteTiger
-
-Scimitar
-Razor sharp and battle ready.
-CID_421_Athena_Commando_M_MaskedWarrior
-
-Sandstorm
-Timeless warrior.
-CID_422_Athena_Commando_F_MaskedWarrior
-
-Clutch
-Clutch under pressure.
-CID_423_Athena_Commando_F_Painter
-
-Grind
-Greatness is forever.
-CID_424_Athena_Commando_M_Vigilante
-
-Synapse
-Two steps ahead of the competition.
-CID_425_Athena_Commando_F_CyberRunner
-
-Callisto
-Demons, creeps, and monsters beware.
-CID_426_Athena_Commando_F_DemonHunter
-
-Asmodeus
-Stare down your enemies.
-CID_427_Athena_Commando_M_DemonHunter
-
-Shot Caller
-It's your move. Take your shot.
-CID_428_Athena_Commando_M_UrbanScavenger
-
-Breakpoint
-Disrupt. Distract. Dominate.
-CID_429_Athena_Commando_F_NeonLines
-
-Tempest
-Consumed by the storm. Back for revenge.
-CID_430_Athena_Commando_M_StormSoldier
-
-Bolt
-Fearless stormfighter.
-CID_431_Athena_Commando_F_StormPilot
-
-Airhead
-Pop into action.
-CID_432_Athena_Commando_M_BalloonHead
-
-Desert Dominator
-Battle tested munitions expert.
-CID_433_Athena_Commando_F_TacticalDesert
-
-Wonder
-Inspire wonder.
-CID_434_Athena_Commando_F_StealthHonor
-
-Plastic Patroller
-Toy with the competition.
-CID_435_Athena_Commando_M_MunitionsExpertGreenPlastic
-
-Relay
-Keep the line clear.
-CID_436_Athena_Commando_M_ReconSpecialist
-
-Shadowbird
-Fly in light, live in the eclipse.
-CID_437_Athena_Commando_F_AztecEclipse
-
-Perfect Shadow
-Become the ominous shadow.
-CID_438_Athena_Commando_M_WinterGhoulEclipse
-
-Shadow Skully
-Eclipse the world with stylish domination.
-CID_439_Athena_Commando_F_SkullBriteEclipse
-
-Toy Trooper
-Molded for victory.
-CID_440_Athena_Commando_F_BullseyeGreenPlastic
-
-Neo Versa
-Elite chaser for hire.
-CID_441_Athena_Commando_F_CyberScavengerBlue
-
-Banner Trooper
-Customize your look by choosing a Banner and color in your Locker.
-CID_442_Athena_Commando_F_BannerA
-
-Sgt. Sigil
-Customize your look by choosing a Banner and color in your Locker.
-CID_443_Athena_Commando_F_BannerB
-
-Branded Brigadier
-Customize your look by choosing a Banner and color in your Locker.
-CID_444_Athena_Commando_F_BannerC
-
-Marked Marauder
-Customize your look by choosing a Banner and color in your Locker.
-CID_445_Athena_Commando_F_BannerD
-
-Symbol Stalwart
-Customize your look by choosing a Banner and color in your Locker.
-CID_446_Athena_Commando_M_BannerA
-
-Signature Sniper
-Customize your look by choosing a Banner and color in your Locker.
-CID_447_Athena_Commando_M_BannerB
-
-Branded Brawler
-Customize your look by choosing a Banner and color in your Locker.
-CID_448_Athena_Commando_M_BannerC
-
-Lt. Logo
-Customize your look by choosing a Banner and color in your Locker.
-CID_449_Athena_Commando_M_BannerD
-
-Flutter
-Take flight.
-CID_450_Athena_Commando_F_Butterfly
-
-Pillar
-This isn't even my final form.
-CID_451_Athena_Commando_M_Caterpillar
-
-Focus
-Visualize the future.
-CID_452_Athena_Commando_F_CyberFu
-
-Nitebeam
-Beaming with luminous energy.
-CID_453_Athena_Commando_F_GlowBro
-
-Flare
-Burn bright.
-CID_454_Athena_Commando_M_GlowBro
-
-Starfish
-Queen of the reef.
-CID_455_Athena_Commando_F_Jellyfish
-
-Doublecross
-Never turn your back.
-CID_456_Athena_Commando_F_Sarong
-
-Dare
-Dare to dream.
-CID_457_Athena_Commando_F_SpaceGirl
-
-Vector
-Control the variables, control the battle.
-CID_458_Athena_Commando_M_TechMage
-
-Biz
-Nothing personal, it's just business.
-CID_459_Athena_Commando_F_Zodiac
-
-Beach Bomber
-Make the beach party brite!
-CID_460_Athena_Commando_F_BriteBomberSummer
-
-Summer Drift
-Drifting through the sunshine.
-CID_461_Athena_Commando_M_DriftSummer
-
-Heist
-Get in. Get out. Get paid.
-CID_462_Athena_Commando_M_HeistSummer
-
-Bigfoot
-International man of mystery.
-CID_463_Athena_Commando_M_Hairy
-
-King Flamingo
-Some of us were born to fly...
-CID_464_Athena_Commando_M_Flamingo
-
-Gage
-Instigate. Escalate. Overcome.
-CID_465_Athena_Commando_M_PuffyVest
-
-Demogorgon
-Turn the battle upside down.
-CID_466_Athena_Commando_M_WeirdObjectsCreature
-
-Chief Hopper
-Hawkins PD's finest.
-CID_467_Athena_Commando_M_WeirdObjectsPolice
-
-Match Point
-Serving with skill.
-CID_468_Athena_Commando_F_TennisWhite
-
-Singularity
-The first and the last.
-CID_469_Athena_Commando_F_BattleSuit
-
-Anarchy Agent
-Go your own way.
-CID_470_Athena_Commando_M_Anarchy
-
-Bachii
-Adorably mysterious.
-CID_471_Athena_Commando_F_Bani
-
-Tsuki
-Unpredictable and unforgiving.
-CID_472_Athena_Commando_F_CyberKarate
-
-Copper Wasp
-Karate master known for his vicious sting.
-CID_473_Athena_Commando_M_CyberKarate
-
-Major Lazer
-Peace is the mission.
-CID_474_Athena_Commando_M_Lasagna
-
-Mecha Team Leader
-Some assembly required.
-CID_475_Athena_Commando_M_Multibot
-
-Mika
-Riding into the future.
-CID_476_Athena_Commando_F_FutureBiker
-
-Astro Assassin
-Out of this atmosphere.
-CID_477_Athena_Commando_F_SpaceSuit
-
-World Warrior
-Take home the prize.
-CID_478_Athena_Commando_F_WorldCup
-
-Glow
-The aura of victory glows bright.
-CID_479_Athena_Commando_F_Davinci
-
-Bubble Bomber
-Candy-colored commando.
-CID_480_Athena_Commando_F_Bubblegum
-
-Facet
-Multifaceted combat specialist.
-CID_481_Athena_Commando_F_Geode
-
-PJ Pepperoni
-Cozy combat, fresh to your door.
-CID_482_Athena_Commando_F_PizzaPit
-
-Tilted Teknique
-Tag, you're it.
-CID_483_Athena_Commando_F_GraffitiRemix
-
-Ultima Knight
-Get the last word.
-CID_484_Athena_Commando_M_KnightRemix
-
-Sparkle Supreme
-The supreme queen of sparkle.
-CID_485_Athena_Commando_F_SparkleRemix
-
-Catalyst
-Alter the paradigm.
-CID_486_Athena_Commando_F_StreetRacerDrift
-
-Y0ND3R
-Party like there's no tomorrow.
-CID_487_Athena_Commando_M_DJRemix
-
-X-Lord
-Ransack every dimension.
-CID_488_Athena_Commando_M_RustRemix
-
-Eternal Voyager
-From beyond the shadows of the galaxy's edge.
-CID_489_Athena_Commando_M_VoyagerRemix
-
-Bravo Leader
-Take point.
-CID_490_Athena_Commando_M_BlueBadass
-
-Bone Wasp
-Beware the wasp.
-CID_491_Athena_Commando_M_BoneWasp
-
-Bronto
-Eating plants and takin' names.
-CID_492_Athena_Commando_M_Bronto
-
-Crystal
-Clarity, wits, and vision.
-CID_493_Athena_Commando_F_JurassicArchaeology
-
-B.R.U.T.E. Navigator
-Precision and determination.
-CID_494_Athena_Commando_M_MechPilotShark
-
-B.R.U.T.E. Gunner
-Navigation and execution.
-CID_495_Athena_Commando_F_MechPilotShark
-
-Grit
-The will and skill to outlast.
-CID_496_Athena_Commando_M_SurvivalSpecialist
-
-Rio Grande
-Brave the untamed wilds.
-CID_497_Athena_Commando_F_WildWest
-
-Frontier
-Rustle 'em up and head out.
-CID_498_Athena_Commando_M_WildWest
-
-Corrupted Voyager
-Spread the corruption.
-CID_499_Athena_Commando_F_AstronautEvil
-
-Hot Zone
-Turn up the heat.
-CID_501_Athena_Commando_M_FrostMystery
-
-Freestyle
-Follow the beat. Secure the win.
-CID_502_Athena_Commando_F_Reverb
-
-Recon Ranger
-Expert field intel ranger.
-CID_503_Athena_Commando_F_TacticalWoodlandFuture
-
-Fennix
-Never outfoxed.
-CID_504_Athena_Commando_M_Lopex
-
-Gutbomb
-A good burger gone bad...
-CID_505_Athena_Commando_M_MilitiaMascotBurger
-
-Hothouse
-You feelin' the heat?
-CID_506_Athena_Commando_M_MilitiaMascotTomato
-
-Infinity
-Victory is in the stars.
-CID_507_Athena_Commando_M_StarWalker
-
-Oppressor
-Out of time, and out for vengeance.
-CID_508_Athena_Commando_M_Syko
-
-Shifu
-Master of harmonious victory.
-CID_509_Athena_Commando_M_WiseMaster
-
-Shadow Ark
-Victory no matter the cost.
-CID_510_Athena_Commando_F_AngelEclipse
-
-Dark Wild Card
-Deal a little darkness.
-CID_511_Athena_Commando_M_CubePaintWildCard
-
-Dark Red Knight
-Protector of the infinite realm.
-CID_512_Athena_Commando_F_CubePaintRedKnight
-
-Dark Jonesy
-He has seen beyond the darkness...
-CID_513_Athena_Commando_M_CubePaintJonesy
-
-Catastrophe
-Sharpen your claws.
-CID_514_Athena_Commando_F_ToxicKitty
-
-Psycho Bandit
-Heyo!
-CID_515_Athena_Commando_M_BarbequeLarry
-
-Rogue Spider Knight
-Weave a web of destruction.
-CID_516_Athena_Commando_M_BlackWidowRogue
-
-Molten Omen
-Your victory has been burned in fate.
-CID_517_Athena_Commando_M_DarkEagleFire
-
-Aeronaut
-Journey beyond the edge of the sky.
-CID_518_Athena_Commando_M_WWII_PilotSciFi
-
-Vulture
-Loom over the competition.
-CID_519_Athena_Commando_M_RaptorBlackOps
-
-Sledge
-Make an impact.
-CID_520_Athena_Commando_M_PaddedArmor
-
-Hard Charger
-Gassed up and ready to ride.
-CID_521_Athena_Commando_M_TacticalBiker
-
-Sureshot
-His aim is true.
-CID_522_Athena_Commando_M_Bullseye
-
-Stoneheart
-Statuesque love warrior.
-CID_523_Athena_Commando_F_Cupid
-
-Payback
-It's time to strike back.
-CID_524_Athena_Commando_F_FutureBikerWhite
-
-Limelight
-Bold trendsetter with a sour twist.
-CID_525_Athena_Commando_F_LemonLime
-
-Swamp Stalker
-Master of the mire.
-CID_526_Athena_Commando_F_DesertOpsSwamp
-
-Ruby
-Sometimes you gotta shine.
-CID_527_Athena_Commando_F_StreetFashionRed
-
-Batman Comic Book Outfit
-The World’s Greatest Detective.
-CID_528_Athena_Commando_M_BlackMondayHouston_7DGBT
-
-The Dark Knight Movie Outfit
-The hero Gotham deserves.
-CID_529_Athena_Commando_M_BlackMondayKansas_HWD90
-
-Catwoman Comic Book Outfit
-Gotham’s Feline Femme Fatale.
-CID_530_Athena_Commando_F_BlackMonday_1BV6J
-
-Slumber
-It's time to say goodnight.
-CID_531_Athena_Commando_M_Sleepytime
-
-Moxie
-Put up your dukes.
-CID_532_Athena_Commando_F_Punchy
-
-Toxic Tagger
-The world is your canvas, leave your mark.
-CID_533_Athena_Commando_M_StreetUrchin
-
-P-1000
-Peely-powered combat banandroid.
-CID_534_Athena_Commando_M_PeelyMech
-
-Zorgoton
-Freed from the lab, and out for justice.
-CID_535_Athena_Commando_M_Traveler
-
-Sizzle Sgt.
-She's cookin' up a win.
-CID_536_Athena_Commando_F_DurrburgerWorker
-
-Hotwire
-Get amped.
-CID_537_Athena_Commando_M_Jumpstart
-
-Guaco
-Stay crunchy, Guaco's comin...
-CID_538_Athena_Commando_M_Taco
-
-Starlie
-Shine bright.
-CID_539_Athena_Commando_F_StreetGothCandy
-
-The Scientist
-His mission is unknown.
-CID_540_Athena_Commando_M_MeteorManRemix
-
-Street Striker
-Hustle hard and make the play.
-CID_541_Athena_Commando_M_GraffitiGold
-
-Danger Zone
-Embrace danger.
-CID_542_Athena_Commando_F_CarbideFrostMystery
-
-Bash
-When good llamas go bad.
-CID_543_Athena_Commando_M_LlamaHero
-
-Kurohomura
-Born of fire and destined for greatness.
-CID_544_Athena_Commando_M_Kurohomura
-
-Red Jade
-Summon your fighting spirit.
-CID_545_Athena_Commando_F_SushiNinja
-
-Manic
-Show 'em your game face.
-CID_546_Athena_Commando_F_TacticalRed
-
-The Paradigm
-Her allegiance is unknown.
-CID_547_Athena_Commando_F_Meteorwoman
-
-Snakepit
-Fearless.
-CID_548_Athena_Commando_M_YellowCamoA
-
-Knockout
-Precise.
-CID_549_Athena_Commando_M_YellowCamoB
-
-Deadfall
-Relentless.
-CID_550_Athena_Commando_M_YellowCamoC
-
-Vice
-Wild.
-CID_551_Athena_Commando_M_YellowCamoD
-
-Slingshot
-Race to win.
-CID_552_Athena_Commando_F_TaxiUpgrade
-
-Brite Blaster
-Life's a blast.
-CID_553_Athena_Commando_M_BrightGunnerRemix
-
-Ragsy
-Say hello to your worst nightbear.
-CID_554_Athena_Commando_F_MilitiaMascotCuddle
-
-Recruit
-Standard issue combatant outfit.
-CID_556_Athena_Commando_F_RebirthDefaultA
-
-Recruit
-Standard issue combatant outfit.
-CID_557_Athena_Commando_F_RebirthDefaultB
-
-Recruit
-Standard issue combatant outfit.
-CID_558_Athena_Commando_F_RebirthDefaultC
-
-Recruit
-Standard issue combatant outfit.
-CID_559_Athena_Commando_F_RebirthDefaultD
-
-Recruit
-Standard issue combatant outfit.
-CID_560_Athena_Commando_M_RebirthDefaultA
-
-Recruit
-Standard issue combatant outfit.
-CID_561_Athena_Commando_M_RebirthDefaultB
-
-Recruit
-Standard issue combatant outfit.
-CID_562_Athena_Commando_M_RebirthDefaultC
-
-Recruit
-Standard issue combatant outfit.
-CID_563_Athena_Commando_M_RebirthDefaultD
-
-Turk vs Riptide
-Hook your prey.
-CID_564_Athena_Commando_M_TacticalFisherman
-
-Journey vs Hazard
-Time to climb.
-CID_565_Athena_Commando_F_RockClimber
-
-8-Ball vs Scratch
-Rack 'em up!
-CID_566_Athena_Commando_M_CrazyEight
-
-Remedy vs Toxin
-Take your medicine.
-CID_567_Athena_Commando_F_RebirthMedic
-
-TBD
-TBD
-CID_568_Athena_Commando_M_RebirthSoldier
-
-Rippley vs Sludge
-Drippy and dangerous.
-CID_570_Athena_Commando_M_SlurpMonster
-
-Cameo vs Chic
-Make your appearance.
-CID_571_Athena_Commando_F_Sheath
-
-Fusion
-Merged into one.
-CID_572_Athena_Commando_M_Viper
-
-Zero
-Everything and nothing.
-CID_573_Athena_Commando_M_Haunt
-
-Dark Power Chord
-Rock on in the darkness.
-CID_574_Athena_Commando_F_CubeRockerPunk
-
-Wavebreaker
-Go against the tide.
-CID_575_Athena_Commando_F_BulletBlue
-
-Wrangler
-Round 'em up, and get movin'.
-CID_576_Athena_Commando_M_CODSquadPlaid
-
-Rustler
-Scuff up your boots.
-CID_577_Athena_Commando_F_CODSquadPlaid
-
-Outcast
-Reel 'em in.
-CID_578_Athena_Commando_F_Fisherman
-
-Grim Fable
-Once upon a time...
-CID_579_Athena_Commando_F_RedRidingRemix
-
-Snuggs
-One broken bear.
-CID_580_Athena_Commando_M_CuddleTeamDark
-
-Dark Rex
-The dark king of the dino guard.
-CID_581_Athena_Commando_M_DarkDino
-
-Dark Tricera Ops
-Sink your teeth into darkness.
-CID_582_Athena_Commando_F_DarkDino
-
-Jawbreaker
-She's playing the most delicious game.
-CID_583_Athena_Commando_F_NoshHunter
-
-Teef
-Life's chewy when you're born to chomp.
-CID_584_Athena_Commando_M_Nosh
-
-Catrina
-The queen of the harvest.
-CID_585_Athena_Commando_F_FlowerSkeleton
-
-Haze
-A dark star on the rise.
-CID_586_Athena_Commando_F_PunkDevil
-
-Dominion
-Set the world on fire.
-CID_587_Athena_Commando_M_DevilRock
-
-Delirium
-Don't worry, it's only a nightmare...
-CID_588_Athena_Commando_M_GoatRobe
-
-Sinister Striker
-Represent your crypt in style.
-CID_589_Athena_Commando_M_SoccerZombieA
-
-Midfield Monstrosity
-Represent your crypt in style.
-CID_590_Athena_Commando_M_SoccerZombieB
-
-Burial Threat
-Represent your crypt in style.
-CID_591_Athena_Commando_M_SoccerZombieC
-
-Soulless Sweeper
-Represent your crypt in style.
-CID_592_Athena_Commando_M_SoccerZombieD
-
-Decaying Dribbler
-Represent your crypt in style.
-CID_593_Athena_Commando_F_SoccerZombieA
-
-Putrid Playmaker
-Represent your crypt in style.
-CID_594_Athena_Commando_F_SoccerZombieB
-
-Fatal Finisher
-Represent your crypt in style.
-CID_595_Athena_Commando_F_SoccerZombieC
-
-Crypt Crosser
-Represent your crypt in style.
-CID_596_Athena_Commando_F_SoccerZombieD
-
-Big Mouth
-Seeking victory, breath mints, and souls.
-CID_597_Athena_Commando_M_Freak
-
-Chaos Agent
-Undermine the order from the shadows.
-CID_598_Athena_Commando_M_Mastermind
-
-Wrath
-Warden of the underwold.
-CID_599_Athena_Commando_M_Phantom
-
-Deadeye
-Bounty hunter from beyond the grave.
-CID_600_Athena_Commando_M_SkeletonHunter
-
-Willow
-A wandering spirit with unfinished business.
-CID_601_Athena_Commando_F_Palespooky
-
-Peely Bone
-He's probably going to be fine.
-CID_602_Athena_Commando_M_NanaSplit
-
-Blacklight
-Fear the light.
-CID_603_Athena_Commando_M_SpookyNeon
-
-Razor
-Reclaim your kingdom, one break at a time.
-CID_604_Athena_Commando_F_Razor
-
-Ninja
-Watch and learn.
-CID_605_Athena_Commando_M_TourBus
-
-Surf Rider
-Protect the beaches.
-CID_606_Athena_Commando_F_JetSki
-
-Wake Rider
-Conquer the coast.
-CID_607_Athena_Commando_M_JetSki
-
-Hemlock
-The future is witchy.
-CID_608_Athena_Commando_F_ModernWitch
-
-Trench Raider
-Under the waves and out for vengeance.
-CID_609_Athena_Commando_M_Submariner
-
-Madcap
-The master of mushrooms enters the fight.
-CID_610_Athena_Commando_M_ShiitakeShaolin
-
-Bushranger
-He's one scrappy little tree.
-CID_611_Athena_Commando_M_WeepingWoods
-
-Riley
-The city is her playground.
-CID_612_Athena_Commando_F_StreetOpsPink
-
-Imperial Stormtrooper
-Wear the armor of an Imperial stormtrooper.
-CID_613_Athena_Commando_M_Columbus_7Y4QE
-
-The Brat
-Relish the wins.
-CID_614_Athena_Commando_M_MissingLink
-
-Sorana
-She's here to crash the party.
-CID_615_Athena_Commando_F_Bane
-
-Hush
-Silence the opposition.
-CID_616_Athena_Commando_F_CavalryBandit
-
-The Autumn Queen
-Ruler of the forest.
-CID_617_Athena_Commando_F_ForestQueen
-
-Terns
-The spirit of the forest.
-CID_618_Athena_Commando_M_ForestDweller
-
-Brilliant Bomber
-Show your shine.
-CID_619_Athena_Commando_F_TechLlama
-
-Big Chuggus
-Small chugguses need not apply.
-CID_620_Athena_Commando_L_BigChuggus
-
-Sklaxis
-Sssss.
-CID_621_Athena_Commando_M_BoneSnake
-
-Depth Dealer
-Deep six the competition.
-CID_622_Athena_Commando_M_BulletBlue
-
-Stingray
-Beware the silent sting of doom.
-CID_623_Athena_Commando_M_Frogman
-
-Triggerfish
-Stick it to 'em.
-CID_624_Athena_Commando_M_TeriyakiWarrior
-
-Zadie
-She's got her eyes on you.
-CID_625_Athena_Commando_F_PinkTrooper
-
-Metal Mouth
-What lies behind that sinister smile?
-CID_626_Athena_Commando_M_PinkTrooper
-
-Bundles
-Bundle up for the battle.
-CID_627_Athena_Commando_F_SnufflesLeader
-
-Yule Trooper
-The holiday spirit is in your bones.
-CID_628_Athena_Commando_M_HolidayTime
-
-Globe Shaker
-Make it snow.
-CID_629_Athena_Commando_M_SnowGlobe
-
-Kane
-Manic minty monster.
-CID_630_Athena_Commando_M_Kane
-
-Kylo Ren
-Supreme Leader of the First Order.
-CID_631_Athena_Commando_M_GalileoKayak_VXLDB
-
-Zorii Bliss
-A scoundrel unable to remain neutral in the war between the First Order and the Resistance.
-CID_632_Athena_Commando_F_GalileoZeppelin_SJKPW
-
-Finn
-Former stormtrooper and now committed Resistance member.
-CID_633_Athena_Commando_M_GalileoFerry_PA3E1
-
-Rey
-A scavenger, now studying the Jedi ways.
-CID_634_Athena_Commando_F_GalileoRocket_ARVEH
-
-Sith Trooper
-Elite soldier of the First Order
-CID_635_Athena_Commando_M_GalileoSled_FHJVM
-
-Set_01_OA
-Set_01_OB
-CID_636_Athena_Commando_M_GalileoGondola_78MFZ
-
-Set_01_PA
-Set_01_PB
-CID_637_Athena_Commando_M_GalileoOutrigger_7Q0YU
-
-LLion
-Prowl the neon night.
-CID_638_Athena_Commando_M_NeonAnimal
-
-Bunnywolf
-Your animal power glows through.
-CID_639_Athena_Commando_F_NeonAnimal
+id: CID_349_Athena_Commando_M_Banana
+
+name: Master Key
+description: Unlock your true potential. The key lies within.
+id: CID_350_Athena_Commando_M_MasterKey
+
+name: Ember
+description: Take steady aim with hands of flame.
+id: CID_351_Athena_Commando_F_FireElf
+
+name: Luxe
+description: Don't try me. I'm unstoppable.
+id: CID_352_Athena_Commando_F_Shiny
+
+name: Bandolette
+description: Unrivaled ambush predator of the jungle.
+id: CID_353_Athena_Commando_F_Bandolier
+
+name: Munitions Major
+description: Fire in the hole!
+id: CID_354_Athena_Commando_M_MunitionsExpert
+
+name: Hayseed
+description: Roll up your sleeves and battle the field.
+id: CID_355_Athena_Commando_M_Farmer
+
+name: Sunflower
+description: Certified organic.
+id: CID_356_Athena_Commando_F_Farmer
+
+name: Hypernova
+description: Undeniable.
+id: CID_357_Athena_Commando_M_OrangeCamo
+
+name: Mezmer
+description: All eyes are on you.
+id: CID_358_Athena_Commando_M_Aztec
+
+name: Sunbird
+description: Fly in light, and eclipse the sun.
+id: CID_359_Athena_Commando_F_Aztec
+
+name: Carbon Commando
+description: Redefining state of the art.
+id: CID_360_Athena_Commando_M_TechOpsBlue
+
+name: Kenji
+description: Strike from the shadows.
+id: CID_361_Athena_Commando_M_BandageNinja
+
+name: Kuno
+description: Master the art of deception.
+id: CID_362_Athena_Commando_F_BandageNinja
+
+name: Axiom
+description: Envision the win.
+id: CID_363_Athena_Commando_M_SciOps
+
+name: Psion
+description: Mind over matter.
+id: CID_364_Athena_Commando_F_SciOps
+
+name: Lucky Rider
+description: Ride on and make your own luck.
+id: CID_365_Athena_Commando_M_LuckyRider
+
+name: Marino
+description: Tame the tropics.
+id: CID_366_Athena_Commando_M_Tropical
+
+name: Laguna
+description: Storm the beach.
+id: CID_367_Athena_Commando_F_Tropical
+
+name: Malice
+description: Misery is her playground.
+id: CID_369_Athena_Commando_F_DevilRock
+
+name: Inferno
+description: Ignite your inner fire.
+id: CID_370_Athena_Commando_M_EvilSuit
+
+name: Dark Vertex
+description: Return from the darkness.
+id: CID_371_Athena_Commando_M_SpeedyMidnight
+
+name: Buccaneer
+description: Sail the salty seas.
+id: CID_372_Athena_Commando_F_Pirate01
+
+name: Sea Wolf
+description: Howl at the sea.
+id: CID_373_Athena_Commando_M_Pirate01
+
+name: Shaman
+description: Embody the spirit of victory.
+id: CID_376_Athena_Commando_M_DarkShaman
+
+name: Nightwitch
+description: Rise with the moon.
+id: CID_377_Athena_Commando_F_DarkShaman
+
+name: Ruin
+description: All will fall.
+id: CID_378_Athena_Commando_M_FurnaceFace
+
+name: Molten Battle Hound
+description: Release the molten hound!
+id: CID_379_Athena_Commando_M_BattleHoundFire
+
+name: Molten Valkyrie
+description: A fiery revelation.
+id: CID_380_Athena_Commando_F_DarkViking_Fire
+
+name: Fastball
+description: Another victory is on deck.
+id: CID_381_Athena_Commando_F_BaseballKitbash
+
+name: Slugger
+description: Batter up!
+id: CID_382_Athena_Commando_M_BaseballKitbash
+
+name: Prickly Patroller
+description: Just a cactus being a cactus.
+id: CID_383_Athena_Commando_F_Cacti
+
+name: Red Strike
+description: Often challenged, never bested.
+id: CID_384_Athena_Commando_M_StreetAssassin
+
+name: Supersonic
+description: Approaching mach speed.
+id: CID_385_Athena_Commando_M_PilotSkull
+
+name: Stealth Reflex
+description: Protect your turf.
+id: CID_386_Athena_Commando_M_StreetOpsStealth
+
+name: Birdie
+description: No mulligans required.
+id: CID_387_Athena_Commando_F_Golf
+
+name: Splode
+description: Countdown to a big boom!
+id: CID_388_Athena_Commando_M_TheBomb
+
+name: Nitehare
+description: Hopping straight out of your nightmares.
+id: CID_390_Athena_Commando_M_EvilBunny
+
+name: Hopper
+description: Hop into the heist.
+id: CID_391_Athena_Commando_M_HoppityHeist
+
+name: Pastel
+description: Spring into action.
+id: CID_392_Athena_Commando_F_BountyBunny
+
+name: Sterling
+description: Shine like a diamond.
+id: CID_393_Athena_Commando_M_Shiny
+
+name: Luminos
+description: From the dark side to the light.
+id: CID_394_Athena_Commando_M_MoonlightAssassin
+
+name: Dream
+description: Light breaks through.
+id: CID_395_Athena_Commando_F_ShatterFly
+
+name: Daring Duelist
+description: En garde!
+id: CID_396_Athena_Commando_F_Swashbuckler
+
+name: Aura
+description: Get the goods in style.
+id: CID_397_Athena_Commando_F_TreasureHunterFashion
+
+name: Guild
+description: On the path to riches.
+id: CID_398_Athena_Commando_M_TreasureHunterFashion
+
+name: Black Widow Outfit
+description: Whatever it takes.
+id: CID_399_Athena_Commando_F_AshtonBoardwalk
+
+name: Star-Lord Outfit
+description: Do something good, something bad, a bit of both!
+id: CID_400_Athena_Commando_M_AshtonSaltLake
+
+name: Cole
+description: It's a dirty job but somebody's gotta do it.
+id: CID_401_Athena_Commando_M_Miner
+
+name: Sentinel
+description: A new era rises.
+id: CID_403_Athena_Commando_M_Rooster
+
+name: Vega
+description: A lone force of vengeance.
+id: CID_404_Athena_Commando_F_BountyHunter
+
+name: Demi
+description: Armed with power of the dragon.
+id: CID_405_Athena_Commando_F_Masako
+
+name: Stratus
+description: Venture into the eye of danger.
+id: CID_406_Athena_Commando_M_StormTracker
+
+name: Vendetta
+description: Upgrade and override.
+id: CID_407_Athena_Commando_M_BattleSuit
+
+name: Rox
+description: Keep it fresh.
+id: CID_408_Athena_Commando_F_StrawberryPilot
+
+name: Bunker Jonesy
+description: Debunk'd.
+id: CID_409_Athena_Commando_M_BunkerMan
+
+name: Ether
+description: Infiltrate and conquer.
+id: CID_410_Athena_Commando_M_CyberScavenger
+
+name: Versa
+description: Mastermind for hire.
+id: CID_411_Athena_Commando_F_CyberScavenger
+
+name: Velocity
+description: Royale Air Force flying ace.
+id: CID_412_Athena_Commando_F_Raptor
+
+name: Cryptic
+description: Master of mystery.
+id: CID_413_Athena_Commando_M_StreetDemon
+
+name: Bracer
+description: Advanced tactics, classic cool.
+id: CID_414_Athena_Commando_F_MilitaryFashion
+
+name: Sofia
+description: The assassin's assassin.
+id: CID_415_Athena_Commando_F_AssassinSuit
+
+name: John Wick
+description: Every action has consequences.
+id: CID_416_Athena_Commando_M_AssassinSuit
+
+name: Takara
+description: Agent of influence and intrigue.
+id: CID_418_Athena_Commando_F_Geisha
+
+name: Doggo
+description: Who's a good boy?
+id: CID_419_Athena_Commando_M_Pug
+
+name: Wilde
+description: More than a little wild.
+id: CID_420_Athena_Commando_F_WhiteTiger
+
+name: Scimitar
+description: Razor sharp and battle ready.
+id: CID_421_Athena_Commando_M_MaskedWarrior
+
+name: Sandstorm
+description: Timeless warrior.
+id: CID_422_Athena_Commando_F_MaskedWarrior
+
+name: Clutch
+description: Clutch under pressure.
+id: CID_423_Athena_Commando_F_Painter
+
+name: Grind
+description: Greatness is forever.
+id: CID_424_Athena_Commando_M_Vigilante
+
+name: Synapse
+description: Two steps ahead of the competition.
+id: CID_425_Athena_Commando_F_CyberRunner
+
+name: Callisto
+description: Demons, creeps, and monsters beware.
+id: CID_426_Athena_Commando_F_DemonHunter
+
+name: Asmodeus
+description: Stare down your enemies.
+id: CID_427_Athena_Commando_M_DemonHunter
+
+name: Shot Caller
+description: It's your move. Take your shot.
+id: CID_428_Athena_Commando_M_UrbanScavenger
+
+name: Breakpoint
+description: Disrupt. Distract. Dominate.
+id: CID_429_Athena_Commando_F_NeonLines
+
+name: Tempest
+description: Consumed by the storm. Back for revenge.
+id: CID_430_Athena_Commando_M_StormSoldier
+
+name: Bolt
+description: Fearless stormfighter.
+id: CID_431_Athena_Commando_F_StormPilot
+
+name: Airhead
+description: Pop into action.
+id: CID_432_Athena_Commando_M_BalloonHead
+
+name: Desert Dominator
+description: Battle tested munitions expert.
+id: CID_433_Athena_Commando_F_TacticalDesert
+
+name: Wonder
+description: Inspire wonder.
+id: CID_434_Athena_Commando_F_StealthHonor
+
+name: Plastic Patroller
+description: Toy with the competition.
+id: CID_435_Athena_Commando_M_MunitionsExpertGreenPlastic
+
+name: Relay
+description: Keep the line clear.
+id: CID_436_Athena_Commando_M_ReconSpecialist
+
+name: Shadowbird
+description: Fly in light, live in the eclipse.
+id: CID_437_Athena_Commando_F_AztecEclipse
+
+name: Perfect Shadow
+description: Become the ominous shadow.
+id: CID_438_Athena_Commando_M_WinterGhoulEclipse
+
+name: Shadow Skully
+description: Eclipse the world with stylish domination.
+id: CID_439_Athena_Commando_F_SkullBriteEclipse
+
+name: Toy Trooper
+description: Molded for victory.
+id: CID_440_Athena_Commando_F_BullseyeGreenPlastic
+
+name: Neo Versa
+description: Elite chaser for hire.
+id: CID_441_Athena_Commando_F_CyberScavengerBlue
+
+name: Banner Trooper
+description: Customize your look by choosing a Banner and color in your Locker.
+id: CID_442_Athena_Commando_F_BannerA
+
+name: Sgt. Sigil
+description: Customize your look by choosing a Banner and color in your Locker.
+id: CID_443_Athena_Commando_F_BannerB
+
+name: Branded Brigadier
+description: Customize your look by choosing a Banner and color in your Locker.
+id: CID_444_Athena_Commando_F_BannerC
+
+name: Marked Marauder
+description: Customize your look by choosing a Banner and color in your Locker.
+id: CID_445_Athena_Commando_F_BannerD
+
+name: Symbol Stalwart
+description: Customize your look by choosing a Banner and color in your Locker.
+id: CID_446_Athena_Commando_M_BannerA
+
+name: Signature Sniper
+description: Customize your look by choosing a Banner and color in your Locker.
+id: CID_447_Athena_Commando_M_BannerB
+
+name: Branded Brawler
+description: Customize your look by choosing a Banner and color in your Locker.
+id: CID_448_Athena_Commando_M_BannerC
+
+name: Lt. Logo
+description: Customize your look by choosing a Banner and color in your Locker.
+id: CID_449_Athena_Commando_M_BannerD
+
+name: Flutter
+description: Take flight.
+id: CID_450_Athena_Commando_F_Butterfly
+
+name: Pillar
+description: This isn't even my final form.
+id: CID_451_Athena_Commando_M_Caterpillar
+
+name: Focus
+description: Visualize the future.
+id: CID_452_Athena_Commando_F_CyberFu
+
+name: Nitebeam
+description: Beaming with luminous energy.
+id: CID_453_Athena_Commando_F_GlowBro
+
+name: Flare
+description: Burn bright.
+id: CID_454_Athena_Commando_M_GlowBro
+
+name: Starfish
+description: Queen of the reef.
+id: CID_455_Athena_Commando_F_Jellyfish
+
+name: Doublecross
+description: Never turn your back.
+id: CID_456_Athena_Commando_F_Sarong
+
+name: Dare
+description: Dare to dream.
+id: CID_457_Athena_Commando_F_SpaceGirl
+
+name: Vector
+description: Control the variables, control the battle.
+id: CID_458_Athena_Commando_M_TechMage
+
+name: Biz
+description: Nothing personal, it's just business.
+id: CID_459_Athena_Commando_F_Zodiac
+
+name: Beach Bomber
+description: Make the beach party brite!
+id: CID_460_Athena_Commando_F_BriteBomberSummer
+
+name: Summer Drift
+description: Drifting through the sunshine.
+id: CID_461_Athena_Commando_M_DriftSummer
+
+name: Heist
+description: Get in. Get out. Get paid.
+id: CID_462_Athena_Commando_M_HeistSummer
+
+name: Bigfoot
+description: International man of mystery.
+id: CID_463_Athena_Commando_M_Hairy
+
+name: King Flamingo
+description: Some of us were born to fly...
+id: CID_464_Athena_Commando_M_Flamingo
+
+name: Gage
+description: Instigate. Escalate. Overcome.
+id: CID_465_Athena_Commando_M_PuffyVest
+
+name: Demogorgon
+description: Turn the battle upside down.
+id: CID_466_Athena_Commando_M_WeirdObjectsCreature
+
+name: Chief Hopper
+description: Hawkins PD's finest.
+id: CID_467_Athena_Commando_M_WeirdObjectsPolice
+
+name: Match Point
+description: Serving with skill.
+id: CID_468_Athena_Commando_F_TennisWhite
+
+name: Singularity
+description: The first and the last.
+id: CID_469_Athena_Commando_F_BattleSuit
+
+name: Anarchy Agent
+description: Go your own way.
+id: CID_470_Athena_Commando_M_Anarchy
+
+name: Bachii
+description: Adorably mysterious.
+id: CID_471_Athena_Commando_F_Bani
+
+name: Tsuki
+description: Unpredictable and unforgiving.
+id: CID_472_Athena_Commando_F_CyberKarate
+
+name: Copper Wasp
+description: Karate master known for his vicious sting.
+id: CID_473_Athena_Commando_M_CyberKarate
+
+name: Major Lazer
+description: Peace is the mission.
+id: CID_474_Athena_Commando_M_Lasagna
+
+name: Mecha Team Leader
+description: Some assembly required.
+id: CID_475_Athena_Commando_M_Multibot
+
+name: Mika
+description: Riding into the future.
+id: CID_476_Athena_Commando_F_FutureBiker
+
+name: Astro Assassin
+description: Out of this atmosphere.
+id: CID_477_Athena_Commando_F_SpaceSuit
+
+name: World Warrior
+description: Take home the prize.
+id: CID_478_Athena_Commando_F_WorldCup
+
+name: Glow
+description: The aura of victory glows bright.
+id: CID_479_Athena_Commando_F_Davinci
+
+name: Bubble Bomber
+description: Candy-colored commando.
+id: CID_480_Athena_Commando_F_Bubblegum
+
+name: Facet
+description: Multifaceted combat specialist.
+id: CID_481_Athena_Commando_F_Geode
+
+name: PJ Pepperoni
+description: Cozy combat, fresh to your door.
+id: CID_482_Athena_Commando_F_PizzaPit
+
+name: Tilted Teknique
+description: Tag, you're it.
+id: CID_483_Athena_Commando_F_GraffitiRemix
+
+name: Ultima Knight
+description: Get the last word.
+id: CID_484_Athena_Commando_M_KnightRemix
+
+name: Sparkle Supreme
+description: The supreme queen of sparkle.
+id: CID_485_Athena_Commando_F_SparkleRemix
+
+name: Catalyst
+description: Alter the paradigm.
+id: CID_486_Athena_Commando_F_StreetRacerDrift
+
+name: Y0ND3R
+description: Party like there's no tomorrow.
+id: CID_487_Athena_Commando_M_DJRemix
+
+name: X-Lord
+description: Ransack every dimension.
+id: CID_488_Athena_Commando_M_RustRemix
+
+name: Eternal Voyager
+description: From beyond the shadows of the galaxy's edge.
+id: CID_489_Athena_Commando_M_VoyagerRemix
+
+name: Bravo Leader
+description: Take point.
+id: CID_490_Athena_Commando_M_BlueBadass
+
+name: Bone Wasp
+description: Beware the wasp.
+id: CID_491_Athena_Commando_M_BoneWasp
+
+name: Bronto
+description: Eating plants and takin' names.
+id: CID_492_Athena_Commando_M_Bronto
+
+name: Crystal
+description: Clarity, wits, and vision.
+id: CID_493_Athena_Commando_F_JurassicArchaeology
+
+name: B.R.U.T.E. Navigator
+description: Precision and determination.
+id: CID_494_Athena_Commando_M_MechPilotShark
+
+name: B.R.U.T.E. Gunner
+description: Navigation and execution.
+id: CID_495_Athena_Commando_F_MechPilotShark
+
+name: Grit
+description: The will and skill to outlast.
+id: CID_496_Athena_Commando_M_SurvivalSpecialist
+
+name: Rio Grande
+description: Brave the untamed wilds.
+id: CID_497_Athena_Commando_F_WildWest
+
+name: Frontier
+description: Rustle 'em up and head out.
+id: CID_498_Athena_Commando_M_WildWest
+
+name: Corrupted Voyager
+description: Spread the corruption.
+id: CID_499_Athena_Commando_F_AstronautEvil
+
+name: Hot Zone
+description: Turn up the heat.
+id: CID_501_Athena_Commando_M_FrostMystery
+
+name: Freestyle
+description: Follow the beat. Secure the win.
+id: CID_502_Athena_Commando_F_Reverb
+
+name: Recon Ranger
+description: Expert field intel ranger.
+id: CID_503_Athena_Commando_F_TacticalWoodlandFuture
+
+name: Fennix
+description: Never outfoxed.
+id: CID_504_Athena_Commando_M_Lopex
+
+name: Gutbomb
+description: A good burger gone bad...
+id: CID_505_Athena_Commando_M_MilitiaMascotBurger
+
+name: Hothouse
+description: You feelin' the heat?
+id: CID_506_Athena_Commando_M_MilitiaMascotTomato
+
+name: Infinity
+description: Victory is in the stars.
+id: CID_507_Athena_Commando_M_StarWalker
+
+name: Oppressor
+description: Out of time, and out for vengeance.
+id: CID_508_Athena_Commando_M_Syko
+
+name: Shifu
+description: Master of harmonious victory.
+id: CID_509_Athena_Commando_M_WiseMaster
+
+name: Shadow Ark
+description: Victory no matter the cost.
+id: CID_510_Athena_Commando_F_AngelEclipse
+
+name: Dark Wild Card
+description: Deal a little darkness.
+id: CID_511_Athena_Commando_M_CubePaintWildCard
+
+name: Dark Red Knight
+description: Protector of the infinite realm.
+id: CID_512_Athena_Commando_F_CubePaintRedKnight
+
+name: Dark Jonesy
+description: He has seen beyond the darkness...
+id: CID_513_Athena_Commando_M_CubePaintJonesy
+
+name: Catastrophe
+description: Sharpen your claws.
+id: CID_514_Athena_Commando_F_ToxicKitty
+
+name: Psycho Bandit
+description: Heyo!
+id: CID_515_Athena_Commando_M_BarbequeLarry
+
+name: Rogue Spider Knight
+description: Weave a web of destruction.
+id: CID_516_Athena_Commando_M_BlackWidowRogue
+
+name: Molten Omen
+description: Your victory has been burned in fate.
+id: CID_517_Athena_Commando_M_DarkEagleFire
+
+name: Aeronaut
+description: Journey beyond the edge of the sky.
+id: CID_518_Athena_Commando_M_WWII_PilotSciFi
+
+name: Vulture
+description: Loom over the competition.
+id: CID_519_Athena_Commando_M_RaptorBlackOps
+
+name: Sledge
+description: Make an impact.
+id: CID_520_Athena_Commando_M_PaddedArmor
+
+name: Hard Charger
+description: Gassed up and ready to ride.
+id: CID_521_Athena_Commando_M_TacticalBiker
+
+name: Sureshot
+description: His aim is true.
+id: CID_522_Athena_Commando_M_Bullseye
+
+name: Stoneheart
+description: Statuesque love warrior.
+id: CID_523_Athena_Commando_F_Cupid
+
+name: Payback
+description: It's time to strike back.
+id: CID_524_Athena_Commando_F_FutureBikerWhite
+
+name: Limelight
+description: Bold trendsetter with a sour twist.
+id: CID_525_Athena_Commando_F_LemonLime
+
+name: Swamp Stalker
+description: Master of the mire.
+id: CID_526_Athena_Commando_F_DesertOpsSwamp
+
+name: Ruby
+description: Sometimes you gotta shine.
+id: CID_527_Athena_Commando_F_StreetFashionRed
+
+name: Batman Comic Book Outfit
+description: The World’s Greatest Detective.
+id: CID_528_Athena_Commando_M_BlackMondayHouston_7DGBT
+
+name: The Dark Knight Movie Outfit
+description: The hero Gotham deserves.
+id: CID_529_Athena_Commando_M_BlackMondayKansas_HWD90
+
+name: Catwoman Comic Book Outfit
+description: Gotham’s Feline Femme Fatale.
+id: CID_530_Athena_Commando_F_BlackMonday_1BV6J
+
+name: Slumber
+description: It's time to say goodnight.
+id: CID_531_Athena_Commando_M_Sleepytime
+
+name: Moxie
+description: Put up your dukes.
+id: CID_532_Athena_Commando_F_Punchy
+
+name: Toxic Tagger
+description: The world is your canvas, leave your mark.
+id: CID_533_Athena_Commando_M_StreetUrchin
+
+name: P-1000
+description: Peely-powered combat banandroid.
+id: CID_534_Athena_Commando_M_PeelyMech
+
+name: Zorgoton
+description: Freed from the lab, and out for justice.
+id: CID_535_Athena_Commando_M_Traveler
+
+name: Sizzle Sgt.
+description: She's cookin' up a win.
+id: CID_536_Athena_Commando_F_DurrburgerWorker
+
+name: Hotwire
+description: Get amped.
+id: CID_537_Athena_Commando_M_Jumpstart
+
+name: Guaco
+description: Stay crunchy, Guaco's comin...
+id: CID_538_Athena_Commando_M_Taco
+
+name: Starlie
+description: Shine bright.
+id: CID_539_Athena_Commando_F_StreetGothCandy
+
+name: The Scientist
+description: His mission is unknown.
+id: CID_540_Athena_Commando_M_MeteorManRemix
+
+name: Street Striker
+description: Hustle hard and make the play.
+id: CID_541_Athena_Commando_M_GraffitiGold
+
+name: Danger Zone
+description: Embrace danger.
+id: CID_542_Athena_Commando_F_CarbideFrostMystery
+
+name: Bash
+description: When good llamas go bad.
+id: CID_543_Athena_Commando_M_LlamaHero
+
+name: Kurohomura
+description: Born of fire and destined for greatness.
+id: CID_544_Athena_Commando_M_Kurohomura
+
+name: Red Jade
+description: Summon your fighting spirit.
+id: CID_545_Athena_Commando_F_SushiNinja
+
+name: Manic
+description: Show 'em your game face.
+id: CID_546_Athena_Commando_F_TacticalRed
+
+name: The Paradigm
+description: Her allegiance is unknown.
+id: CID_547_Athena_Commando_F_Meteorwoman
+
+name: Snakepit
+description: Fearless.
+id: CID_548_Athena_Commando_M_YellowCamoA
+
+name: Knockout
+description: Precise.
+id: CID_549_Athena_Commando_M_YellowCamoB
+
+name: Deadfall
+description: Relentless.
+id: CID_550_Athena_Commando_M_YellowCamoC
+
+name: Vice
+description: Wild.
+id: CID_551_Athena_Commando_M_YellowCamoD
+
+name: Slingshot
+description: Race to win.
+id: CID_552_Athena_Commando_F_TaxiUpgrade
+
+name: Brite Blaster
+description: Life's a blast.
+id: CID_553_Athena_Commando_M_BrightGunnerRemix
+
+name: Ragsy
+description: Say hello to your worst nightbear.
+id: CID_554_Athena_Commando_F_MilitiaMascotCuddle
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_556_Athena_Commando_F_RebirthDefaultA
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_557_Athena_Commando_F_RebirthDefaultB
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_558_Athena_Commando_F_RebirthDefaultC
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_559_Athena_Commando_F_RebirthDefaultD
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_560_Athena_Commando_M_RebirthDefaultA
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_561_Athena_Commando_M_RebirthDefaultB
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_562_Athena_Commando_M_RebirthDefaultC
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_563_Athena_Commando_M_RebirthDefaultD
+
+name: Turk vs Riptide
+description: Hook your prey.
+id: CID_564_Athena_Commando_M_TacticalFisherman
+
+name: Journey vs Hazard
+description: Time to climb.
+id: CID_565_Athena_Commando_F_RockClimber
+
+name: 8-Ball vs Scratch
+description: Rack 'em up!
+id: CID_566_Athena_Commando_M_CrazyEight
+
+name: Remedy vs Toxin
+description: Take your medicine.
+id: CID_567_Athena_Commando_F_RebirthMedic
+
+name: TBD
+description: TBD
+id: CID_568_Athena_Commando_M_RebirthSoldier
+
+name: Rippley vs Sludge
+description: Drippy and dangerous.
+id: CID_570_Athena_Commando_M_SlurpMonster
+
+name: Cameo vs Chic
+description: Make your appearance.
+id: CID_571_Athena_Commando_F_Sheath
+
+name: Fusion
+description: Merged into one.
+id: CID_572_Athena_Commando_M_Viper
+
+name: Zero
+description: Everything and nothing.
+id: CID_573_Athena_Commando_M_Haunt
+
+name: Dark Power Chord
+description: Rock on in the darkness.
+id: CID_574_Athena_Commando_F_CubeRockerPunk
+
+name: Wavebreaker
+description: Go against the tide.
+id: CID_575_Athena_Commando_F_BulletBlue
+
+name: Wrangler
+description: Round 'em up, and get movin'.
+id: CID_576_Athena_Commando_M_CODSquadPlaid
+
+name: Rustler
+description: Scuff up your boots.
+id: CID_577_Athena_Commando_F_CODSquadPlaid
+
+name: Outcast
+description: Reel 'em in.
+id: CID_578_Athena_Commando_F_Fisherman
+
+name: Grim Fable
+description: Once upon a time...
+id: CID_579_Athena_Commando_F_RedRidingRemix
+
+name: Snuggs
+description: One broken bear.
+id: CID_580_Athena_Commando_M_CuddleTeamDark
+
+name: Dark Rex
+description: The dark king of the dino guard.
+id: CID_581_Athena_Commando_M_DarkDino
+
+name: Dark Tricera Ops
+description: Sink your teeth into darkness.
+id: CID_582_Athena_Commando_F_DarkDino
+
+name: Jawbreaker
+description: She's playing the most delicious game.
+id: CID_583_Athena_Commando_F_NoshHunter
+
+name: Teef
+description: Life's chewy when you're born to chomp.
+id: CID_584_Athena_Commando_M_Nosh
+
+name: Catrina
+description: The queen of the harvest.
+id: CID_585_Athena_Commando_F_FlowerSkeleton
+
+name: Haze
+description: A dark star on the rise.
+id: CID_586_Athena_Commando_F_PunkDevil
+
+name: Dominion
+description: Set the world on fire.
+id: CID_587_Athena_Commando_M_DevilRock
+
+name: Delirium
+description: Don't worry, it's only a nightmare...
+id: CID_588_Athena_Commando_M_GoatRobe
+
+name: Sinister Striker
+description: Represent your crypt in style.
+id: CID_589_Athena_Commando_M_SoccerZombieA
+
+name: Midfield Monstrosity
+description: Represent your crypt in style.
+id: CID_590_Athena_Commando_M_SoccerZombieB
+
+name: Burial Threat
+description: Represent your crypt in style.
+id: CID_591_Athena_Commando_M_SoccerZombieC
+
+name: Soulless Sweeper
+description: Represent your crypt in style.
+id: CID_592_Athena_Commando_M_SoccerZombieD
+
+name: Decaying Dribbler
+description: Represent your crypt in style.
+id: CID_593_Athena_Commando_F_SoccerZombieA
+
+name: Putrid Playmaker
+description: Represent your crypt in style.
+id: CID_594_Athena_Commando_F_SoccerZombieB
+
+name: Fatal Finisher
+description: Represent your crypt in style.
+id: CID_595_Athena_Commando_F_SoccerZombieC
+
+name: Crypt Crosser
+description: Represent your crypt in style.
+id: CID_596_Athena_Commando_F_SoccerZombieD
+
+name: Big Mouth
+description: Seeking victory, breath mints, and souls.
+id: CID_597_Athena_Commando_M_Freak
+
+name: Chaos Agent
+description: Undermine the order from the shadows.
+id: CID_598_Athena_Commando_M_Mastermind
+
+name: Wrath
+description: Warden of the underwold.
+id: CID_599_Athena_Commando_M_Phantom
+
+name: Deadeye
+description: Bounty hunter from beyond the grave.
+id: CID_600_Athena_Commando_M_SkeletonHunter
+
+name: Willow
+description: A wandering spirit with unfinished business.
+id: CID_601_Athena_Commando_F_Palespooky
+
+name: Peely Bone
+description: He's probably going to be fine.
+id: CID_602_Athena_Commando_M_NanaSplit
+
+name: Blacklight
+description: Fear the light.
+id: CID_603_Athena_Commando_M_SpookyNeon
+
+name: Razor
+description: Reclaim your kingdom, one break at a time.
+id: CID_604_Athena_Commando_F_Razor
+
+name: Ninja
+description: Watch and learn.
+id: CID_605_Athena_Commando_M_TourBus
+
+name: Surf Rider
+description: Protect the beaches.
+id: CID_606_Athena_Commando_F_JetSki
+
+name: Wake Rider
+description: Conquer the coast.
+id: CID_607_Athena_Commando_M_JetSki
+
+name: Hemlock
+description: The future is witchy.
+id: CID_608_Athena_Commando_F_ModernWitch
+
+name: Trench Raider
+description: Under the waves and out for vengeance.
+id: CID_609_Athena_Commando_M_Submariner
+
+name: Madcap
+description: The master of mushrooms enters the fight.
+id: CID_610_Athena_Commando_M_ShiitakeShaolin
+
+name: Bushranger
+description: He's one scrappy little tree.
+id: CID_611_Athena_Commando_M_WeepingWoods
+
+name: Riley
+description: The city is her playground.
+id: CID_612_Athena_Commando_F_StreetOpsPink
+
+name: Imperial Stormtrooper
+description: Wear the armor of an Imperial stormtrooper.
+id: CID_613_Athena_Commando_M_Columbus_7Y4QE
+
+name: The Brat
+description: Relish the wins.
+id: CID_614_Athena_Commando_M_MissingLink
+
+name: Sorana
+description: She's here to crash the party.
+id: CID_615_Athena_Commando_F_Bane
+
+name: Hush
+description: Silence the opposition.
+id: CID_616_Athena_Commando_F_CavalryBandit
+
+name: The Autumn Queen
+description: Ruler of the forest.
+id: CID_617_Athena_Commando_F_ForestQueen
+
+name: Terns
+description: The spirit of the forest.
+id: CID_618_Athena_Commando_M_ForestDweller
+
+name: Brilliant Bomber
+description: Show your shine.
+id: CID_619_Athena_Commando_F_TechLlama
+
+name: Big Chuggus
+description: Small chugguses need not apply.
+id: CID_620_Athena_Commando_L_BigChuggus
+
+name: Sklaxis
+description: Sssss.
+id: CID_621_Athena_Commando_M_BoneSnake
+
+name: Depth Dealer
+description: Deep six the competition.
+id: CID_622_Athena_Commando_M_BulletBlue
+
+name: Stingray
+description: Beware the silent sting of doom.
+id: CID_623_Athena_Commando_M_Frogman
+
+name: Triggerfish
+description: Stick it to 'em.
+id: CID_624_Athena_Commando_M_TeriyakiWarrior
+
+name: Zadie
+description: She's got her eyes on you.
+id: CID_625_Athena_Commando_F_PinkTrooper
+
+name: Metal Mouth
+description: What lies behind that sinister smile?
+id: CID_626_Athena_Commando_M_PinkTrooper
+
+name: Bundles
+description: Bundle up for the battle.
+id: CID_627_Athena_Commando_F_SnufflesLeader
+
+name: Yule Trooper
+description: The holiday spirit is in your bones.
+id: CID_628_Athena_Commando_M_HolidayTime
+
+name: Globe Shaker
+description: Make it snow.
+id: CID_629_Athena_Commando_M_SnowGlobe
+
+name: Kane
+description: Manic minty monster.
+id: CID_630_Athena_Commando_M_Kane
+
+name: Kylo Ren
+description: Supreme Leader of the First Order.
+id: CID_631_Athena_Commando_M_GalileoKayak_VXLDB
+
+name: Zorii Bliss
+description: A scoundrel unable to remain neutral in the war between the First Order and the Resistance.
+id: CID_632_Athena_Commando_F_GalileoZeppelin_SJKPW
+
+name: Finn
+description: Former stormtrooper and now committed Resistance member.
+id: CID_633_Athena_Commando_M_GalileoFerry_PA3E1
+
+name: Rey
+description: A scavenger, now studying the Jedi ways.
+id: CID_634_Athena_Commando_F_GalileoRocket_ARVEH
+
+name: Sith Trooper
+description: Elite soldier of the First Order
+id: CID_635_Athena_Commando_M_GalileoSled_FHJVM
+
+name: Set_01_OA
+description: Set_01_OB
+id: CID_636_Athena_Commando_M_GalileoGondola_78MFZ
+
+name: Set_01_PA
+description: Set_01_PB
+id: CID_637_Athena_Commando_M_GalileoOutrigger_7Q0YU
+
+name: LLion
+description: Prowl the neon night.
+id: CID_638_Athena_Commando_M_NeonAnimal
+
+name: Bunnywolf
+description: Your animal power glows through.
+id: CID_639_Athena_Commando_F_NeonAnimal
 
-Polar Patroller
-Don't poke the bear.
-CID_640_Athena_Commando_M_TacticalBear
+name: Polar Patroller
+description: Don't poke the bear.
+id: CID_640_Athena_Commando_M_TacticalBear
 
-Dolph
-He came to sleigh.
-CID_641_Athena_Commando_M_SweaterWeather
+name: Dolph
+description: He came to sleigh.
+id: CID_641_Athena_Commando_M_SweaterWeather
 
-Astra
-A constellation of skill and talent.
-CID_642_Athena_Commando_F_ConstellationStar
+name: Astra
+description: A constellation of skill and talent.
+id: CID_642_Athena_Commando_F_ConstellationStar
 
-Lt. Evergreen
-Just a tree here, move along.
-CID_643_Athena_Commando_M_OrnamentSoldier
+name: Lt. Evergreen
+description: Just a tree here, move along.
+id: CID_643_Athena_Commando_M_OrnamentSoldier
 
-The Devourer
-No longer trapped in his icy prison.
-CID_644_Athena_Commando_M_Cattus
+name: The Devourer
+description: No longer trapped in his icy prison.
+id: CID_644_Athena_Commando_M_Cattus
 
-Wooly Warrior
-Ready for a comeback.
-CID_645_Athena_Commando_F_Wolly
+name: Wooly Warrior
+description: Ready for a comeback.
+id: CID_645_Athena_Commando_F_Wolly
 
-Cutiepie
-I hope you've been good this year...
-CID_646_Athena_Commando_F_ElfAttack
+name: Cutiepie
+description: I hope you've been good this year...
+id: CID_646_Athena_Commando_F_ElfAttack
 
-Shiver
-Powered by cold fury.
-CID_647_Athena_Commando_F_WingedFury
+name: Shiver
+description: Powered by cold fury.
+id: CID_647_Athena_Commando_F_WingedFury
 
-Arctica
-Overcoming the frozen cliffs.
-CID_648_Athena_Commando_F_MsAlpine
+name: Arctica
+description: Overcoming the frozen cliffs.
+id: CID_648_Athena_Commando_F_MsAlpine
 
-PJ Patroller
-Stay warm this winter.
-CID_649_Athena_Commando_F_HolidayPJ
+name: PJ Patroller
+description: Stay warm this winter.
+id: CID_649_Athena_Commando_F_HolidayPJ
 
-Holly Jammer
-Keep it cozy.
-CID_650_Athena_Commando_F_HolidayPJ_B
+name: Holly Jammer
+description: Keep it cozy.
+id: CID_650_Athena_Commando_F_HolidayPJ_B
 
-Jolly Jammer
-Toasty warm and ready for the fight.
-CID_651_Athena_Commando_F_HolidayPJ_C
+name: Jolly Jammer
+description: Toasty warm and ready for the fight.
+id: CID_651_Athena_Commando_F_HolidayPJ_C
 
-Cozy Commander
-Winning doesn't mean being uncomfortable.
-CID_652_Athena_Commando_F_HolidayPJ_D
+name: Cozy Commander
+description: Winning doesn't mean being uncomfortable.
+id: CID_652_Athena_Commando_F_HolidayPJ_D
 
-Frozen Nog Ops
-Bring some chill to the skirmish.
-CID_653_Athena_Commando_F_UglySweaterFrozen
+name: Frozen Nog Ops
+description: Bring some chill to the skirmish.
+id: CID_653_Athena_Commando_F_UglySweaterFrozen
 
-Frosted Flurry
-Every day's a snow day.
-CID_654_Athena_Commando_F_GiftWrap
+name: Frosted Flurry
+description: Every day's a snow day.
+id: CID_654_Athena_Commando_F_GiftWrap
 
-Flatfoot
-Stay on your toes.
-CID_655_Athena_Commando_F_Barefoot
+name: Flatfoot
+description: Stay on your toes.
+id: CID_655_Athena_Commando_F_Barefoot
 
-Frozen Fishstick
-Show 'em how fresh frozen can be.
-CID_656_Athena_Commando_M_TeriyakiFishFreezerBurn
+name: Frozen Fishstick
+description: Show 'em how fresh frozen can be.
+id: CID_656_Athena_Commando_M_TeriyakiFishFreezerBurn
 
-Trilogy
-The bold future of battle begins now.
-CID_657_Athena_Commando_F_TechOpsBlue
+name: Trilogy
+description: The bold future of battle begins now.
+id: CID_657_Athena_Commando_F_TechOpsBlue
 
-Monks
-Send in the monkey.
-CID_658_Athena_Commando_F_ToyMonkey
+name: Monks
+description: Send in the monkey.
+id: CID_658_Athena_Commando_F_ToyMonkey
 
-Snow Patroller
-No more Mr. Ice Guy.
-CID_659_Athena_Commando_M_MrIceGuy
+name: Snow Patroller
+description: No more Mr. Ice Guy.
+id: CID_659_Athena_Commando_M_MrIceGuy
 
-Indigo Kuno
-The Falcon Clan's finest.
-CID_660_Athena_Commando_F_BandageNinjaBlue
+name: Indigo Kuno
+description: The Falcon Clan's finest.
+id: CID_660_Athena_Commando_F_BandageNinjaBlue
 
-Bonehead
-Show them your inner fire.
-CID_662_Athena_Commando_M_FlameSkull
+name: Bonehead
+description: Show them your inner fire.
+id: CID_662_Athena_Commando_M_FlameSkull
 
-Clash
-Wherever she goes trouble follows.
-CID_663_Athena_Commando_F_Frogman
+name: Clash
+description: Wherever she goes trouble follows.
+id: CID_663_Athena_Commando_F_Frogman
 
-Jellie
-The anemone you don't want for an enemy.
-CID_664_Athena_Commando_M_Gummi
+name: Jellie
+description: The anemone you don't want for an enemy.
+id: CID_664_Athena_Commando_M_Gummi
 
-Komplex
-The world's waiting, make your mark.
+name: Komplex
+description: The world's waiting, make your mark.
 Reactive: Glows at night.
-CID_665_Athena_Commando_F_NeonGraffiti
+id: CID_665_Athena_Commando_F_NeonGraffiti
 
-Snow Striker
-Master of snow and ice.
-CID_666_Athena_Commando_M_ArcticCamo
+name: Snow Striker
+description: Master of snow and ice.
+id: CID_666_Athena_Commando_M_ArcticCamo
 
-Ice Stalker
-Stalk the snowy plains.
-CID_667_Athena_Commando_M_ArcticCamo_Dark
+name: Ice Stalker
+description: Stalk the snowy plains.
+id: CID_667_Athena_Commando_M_ArcticCamo_Dark
 
-Arctic Intel
-Leave 'em out in the cold.
-CID_668_Athena_Commando_M_ArcticCamo_Gray
+name: Arctic Intel
+description: Leave 'em out in the cold.
+id: CID_668_Athena_Commando_M_ArcticCamo_Gray
 
-Chillout
-Stay cool, victory awaits.
-CID_669_Athena_Commando_M_ArcticCamo_Slate
+name: Chillout
+description: Stay cool, victory awaits.
+id: CID_669_Athena_Commando_M_ArcticCamo_Slate
 
-Snow Sniper
-Cool and calculated.
-CID_670_Athena_Commando_F_ArcticCamo
+name: Snow Sniper
+description: Cool and calculated.
+id: CID_670_Athena_Commando_F_ArcticCamo
 
-Ice Intercept
-Slide into action.
-CID_671_Athena_Commando_F_ArcticCamo_Dark
+name: Ice Intercept
+description: Slide into action.
+id: CID_671_Athena_Commando_F_ArcticCamo_Dark
 
-Hailstorm
-The onslaught begins now...
-CID_672_Athena_Commando_F_ArcticCamo_Gray
+name: Hailstorm
+description: The onslaught begins now...
+id: CID_672_Athena_Commando_F_ArcticCamo_Gray
 
-Chill Count
-Fight like the wind.
-CID_673_Athena_Commando_F_ArcticCamo_Slate
+name: Chill Count
+description: Fight like the wind.
+id: CID_673_Athena_Commando_F_ArcticCamo_Slate
 
-Iris
-Keep the competition in your sights.
-CID_674_Athena_Commando_F_HoodieBandit
+name: Iris
+description: Keep the competition in your sights.
+id: CID_674_Athena_Commando_F_HoodieBandit
 
-Oro
-Golden treasure, an eternal obsession.
-CID_675_Athena_Commando_M_TheGoldenSkeleton
+name: Oro
+description: Golden treasure, an eternal obsession.
+id: CID_675_Athena_Commando_M_TheGoldenSkeleton
 
-Tango
-You've got the moves.
-CID_676_Athena_Commando_M_CODSquadHoodie
+name: Tango
+description: You've got the moves.
+id: CID_676_Athena_Commando_M_CODSquadHoodie
 
-Bull Shark
-Mess with the bull, you get the shark.
-CID_677_Athena_Commando_M_SharkAttack
+name: Bull Shark
+description: Mess with the bull, you get the shark.
+id: CID_677_Athena_Commando_M_SharkAttack
 
-Shadow Archetype
-Engineered in the shadows for combat performance.
-CID_679_Athena_Commando_M_ModernMilitaryEclipse
+name: Shadow Archetype
+description: Engineered in the shadows for combat performance.
+id: CID_679_Athena_Commando_M_ModernMilitaryEclipse
 
-Swift
-It's gonna be his year.
-CID_680_Athena_Commando_M_StreetRat
+name: Swift
+description: It's gonna be his year.
+id: CID_680_Athena_Commando_M_StreetRat
 
-Gan
-Harness the graceful flow of the elements.
-CID_681_Athena_Commando_M_MartialArtist
+name: Gan
+description: Harness the graceful flow of the elements.
+id: CID_681_Athena_Commando_M_MartialArtist
 
-Smoke Dragon
-Shrouded in the shadows.
-CID_682_Athena_Commando_M_VirtualShadow
+name: Smoke Dragon
+description: Shrouded in the shadows.
+id: CID_682_Athena_Commando_M_VirtualShadow
 
-Tigeress
-On the prowl with ancestral style.
-CID_683_Athena_Commando_F_TigerFashion
+name: Tigeress
+description: On the prowl with ancestral style.
+id: CID_683_Athena_Commando_F_TigerFashion
 
-Jade Racer
-Driving towards harmony.
-CID_684_Athena_Commando_F_DragonRacer
+name: Jade Racer
+description: Driving towards harmony.
+id: CID_684_Athena_Commando_F_DragonRacer
 
-Caution
-Stay alert, danger is all around.
-CID_685_Athena_Commando_M_TundraYellow
+name: Caution
+description: Stay alert, danger is all around.
+id: CID_685_Athena_Commando_M_TundraYellow
 
-Tek
-Armed and dangerous.
-CID_687_Athena_Commando_M_AgentAce
+name: Tek
+description: Armed and dangerous.
+id: CID_687_Athena_Commando_M_AgentAce
 
-Terra
-Enough planning, it's time for action.
-CID_688_Athena_Commando_F_AgentRogue
+name: Terra
+description: Enough planning, it's time for action.
+id: CID_688_Athena_Commando_F_AgentRogue
 
-Deadlock
-Break in without getting your hands dirty.
-CID_689_Athena_Commando_M_SpyTechHacker
+name: Deadlock
+description: Break in without getting your hands dirty.
+id: CID_689_Athena_Commando_M_SpyTechHacker
 
-Skye
-Find your greatest adventure.
-CID_690_Athena_Commando_F_Photographer
+name: Skye
+description: Find your greatest adventure.
+id: CID_690_Athena_Commando_F_Photographer
 
-TNTina
-Light the fuse and run the world.
-CID_691_Athena_Commando_F_TNTina
+name: TNTina
+description: Light the fuse and run the world.
+id: CID_691_Athena_Commando_F_TNTina
 
-Brutus
-Don't make him tell you twice.
-CID_692_Athena_Commando_M_HenchmanTough
+name: Brutus
+description: Don't make him tell you twice.
+id: CID_692_Athena_Commando_M_HenchmanTough
 
-Meowscles
-He's one swole cat.
-CID_693_Athena_Commando_M_BuffCat
+name: Meowscles
+description: He's one swole cat.
+id: CID_693_Athena_Commando_M_BuffCat
 
-Midas
-All that glitters is yours.
-CID_694_Athena_Commando_M_CatBurglar
+name: Midas
+description: All that glitters is yours.
+id: CID_694_Athena_Commando_M_CatBurglar
 
-Gear Specialist Maya
-Choose a unique path.
-CID_695_Athena_Commando_F_DesertOpsCamo
+name: Gear Specialist Maya
+description: Choose a unique path.
+id: CID_695_Athena_Commando_F_DesertOpsCamo
 
-Lovethorn
-The dark side of romance.
-CID_696_Athena_Commando_F_DarkHeart
+name: Lovethorn
+description: The dark side of romance.
+id: CID_696_Athena_Commando_F_DarkHeart
 
-Mystify
-Is it a mystery or is it art?
-CID_697_Athena_Commando_F_GraffitiFuture
+name: Mystify
+description: Is it a mystery or is it art?
+id: CID_697_Athena_Commando_F_GraffitiFuture
 
-Pinkie
-He lives to luv.
-CID_698_Athena_Commando_M_CuteDuo
+name: Pinkie
+description: He lives to luv.
+id: CID_698_Athena_Commando_M_CuteDuo
 
-Crusher
-Taking down hearts from the top rope.
-CID_699_Athena_Commando_F_BrokenHeart
+name: Crusher
+description: Taking down hearts from the top rope.
+id: CID_699_Athena_Commando_F_BrokenHeart
 
-Candyman
-Here comes truffle.
+name: Candyman
+description: Here comes truffle.
 Reactive: Sends a sweet message to those you eliminate.
-CID_700_Athena_Commando_M_Candy
+id: CID_700_Athena_Commando_M_Candy
 
-Agent Peely
-He's got a license to peel.
-CID_701_Athena_Commando_M_BananaAgent
+name: Agent Peely
+description: He's got a license to peel.
+id: CID_701_Athena_Commando_M_BananaAgent
 
-Ex
-Cross out the competition.
-CID_702_Athena_Commando_M_AssassinX
+name: Ex
+description: Cross out the competition.
+id: CID_702_Athena_Commando_M_AssassinX
 
-Travis Scott
-La Flame.
-CID_703_Athena_Commando_M_Cyclone
+name: Travis Scott
+description: La Flame.
+id: CID_703_Athena_Commando_M_Cyclone
 
-Harley Quinn
-Mind over mayhem.
-CID_704_Athena_Commando_F_LollipopTrickster
+name: Harley Quinn
+description: Mind over mayhem.
+id: CID_704_Athena_Commando_F_LollipopTrickster
 
-Deadpool
-The merc with a mouth.
-CID_705_Athena_Commando_M_Donut
+name: Deadpool
+description: The merc with a mouth.
+id: CID_705_Athena_Commando_M_Donut
 
-TBD
-TBD
-CID_706_Athena_Commando_M_HenchmanBad
+name: TBD
+description: TBD
+id: CID_706_Athena_Commando_M_HenchmanBad
 
-TBD
-TBD
-CID_707_Athena_Commando_M_HenchmanGood
+name: TBD
+description: TBD
+id: CID_707_Athena_Commando_M_HenchmanGood
 
-Slurp Jonesy
-Slurp up and ship out.
+name: Slurp Jonesy
+description: Slurp up and ship out.
 Reactive: Head transforms with higher shields
-CID_708_Athena_Commando_M_SoldierSlurp
+id: CID_708_Athena_Commando_M_SoldierSlurp
 
-Slurp Bandolette
-Slurp-fueled ambush predator of the jungle.
+name: Slurp Bandolette
+description: Slurp-fueled ambush predator of the jungle.
 Reactive: Head transforms with higher shields
-CID_709_Athena_Commando_F_BandolierSlurp
+id: CID_709_Athena_Commando_F_BandolierSlurp
 
-Slurp Leviathan
-Call me Slurp Fish.
+name: Slurp Leviathan
+description: Call me Slurp Fish.
 Reactive: Head transforms with higher shields
-CID_710_Athena_Commando_M_FishheadSlurp
+id: CID_710_Athena_Commando_M_FishheadSlurp
 
-Point Patroller
-Ready to make a break for it.
-CID_711_Athena_Commando_M_LongShorts
+name: Point Patroller
+description: Ready to make a break for it.
+id: CID_711_Athena_Commando_M_LongShorts
 
-Hugo
-Style, stealth, and unpredictability.
-CID_712_Athena_Commando_M_Spy
+name: Hugo
+description: Style, stealth, and unpredictability.
+id: CID_712_Athena_Commando_M_Spy
 
-Xander
-Sovereign of the shifting sands.
-CID_713_Athena_Commando_M_MaskedWarriorSpring
+name: Xander
+description: Sovereign of the shifting sands.
+id: CID_713_Athena_Commando_M_MaskedWarriorSpring
 
-Farmer Steel
-They trampled his corn. Now they're gonna pay.
-CID_714_Athena_Commando_M_AnarchyAcresFarmer
+name: Farmer Steel
+description: They trampled his corn. Now they're gonna pay.
+id: CID_714_Athena_Commando_M_AnarchyAcresFarmer
 
-Echo
-Are you real, or just a reflection?
-CID_715_Athena_Commando_F_TwinDark
+name: Echo
+description: Are you real, or just a reflection?
+id: CID_715_Athena_Commando_F_TwinDark
 
-Professor Slurpo
-Behold the power of slurp!
-CID_716_Athena_Commando_M_BlueFlames
+name: Professor Slurpo
+description: Behold the power of slurp!
+id: CID_716_Athena_Commando_M_BlueFlames
 
-Slurpentine
-Love is power.
-CID_717_Athena_Commando_F_BlueFlames
+name: Slurpentine
+description: Love is power.
+id: CID_717_Athena_Commando_F_BlueFlames
 
-Clover Team Leader
-Spread the luck.
-CID_718_Athena_Commando_F_LuckyHero
+name: Clover Team Leader
+description: Spread the luck.
+id: CID_718_Athena_Commando_F_LuckyHero
 
-Penny
-When trouble knocks, we’ll build our way out.
-CID_719_Athena_Commando_F_Blonde
+name: Penny
+description: When trouble knocks, we’ll build our way out.
+id: CID_719_Athena_Commando_F_Blonde
 
-Chance
-Leave it to chance.
-CID_720_Athena_Commando_F_StreetFashionEmerald
+name: Chance
+description: Leave it to chance.
+id: CID_720_Athena_Commando_F_StreetFashionEmerald
 
-Zina
-The pineapple bandit strikes again!
-CID_721_Athena_Commando_F_PineappleBandit
+name: Zina
+description: The pineapple bandit strikes again!
+id: CID_721_Athena_Commando_F_PineappleBandit
 
-Contract Giller
-Send in the fish.
-CID_722_Athena_Commando_M_TeriyakiFishAssassin
+name: Contract Giller
+description: Send in the fish.
+id: CID_722_Athena_Commando_M_TeriyakiFishAssassin
 
-Blockade Runner
-Break through enemy lines.
-CID_723_Athena_Commando_F_SpyTech
+name: Blockade Runner
+description: Break through enemy lines.
+id: CID_723_Athena_Commando_F_SpyTech
 
-Wiretap
-Never tap out.
-CID_724_Athena_Commando_M_SpyTech
+name: Wiretap
+description: Never tap out.
+id: CID_724_Athena_Commando_M_SpyTech
 
-Envoy
-There is no such thing as second best.
-CID_725_Athena_Commando_F_AgentX
+name: Envoy
+description: There is no such thing as second best.
+id: CID_725_Athena_Commando_F_AgentX
 
-Hit Man
-Dress for the job you want?
-CID_726_Athena_Commando_M_TargetPractice
+name: Hit Man
+description: Dress for the job you want?
+id: CID_726_Athena_Commando_M_TargetPractice
 
-Tailor
-Stylish soldier of fortune.
+name: Tailor
+description: Stylish soldier of fortune.
 Reactive: Unique light patterns on eliminations, damage, health, and shields!
-CID_727_Athena_Commando_M_Tailor
-
-Master Minotaur
-Unleash your manimal instincts.
-CID_728_Athena_Commando_M_MinotaurLuck
-
-Pulse
-Be the light.
-CID_729_Athena_Commando_M_Neon
-
-Hedron
-Shape up. Ship out.
-CID_730_Athena_Commando_M_Stars
-
-Flow
-Light the way.
-CID_731_Athena_Commando_F_Neon
-
-Iso
-A little rough around the edges.
-CID_732_Athena_Commando_F_Stars
-
-Crimson Elite
-A true legend on the rise.
-CID_733_Athena_Commando_M_BannerRed
-
-Scarlet Commander
-Unknown and unforgettable.
-CID_734_Athena_Commando_F_BannerRed
-
-Synth
-Often duplicated, never defeated.
-CID_735_Athena_Commando_M_Informer
-
-Domino
-Make your own luck.
-CID_736_Athena_Commando_F_DonutDish
-
-Psylocke
-Telekinetically enhanced master martial artist.
-CID_737_Athena_Commando_F_DonutPlate
-
-Cable
-Seasoned soldier and master battle strategist.
-CID_738_Athena_Commando_M_DonutCup
-
-Boxer
-He always knows which side is up.
-CID_739_Athena_Commando_M_CardboardCrew
-
-Boxy
-Ship out and send 'em packing.
-CID_740_Athena_Commando_F_CardboardCrew
-
-Stella
-Bound into battle with springy pastel style.
-CID_741_Athena_Commando_F_HalloweenBunnySpring
-
-Bun Bun
-If you see him coming you'd better run run.
-CID_742_Athena_Commando_M_ChocoBunny
-
-Redux
-Revived. Rebuilt. Ready for revenge.
-CID_743_Athena_Commando_M_Handyman
-
-Quackling
-Quack in action.
-CID_744_Athena_Commando_F_DuckHero
-
-Ravenpool
-Maximum darkness.
-CID_745_Athena_Commando_M_RavenQuill
-
-Cuddlepool
-Ferociously furry.
-CID_746_Athena_Commando_F_FuzzyBear
-
-Renegade Shadow
-Step out of the shadows and stake your claim.
-CID_747_Athena_Commando_M_BadEgg
-
-Siren
-Unforgettable and inescapable.
-CID_748_Athena_Commando_F_Hitman
-
-Yellowjacket
-Venomous and victorious.
-CID_749_Athena_Commando_F_GraffitiAssassin
-
-Cyclo
-Defy the storm.
-CID_750_Athena_Commando_M_Hurricane
-
-Vix
-A true catssassin always lands on her feet.
-CID_751_Athena_Commando_F_NeonCatSpy
-
-Guff
-Don't fluff with Guff.
-CID_752_Athena_Commando_M_Comet
-
-Rue
-Her hobbies include revenge, vengeance, and retribution.
-CID_753_Athena_Commando_F_Hostile
-
-Envision
-Shine bright. Strike fast.
-CID_754_Athena_Commando_F_RaveNinja
-
-Wolf
-He's the one you call when all hope is lost.
-CID_755_Athena_Commando_M_Splinter
-
-Agent Jonesy
-Espionage suits him well.
-CID_756_Athena_Commando_M_JonesyAgent
-
-Wildcat
-Victory without taking a scratch.
-CID_757_Athena_Commando_F_WildCat
-
-Sig
-Master intercept agent.
-CID_758_Athena_Commando_M_TechExplorer
-
-Goldie
-Run the game.
-CID_759_Athena_Commando_F_RapVillainess
-
-Nightlife
-The life of the afterparty.
-CID_760_Athena_Commando_F_NeonTightSuit
-
-Astro Jack
-Out of this world.
-CID_761_Athena_Commando_M_CycloneSpace
-
-Wild Gunner
-Embrace your wild side.
-CID_762_Athena_Commando_M_BrightGunnerSpy
-
-Shimmer Specialist
-Show off your star moves.
-CID_763_Athena_Commando_F_ShinyJacket
-
-Loserfruit
-Good vibes only.
-CID_764_Athena_Commando_F_Loofah
-
-Siona
-A wanderer in a lost world.
-CID_765_Athena_Commando_F_SpaceWanderer
-
-Eternal Knight
-Honor shines eternal.
-CID_767_Athena_Commando_F_BlackKnight
-
-Fanatic
-In it to win it.
-CID_768_Athena_Commando_F_HardcoreSportz
-
-Showdown
-Ultimate showdowns only!
-CID_769_Athena_Commando_M_HardcoreSportz
-
-Jules
-Engineering perfection with a mysterious twist.
-CID_770_Athena_Commando_F_MechanicalEngineer
-
-Ocean
-The fight's not over until I say so.
-CID_771_Athena_Commando_F_OceanRider
-
-Aquaman
-The undisputed king of the sea.
-CID_772_Athena_Commando_M_Sandcastle
-
-Trench Trawler
-Strange secrets sleep deep beneath the waves.
-CID_773_Athena_Commando_M_Beacon
-
-Scuba Jonesy
-Jonesy of the deep!
-CID_774_Athena_Commando_M_TacticalScuba
-
-Rally Raider
-Live like every lap's a victory lap.
-CID_775_Athena_Commando_F_StreetRacerCobraGold
-
-Kit
-Proudly following in his father's pawprints.
-CID_776_Athena_Commando_M_ProfessorPup
-
-Fade
-Far from home, the journey must continue.
-CID_777_Athena_Commando_M_RacerZero
-
-Swamp Stomper
-Gator-trained master swampsman.
-CID_778_Athena_Commando_M_Gator
-
-GHOST Beach Brawler
-Hit the beach.
-CID_779_Athena_Commando_M_HenchmanGoodShorts
-
-SHADOW Beach Brawler
-It's brawl or nothing.
-CID_780_Athena_Commando_M_HenchmanBadShorts
-
-Metal Team Leader
-Totally metal.
-CID_781_Athena_Commando_F_FuzzyBearTEDDY
-
-Nite Gunner
-The future looks nite.
-CID_782_Athena_Commando_M_BrightGunnerEclipse
-
-Surf Strider
-Harness the power of a rogue wave.
-CID_783_Athena_Commando_M_AquaJacket
-
-Blaze
-Fill the world with flames.
-CID_784_Athena_Commando_F_RenegadeRaiderFire
-
-Scarlet Serpent
-Heartless combatant with a venomous soul.
-CID_785_Athena_Commando_F_Python
-
-Double Agent Hush
-Haunt your enemy's every move.
-CID_786_Athena_Commando_F_CavalryBandit_Ghost
-
-Double Agent Wildcard
-Everything according to plan.
-CID_787_Athena_Commando_M_Heist_Ghost
-
-Chaos Double Agent
-Chaos beyond measure.
-CID_788_Athena_Commando_M_Mastermind_Ghost
-
-TBD
-TBD
-CID_789_Athena_Commando_M_HenchmanGoodShorts_B
-
-TBD
-TBD
-CID_790_Athena_Commando_M_HenchmanGoodShorts_C
-
-TBD
-TBD
-CID_791_Athena_Commando_M_HenchmanGoodShorts_D
-
-TBD
-TBD
-CID_792_Athena_Commando_M_HenchmanBadShorts_B
-
-TBD
-TBD
-CID_793_Athena_Commando_M_HenchmanBadShorts_C
-
-TBD
-TBD
-CID_794_Athena_Commando_M_HenchmanBadShorts_D
-
-Dummy
-Look out!
-CID_795_Athena_Commando_M_Dummeez
-
-Sandshark Driver
-World class heavy tank driver.
-CID_796_Athena_Commando_F_Tank
-
-Lada
-Spicy and saucy.
-CID_797_Athena_Commando_F_Taco
-
-Relaxed Fit Jonesy
-Victory or whatever else you've got, he's not picky.
-CID_798_Athena_Commando_M_JonesyVagabond
-
-Darkheart
-Statuesque heart breaker.
-CID_799_Athena_Commando_F_CupidDark
-
-Bryce 3000
-Influencer. Fashionista. Robot.
-CID_800_Athena_Commando_M_Robro
-
-Par Patroller
-Patience and focus wins the match.
-CID_801_Athena_Commando_F_GolfSummer
-
-Safari
-Conqueror of the untamed.
-CID_802_Athena_Commando_F_HeartBreaker
-
-Cozy Chomps
-Take life one chomp at a time.
-CID_803_Athena_Commando_F_SharkSuit
-
-Comfy Chomps
-Kick back and get chompin.
-CID_804_Athena_Commando_M_SharkSuit
-
-Surf Witch
-Curse the beach with your dark presence.
-CID_805_Athena_Commando_F_PunkDevilSummer
-
-Kyra
-Never afraid to stand out.
-CID_806_Athena_Commando_F_GreenJacket
-
-Captain America
-Super soldier Steve Rogers stands as an enduring sentinel of liberty.
-CID_807_Athena_Commando_M_CandyApple_B1U7X
-
-Starflare
-The last star you'll see tonight.
-CID_808_Athena_Commando_F_ConstellationSun
-
-Black Manta
-Merciless undersea mercenary.
-CID_809_Athena_Commando_M_Seaweed_IXRLQ
-
-Shore Leave
-Hit the beach and make some waves.
-CID_810_Athena_Commando_M_MilitaryFashionSummer
-
-Tropical Punch Zoey
-Candy-coated mayhem.
-CID_811_Athena_Commando_F_CandySummer
-
-Summer Fable
-The beach isn't safe... from her.
-CID_812_Athena_Commando_F_RedRidingSummer
-
-Atlantean Fishstick
-King of the Fishsticks.
-CID_813_Athena_Commando_M_TeriyakiAtlantis
-
-Unpeely
-No peel, no shoes, no problem.
-CID_814_Athena_Commando_M_BananaSummer
-
-Sizzle
-She makes this look cheesy.
-CID_815_Athena_Commando_F_DurrburgerHero
-
-Barracuda
-Careful, she'll get her hooks in you.
-CID_816_Athena_Commando_F_DirtyDocks
-
-Waveripper
-Deadliest catch this side of the coral reef.
-CID_817_Athena_Commando_M_DirtyDocks
-
-Party Star
-All eyes on you.
-CID_818_Athena_Commando_F_NeonTightSuit_A
-
-Party Diva
-Only the best.
-CID_819_Athena_Commando_F_NeonTightSuit_B
-
-Party MVP
-There can be only one.
-CID_820_Athena_Commando_F_NeonTightSuit_C
-
-Mariana
-Champion of the ocean's light.
-CID_822_Athena_Commando_F_Angler
-
-Kalia
-The island warrior has arrived.
-CID_823_Athena_Commando_F_Islander
-
-Athleisure Assassin
-Definitely not off-the-rack.
-CID_824_Athena_Commando_F_RaiderPink
-
-Adeline
-Don't get caught wearing last season's looks.
-CID_825_Athena_Commando_F_SportsFashion
-
-King Krab
-Behold my luminous krabulosity! Glow style glows at night.
-CID_826_Athena_Commando_M_FloatillaCaptain
-
-Mecha Team Shadow
-Shadow assembly required.
-CID_827_Athena_Commando_M_MultibotStealth
-
-Pitstop
-Just try to keep up.
-CID_828_Athena_Commando_F_Valet
-
-Storm Racer
-Leave the competition in your rearview.
-CID_829_Athena_Commando_M_Valet
-
-Deo
-His journey continues.
-CID_830_Athena_Commando_M_SpaceWanderer
-
-Crustina
-Saucy, Spicy, Right Behind You.
-CID_831_Athena_Commando_F_PIzzaPitMascot
-
-Splatterella
-Llamas beware.
-CID_832_Athena_Commando_F_AntiLlama
-
-Derby Dynamo
-Just try putting her in the penalty box.
-CID_833_Athena_Commando_F_TripleScoop
-
-Axo
-Here to see if life on dry land lives up to the hype.
-CID_834_Athena_Commando_M_Axl
-
-Bryne
-A genuine Atlantean princess.
-CID_835_Athena_Commando_F_LadyAtlantis
-
-Castaway Jonesy
-He's not lost, okay?
-CID_836_Athena_Commando_M_JonesyFlare
-
-Seeker
-Nothing's lost that can't be found.
-CID_837_Athena_Commando_M_MaskedDancer
-
-Samurai Scrapper
-A true warrior can make a weapon from whatever's at hand.
-CID_838_Athena_Commando_M_JunkSamurai
-
-Storm
-Goddess of the Elements.
-CID_839_Athena_Commando_F_HightowerSquash
-
-Groot
-He is Groot.
-CID_840_Athena_Commando_M_HightowerGrape
-
-Wolverine
-He's the best there is at what he does.
-CID_841_Athena_Commando_M_HightowerWasabi
-
-Jennifer Walters
-Brains or brawn... Why not both?
-CID_842_Athena_Commando_F_HightowerHoneydew
-
-Tony Stark
-Billionaire. Playboy. Philanthropist. Inventor.
-CID_843_Athena_Commando_M_HightowerTomato_Casual
-
-Mystique
-Deadly assassin and undisputed master of disguise.
-CID_844_Athena_Commando_F_HightowerMango
-
-Thor
-Son of Odin. God of Thunder.
-CID_845_Athena_Commando_M_HightowerTapas
-
-Doctor Doom
-Eternal ruler of Latveria. He is Doom.
-CID_846_Athena_Commando_M_HightowerDate
-
-Silver Surfer
-Reflective rider of the cosmic currents.
-CID_847_Athena_Commando_M_Soy_2AS3C
-
-Dread Fate
-May they dread their encounter with fate.
-CID_848_Athena_Commando_F_DarkNinjaPurple
-
-Dread Omen
-Your victory is dreaded by many.
-CID_849_Athena_Commando_M_DarkEaglePurple
-
-Dark Skully
-The dreaded master of stylish domination.
-CID_850_Athena_Commando_F_SkullBriteCube
-
-Tart Tycoon
-#FreeFortnite
-CID_851_Athena_Commando_M_Bittenhead
-
-Corrupted Arachne
-Weave a web of corruption... to victory.
-CID_852_Athena_Commando_F_BlackWidowCorrupt
-
-Corrupted Insight
-Target in sight and totally corrupted.
-CID_853_Athena_Commando_F_SniperHoodCorrupt
-
-Corrupted Shogun
-Suited for the ultimate corruption.
-CID_854_Athena_Commando_M_SamuraiUltraArmorCorrupt
-
-Hunter
-Always find your target.
-CID_855_Athena_Commando_M_Elastic
-
-Hypersonic
-First to the crime, every time.
-CID_856_Athena_Commando_M_Elastic_B
-
-Blastoff
-3... 2... 1... you know the rest.
-CID_857_Athena_Commando_M_Elastic_C
-
-Wanderlust
-Unpredictably uncontainable.
-CID_858_Athena_Commando_M_Elastic_D
-
-The Mighty Volt
-High-voltage and ready to roll.
-CID_859_Athena_Commando_M_Elastic_E
-
-Dynamo Dancer
-Go where your will takes you.
-CID_860_Athena_Commando_F_Elastic
-
-Backlash
-Strike back.
-CID_861_Athena_Commando_F_Elastic_B
-
-Firebrand
-Danger on the event horizon.
-CID_862_Athena_Commando_F_Elastic_C
-
-Polarity
-Follow the true star.
-CID_863_Athena_Commando_F_Elastic_D
-
-Joltara
-Champion of the solar winds.
-CID_864_Athena_Commando_F_Elastic_E
-
-Antheia
-Guardian of forgotten lands.
-CID_866_Athena_Commando_F_Myth
-
-Morro
-Warrior from a long lost world.
-CID_867_Athena_Commando_M_Myth
-
-Blade
-Eric Brooks: The Daywalker.
-CID_868_Athena_Commando_M_Backspin_3U6CA
-
-Victoria Saint
-Vampire-hunter of the Old West.
-CID_869_Athena_Commando_F_Cavalry
-
-Sagan
-Live the journey and lead the way.
-CID_871_Athena_Commando_F_StreetFashionGarnet
-
-Recruit
-Standard issue combatant outfit.
-CID_873_Athena_Commando_M_RebirthDefaultE
-
-Recruit
-Standard issue combatant outfit.
-CID_874_Athena_Commando_M_RebirthDefaultF
-
-Recruit
-Standard issue combatant outfit.
-CID_875_Athena_Commando_M_RebirthDefaultG
-
-Recruit
-Standard issue combatant outfit.
-CID_876_Athena_Commando_M_RebirthDefaultH
-
-Recruit
-Standard issue combatant outfit.
-CID_877_Athena_Commando_M_RebirthDefaultI
-
-Recruit
-Standard issue combatant outfit.
-CID_878_Athena_Commando_F_RebirthDefault_E
-
-Recruit
-Standard issue combatant outfit.
-CID_879_Athena_Commando_F_RebirthDefault_F
-
-Recruit
-Standard issue combatant outfit.
-CID_880_Athena_Commando_F_RebirthDefault_G
-
-Recruit
-Standard issue combatant outfit.
-CID_881_Athena_Commando_F_RebirthDefault_H
-
-Recruit
-Standard issue combatant outfit.
-CID_882_Athena_Commando_F_RebirthDefault_I
-
-Jonesy The First
-Never forget your first run.
-CID_883_Athena_Commando_M_ChOneJonesy
-
-Vintage Ramirez
-Back again and ready for action.
-CID_884_Athena_Commando_F_ChOneRamirez
-
-Hawk Classic
-Nobody messes with the Hawk.
-CID_885_Athena_Commando_M_ChOneHawk
-
-Original Renegade
-Classic.
-CID_886_Athena_Commando_M_ChOneRenegade
-
-Rookie Spitfire
-Rookie of the year.
-CID_887_Athena_Commando_M_ChOneSpitfire
-
-Vanguard Banshee
-Leading the charge.
-CID_888_Athena_Commando_F_ChOneBanshee
-
-Wildstreak One
-It takes one to know one.
-CID_889_Athena_Commando_F_ChOneWildcat
-
-Headhunter Prime
-It's prime time.
-CID_890_Athena_Commando_F_ChOneHeadhunter
-
-Lachlan
-Playing around to discover greatness.
-CID_891_Athena_Commando_M_LunchBox
-
-Midnight Dusk
-Doomed to an eternity of vampiric style.
-CID_892_Athena_Commando_F_VampireCasual
-
-Arachne Couture
-What a fabulous web we weave...
-CID_893_Athena_Commando_F_BlackWidowJacket
-
-Gnash
-Haunted and heartbroken.
-CID_894_Athena_Commando_M_Palespooky
-
-Daredevil
-Matt Murdock: The Man Without Fear
-CID_895_Athena_Commando_M_DeliSandwich
-
-Violet
-Embrace the dark.
-CID_896_Athena_Commando_F_SpookyNeon
-
-Nightsurf Bomber
-Stick to the shade.
-CID_897_Athena_Commando_F_DarkBomberSummer
-
-Grave
-Leather and roses are the last things you'll see.
-CID_898_Athena_Commando_M_FlowerSkeleton
-
-Grimoire
-Soul-reaper of the near future.
-CID_899_Athena_Commando_F_Poison
-
-Headlock
-Unleash your hunger.
-CID_900_Athena_Commando_M_Famine
-
-Patch
-Carve out your place in the night.
-CID_901_Athena_Commando_F_PumpkinSpice
-
-Punk
-Smashing.
-CID_902_Athena_Commando_M_PumpkinPunk
-
-Ravina
-Bewitching spirit from a dark dimension.
-CID_903_Athena_Commando_F_Frankie
-
-The Good Doctor
-He's got some inner demons.
-CID_904_Athena_Commando_M_Jekyll
-
-P.K.E. Ranger
-Heat 'em up!
-CID_905_Athena_Commando_M_York
-
-Containment Specialist
-Ghosts? Not on his watch.
-CID_906_Athena_Commando_M_York_B
-
-Ecto Expert
-A true ectoplasmic mastermind.
-CID_907_Athena_Commando_M_York_C
-
-Haunt Officer
-Who's in charge of this haunt?
-CID_908_Athena_Commando_M_York_D
-
-Paranormal Guide
-Your guide to the spirit world.
-CID_909_Athena_Commando_M_York_E
-
-Aura Analyzer
-Master of the metaphysical.
-CID_910_Athena_Commando_F_York
-
-Specter Inspector
-Back off man, she's a scientist.
-CID_911_Athena_Commando_F_York_B
-
-Phantom Commando
-We got one!
-CID_912_Athena_Commando_F_York_C
-
-Curse Buster
-There's more to worry about than ghosts...
-CID_913_Athena_Commando_F_York_D
-
-Spirit Sniper
-Take dead aim.
-CID_914_Athena_Commando_F_York_E
-
-Bone Ravage
-Circling underground, shrouded by skulls...
-CID_915_Athena_Commando_F_RavenQuillSkull
-
-Skull Squad Leader
-Lead your skeleteam to victory.
-CID_916_Athena_Commando_F_FuzzyBearSkull
-
-Bone Boss
-Bone-in beefy boss.
-CID_917_Athena_Commando_M_DurrburgerSkull
-
-Fishskull
-Maki Master strikes again.
-CID_918_Athena_Commando_M_TeriyakiFishSkull
-
-Baba Yaga
-Do you hear the sound of chicken legs...?
-CID_919_Athena_Commando_F_BabaYaga
-
-Party Trooper
-He came to party... like two hundred years ago.
-CID_920_Athena_Commando_M_PartyTrooper
-
-Poison Ivy
-Never turn your back on nature.
-CID_921_Athena_Commando_F_ParcelPetal
-
-The Joker
-Gotham's clown prince of crime.
-CID_922_Athena_Commando_M_ParcelPrank
-
-Midas Rex
-Long live the king.
-CID_923_Athena_Commando_M_ParcelGold
-
-Ghost Rider
-The thing about legends is... sometimes they're true.
-CID_924_Athena_Commando_M_Embers
-
-Black Widow (Snow Suit)
-Winter mission ready.
-CID_925_Athena_Commando_F_TapDance
-
-Cloud Striker
-Soar beyond the horizon.
-CID_926_Athena_Commando_F_StreetFashionDiamond
-
-REM Raider
-Nothing beats a little shut eye.
-CID_927_Athena_Commando_M_NauticalPajamas
-
-Nap Cap'n
-See you in your dreams.
-CID_928_Athena_Commando_M_NauticalPajamas_B
-
-Sgt. Snooze
-Drop and give me forty winks.
-CID_929_Athena_Commando_M_NauticalPajamas_C
-
-Dozer
-The best of the rest.
-CID_930_Athena_Commando_M_NauticalPajamas_D
-
-Slumberjack
-Just five more minutes.
-CID_931_Athena_Commando_M_NauticalPajamas_E
-
-Powerhouse
-Elite Vindertech Electro-trooper.
-CID_932_Athena_Commando_M_ShockWave
-
-Trinity Trooper
-Never stand still, give as hard as you get.
-CID_933_Athena_Commando_F_FuturePink
-
-Venom
-They're a complicated relationship.
-CID_934_Athena_Commando_M_Vertigo
-
-Galaxia
-Empress of the Cosmos.
-CID_935_Athena_Commando_F_Eternity
-
-Diamond Diva
-Synthetic diamonds need not apply.
-CID_936_Athena_Commando_F_RaiderSilver
-
-Pass Rush Ranger
-Hands, don't fail me now.
-CID_937_Athena_Commando_M_Football20_UIC2Q
-
-Scrimmage Scrapper
-Can't tackle what you can't catch.
-CID_938_Athena_Commando_M_Football20_B_I18W6
-
-Blitz Brigade
-No barriers.
-CID_939_Athena_Commando_M_Football20_C_9OP0F
-
-Red Zone Renegade
-Push past your limits.
-CID_940_Athena_Commando_M_Football20_D_ZID7Q
-
-TD Titan
-Show 'em who's MVP.
-CID_941_Athena_Commando_M_Football20_E_KNWUY
-
-Formation Fighter
-Master of the gridiron.
-CID_942_Athena_Commando_F_Football20_YQUPK
-
-Punt Paragon
-Put it through the uprights.
-CID_943_Athena_Commando_F_Football20_B_GR3WN
-
-Crossbar Crusher
-You think this is just a game?
-CID_944_Athena_Commando_F_Football20_C_FO6IY
-
-Snap Squad
-Just try her.
-CID_945_Athena_Commando_F_Football20_D_G1UYT
-
-Trench Runner
-Defensive line doesn't stand a chance.
-CID_946_Athena_Commando_F_Football20_E_EFKP3
-
-Fair Play
-Cheaters need not apply.
-CID_947_Athena_Commando_M_Football20Referee_IN7EY
-
-Sideline Commander
-Keep 'em on the straight and narrow.
-CID_948_Athena_Commando_M_Football20Referee_B_QPXTH
-
-Offside Officer
-Spotting fouls from a mile away.
-CID_949_Athena_Commando_M_Football20Referee_C_SMMEY
-
-Time-Out
-Defender of decency.
-CID_950_Athena_Commando_M_Football20Referee_D_MIHME
-
-Elite Linesman
-Let's all have a good time out there.
-CID_951_Athena_Commando_M_Football20Referee_E_QBIBA
-
-Huddle Hero
-Nothing escapes her eye.
-CID_952_Athena_Commando_F_Football20Referee_ZX4IC
-
-End Zone Expert
-Champion of her domain.
-CID_953_Athena_Commando_F_Football20Referee_B_5SV7Q
-
-Spiral Specialist
-Knows a good play when she sees one.
-CID_954_Athena_Commando_F_Football20Referee_C_NAQ0G
-
-Offense Overseer
-Nothing gets by her.
-CID_955_Athena_Commando_F_Football20Referee_D_OFZIL
-
-Replay Ranger
-Let's go to the tape.
-CID_956_Athena_Commando_F_Football20Referee_E_DQTP6
-
-Heart-Stopper
-Assassin trained to leave nothing but broken hearts in her wake.
-CID_957_Athena_Commando_F_Ponytail
-
-Mincemeat
-Made with love. And meat.
-CID_958_Athena_Commando_M_PieMan
-
-Cobb
-Shake off that husk and grab some butter.
-CID_959_Athena_Commando_M_Corny
-
-Mandalorian
-Bounty hunter from the outer reaches of the galaxy.
-CID_960_Athena_Commando_M_Cosmos
-
-Mave
-Wildheart defender of the Tempest Jungle.
-CID_961_Athena_Commando_F_Shapeshifter
-
-Mancake
-Forged on a griddle of rage.
-CID_962_Athena_Commando_M_FlapjackWrangler
-
-Lexa
-Don't let the smile fool you.
-CID_963_Athena_Commando_F_Lexa
-
-Kratos
-I am what the gods made me.
-CID_964_Athena_Commando_M_Historian_869BC
-
-Reese
-Always on the lookout for new additions for her trophy wall.
-CID_965_Athena_Commando_F_SpaceFighter
-
-Kondor
-Deadly gift to an ancient ruler.
-CID_966_Athena_Commando_M_FutureSamurai
-
-Menace
-The arena's greatest champion.
-CID_967_Athena_Commando_M_AncientGladiator
-
-Fa-La-La-La-Fishstick
-Koi to the world.
-CID_968_Athena_Commando_M_TeriyakiFishElf
-
-Snowmando
-He's holly, he's jolly, and he's ready to rumble.
-CID_969_Athena_Commando_M_SnowmanFashion
-
-Gingerbread Raider
-Let the festivities begin.
-CID_970_Athena_Commando_F_RenegadeRaiderHoliday
-
-Master Chief
-Master Chief Petty Officer John-117.
-CID_971_Athena_Commando_M_Jupiter_S0Z6M
-
-Frost Squad
-Ice cold tactics. Ice cold fashion.
-CID_972_Athena_Commando_F_ArcticCamoWoods
-
-Machinist Mina
-Building the future today.
-CID_973_Athena_Commando_F_Mechstructor
-
-Holly Striker
-Just here for the festivities.
-CID_974_Athena_Commando_F_StreetFashionHoliday
-
-Captain Marvel
-Higher, further, faster.
-CID_975_Athena_Commando_F_Cherry_B8XN5
-
-Michonne
-Facing evil brings good people together.
-CID_976_Athena_Commando_F_Wombat_0GRTQ
-
-Daryl Dixon
-We don't fight for revenge, we fight for our future.
-CID_977_Athena_Commando_M_Wombat_R7Q8K
-
-Mr. Dappermint
-Richest candy mogul this side of the North Pole.
-CID_978_Athena_Commando_M_FancyCandy
-
-Karve
-It's all downhill from here.
-CID_979_Athena_Commando_M_Snowboarder
-
-Snowbell
-Ring in the season by wrapping up a win.
-CID_980_Athena_Commando_F_Elf
-
-Cozy Jonesy
-Toasty, cozy, and out for cocoa.
-CID_981_Athena_Commando_M_JonesyHoliday
-
-Snow Drift
-Journey into the icy unknown, and drift like the snow.
-CID_982_Athena_Commando_M_DriftWinter
-
-Snowheart
-Hard as stone. Cold as ice.
-CID_983_Athena_Commando_F_CupidWinter
-
-Blinky
-You could even say he glows.
-CID_984_Athena_Commando_M_HolidayLights
-
-Green Arrow
-Former castaway Oliver Queen protects Star City as the expert archer Green Arrow.
-CID_985_Athena_Commando_M_TipToe_5L424
-
-Black Panther
-The rightful king of Wakanda.
-CID_986_Athena_Commando_M_PlumRetro_4AJA2
-
-Black Panther
-The rightful king of Wakanda.
-CID_986_PlumRetro_AnisoTest
-
-Frost Broker
-Welcome to the deep freeze.
-CID_987_Athena_Commando_M_Frostbyte
-
-Taskmaster
-He knows your every move.
-CID_988_Athena_Commando_M_Tiramisu_5KHZP
-
-Agent Jones
-Look sharp, we're saving reality.
-CID_989_Athena_Commando_M_ProgressiveJonesy
-
-TheGrefg
-And you thought he'd never get here.
-CID_990_Athena_Commando_M_GrilledCheese_SNX4K
-
-Predator
-The demon who makes trophies of men.
-CID_991_Athena_Commando_M_Nightmare_NM1C8
-
-Sarah Connor
-She was just a girl from LA, but destiny had big plans for her.
-CID_992_Athena_Commando_F_Typhoon_LPFU6
-
-T-800
-Pitiless. Remorseless. It will not stop. Ever.
-CID_993_Athena_Commando_M_TyphoonRobot_2YRGV
-
-Orin
-On the hunt for his long lost twin.
-CID_994_Athena_Commando_M_Lexa
-
-Midfield Master
-Take charge.
-CID_995_Athena_Commando_M_GlobalFB_H5OIJ
-
-Sgt. Sweeper
-Make the move.
-CID_996_Athena_Commando_M_GlobalFB_B_RVED4
-
-Galactico
-The world will know your name.
-CID_997_Athena_Commando_M_GlobalFB_C_N6I4H
-
-Power Poacher
-It's yours. Take it.
-CID_998_Athena_Commando_M_GlobalFB_D_UTIB8
-
-Breakaway
-Always be aggressive.
-CID_999_Athena_Commando_M_GlobalFB_E_OISU6
-
-Striker Specialist
-Bring it home.
-CID_A_001_Athena_Commando_F_GlobalFB_HDL2W
-
-Shot Stopper
-Nothing gets by you.
-CID_A_002_Athena_Commando_F_GlobalFB_B_0CH64
-
-Derby Dominator
-Leave your rivals in the dust.
-CID_A_003_Athena_Commando_F_GlobalFB_C_J4H5J
-
-Tiki Tackler
-Teamwork works.
-CID_A_004_Athena_Commando_F_GlobalFB_D_62OZ5
-
-Pitch Patroller
-When you're the best, it shows.
-CID_A_005_Athena_Commando_F_GlobalFB_E_GTH5I
-
-Snake Eyes
-Real name? Classified. Ninja master? Verified.
-CID_A_006_Athena_Commando_M_ConvoyTarantula_641PZ
-
-Ruby Shadows
-Sometimes you gotta go dark.
-CID_A_007_Athena_Commando_F_StreetFashionEclipse
-
-Tess
-Your best friend or your worst enemy.
-CID_A_008_Athena_Commando_F_CombatDoll
-
-Vi
-Always the hunter. Never the hunted.
-CID_A_009_Athena_Commando_F_FoxWarrior_21B9R
-
-The Flash
-Barry Allen: the Fastest Man Alive.
-CID_A_010_Athena_Commando_M_Tar_46FMC
-
-Cuddle King
-Love rules all.
-CID_A_011_Athena_Commando_M_StreetCuddles
-
-Cypher
-No System too encrypted.
-CID_A_012_Athena_Commando_M_Mainframe_V7Q8R
-
-Firewall
-No virus sneaky enough.
-CID_A_013_Athena_Commando_M_Mainframe_B_70Z5M
-
-Proxy
-He's a stealth operator.
-CID_A_014_Athena_Commando_M_Mainframe_C_YVDOL
-
-Datapath
-Whole lotta power under the hood.
-CID_A_015_Athena_Commando_M_Mainframe_D_S625D
-
-Packet
-The data you want, right on time.
-CID_A_016_Athena_Commando_M_Mainframe_E_KPZJL
-
-Bitstream
-She fights for the Users.
-CID_A_017_Athena_Commando_F_Mainframe_CYL17
-
-Commandline
-Born to explore the 'net.
-CID_A_018_Athena_Commando_F_Mainframe_B_T6GY4
-
-Upload
-Perfect delivery, every time.
-CID_A_019_Athena_Commando_F_Mainframe_C_U5RI4
-
-Io
-Lightning-fast APM.
-CID_A_020_Athena_Commando_F_Mainframe_D_ZHVEM
-
-Bandwidth
-Firewalls? What firewalls?
-CID_A_021_Athena_Commando_F_Mainframe_E_L34E4
-
-Lovely
-If they don't fall for you, give 'em a push.
-CID_A_022_Athena_Commando_F_Crush
-
-Ryu
-Determined to travel the world and test his skills until he becomes the best.
-CID_A_023_Athena_Commando_M_Skirmish_W1N7H
-
-Chun-Li
-Interpol officer with a strong sense of justice and even stronger roundhouse kick.
-CID_A_024_Athena_Commando_F_Skirmish_QW2BQ
-
-Xenomorph
-If you see it coming, it's already too late.
-CID_A_025_Athena_Commando_M_Kepler_UEN6V
-
-Ellen Ripley
-Last survivor of the Nostromo.
-CID_A_026_Athena_Commando_F_Kepler_2G59M
-
-Britestorm Bomber
-Breezy as a summer's day.
-CID_A_027_Athena_Commando_F_CasualBomberLight
-
-Sica
-The arena's next champion.
-CID_A_028_Athena_Commando_F_AncientGladiator
-
-Llambro
-He's one ice cold llamacorn.
-CID_A_029_Athena_Commando_M_LlamaHeroWinter_C83TZ
-
-Lazarbeam
-He's true blue.
-CID_A_031_Athena_Commando_M_Builder
-
-Cyprus Nell
-The closest thing to a father Reese ever had.
-CID_A_032_Athena_Commando_M_SpaceWarrior
-
-Ant-Man
-Size-shifting, insect-commanding Super Hero.
-CID_A_033_Athena_Commando_M_SmallFry_Z73EK
-
-Marigold
-Break the curse of the Golden Touch.
-CID_A_034_Athena_Commando_F_CatBurglar
-
-Centurion
-Hazard Platoon's extraction expert and munitions master.
-CID_A_035_Athena_Commando_M_LionSoldier
-
-Rebirth Raven
-Daughter of a demon and founding member of the Teen Titans.
-CID_A_036_Athena_Commando_F_Obsidian
-
-Tarana
-She sees visions of a long-gone world.
-CID_A_037_Athena_Commando_F_DinoHunter
-
-Spire Assassin
-Guardian of a world beyond reality.
-CID_A_038_Athena_Commando_F_TowerSentinel
-
-Cluck
-Cheep cheep cheep, cheep cheep b'kaw.
-CID_A_039_Athena_Commando_M_ChickenWarrior
-
-Lara Croft
-The extraordinary is in what we do, not who we are
-CID_A_040_Athena_Commando_F_Temple
-
-Raz
-On a mission to uncover the Spire's secrets.
-CID_A_041_Athena_Commando_M_CubeNinja
-
-Isabelle
-Voted "Most Likely To Succeed... Or Burn the Place Down."
-CID_A_042_Athena_Commando_F_Scholar
-
-Grave Feather
-Don't worry... it's only a nightmare.
-CID_A_043_Athena_Commando_M_DarkMinion
-
-Alli
-Who're you calling a stray?
-CID_A_044_Athena_Commando_F_NeonCatFashion_64JW3
-
-Potassius Peels
-Et tu, Fruitus?
-CID_A_045_Athena_Commando_M_BananaLeader
-
-Robo-Ray
-Robot chassis for extended field operations.
-CID_A_046_Athena_Commando_F_AssembleR
-
-Chigusa
-Journalist turned vigilante sworn to liberate the world from R.E.M.Corp's virtual prison.
-CID_A_048_Athena_Commando_F_SailorSquadLeader
-
-Megumi
-Ex-security guard so inspired by the Wakers that she turned on her bosses to join the cause.
-CID_A_049_Athena_Commando_F_SailorSquadRebel
-
-Yuki
-Though she seems sweet and shy, this expert hacker is the Wakers' muscle inside the virtual world.
-CID_A_050_Athena_Commando_F_SailorSquadRose
-
-Dutch
-Floppy, hoppy, and unstoppy-ble.
-CID_A_051_Athena_Commando_M_HipHare
-
-Whiska
-No bunny business allowed.
-CID_A_052_Athena_Commando_F_BunnyFashion
-
-Babbit
-That's one mod hare.
-CID_A_053_Athena_Commando_F_BunnyFashion_B
-
-Hopscotch
-Victory is just a hop away.
-CID_A_054_Athena_Commando_F_BunnyFashion_C
-
-CeeCee
-She's one tough bunny.
-CID_A_055_Athena_Commando_F_BunnyFashion_D
-
-Bunya
-Never cross a bunny.
-CID_A_056_Athena_Commando_F_BunnyFashion_E
-
-Megg
-Duck... duck... doom!
-CID_A_058_Athena_Commando_F_WickedDuck
-
-Webster
-Surrender your breadcrumbs.
-CID_A_059_Athena_Commando_M_WickedDuck
-
-Diamond Hanz
-Buy! Hodl! Win!
-CID_A_060_Athena_Commando_M_Daytrader_8MRO2
-
-IO Trooper
-Elite commando from the Imagined Order.
-CID_A_061_Athena_Commando_M_PaddedArmorOrder
-
-TBD
-TBD
-CID_NPC_Athena_Commando_F_HenchmanSpyDark
+id: CID_727_Athena_Commando_M_Tailor
+
+name: Master Minotaur
+description: Unleash your manimal instincts.
+id: CID_728_Athena_Commando_M_MinotaurLuck
+
+name: Pulse
+description: Be the light.
+id: CID_729_Athena_Commando_M_Neon
+
+name: Hedron
+description: Shape up. Ship out.
+id: CID_730_Athena_Commando_M_Stars
+
+name: Flow
+description: Light the way.
+id: CID_731_Athena_Commando_F_Neon
+
+name: Iso
+description: A little rough around the edges.
+id: CID_732_Athena_Commando_F_Stars
+
+name: Crimson Elite
+description: A true legend on the rise.
+id: CID_733_Athena_Commando_M_BannerRed
+
+name: Scarlet Commander
+description: Unknown and unforgettable.
+id: CID_734_Athena_Commando_F_BannerRed
+
+name: Synth
+description: Often duplicated, never defeated.
+id: CID_735_Athena_Commando_M_Informer
+
+name: Domino
+description: Make your own luck.
+id: CID_736_Athena_Commando_F_DonutDish
+
+name: Psylocke
+description: Telekinetically enhanced master martial artist.
+id: CID_737_Athena_Commando_F_DonutPlate
+
+name: Cable
+description: Seasoned soldier and master battle strategist.
+id: CID_738_Athena_Commando_M_DonutCup
+
+name: Boxer
+description: He always knows which side is up.
+id: CID_739_Athena_Commando_M_CardboardCrew
+
+name: Boxy
+description: Ship out and send 'em packing.
+id: CID_740_Athena_Commando_F_CardboardCrew
+
+name: Stella
+description: Bound into battle with springy pastel style.
+id: CID_741_Athena_Commando_F_HalloweenBunnySpring
+
+name: Bun Bun
+description: If you see him coming you'd better run run.
+id: CID_742_Athena_Commando_M_ChocoBunny
+
+name: Redux
+description: Revived. Rebuilt. Ready for revenge.
+id: CID_743_Athena_Commando_M_Handyman
+
+name: Quackling
+description: Quack in action.
+id: CID_744_Athena_Commando_F_DuckHero
+
+name: Ravenpool
+description: Maximum darkness.
+id: CID_745_Athena_Commando_M_RavenQuill
+
+name: Cuddlepool
+description: Ferociously furry.
+id: CID_746_Athena_Commando_F_FuzzyBear
+
+name: Renegade Shadow
+description: Step out of the shadows and stake your claim.
+id: CID_747_Athena_Commando_M_BadEgg
+
+name: Siren
+description: Unforgettable and inescapable.
+id: CID_748_Athena_Commando_F_Hitman
+
+name: Yellowjacket
+description: Venomous and victorious.
+id: CID_749_Athena_Commando_F_GraffitiAssassin
+
+name: Cyclo
+description: Defy the storm.
+id: CID_750_Athena_Commando_M_Hurricane
+
+name: Vix
+description: A true catssassin always lands on her feet.
+id: CID_751_Athena_Commando_F_NeonCatSpy
+
+name: Guff
+description: Don't fluff with Guff.
+id: CID_752_Athena_Commando_M_Comet
+
+name: Rue
+description: Her hobbies include revenge, vengeance, and retribution.
+id: CID_753_Athena_Commando_F_Hostile
+
+name: Envision
+description: Shine bright. Strike fast.
+id: CID_754_Athena_Commando_F_RaveNinja
+
+name: Wolf
+description: He's the one you call when all hope is lost.
+id: CID_755_Athena_Commando_M_Splinter
+
+name: Agent Jonesy
+description: Espionage suits him well.
+id: CID_756_Athena_Commando_M_JonesyAgent
+
+name: Wildcat
+description: Victory without taking a scratch.
+id: CID_757_Athena_Commando_F_WildCat
+
+name: Sig
+description: Master intercept agent.
+id: CID_758_Athena_Commando_M_TechExplorer
+
+name: Goldie
+description: Run the game.
+id: CID_759_Athena_Commando_F_RapVillainess
+
+name: Nightlife
+description: The life of the afterparty.
+id: CID_760_Athena_Commando_F_NeonTightSuit
+
+name: Astro Jack
+description: Out of this world.
+id: CID_761_Athena_Commando_M_CycloneSpace
+
+name: Wild Gunner
+description: Embrace your wild side.
+id: CID_762_Athena_Commando_M_BrightGunnerSpy
+
+name: Shimmer Specialist
+description: Show off your star moves.
+id: CID_763_Athena_Commando_F_ShinyJacket
+
+name: Loserfruit
+description: Good vibes only.
+id: CID_764_Athena_Commando_F_Loofah
+
+name: Siona
+description: A wanderer in a lost world.
+id: CID_765_Athena_Commando_F_SpaceWanderer
+
+name: Eternal Knight
+description: Honor shines eternal.
+id: CID_767_Athena_Commando_F_BlackKnight
+
+name: Fanatic
+description: In it to win it.
+id: CID_768_Athena_Commando_F_HardcoreSportz
+
+name: Showdown
+description: Ultimate showdowns only!
+id: CID_769_Athena_Commando_M_HardcoreSportz
+
+name: Jules
+description: Engineering perfection with a mysterious twist.
+id: CID_770_Athena_Commando_F_MechanicalEngineer
+
+name: Ocean
+description: The fight's not over until I say so.
+id: CID_771_Athena_Commando_F_OceanRider
+
+name: Aquaman
+description: The undisputed king of the sea.
+id: CID_772_Athena_Commando_M_Sandcastle
+
+name: Trench Trawler
+description: Strange secrets sleep deep beneath the waves.
+id: CID_773_Athena_Commando_M_Beacon
+
+name: Scuba Jonesy
+description: Jonesy of the deep!
+id: CID_774_Athena_Commando_M_TacticalScuba
+
+name: Rally Raider
+description: Live like every lap's a victory lap.
+id: CID_775_Athena_Commando_F_StreetRacerCobraGold
+
+name: Kit
+description: Proudly following in his father's pawprints.
+id: CID_776_Athena_Commando_M_ProfessorPup
+
+name: Fade
+description: Far from home, the journey must continue.
+id: CID_777_Athena_Commando_M_RacerZero
+
+name: Swamp Stomper
+description: Gator-trained master swampsman.
+id: CID_778_Athena_Commando_M_Gator
+
+name: GHOST Beach Brawler
+description: Hit the beach.
+id: CID_779_Athena_Commando_M_HenchmanGoodShorts
+
+name: SHADOW Beach Brawler
+description: It's brawl or nothing.
+id: CID_780_Athena_Commando_M_HenchmanBadShorts
+
+name: Metal Team Leader
+description: Totally metal.
+id: CID_781_Athena_Commando_F_FuzzyBearTEDDY
+
+name: Nite Gunner
+description: The future looks nite.
+id: CID_782_Athena_Commando_M_BrightGunnerEclipse
+
+name: Surf Strider
+description: Harness the power of a rogue wave.
+id: CID_783_Athena_Commando_M_AquaJacket
+
+name: Blaze
+description: Fill the world with flames.
+id: CID_784_Athena_Commando_F_RenegadeRaiderFire
+
+name: Scarlet Serpent
+description: Heartless combatant with a venomous soul.
+id: CID_785_Athena_Commando_F_Python
+
+name: Double Agent Hush
+description: Haunt your enemy's every move.
+id: CID_786_Athena_Commando_F_CavalryBandit_Ghost
+
+name: Double Agent Wildcard
+description: Everything according to plan.
+id: CID_787_Athena_Commando_M_Heist_Ghost
+
+name: Chaos Double Agent
+description: Chaos beyond measure.
+id: CID_788_Athena_Commando_M_Mastermind_Ghost
+
+name: TBD
+description: TBD
+id: CID_789_Athena_Commando_M_HenchmanGoodShorts_B
+
+name: TBD
+description: TBD
+id: CID_790_Athena_Commando_M_HenchmanGoodShorts_C
+
+name: TBD
+description: TBD
+id: CID_791_Athena_Commando_M_HenchmanGoodShorts_D
+
+name: TBD
+description: TBD
+id: CID_792_Athena_Commando_M_HenchmanBadShorts_B
+
+name: TBD
+description: TBD
+id: CID_793_Athena_Commando_M_HenchmanBadShorts_C
+
+name: TBD
+description: TBD
+id: CID_794_Athena_Commando_M_HenchmanBadShorts_D
+
+name: Dummy
+description: Look out!
+id: CID_795_Athena_Commando_M_Dummeez
+
+name: Sandshark Driver
+description: World class heavy tank driver.
+id: CID_796_Athena_Commando_F_Tank
+
+name: Lada
+description: Spicy and saucy.
+id: CID_797_Athena_Commando_F_Taco
+
+name: Relaxed Fit Jonesy
+description: Victory or whatever else you've got, he's not picky.
+id: CID_798_Athena_Commando_M_JonesyVagabond
+
+name: Darkheart
+description: Statuesque heart breaker.
+id: CID_799_Athena_Commando_F_CupidDark
+
+name: Bryce 3000
+description: Influencer. Fashionista. Robot.
+id: CID_800_Athena_Commando_M_Robro
+
+name: Par Patroller
+description: Patience and focus wins the match.
+id: CID_801_Athena_Commando_F_GolfSummer
+
+name: Safari
+description: Conqueror of the untamed.
+id: CID_802_Athena_Commando_F_HeartBreaker
+
+name: Cozy Chomps
+description: Take life one chomp at a time.
+id: CID_803_Athena_Commando_F_SharkSuit
+
+name: Comfy Chomps
+description: Kick back and get chompin.
+id: CID_804_Athena_Commando_M_SharkSuit
+
+name: Surf Witch
+description: Curse the beach with your dark presence.
+id: CID_805_Athena_Commando_F_PunkDevilSummer
+
+name: Kyra
+description: Never afraid to stand out.
+id: CID_806_Athena_Commando_F_GreenJacket
+
+name: Captain America
+description: Super soldier Steve Rogers stands as an enduring sentinel of liberty.
+id: CID_807_Athena_Commando_M_CandyApple_B1U7X
+
+name: Starflare
+description: The last star you'll see tonight.
+id: CID_808_Athena_Commando_F_ConstellationSun
+
+name: Black Manta
+description: Merciless undersea mercenary.
+id: CID_809_Athena_Commando_M_Seaweed_IXRLQ
+
+name: Shore Leave
+description: Hit the beach and make some waves.
+id: CID_810_Athena_Commando_M_MilitaryFashionSummer
+
+name: Tropical Punch Zoey
+description: Candy-coated mayhem.
+id: CID_811_Athena_Commando_F_CandySummer
+
+name: Summer Fable
+description: The beach isn't safe... from her.
+id: CID_812_Athena_Commando_F_RedRidingSummer
+
+name: Atlantean Fishstick
+description: King of the Fishsticks.
+id: CID_813_Athena_Commando_M_TeriyakiAtlantis
+
+name: Unpeely
+description: No peel, no shoes, no problem.
+id: CID_814_Athena_Commando_M_BananaSummer
+
+name: Sizzle
+description: She makes this look cheesy.
+id: CID_815_Athena_Commando_F_DurrburgerHero
+
+name: Barracuda
+description: Careful, she'll get her hooks in you.
+id: CID_816_Athena_Commando_F_DirtyDocks
+
+name: Waveripper
+description: Deadliest catch this side of the coral reef.
+id: CID_817_Athena_Commando_M_DirtyDocks
+
+name: Party Star
+description: All eyes on you.
+id: CID_818_Athena_Commando_F_NeonTightSuit_A
+
+name: Party Diva
+description: Only the best.
+id: CID_819_Athena_Commando_F_NeonTightSuit_B
+
+name: Party MVP
+description: There can be only one.
+id: CID_820_Athena_Commando_F_NeonTightSuit_C
+
+name: Mariana
+description: Champion of the ocean's light.
+id: CID_822_Athena_Commando_F_Angler
+
+name: Kalia
+description: The island warrior has arrived.
+id: CID_823_Athena_Commando_F_Islander
+
+name: Athleisure Assassin
+description: Definitely not off-the-rack.
+id: CID_824_Athena_Commando_F_RaiderPink
+
+name: Adeline
+description: Don't get caught wearing last season's looks.
+id: CID_825_Athena_Commando_F_SportsFashion
+
+name: King Krab
+description: Behold my luminous krabulosity! Glow style glows at night.
+id: CID_826_Athena_Commando_M_FloatillaCaptain
+
+name: Mecha Team Shadow
+description: Shadow assembly required.
+id: CID_827_Athena_Commando_M_MultibotStealth
+
+name: Pitstop
+description: Just try to keep up.
+id: CID_828_Athena_Commando_F_Valet
+
+name: Storm Racer
+description: Leave the competition in your rearview.
+id: CID_829_Athena_Commando_M_Valet
+
+name: Deo
+description: His journey continues.
+id: CID_830_Athena_Commando_M_SpaceWanderer
+
+name: Crustina
+description: Saucy, Spicy, Right Behind You.
+id: CID_831_Athena_Commando_F_PIzzaPitMascot
+
+name: Splatterella
+description: Llamas beware.
+id: CID_832_Athena_Commando_F_AntiLlama
+
+name: Derby Dynamo
+description: Just try putting her in the penalty box.
+id: CID_833_Athena_Commando_F_TripleScoop
+
+name: Axo
+description: Here to see if life on dry land lives up to the hype.
+id: CID_834_Athena_Commando_M_Axl
+
+name: Bryne
+description: A genuine Atlantean princess.
+id: CID_835_Athena_Commando_F_LadyAtlantis
+
+name: Castaway Jonesy
+description: He's not lost, okay?
+id: CID_836_Athena_Commando_M_JonesyFlare
+
+name: Seeker
+description: Nothing's lost that can't be found.
+id: CID_837_Athena_Commando_M_MaskedDancer
+
+name: Samurai Scrapper
+description: A true warrior can make a weapon from whatever's at hand.
+id: CID_838_Athena_Commando_M_JunkSamurai
+
+name: Storm
+description: Goddess of the Elements.
+id: CID_839_Athena_Commando_F_HightowerSquash
+
+name: Groot
+description: He is Groot.
+id: CID_840_Athena_Commando_M_HightowerGrape
+
+name: Wolverine
+description: He's the best there is at what he does.
+id: CID_841_Athena_Commando_M_HightowerWasabi
+
+name: Jennifer Walters
+description: Brains or brawn... Why not both?
+id: CID_842_Athena_Commando_F_HightowerHoneydew
+
+name: Tony Stark
+description: Billionaire. Playboy. Philanthropist. Inventor.
+id: CID_843_Athena_Commando_M_HightowerTomato_Casual
+
+name: Mystique
+description: Deadly assassin and undisputed master of disguise.
+id: CID_844_Athena_Commando_F_HightowerMango
+
+name: Thor
+description: Son of Odin. God of Thunder.
+id: CID_845_Athena_Commando_M_HightowerTapas
+
+name: Doctor Doom
+description: Eternal ruler of Latveria. He is Doom.
+id: CID_846_Athena_Commando_M_HightowerDate
+
+name: Silver Surfer
+description: Reflective rider of the cosmic currents.
+id: CID_847_Athena_Commando_M_Soy_2AS3C
+
+name: Dread Fate
+description: May they dread their encounter with fate.
+id: CID_848_Athena_Commando_F_DarkNinjaPurple
+
+name: Dread Omen
+description: Your victory is dreaded by many.
+id: CID_849_Athena_Commando_M_DarkEaglePurple
+
+name: Dark Skully
+description: The dreaded master of stylish domination.
+id: CID_850_Athena_Commando_F_SkullBriteCube
+
+name: Tart Tycoon
+description: #FreeFortnite
+id: CID_851_Athena_Commando_M_Bittenhead
+
+name: Corrupted Arachne
+description: Weave a web of corruption... to victory.
+id: CID_852_Athena_Commando_F_BlackWidowCorrupt
+
+name: Corrupted Insight
+description: Target in sight and totally corrupted.
+id: CID_853_Athena_Commando_F_SniperHoodCorrupt
+
+name: Corrupted Shogun
+description: Suited for the ultimate corruption.
+id: CID_854_Athena_Commando_M_SamuraiUltraArmorCorrupt
+
+name: Hunter
+description: Always find your target.
+id: CID_855_Athena_Commando_M_Elastic
+
+name: Hypersonic
+description: First to the crime, every time.
+id: CID_856_Athena_Commando_M_Elastic_B
+
+name: Blastoff
+description: 3... 2... 1... you know the rest.
+id: CID_857_Athena_Commando_M_Elastic_C
+
+name: Wanderlust
+description: Unpredictably uncontainable.
+id: CID_858_Athena_Commando_M_Elastic_D
+
+name: The Mighty Volt
+description: High-voltage and ready to roll.
+id: CID_859_Athena_Commando_M_Elastic_E
+
+name: Dynamo Dancer
+description: Go where your will takes you.
+id: CID_860_Athena_Commando_F_Elastic
+
+name: Backlash
+description: Strike back.
+id: CID_861_Athena_Commando_F_Elastic_B
+
+name: Firebrand
+description: Danger on the event horizon.
+id: CID_862_Athena_Commando_F_Elastic_C
+
+name: Polarity
+description: Follow the true star.
+id: CID_863_Athena_Commando_F_Elastic_D
+
+name: Joltara
+description: Champion of the solar winds.
+id: CID_864_Athena_Commando_F_Elastic_E
+
+name: Antheia
+description: Guardian of forgotten lands.
+id: CID_866_Athena_Commando_F_Myth
+
+name: Morro
+description: Warrior from a long lost world.
+id: CID_867_Athena_Commando_M_Myth
+
+name: Blade
+description: Eric Brooks: The Daywalker.
+id: CID_868_Athena_Commando_M_Backspin_3U6CA
+
+name: Victoria Saint
+description: Vampire-hunter of the Old West.
+id: CID_869_Athena_Commando_F_Cavalry
+
+name: Sagan
+description: Live the journey and lead the way.
+id: CID_871_Athena_Commando_F_StreetFashionGarnet
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_873_Athena_Commando_M_RebirthDefaultE
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_874_Athena_Commando_M_RebirthDefaultF
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_875_Athena_Commando_M_RebirthDefaultG
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_876_Athena_Commando_M_RebirthDefaultH
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_877_Athena_Commando_M_RebirthDefaultI
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_878_Athena_Commando_F_RebirthDefault_E
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_879_Athena_Commando_F_RebirthDefault_F
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_880_Athena_Commando_F_RebirthDefault_G
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_881_Athena_Commando_F_RebirthDefault_H
+
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_882_Athena_Commando_F_RebirthDefault_I
+
+name: Jonesy The First
+description: Never forget your first run.
+id: CID_883_Athena_Commando_M_ChOneJonesy
+
+name: Vintage Ramirez
+description: Back again and ready for action.
+id: CID_884_Athena_Commando_F_ChOneRamirez
+
+name: Hawk Classic
+description: Nobody messes with the Hawk.
+id: CID_885_Athena_Commando_M_ChOneHawk
+
+name: Original Renegade
+description: Classic.
+id: CID_886_Athena_Commando_M_ChOneRenegade
+
+name: Rookie Spitfire
+description: Rookie of the year.
+id: CID_887_Athena_Commando_M_ChOneSpitfire
+
+name: Vanguard Banshee
+description: Leading the charge.
+id: CID_888_Athena_Commando_F_ChOneBanshee
+
+name: Wildstreak One
+description: It takes one to know one.
+id: CID_889_Athena_Commando_F_ChOneWildcat
+
+name: Headhunter Prime
+description: It's prime time.
+id: CID_890_Athena_Commando_F_ChOneHeadhunter
+
+name: Lachlan
+description: Playing around to discover greatness.
+id: CID_891_Athena_Commando_M_LunchBox
+
+name: Midnight Dusk
+description: Doomed to an eternity of vampiric style.
+id: CID_892_Athena_Commando_F_VampireCasual
+
+name: Arachne Couture
+description: What a fabulous web we weave...
+id: CID_893_Athena_Commando_F_BlackWidowJacket
+
+name: Gnash
+description: Haunted and heartbroken.
+id: CID_894_Athena_Commando_M_Palespooky
+
+name: Daredevil
+description: Matt Murdock: The Man Without Fear
+id: CID_895_Athena_Commando_M_DeliSandwich
+
+name: Violet
+description: Embrace the dark.
+id: CID_896_Athena_Commando_F_SpookyNeon
+
+name: Nightsurf Bomber
+description: Stick to the shade.
+id: CID_897_Athena_Commando_F_DarkBomberSummer
+
+name: Grave
+description: Leather and roses are the last things you'll see.
+id: CID_898_Athena_Commando_M_FlowerSkeleton
+
+name: Grimoire
+description: Soul-reaper of the near future.
+id: CID_899_Athena_Commando_F_Poison
+
+name: Headlock
+description: Unleash your hunger.
+id: CID_900_Athena_Commando_M_Famine
+
+name: Patch
+description: Carve out your place in the night.
+id: CID_901_Athena_Commando_F_PumpkinSpice
+
+name: Punk
+description: Smashing.
+id: CID_902_Athena_Commando_M_PumpkinPunk
+
+name: Ravina
+description: Bewitching spirit from a dark dimension.
+id: CID_903_Athena_Commando_F_Frankie
+
+name: The Good Doctor
+description: He's got some inner demons.
+id: CID_904_Athena_Commando_M_Jekyll
+
+name: P.K.E. Ranger
+description: Heat 'em up!
+id: CID_905_Athena_Commando_M_York
+
+name: Containment Specialist
+description: Ghosts? Not on his watch.
+id: CID_906_Athena_Commando_M_York_B
+
+name: Ecto Expert
+description: A true ectoplasmic mastermind.
+id: CID_907_Athena_Commando_M_York_C
+
+name: Haunt Officer
+description: Who's in charge of this haunt?
+id: CID_908_Athena_Commando_M_York_D
+
+name: Paranormal Guide
+description: Your guide to the spirit world.
+id: CID_909_Athena_Commando_M_York_E
+
+name: Aura Analyzer
+description: Master of the metaphysical.
+id: CID_910_Athena_Commando_F_York
+
+name: Specter Inspector
+description: Back off man, she's a scientist.
+id: CID_911_Athena_Commando_F_York_B
+
+name: Phantom Commando
+description: We got one!
+id: CID_912_Athena_Commando_F_York_C
+
+name: Curse Buster
+description: There's more to worry about than ghosts...
+id: CID_913_Athena_Commando_F_York_D
+
+name: Spirit Sniper
+description: Take dead aim.
+id: CID_914_Athena_Commando_F_York_E
+
+name: Bone Ravage
+description: Circling underground, shrouded by skulls...
+id: CID_915_Athena_Commando_F_RavenQuillSkull
+
+name: Skull Squad Leader
+description: Lead your skeleteam to victory.
+id: CID_916_Athena_Commando_F_FuzzyBearSkull
+
+name: Bone Boss
+description: Bone-in beefy boss.
+id: CID_917_Athena_Commando_M_DurrburgerSkull
+
+name: Fishskull
+description: Maki Master strikes again.
+id: CID_918_Athena_Commando_M_TeriyakiFishSkull
+
+name: Baba Yaga
+description: Do you hear the sound of chicken legs...?
+id: CID_919_Athena_Commando_F_BabaYaga
+
+name: Party Trooper
+description: He came to party... like two hundred years ago.
+id: CID_920_Athena_Commando_M_PartyTrooper
+
+name: Poison Ivy
+description: Never turn your back on nature.
+id: CID_921_Athena_Commando_F_ParcelPetal
+
+name: The Joker
+description: Gotham's clown prince of crime.
+id: CID_922_Athena_Commando_M_ParcelPrank
+
+name: Midas Rex
+description: Long live the king.
+id: CID_923_Athena_Commando_M_ParcelGold
+
+name: Ghost Rider
+description: The thing about legends is... sometimes they're true.
+id: CID_924_Athena_Commando_M_Embers
+
+name: Black Widow (Snow Suit)
+description: Winter mission ready.
+id: CID_925_Athena_Commando_F_TapDance
+
+name: Cloud Striker
+description: Soar beyond the horizon.
+id: CID_926_Athena_Commando_F_StreetFashionDiamond
+
+name: REM Raider
+description: Nothing beats a little shut eye.
+id: CID_927_Athena_Commando_M_NauticalPajamas
+
+name: Nap Cap'n
+description: See you in your dreams.
+id: CID_928_Athena_Commando_M_NauticalPajamas_B
+
+name: Sgt. Snooze
+description: Drop and give me forty winks.
+id: CID_929_Athena_Commando_M_NauticalPajamas_C
+
+name: Dozer
+description: The best of the rest.
+id: CID_930_Athena_Commando_M_NauticalPajamas_D
+
+name: Slumberjack
+description: Just five more minutes.
+id: CID_931_Athena_Commando_M_NauticalPajamas_E
+
+name: Powerhouse
+description: Elite Vindertech Electro-trooper.
+id: CID_932_Athena_Commando_M_ShockWave
+
+name: Trinity Trooper
+description: Never stand still, give as hard as you get.
+id: CID_933_Athena_Commando_F_FuturePink
+
+name: Venom
+description: They're a complicated relationship.
+id: CID_934_Athena_Commando_M_Vertigo
+
+name: Galaxia
+description: Empress of the Cosmos.
+id: CID_935_Athena_Commando_F_Eternity
+
+name: Diamond Diva
+description: Synthetic diamonds need not apply.
+id: CID_936_Athena_Commando_F_RaiderSilver
+
+name: Pass Rush Ranger
+description: Hands, don't fail me now.
+id: CID_937_Athena_Commando_M_Football20_UIC2Q
+
+name: Scrimmage Scrapper
+description: Can't tackle what you can't catch.
+id: CID_938_Athena_Commando_M_Football20_B_I18W6
+
+name: Blitz Brigade
+description: No barriers.
+id: CID_939_Athena_Commando_M_Football20_C_9OP0F
+
+name: Red Zone Renegade
+description: Push past your limits.
+id: CID_940_Athena_Commando_M_Football20_D_ZID7Q
+
+name: TD Titan
+description: Show 'em who's MVP.
+id: CID_941_Athena_Commando_M_Football20_E_KNWUY
+
+name: Formation Fighter
+description: Master of the gridiron.
+id: CID_942_Athena_Commando_F_Football20_YQUPK
+
+name: Punt Paragon
+description: Put it through the uprights.
+id: CID_943_Athena_Commando_F_Football20_B_GR3WN
+
+name: Crossbar Crusher
+description: You think this is just a game?
+id: CID_944_Athena_Commando_F_Football20_C_FO6IY
+
+name: Snap Squad
+description: Just try her.
+id: CID_945_Athena_Commando_F_Football20_D_G1UYT
+
+name: Trench Runner
+description: Defensive line doesn't stand a chance.
+id: CID_946_Athena_Commando_F_Football20_E_EFKP3
+
+name: Fair Play
+description: Cheaters need not apply.
+id: CID_947_Athena_Commando_M_Football20Referee_IN7EY
+
+name: Sideline Commander
+description: Keep 'em on the straight and narrow.
+id: CID_948_Athena_Commando_M_Football20Referee_B_QPXTH
+
+name: Offside Officer
+description: Spotting fouls from a mile away.
+id: CID_949_Athena_Commando_M_Football20Referee_C_SMMEY
+
+name: Time-Out
+description: Defender of decency.
+id: CID_950_Athena_Commando_M_Football20Referee_D_MIHME
+
+name: Elite Linesman
+description: Let's all have a good time out there.
+id: CID_951_Athena_Commando_M_Football20Referee_E_QBIBA
+
+name: Huddle Hero
+description: Nothing escapes her eye.
+id: CID_952_Athena_Commando_F_Football20Referee_ZX4IC
+
+name: End Zone Expert
+description: Champion of her domain.
+id: CID_953_Athena_Commando_F_Football20Referee_B_5SV7Q
+
+name: Spiral Specialist
+description: Knows a good play when she sees one.
+id: CID_954_Athena_Commando_F_Football20Referee_C_NAQ0G
+
+name: Offense Overseer
+description: Nothing gets by her.
+id: CID_955_Athena_Commando_F_Football20Referee_D_OFZIL
+
+name: Replay Ranger
+description: Let's go to the tape.
+id: CID_956_Athena_Commando_F_Football20Referee_E_DQTP6
+
+name: Heart-Stopper
+description: Assassin trained to leave nothing but broken hearts in her wake.
+id: CID_957_Athena_Commando_F_Ponytail
+
+name: Mincemeat
+description: Made with love. And meat.
+id: CID_958_Athena_Commando_M_PieMan
+
+name: Cobb
+description: Shake off that husk and grab some butter.
+id: CID_959_Athena_Commando_M_Corny
+
+name: Mandalorian
+description: Bounty hunter from the outer reaches of the galaxy.
+id: CID_960_Athena_Commando_M_Cosmos
+
+name: Mave
+description: Wildheart defender of the Tempest Jungle.
+id: CID_961_Athena_Commando_F_Shapeshifter
+
+name: Mancake
+description: Forged on a griddle of rage.
+id: CID_962_Athena_Commando_M_FlapjackWrangler
+
+name: Lexa
+description: Don't let the smile fool you.
+id: CID_963_Athena_Commando_F_Lexa
+
+name: Kratos
+description: I am what the gods made me.
+id: CID_964_Athena_Commando_M_Historian_869BC
+
+name: Reese
+description: Always on the lookout for new additions for her trophy wall.
+id: CID_965_Athena_Commando_F_SpaceFighter
+
+name: Kondor
+description: Deadly gift to an ancient ruler.
+id: CID_966_Athena_Commando_M_FutureSamurai
+
+name: Menace
+description: The arena's greatest champion.
+id: CID_967_Athena_Commando_M_AncientGladiator
+
+name: Fa-La-La-La-Fishstick
+description: Koi to the world.
+id: CID_968_Athena_Commando_M_TeriyakiFishElf
+
+name: Snowmando
+description: He's holly, he's jolly, and he's ready to rumble.
+id: CID_969_Athena_Commando_M_SnowmanFashion
+
+name: Gingerbread Raider
+description: Let the festivities begin.
+id: CID_970_Athena_Commando_F_RenegadeRaiderHoliday
+
+name: Master Chief
+description: Master Chief Petty Officer John-117.
+id: CID_971_Athena_Commando_M_Jupiter_S0Z6M
+
+name: Frost Squad
+description: Ice cold tactics. Ice cold fashion.
+id: CID_972_Athena_Commando_F_ArcticCamoWoods
+
+name: Machinist Mina
+description: Building the future today.
+id: CID_973_Athena_Commando_F_Mechstructor
+
+name: Holly Striker
+description: Just here for the festivities.
+id: CID_974_Athena_Commando_F_StreetFashionHoliday
+
+name: Captain Marvel
+description: Higher, further, faster.
+id: CID_975_Athena_Commando_F_Cherry_B8XN5
+
+name: Michonne
+description: Facing evil brings good people together.
+id: CID_976_Athena_Commando_F_Wombat_0GRTQ
+
+name: Daryl Dixon
+description: We don't fight for revenge, we fight for our future.
+id: CID_977_Athena_Commando_M_Wombat_R7Q8K
+
+name: Mr. Dappermint
+description: Richest candy mogul this side of the North Pole.
+id: CID_978_Athena_Commando_M_FancyCandy
+
+name: Karve
+description: It's all downhill from here.
+id: CID_979_Athena_Commando_M_Snowboarder
+
+name: Snowbell
+description: Ring in the season by wrapping up a win.
+id: CID_980_Athena_Commando_F_Elf
+
+name: Cozy Jonesy
+description: Toasty, cozy, and out for cocoa.
+id: CID_981_Athena_Commando_M_JonesyHoliday
+
+name: Snow Drift
+description: Journey into the icy unknown, and drift like the snow.
+id: CID_982_Athena_Commando_M_DriftWinter
+
+name: Snowheart
+description: Hard as stone. Cold as ice.
+id: CID_983_Athena_Commando_F_CupidWinter
+
+name: Blinky
+description: You could even say he glows.
+id: CID_984_Athena_Commando_M_HolidayLights
+
+name: Green Arrow
+description: Former castaway Oliver Queen protects Star City as the expert archer Green Arrow.
+id: CID_985_Athena_Commando_M_TipToe_5L424
+
+name: Black Panther
+description: The rightful king of Wakanda.
+id: CID_986_Athena_Commando_M_PlumRetro_4AJA2
+
+name: Black Panther
+description: The rightful king of Wakanda.
+id: CID_986_PlumRetro_AnisoTest
+
+name: Frost Broker
+description: Welcome to the deep freeze.
+id: CID_987_Athena_Commando_M_Frostbyte
+
+name: Taskmaster
+description: He knows your every move.
+id: CID_988_Athena_Commando_M_Tiramisu_5KHZP
+
+name: Agent Jones
+description: Look sharp, we're saving reality.
+id: CID_989_Athena_Commando_M_ProgressiveJonesy
+
+name: TheGrefg
+description: And you thought he'd never get here.
+id: CID_990_Athena_Commando_M_GrilledCheese_SNX4K
+
+name: Predator
+description: The demon who makes trophies of men.
+id: CID_991_Athena_Commando_M_Nightmare_NM1C8
+
+name: Sarah Connor
+description: She was just a girl from LA, but destiny had big plans for her.
+id: CID_992_Athena_Commando_F_Typhoon_LPFU6
+
+name: T-800
+description: Pitiless. Remorseless. It will not stop. Ever.
+id: CID_993_Athena_Commando_M_TyphoonRobot_2YRGV
+
+name: Orin
+description: On the hunt for his long lost twin.
+id: CID_994_Athena_Commando_M_Lexa
+
+name: Midfield Master
+description: Take charge.
+id: CID_995_Athena_Commando_M_GlobalFB_H5OIJ
+
+name: Sgt. Sweeper
+description: Make the move.
+id: CID_996_Athena_Commando_M_GlobalFB_B_RVED4
+
+name: Galactico
+description: The world will know your name.
+id: CID_997_Athena_Commando_M_GlobalFB_C_N6I4H
+
+name: Power Poacher
+description: It's yours. Take it.
+id: CID_998_Athena_Commando_M_GlobalFB_D_UTIB8
+
+name: Breakaway
+description: Always be aggressive.
+id: CID_999_Athena_Commando_M_GlobalFB_E_OISU6
+
+name: Striker Specialist
+description: Bring it home.
+id: CID_A_001_Athena_Commando_F_GlobalFB_HDL2W
+
+name: Shot Stopper
+description: Nothing gets by you.
+id: CID_A_002_Athena_Commando_F_GlobalFB_B_0CH64
+
+name: Derby Dominator
+description: Leave your rivals in the dust.
+id: CID_A_003_Athena_Commando_F_GlobalFB_C_J4H5J
+
+name: Tiki Tackler
+description: Teamwork works.
+id: CID_A_004_Athena_Commando_F_GlobalFB_D_62OZ5
+
+name: Pitch Patroller
+description: When you're the best, it shows.
+id: CID_A_005_Athena_Commando_F_GlobalFB_E_GTH5I
+
+name: Snake Eyes
+description: Real name? Classified. Ninja master? Verified.
+id: CID_A_006_Athena_Commando_M_ConvoyTarantula_641PZ
+
+name: Ruby Shadows
+description: Sometimes you gotta go dark.
+id: CID_A_007_Athena_Commando_F_StreetFashionEclipse
+
+name: Tess
+description: Your best friend or your worst enemy.
+id: CID_A_008_Athena_Commando_F_CombatDoll
+
+name: Vi
+description: Always the hunter. Never the hunted.
+id: CID_A_009_Athena_Commando_F_FoxWarrior_21B9R
+
+name: The Flash
+description: Barry Allen: the Fastest Man Alive.
+id: CID_A_010_Athena_Commando_M_Tar_46FMC
+
+name: Cuddle King
+description: Love rules all.
+id: CID_A_011_Athena_Commando_M_StreetCuddles
+
+name: Cypher
+description: No System too encrypted.
+id: CID_A_012_Athena_Commando_M_Mainframe_V7Q8R
+
+name: Firewall
+description: No virus sneaky enough.
+id: CID_A_013_Athena_Commando_M_Mainframe_B_70Z5M
+
+name: Proxy
+description: He's a stealth operator.
+id: CID_A_014_Athena_Commando_M_Mainframe_C_YVDOL
+
+name: Datapath
+description: Whole lotta power under the hood.
+id: CID_A_015_Athena_Commando_M_Mainframe_D_S625D
+
+name: Packet
+description: The data you want, right on time.
+id: CID_A_016_Athena_Commando_M_Mainframe_E_KPZJL
+
+name: Bitstream
+description: She fights for the Users.
+id: CID_A_017_Athena_Commando_F_Mainframe_CYL17
+
+name: Commandline
+description: Born to explore the 'net.
+id: CID_A_018_Athena_Commando_F_Mainframe_B_T6GY4
+
+name: Upload
+description: Perfect delivery, every time.
+id: CID_A_019_Athena_Commando_F_Mainframe_C_U5RI4
+
+name: Io
+description: Lightning-fast APM.
+id: CID_A_020_Athena_Commando_F_Mainframe_D_ZHVEM
+
+name: Bandwidth
+description: Firewalls? What firewalls?
+id: CID_A_021_Athena_Commando_F_Mainframe_E_L34E4
+
+name: Lovely
+description: If they don't fall for you, give 'em a push.
+id: CID_A_022_Athena_Commando_F_Crush
+
+name: Ryu
+description: Determined to travel the world and test his skills until he becomes the best.
+id: CID_A_023_Athena_Commando_M_Skirmish_W1N7H
+
+name: Chun-Li
+description: Interpol officer with a strong sense of justice and even stronger roundhouse kick.
+id: CID_A_024_Athena_Commando_F_Skirmish_QW2BQ
+
+name: Xenomorph
+description: If you see it coming, it's already too late.
+id: CID_A_025_Athena_Commando_M_Kepler_UEN6V
+
+name: Ellen Ripley
+description: Last survivor of the Nostromo.
+id: CID_A_026_Athena_Commando_F_Kepler_2G59M
+
+name: Britestorm Bomber
+description: Breezy as a summer's day.
+id: CID_A_027_Athena_Commando_F_CasualBomberLight
+
+name: Sica
+description: The arena's next champion.
+id: CID_A_028_Athena_Commando_F_AncientGladiator
+
+name: Llambro
+description: He's one ice cold llamacorn.
+id: CID_A_029_Athena_Commando_M_LlamaHeroWinter_C83TZ
+
+name: Lazarbeam
+description: He's true blue.
+id: CID_A_031_Athena_Commando_M_Builder
+
+name: Cyprus Nell
+description: The closest thing to a father Reese ever had.
+id: CID_A_032_Athena_Commando_M_SpaceWarrior
+
+name: Ant-Man
+description: Size-shifting, insect-commanding Super Hero.
+id: CID_A_033_Athena_Commando_M_SmallFry_Z73EK
+
+name: Marigold
+description: Break the curse of the Golden Touch.
+id: CID_A_034_Athena_Commando_F_CatBurglar
+
+name: Centurion
+description: Hazard Platoon's extraction expert and munitions master.
+id: CID_A_035_Athena_Commando_M_LionSoldier
+
+name: Rebirth Raven
+description: Daughter of a demon and founding member of the Teen Titans.
+id: CID_A_036_Athena_Commando_F_Obsidian
+
+name: Tarana
+description: She sees visions of a long-gone world.
+id: CID_A_037_Athena_Commando_F_DinoHunter
+
+name: Spire Assassin
+description: Guardian of a world beyond reality.
+id: CID_A_038_Athena_Commando_F_TowerSentinel
+
+name: Cluck
+description: Cheep cheep cheep, cheep cheep b'kaw.
+id: CID_A_039_Athena_Commando_M_ChickenWarrior
+
+name: Lara Croft
+description: The extraordinary is in what we do, not who we are
+id: CID_A_040_Athena_Commando_F_Temple
+
+name: Raz
+description: On a mission to uncover the Spire's secrets.
+id: CID_A_041_Athena_Commando_M_CubeNinja
+
+name: Isabelle
+description: Voted "Most Likely To Succeed... Or Burn the Place Down."
+id: CID_A_042_Athena_Commando_F_Scholar
+
+name: Grave Feather
+description: Don't worry... it's only a nightmare.
+id: CID_A_043_Athena_Commando_M_DarkMinion
+
+name: Alli
+description: Who're you calling a stray?
+id: CID_A_044_Athena_Commando_F_NeonCatFashion_64JW3
+
+name: Potassius Peels
+description: Et tu, Fruitus?
+id: CID_A_045_Athena_Commando_M_BananaLeader
+
+name: Robo-Ray
+description: Robot chassis for extended field operations.
+id: CID_A_046_Athena_Commando_F_AssembleR
+
+name: Chigusa
+description: Journalist turned vigilante sworn to liberate the world from R.E.M.Corp's virtual prison.
+id: CID_A_048_Athena_Commando_F_SailorSquadLeader
+
+name: Megumi
+description: Ex-security guard so inspired by the Wakers that she turned on her bosses to join the cause.
+id: CID_A_049_Athena_Commando_F_SailorSquadRebel
+
+name: Yuki
+description: Though she seems sweet and shy, this expert hacker is the Wakers' muscle inside the virtual world.
+id: CID_A_050_Athena_Commando_F_SailorSquadRose
+
+name: Dutch
+description: Floppy, hoppy, and unstoppy-ble.
+id: CID_A_051_Athena_Commando_M_HipHare
+
+name: Whiska
+description: No bunny business allowed.
+id: CID_A_052_Athena_Commando_F_BunnyFashion
+
+name: Babbit
+description: That's one mod hare.
+id: CID_A_053_Athena_Commando_F_BunnyFashion_B
+
+name: Hopscotch
+description: Victory is just a hop away.
+id: CID_A_054_Athena_Commando_F_BunnyFashion_C
+
+name: CeeCee
+description: She's one tough bunny.
+id: CID_A_055_Athena_Commando_F_BunnyFashion_D
+
+name: Bunya
+description: Never cross a bunny.
+id: CID_A_056_Athena_Commando_F_BunnyFashion_E
+
+name: Megg
+description: Duck... duck... doom!
+id: CID_A_058_Athena_Commando_F_WickedDuck
+
+name: Webster
+description: Surrender your breadcrumbs.
+id: CID_A_059_Athena_Commando_M_WickedDuck
+
+name: Diamond Hanz
+description: Buy! Hodl! Win!
+id: CID_A_060_Athena_Commando_M_Daytrader_8MRO2
+
+name: IO Trooper
+description: Elite commando from the Imagined Order.
+id: CID_A_061_Athena_Commando_M_PaddedArmorOrder
+
+name: TBD
+description: TBD
+id: CID_NPC_Athena_Commando_F_HenchmanSpyDark
 
-TBD
-TBD
-CID_NPC_Athena_Commando_F_HenchmanSpyGood
+name: TBD
+description: TBD
+id: CID_NPC_Athena_Commando_F_HenchmanSpyGood
 
-Marauder Elite
-Menacing masters of marauder... combat.
-CID_NPC_Athena_Commando_F_MarauderElite
+name: Marauder Elite
+description: Menacing masters of marauder... combat.
+id: CID_NPC_Athena_Commando_F_MarauderElite
 
-Recruit
-Standard issue combatant outfit.
-CID_NPC_Athena_Commando_F_RebirthDefault_Henchman
+name: Recruit
+description: Standard issue combatant outfit.
+id: CID_NPC_Athena_Commando_F_RebirthDefault_Henchman
 
-TBD
-TBD
-CID_NPC_Athena_Commando_F_TowerSentinel
+name: TBD
+description: TBD
+id: CID_NPC_Athena_Commando_F_TowerSentinel
 
-TBD
-TBD
-CID_NPC_Athena_Commando_M_CatBurglar_Ghost
+name: TBD
+description: TBD
+id: CID_NPC_Athena_Commando_M_CatBurglar_Ghost
 
-TBD
-TBD
-CID_NPC_Athena_Commando_M_Fallback
+name: TBD
+description: TBD
+id: CID_NPC_Athena_Commando_M_Fallback
 
-TBD
-TBD
-CID_NPC_Athena_Commando_M_HeistSummerIsland
+name: TBD
+description: TBD
+id: CID_NPC_Athena_Commando_M_HeistSummerIsland
 
-PERF OPTIMIZED
-TBD
-CID_NPC_Athena_Commando_M_HenchmanBad
+name: PERF OPTIMIZED
+description: TBD
+id: CID_NPC_Athena_Commando_M_HenchmanBad
 
-PERF OPTIMIZED
-TBD
-CID_NPC_Athena_Commando_M_HenchmanGood
+name: PERF OPTIMIZED
+description: TBD
+id: CID_NPC_Athena_Commando_M_HenchmanGood
 
-Stark Auto-Defense Unit
-Tony's best guys.
-CID_NPC_Athena_Commando_M_HightowerHenchman
+name: Stark Auto-Defense Unit
+description: Tony's best guys.
+id: CID_NPC_Athena_Commando_M_HightowerHenchman
 
-Doombot Agent
-Lives to serve Doom. Ready to die for him, too.
-CID_NPC_Athena_Commando_M_HightowerHenchman_Date
+name: Doombot Agent
+description: Lives to serve Doom. Ready to die for him, too.
+id: CID_NPC_Athena_Commando_M_HightowerHenchman_Date
 
-Marauder Heavy
-It's about to get heavy.
-CID_NPC_Athena_Commando_M_Kyle
+name: Marauder Heavy
+description: It's about to get heavy.
+id: CID_NPC_Athena_Commando_M_Kyle
 
-Marauder
-Beware the marauders.
-CID_NPC_Athena_Commando_M_MarauderGrunt
+name: Marauder
+description: Beware the marauders.
+id: CID_NPC_Athena_Commando_M_MarauderGrunt
 
-Marauder Heavy
-It's about to get heavy.
-CID_NPC_Athena_Commando_M_MarauderHeavy
+name: Marauder Heavy
+description: It's about to get heavy.
+id: CID_NPC_Athena_Commando_M_MarauderHeavy
 
-TBD
-TBD
-CID_NPC_Athena_Commando_M_PaddedArmorArctic
+name: TBD
+description: TBD
+id: CID_NPC_Athena_Commando_M_PaddedArmorArctic
 
-TBD
-TBD
-CID_NPC_Athena_Commando_M_Scrapyard
+name: TBD
+description: TBD
+id: CID_NPC_Athena_Commando_M_Scrapyard
 
-TBD
-TBD
-CID_NPC_Athena_Commando_M_SpaceWanderer
+name: TBD
+description: TBD
+id: CID_NPC_Athena_Commando_M_SpaceWanderer
 
-TBD
-TBD
-CID_NPC_Athena_Commando_M_TacticalFishermanOil
+name: TBD
+description: TBD
+id: CID_NPC_Athena_Commando_M_TacticalFishermanOil
 
-TBD
-TBD
-CID_NPC_Athena_HenchmanBadShorts
+name: TBD
+description: TBD
+id: CID_NPC_Athena_HenchmanBadShorts
 
-TBD
-TBD
-CID_NPC_Athena_HenchmanGoodShorts
+name: TBD
+description: TBD
+id: CID_NPC_Athena_HenchmanGoodShorts
 
-TBD
-TBD
-CID_NPC_Athena_MadCommander
+name: TBD
+description: TBD
+id: CID_NPC_Athena_MadCommander
 
-TBD
-TBD
-CID_NPC_Athena_PaddedArmor
+name: TBD
+description: TBD
+id: CID_NPC_Athena_PaddedArmor
 
-TBD
-TBD
-CID_NPC_Athena_RebirthSoldier
+name: TBD
+description: TBD
+id: CID_NPC_Athena_RebirthSoldier
 
-Random
-Randomly chooses between favorite Outfits (or all owned Outfits if nothing is marked as a favorite)
-CID_Random
+name: Random
+description: Randomly chooses between favorite Outfits (or all owned Outfits if nothing is marked as a favorite)
+id: CID_Random
 
-Peely
-Go bananas.
+name: Peely
+description: Go bananas.
 Reactive: Ripens, changing color over time in a match.
-CID_TBD_Athena_Commando_M_Banana_CINE
+id: CID_TBD_Athena_Commando_M_Banana_CINE
 
-TBD
-TBD
-CID_TBD_Athena_Commando_M_Nutcracker_CINE
+name: TBD
+description: TBD
+id: CID_TBD_Athena_Commando_M_Nutcracker_CINE
 
-The Foundation
-His Sacrifice Won't Be Forgotten. Leader Of The Seven.
-CID_TBD_Athena_Commando_M_Turtleneck
+name: The Foundation
+description: His Sacrifice Won't Be Forgotten. Leader Of The Seven.
+id: CID_TBD_Athena_Commando_M_Turtleneck
 
-TBD
-TBD
-CID_TBD_Athena_Commando_M_Turtleneck_EVENT_NOTFORSTORE
+name: TBD
+description: TBD
+id: CID_TBD_Athena_Commando_M_Turtleneck_EVENT_NOTFORSTORE
 
-Set_01_TA_SG
-Set_01_TB
-CID_VIP_Athena_Commando_F_GalileoRocket_SG
+name: Set_01_TA_SG
+description: Set_01_TB
+id: CID_VIP_Athena_Commando_F_GalileoRocket_SG
 
-Set_01_LA_SG
-Set_01_LB
-CID_VIP_Athena_Commando_M_GalileoFerry_SG
+name: Set_01_LA_SG
+description: Set_01_LB
+id: CID_VIP_Athena_Commando_M_GalileoFerry_SG
 
-Set_01_OA_SG
-Set_01_OB
-CID_VIP_Athena_Commando_M_GalileoGondola_SG
+name: Set_01_OA_SG
+description: Set_01_OB
+id: CID_VIP_Athena_Commando_M_GalileoGondola_SG
 
