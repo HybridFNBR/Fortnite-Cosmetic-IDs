@@ -1,78 +1,344 @@
+TBD
+TBD
 MusicPack_000_Default
+
+Squeaky Clean
+Press play and floss like a boss.
 MusicPack_001_Floss
+
+Eerie
+Press play to get spooky.
 MusicPack_002_Spooky
+
+OG (Remix)
+Press play for a remixed taste of nostalgia.
 MusicPack_003_OGRemix
+
+Festive
+Press play and get in the spirit of the season.
 MusicPack_004_Holiday
+
+Disco
+Press play to get down.
 MusicPack_005_Disco
+
+Twist
+Press play for a soundtrack with a twist.
 MusicPack_006_Twist
+
+Ahoy!
+Press play to set sail.
 MusicPack_007_Pirate
+
+Coral Chorus
+Press play to hear the coral sing their tune.
 MusicPack_008_Coral
+
+Star Power
+Press play and act like a VIP.
 MusicPack_009_StarPower
+
+Marathon
+Press play and get ready to run.
 MusicPack_010_RunningMan
+
+Get funky
+Press play and bring the funk!
 MusicPack_011_GetFunky
+
+Electro-fied!
+Press play and swing the night away.
 MusicPack_012_ElectroSwing
+
+Afterburner
+Press play and reach the sky.
 MusicPack_013_RoboTrack
+
+Afterburner
+Press play and reach the sky.
 MusicPack_013_RoboTrackRaisin
+
+Neo World
+Press play and dig in.
 MusicPack_014_S9Cine
+
+Justice
+Press play and vibe out.
 MusicPack_015_GoodVibes
+
+Winner's Circle
+The sound of triumph!
 MusicPack_016_WorldCup
+
+Saxy Groove
+Press play and phone it in.
 MusicPack_017_PhoneItIn
+
+Sparkles
+Press play and get glittery.
 MusicPack_018_Glitter
+
+B-Day Beats
+Press play and blow out the candles.
 MusicPack_019_Birthday2019
+
+Best Buds
+Press play and hang with your best bud.
 MusicPack_020_BunkerJam
+
+Sweet Dreams
+Press play and live your dreams.
 MusicPack_022_DayDream
+
+OG (Classic)
+Press play for a true taste of nostalgia.
 MusicPack_023_OG
+
+The Final Showdown
+Press play and face your rival.
 MusicPack_024_Showdown
+
+Rainy Days
+Press play and make it rain.
 MusicPack_025_MakeItRain
+
+Default Vibe
+Lazerism Remix by Major Lazer.
 MusicPack_026_LasagnaChill
+
+Default Fire
+Lazerism Remix by Major Lazer.
 MusicPack_027_LasagnaDope
+
+Llama Beat
+Press play, and demand more.
 MusicPack_028_LlamaBell
+
+Wiggle Wild
+Press play and get wiggly.
 MusicPack_029_Wiggle
+
+Caped Crusader
+Press play and fight crime.
 MusicPack_030_BlackMonday_X91ZH
+
+8-bit Beat
+Press play and go for the high score.
 MusicPack_031_ChipTune
+
+Solid Groove
+Press play and feel the funk.
 MusicPack_032_GrooveJam
+
+Storm Shredder
+Press play and shred through the storm.
 MusicPack_033_RockOut
+
+The End
+Press play and begin again.
 MusicPack_034_SXRocketEvent
+
+The End
+Press play and begin again.
 MusicPack_034_SXRocketEventRaisin
+
+Battle Breakers
+Press play and break it down.
 MusicPack_035_BattleBreakers
+
+Storm King
+Press play and face the king.
 MusicPack_036_Storm
+
+Space Groove
+Press play and space out.
 MusicPack_037_Extraterrestrial
+
+The Crackdown
+Press play and get cracking.
 MusicPack_038_Crackdown
+
+Unreal Chill
+Press play and get unreal.
 MusicPack_039_Envy
+
+Merry Chipmas
+Press play and go retro.
 MusicPack_040_XmasChipTunes
+
+Mellow Days
+Press play and smooth out.
 MusicPack_041_Slick
+
+Bunny Bounce
+Press play and hop into action.
 MusicPack_042_BunnyHop
+
+Limitless
+Press play and push it past the limit.
 MusicPack_043_Overdrive
+
+Spies!
+Press play and infiltrate the dance floor.
 MusicPack_044_S12Cine
+
+Sunny Samba
+Press play and hit the streets.
 MusicPack_045_Carnaval
+
+I'm A Cat
+Press play and don't get scratched.
 MusicPack_046_Paws
+
+Freestylin' Remix
+Press play and set yourself free.
 MusicPack_047_FreestylinClubRemix
+
+Subterfuge
+Press play and destroy after listening.
 MusicPack_048_SpyRemix
+
+Prima Remix
+Press play and assemblé.
 MusicPack_049_BalletSpinRemix
+
+Billy Listen
+Press play, Billy.
 MusicPack_050_BillyBounce
+
+Banger
+Press play and bang away.
 MusicPack_051_Headbanger
+
+Shark Ride
+Press play and ride the shark.
 MusicPack_052_S13Cine
+
+OG (Future Remix)
+Press play and follow this remix into the future.
 MusicPack_053_FortniteTrapRemix
+
+The Device
+Press play and... can you hear me?
 MusicPack_054_Fritter
+
+Switch Up
+Press play and step it up.
 MusicPack_055_Switchstep
+
+War's Horizon
+Press play and prepare for battle.
 MusicPack_056_S14_Cine
+
+Might
+Press play and fight for justice.
 MusicPack_057_S14_Hero
+
+Menace
+Press play and take over the world.
 MusicPack_058_S14_Villain
+
+Sweet Victory
+Press play and savor the wins.
 MusicPack_060_TakeTheW
+
+Breathing Underwater
+Don't Pause, Press Play.
 MusicPack_061_RLxFN
+
+Key Change
+Press play and find your perfect key.
 MusicPack_063_KeydUp
+
+Fortnitemares 2020
+Press play and get ready to scream!
 MusicPack_064_FortniteFright
+
+Boss Battle
+Created by NAME MUSIC
 MusicPack_065_FortlishRap
+
+Herald's Warning
+Press play and get ready to save the world.
 MusicPack_066_ComicBookTrack
+
+Click Pow Get Down
+Click pow and get down. Featuring Raftaar.
 MusicPack_067_Bollywood
+
+Rise of the Devourer
+Press play and chow down.
 MusicPack_068_S14EndEvent
+
+Old School Anthem
+Press play. School's in session.
 MusicPack_069_OldSchool
+
+Star Power Remix
+Press play and watch the stars.
 MusicPack_070_StarPowerRemix
+
+Frosty Serenade
+Press play and belt it out.
 MusicPack_071_FortniteCarollingRemix
+
+Merry Mix
+Press play and spread good tidings.
 MusicPack_072_HolidayEuroDiscoRemix
+
+Flip Reset
+Press Reset and flip out.
 MusicPack_073_RL2PromoTrack
+
+Orbital Overload
+Press play and rise up above.
 MusicPack_074_PlanetaryVibe
+
+Hooked On You
+Press play and fall in love.
+MusicPack_075_FishstickQuest
+
+IO ATTACK
+Press play and imagine.
+MusicPack_076_IO_Guard
+
+Butter Barn Hoedown
+Press play and grab yer pardner.
+MusicPack_077_ButterBarn
+
+Raise Up
+Press play and raise the roof.
+MusicPack_078_RaiseTheRoof
+
+Wild
+Press play and get wild.
+MusicPack_079_S16_Cine
+
+After Zero
+Press play and save all reality.
+MusicPack_080_S15_EndEvent
+
+Everybody Dance!
+Press play and go supersonic.
+MusicPack_081_RL_LlamaRama_9LRCK
+
+Larger Than Life
+Press play and reach for the moon.
+MusicPack_082_LivingLarge
+
+Random
+Randomly chooses between favorite Music Packs (or all owned Music Packs if nothing is marked as a favorite)
 MusicPack_Random
+
+Stand and Fight
+Press play to Stand and Fight!
 MusicPack_STW001_CannyValley
+
+Frostnite
+Press play to get chilled!
 MusicPack_STW001_Holdfast
+
+Dungeons
+Press play and dive into the darkness...
 MusicPack_STW001_Starlight
+
