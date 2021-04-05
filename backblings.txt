@@ -1,2884 +1,2884 @@
-name: Squire Shield
-description: A trusty shield.
-id: BID_001_BlueSquire
-
-name: Royale Shield
-description: A royal shield.
-id: BID_002_RoyaleKnight
-
-name: Red Shield
-description: The Red Knight's legendary shield.
-id: BID_003_RedKnight
-
-name: Black Shield
-description: The Black Knight's legendary shield.
-id: BID_004_BlackKnight
-
-name: Raptor Satchel
-description: Royale Air Force standard issue.
-id: BID_005_Raptor
-
-name: Alpine Accessories
-description: Ski combat readiness backpack.
-id: BID_006_SkiDude
-
-name: Alpine Accessories (USA)
-description: Ski combat readiness backpack.
-id: BID_007_SkiDude_USA
-
-name: Alpine Accessories (CAN)
-description: Ski combat readiness backpack.
-id: BID_008_SkiDude_CAN
-
-name: Alpine Accessories (GBR)
-description: Ski combat readiness backpack.
-id: BID_009_SkiDude_GBR
-
-name: Alpine Accessories (FRA)
-description: Ski combat readiness backpack.
-id: BID_010_SkiDude_FRA
-
-name: Alpine Accessories (GER)
-description: Ski combat readiness backpack.
-id: BID_011_SkiDude_GER
-
-name: Alpine Accessories (CHN)
-description: Ski combat readiness backpack.
-id: BID_012_SkiDude_CHN
-
-name: Alpine Accessories (KOR)
-description: Ski combat readiness backpack.
-id: BID_013_SkiDude_KOR
-
-name: Mogul Ski Bag
-description: Ski combat readiness backpack.
-id: BID_014_SkiGirl
-
-name: Mogul Ski Bag (USA)
-description: Ski combat readiness backpack.
-id: BID_015_SkiGirl_USA
-
-name: Mogul Ski Bag (CAN)
-description: Ski combat readiness backpack.
-id: BID_016_SkiGirl_CAN
-
-name: Mogul Ski Bag (GBR)
-description: Ski combat readiness backpack.
-id: BID_017_SkiGirl_GBR
-
-name: Mogul Ski Bag (FRA)
-description: Ski combat readiness backpack.
-id: BID_018_SkiGirl_FRA
-
-name: Mogul Ski Bag (GER)
-description: Ski combat readiness backpack.
-id: BID_019_SkiGirl_GER
-
-name: Mogul Ski Bag (CHN)
-description: Ski combat readiness backpack.
-id: BID_020_SkiGirl_CHN
-
-name: Mogul Ski Bag (KOR)
-description: Ski combat readiness backpack.
-id: BID_021_SkiGirl_KOR
-
-name: Love Wings
-description: Spread the love.
-id: BID_022_Cupid
-
-name: Cuddle Bow
-description: Hugs!
-id: BID_023_Pinkbear
-
-name: Astro
-description: Backpack is nominal.
-id: BID_024_Space
-
-name: Precision
-description: Tactical and Practical.
-id: BID_025_Tactical
-
-name: Brite Bag
-description: Don't forget to pack a smile!
-id: BID_026_Brite
-
-name: Rust Bucket
-description: Got a screw loose? It's probably in here.
-id: BID_027_Scavenger
-
-name: Dark Matter
-description: Theoretical fashion.
-id: BID_028_SpaceBlack
-
-name: Backup Plan
-description: Leave a wake of destruction.
-id: BID_029_RetroGrey
-
-name: Catalyst
-description: Rugged and ready.
-id: BID_030_TacticalRogue
-
-name: Scaly
-description: Rough around the edges.
-id: BID_031_Dinosaur
-
-name: Pursuit
-description: On the trail.
-id: BID_032_FounderMale
-
-name: Skirmish
-description: Stay in the fight!
-id: BID_033_FounderFemale
-
-name: Six String
-description: Tuned for mayhem.
-id: BID_034_RockerPunk
-
-name: Buckler
-description: A battle-tested shield.
-id: BID_035_Scathach
-
-name: Iron Cage
-description: There is no escape.
-id: BID_036_Raven
-
-name: Hard Boiled
-description: Dipped & dyed.
-id: BID_037_BunnyMale
-
-name: Eggshell
-description: Well hidden.
-id: BID_038_BunnyFemale
-
-name: Dark Void
-description: Stellar.
-id: BID_039_SpaceBlackFemale
-
-name: Royale Flags
-description: Let your royale flag fly.
-id: BID_040_Wukong
-
-name: Hatchling
-description: Clever bag.
-id: BID_041_PajamaParty
-
-name: Fish Tank
-description: Do not tap on glass!
-id: BID_042_Fishhead
-
-name: Special Delivery
-description: Keep the change.
-id: BID_043_Pizza
-
-name: Steelcast
-description: Precision welded.
-id: BID_044_Robo
-
-name: Standard Issue
-description: Prepared for anything.
-id: BID_045_TacticalJungle
-
-name: Goodie Bag
-description: Sweet!
-id: BID_047_Candy
-
-name: Tag Bag
-description: Paint the town red... and white... and purple...
-id: BID_048_Graffiti
-
-name: True North
-description: Find your way.
-id: BID_049_TacticalWoodland
-
-name: Pathogen
-description: Pleasantly pathological.
-id: BID_050_Hazmat
-
-name: Mertank
-description: Breathe easy.
-id: BID_051_Merman
-
-name: Contagion
-description: Infectiously stylish.
-id: BID_052_HazmatFemale
-
-name: Strongbox
-description: Get crackin'.
-id: BID_053_JailbirdMale
-
-name: Burgle Bag
-description: Tools of the trade.
-id: BID_054_JailbirdFemale
-
-name: Blue Shift
-description: Brilliantly Blue.
-id: BID_055_PSBurnout
-
-name: Bogey Bag
-description: You've got a bogey on your six.
-id: BID_056_FighterPilot
-
-name: Offworld Rig
-description: Intergalactic original.
-id: BID_057_Visitor
-
-name: Battle Shroud
-description: Shrouded in mystery.
-id: BID_058_DarkEagle
-
-name: Last Gasp
-description: Pressurised for high altitude.
-id: BID_059_WWIIPilot
-
-name: Ominous Orb
-description: Gaze into infinity.
-id: BID_060_DarkNinja
-
-name: Stabilizer
-description: Stay in control.
-id: BID_061_CarbideOrange
-
-name: Evidence Bag
-description: Forensic fashion.
-id: BID_062_Gumshoe
-
-name: Crested Cape
-description: Cloaked and courageous.
-id: BID_063_CuChulainn
-
-name: Blasting Cap
-description: It's a blast!
-id: BID_064_FuzzyBearInd
-
-name: Destabilizer
-description: Embrace the chaos.
-id: BID_065_CarbideBlack
-
-name: Deflector
-description: Change the course of the battle.
-id: BID_066_SpeedyRed
-
-name: Confidential Case
-description: Build a case.
-id: BID_067_GumshoeFemale
-
-name: Cluefinder
-description: Follow the clues.
-id: BID_068_GumshoeDark
-
-name: Venturion Cape
-description: Take action.
-id: BID_069_DecoMale
-
-name: Ventura Cape
-description: Take initiative.
-id: BID_070_DecoFemale
-
-name: Rearguard
-description: Sturdy guardian.
-id: BID_071_VikingFemale
-
-name: Enduring Cape
-description: Battle-proven.
-id: BID_072_VikingMale
-
-name: Frozen Shroud
-description: A relic of the ancients.
-id: BID_073_DarkViking
-
-name: Pool Party
-description: Magically floaty.
-id: BID_074_LifeguardFemale
-
-name: Uplink
-description: Always engaged.
-id: BID_075_TacticalBadass
-
-name: Shark Fin
-description: Foreboding.
-id: BID_076_Shark
-
-name: Insignia
-description: Emblazoned shield.
-id: BID_077_WeGame
-
-name: Ballistic
-description: Locked in.
-id: BID_078_StreetRacerCobraFemale
-
-name: Penguin
-description: Flightless fashion.
-id: BID_079_Penguin
-
-name: Bat Attitude
-description: Carry a grudge.
-id: BID_080_StreetRacerCobraMale
-
-name: Diving Tank
-description: Breathe easy.
-id: BID_081_ScubaMale
-
-name: Air Tank
-description: Catch your breath.
-id: BID_082_ScubaFemale
-
-name: Rescue Ring
-description: Unsinkable.
-id: BID_083_LifeguardMale
-
-name: Birthday Cake
-description: Piece of cake.
-id: BID_084_Birthday2018
-
-name: Paradigm
-description: Utility redefined.
-id: BID_085_ModernMilitary
-
-name: Back Plate
-description: Put your back into it.
-id: BID_086_ExerciseFemale
-
-name: Boombox
-description: Blast it.
-id: BID_087_ExerciseMale
-
-name: Chef's Choice
-description: Perfectly sliced.
-id: BID_088_SushiChefMale
-
-name: Ignition
-description: Start it up.
-id: BID_089_StreetRacerWhiteFemale
-
-name: Lane Splitter
-description: Cut through the crowd.
-id: BID_090_StreetRacerWhiteMale
-
-name: Deep Fried
-description: Perfectly greasy.
-id: BID_091_DurrrBurgerHero
-
-name: Bamboo
-description: Fresh and crunchy.
-id: BID_092_FuzzyBearPanda
-
-name: Summer Strummer
-description: Jam on.
-id: BID_093_HippieMale
-
-name: Hip Shakers
-description: Verifiably hip.
-id: BID_094_HippieFemale
-
-name: Dark Wings
-description: Swoop in and take the spoils.
-id: BID_095_RavenQuillFemale
-
-name: Road Ready
-description: Two-wheel toolkit.
-id: BID_096_BikerMale
-
-name: Road Flair
-description: Built for the road.
-id: BID_097_BikerFemale
-
-name: Sashimono
-description: Storied sigil.
-id: BID_098_BlueSamuraiMale
-
-name: Shiro
-description: Nyan!
-id: BID_099_BlueSamuraiFemale
-
-name: Subjugator
-description: Quell the competition.
-id: BID_100_DarkPaintballer
-
-name: Swag Bag
-description: Take the money and run.
-id: BID_101_BlingFemale
-
-name: Buckled
-description: Buckle up!
-id: BID_102_Buckles
-
-name: Slashed
-description: For narrow escapes.
-id: BID_103_Clawed
-
-name: Vintage
-description: Lovingly broken in.
-id: BID_104_YellowZip
-
-name: Ghost Portal
-description: I just got a chill.
+Name: Squire Shield
+Description: A trusty shield.
+ID: BID_001_BlueSquire
+
+Name: Royale Shield
+Description: A royal shield.
+ID: BID_002_RoyaleKnight
+
+Name: Red Shield
+Description: The Red Knight's legendary shield.
+ID: BID_003_RedKnight
+
+Name: Black Shield
+Description: The Black Knight's legendary shield.
+ID: BID_004_BlackKnight
+
+Name: Raptor Satchel
+Description: Royale Air Force standard issue.
+ID: BID_005_Raptor
+
+Name: Alpine Accessories
+Description: Ski combat readiness backpack.
+ID: BID_006_SkiDude
+
+Name: Alpine Accessories (USA)
+Description: Ski combat readiness backpack.
+ID: BID_007_SkiDude_USA
+
+Name: Alpine Accessories (CAN)
+Description: Ski combat readiness backpack.
+ID: BID_008_SkiDude_CAN
+
+Name: Alpine Accessories (GBR)
+Description: Ski combat readiness backpack.
+ID: BID_009_SkiDude_GBR
+
+Name: Alpine Accessories (FRA)
+Description: Ski combat readiness backpack.
+ID: BID_010_SkiDude_FRA
+
+Name: Alpine Accessories (GER)
+Description: Ski combat readiness backpack.
+ID: BID_011_SkiDude_GER
+
+Name: Alpine Accessories (CHN)
+Description: Ski combat readiness backpack.
+ID: BID_012_SkiDude_CHN
+
+Name: Alpine Accessories (KOR)
+Description: Ski combat readiness backpack.
+ID: BID_013_SkiDude_KOR
+
+Name: Mogul Ski Bag
+Description: Ski combat readiness backpack.
+ID: BID_014_SkiGirl
+
+Name: Mogul Ski Bag (USA)
+Description: Ski combat readiness backpack.
+ID: BID_015_SkiGirl_USA
+
+Name: Mogul Ski Bag (CAN)
+Description: Ski combat readiness backpack.
+ID: BID_016_SkiGirl_CAN
+
+Name: Mogul Ski Bag (GBR)
+Description: Ski combat readiness backpack.
+ID: BID_017_SkiGirl_GBR
+
+Name: Mogul Ski Bag (FRA)
+Description: Ski combat readiness backpack.
+ID: BID_018_SkiGirl_FRA
+
+Name: Mogul Ski Bag (GER)
+Description: Ski combat readiness backpack.
+ID: BID_019_SkiGirl_GER
+
+Name: Mogul Ski Bag (CHN)
+Description: Ski combat readiness backpack.
+ID: BID_020_SkiGirl_CHN
+
+Name: Mogul Ski Bag (KOR)
+Description: Ski combat readiness backpack.
+ID: BID_021_SkiGirl_KOR
+
+Name: Love Wings
+Description: Spread the love.
+ID: BID_022_Cupid
+
+Name: Cuddle Bow
+Description: Hugs!
+ID: BID_023_Pinkbear
+
+Name: Astro
+Description: Backpack is nominal.
+ID: BID_024_Space
+
+Name: Precision
+Description: Tactical and Practical.
+ID: BID_025_Tactical
+
+Name: Brite Bag
+Description: Don't forget to pack a smile!
+ID: BID_026_Brite
+
+Name: Rust Bucket
+Description: Got a screw loose? It's probably in here.
+ID: BID_027_Scavenger
+
+Name: Dark Matter
+Description: Theoretical fashion.
+ID: BID_028_SpaceBlack
+
+Name: Backup Plan
+Description: Leave a wake of destruction.
+ID: BID_029_RetroGrey
+
+Name: Catalyst
+Description: Rugged and ready.
+ID: BID_030_TacticalRogue
+
+Name: Scaly
+Description: Rough around the edges.
+ID: BID_031_Dinosaur
+
+Name: Pursuit
+Description: On the trail.
+ID: BID_032_FounderMale
+
+Name: Skirmish
+Description: Stay in the fight!
+ID: BID_033_FounderFemale
+
+Name: Six String
+Description: Tuned for mayhem.
+ID: BID_034_RockerPunk
+
+Name: Buckler
+Description: A battle-tested shield.
+ID: BID_035_Scathach
+
+Name: Iron Cage
+Description: There is no escape.
+ID: BID_036_Raven
+
+Name: Hard Boiled
+Description: Dipped & dyed.
+ID: BID_037_BunnyMale
+
+Name: Eggshell
+Description: Well hidden.
+ID: BID_038_BunnyFemale
+
+Name: Dark Void
+Description: Stellar.
+ID: BID_039_SpaceBlackFemale
+
+Name: Royale Flags
+Description: Let your royale flag fly.
+ID: BID_040_Wukong
+
+Name: Hatchling
+Description: Clever bag.
+ID: BID_041_PajamaParty
+
+Name: Fish Tank
+Description: Do not tap on glass!
+ID: BID_042_Fishhead
+
+Name: Special Delivery
+Description: Keep the change.
+ID: BID_043_Pizza
+
+Name: Steelcast
+Description: Precision welded.
+ID: BID_044_Robo
+
+Name: Standard Issue
+Description: Prepared for anything.
+ID: BID_045_TacticalJungle
+
+Name: Goodie Bag
+Description: Sweet!
+ID: BID_047_Candy
+
+Name: Tag Bag
+Description: Paint the town red... and white... and purple...
+ID: BID_048_Graffiti
+
+Name: True North
+Description: Find your way.
+ID: BID_049_TacticalWoodland
+
+Name: Pathogen
+Description: Pleasantly pathological.
+ID: BID_050_Hazmat
+
+Name: Mertank
+Description: Breathe easy.
+ID: BID_051_Merman
+
+Name: Contagion
+Description: Infectiously stylish.
+ID: BID_052_HazmatFemale
+
+Name: Strongbox
+Description: Get crackin'.
+ID: BID_053_JailbirdMale
+
+Name: Burgle Bag
+Description: Tools of the trade.
+ID: BID_054_JailbirdFemale
+
+Name: Blue Shift
+Description: Brilliantly Blue.
+ID: BID_055_PSBurnout
+
+Name: Bogey Bag
+Description: You've got a bogey on your six.
+ID: BID_056_FighterPilot
+
+Name: Offworld Rig
+Description: Intergalactic original.
+ID: BID_057_Visitor
+
+Name: Battle Shroud
+Description: Shrouded in mystery.
+ID: BID_058_DarkEagle
+
+Name: Last Gasp
+Description: Pressurised for high altitude.
+ID: BID_059_WWIIPilot
+
+Name: Ominous Orb
+Description: Gaze into infinity.
+ID: BID_060_DarkNinja
+
+Name: Stabilizer
+Description: Stay in control.
+ID: BID_061_CarbideOrange
+
+Name: Evidence Bag
+Description: Forensic fashion.
+ID: BID_062_Gumshoe
+
+Name: Crested Cape
+Description: Cloaked and courageous.
+ID: BID_063_CuChulainn
+
+Name: Blasting Cap
+Description: It's a blast!
+ID: BID_064_FuzzyBearInd
+
+Name: Destabilizer
+Description: Embrace the chaos.
+ID: BID_065_CarbideBlack
+
+Name: Deflector
+Description: Change the course of the battle.
+ID: BID_066_SpeedyRed
+
+Name: Confidential Case
+Description: Build a case.
+ID: BID_067_GumshoeFemale
+
+Name: Cluefinder
+Description: Follow the clues.
+ID: BID_068_GumshoeDark
+
+Name: Venturion Cape
+Description: Take action.
+ID: BID_069_DecoMale
+
+Name: Ventura Cape
+Description: Take initiative.
+ID: BID_070_DecoFemale
+
+Name: Rearguard
+Description: Sturdy guardian.
+ID: BID_071_VikingFemale
+
+Name: Enduring Cape
+Description: Battle-proven.
+ID: BID_072_VikingMale
+
+Name: Frozen Shroud
+Description: A relic of the ancients.
+ID: BID_073_DarkViking
+
+Name: Pool Party
+Description: Magically floaty.
+ID: BID_074_LifeguardFemale
+
+Name: Uplink
+Description: Always engaged.
+ID: BID_075_TacticalBadass
+
+Name: Shark Fin
+Description: Foreboding.
+ID: BID_076_Shark
+
+Name: Insignia
+Description: Emblazoned shield.
+ID: BID_077_WeGame
+
+Name: Ballistic
+Description: Locked in.
+ID: BID_078_StreetRacerCobraFemale
+
+Name: Penguin
+Description: Flightless fashion.
+ID: BID_079_Penguin
+
+Name: Bat Attitude
+Description: Carry a grudge.
+ID: BID_080_StreetRacerCobraMale
+
+Name: Diving Tank
+Description: Breathe easy.
+ID: BID_081_ScubaMale
+
+Name: Air Tank
+Description: Catch your breath.
+ID: BID_082_ScubaFemale
+
+Name: Rescue Ring
+Description: Unsinkable.
+ID: BID_083_LifeguardMale
+
+Name: Birthday Cake
+Description: Piece of cake.
+ID: BID_084_Birthday2018
+
+Name: Paradigm
+Description: Utility redefined.
+ID: BID_085_ModernMilitary
+
+Name: Back Plate
+Description: Put your back into it.
+ID: BID_086_ExerciseFemale
+
+Name: Boombox
+Description: Blast it.
+ID: BID_087_ExerciseMale
+
+Name: Chef's Choice
+Description: Perfectly sliced.
+ID: BID_088_SushiChefMale
+
+Name: Ignition
+Description: Start it up.
+ID: BID_089_StreetRacerWhiteFemale
+
+Name: Lane Splitter
+Description: Cut through the crowd.
+ID: BID_090_StreetRacerWhiteMale
+
+Name: Deep Fried
+Description: Perfectly greasy.
+ID: BID_091_DurrrBurgerHero
+
+Name: Bamboo
+Description: Fresh and crunchy.
+ID: BID_092_FuzzyBearPanda
+
+Name: Summer Strummer
+Description: Jam on.
+ID: BID_093_HippieMale
+
+Name: Hip Shakers
+Description: Verifiably hip.
+ID: BID_094_HippieFemale
+
+Name: Dark Wings
+Description: Swoop in and take the spoils.
+ID: BID_095_RavenQuillFemale
+
+Name: Road Ready
+Description: Two-wheel toolkit.
+ID: BID_096_BikerMale
+
+Name: Road Flair
+Description: Built for the road.
+ID: BID_097_BikerFemale
+
+Name: Sashimono
+Description: Storied sigil.
+ID: BID_098_BlueSamuraiMale
+
+Name: Shiro
+Description: Nyan!
+ID: BID_099_BlueSamuraiFemale
+
+Name: Subjugator
+Description: Quell the competition.
+ID: BID_100_DarkPaintballer
+
+Name: Swag Bag
+Description: Take the money and run.
+ID: BID_101_BlingFemale
+
+Name: Buckled
+Description: Buckle up!
+ID: BID_102_Buckles
+
+Name: Slashed
+Description: For narrow escapes.
+ID: BID_103_Clawed
+
+Name: Vintage
+Description: Lovingly broken in.
+ID: BID_104_YellowZip
+
+Name: Ghost Portal
+Description: I just got a chill.
 Reactive: Additional FX after eliminating opponents.
-id: BID_105_GhostPortal
+ID: BID_105_GhostPortal
 
-name: Kick Drum
-description: Drive the beat.
-id: BID_106_GarageBandMale
+Name: Kick Drum
+Description: Drive the beat.
+ID: BID_106_GarageBandMale
 
-name: Keytar
-description: The key to harmony.
-id: BID_107_GarageBandFemale
+Name: Keytar
+Description: The key to harmony.
+ID: BID_107_GarageBandFemale
 
-name: Cuff Case
-description: Always by your side.
-id: BID_108_Blingmale
+Name: Cuff Case
+Description: Always by your side.
+ID: BID_108_Blingmale
 
-name: Crafted Carrier
-description: Brilliantly bespoke.
-id: BID_108_HacivatMale
+Name: Crafted Carrier
+Description: Brilliantly bespoke.
+ID: BID_108_HacivatMale
 
-name: Care Package
-description: Surgically precise.
-id: BID_109_MedicMale
+Name: Care Package
+Description: Surgically precise.
+ID: BID_109_MedicMale
 
-name: Gurney Gear
-description: Wheels up.
-id: BID_110_MedicFemale
+Name: Gurney Gear
+Description: Wheels up.
+ID: BID_110_MedicFemale
 
-name: Battle Balloon
-description: Where we poppin'?
-id: BID_111_ClownFemale
+Name: Battle Balloon
+Description: Where we poppin'?
+ID: BID_111_ClownFemale
 
-name: Balloon Llama
-description: Inflate a friend.
-id: BID_112_ClownMale
+Name: Balloon Llama
+Description: Inflate a friend.
+ID: BID_112_ClownMale
 
-name: Valkyrie Wings
-description: Winter winds prevail.
-id: BID_113_DarkVikingFemale
+Name: Valkyrie Wings
+Description: Winter winds prevail.
+ID: BID_113_DarkVikingFemale
 
-name: Telemetry
-description: Find your bearings.
-id: BID_114_ModernMilitaryRed
+Name: Telemetry
+Description: Find your bearings.
+ID: BID_114_ModernMilitaryRed
 
-name: Para-Provisions
-description: Packed at altitude.
-id: BID_115_DieselpunkMale
+Name: Para-Provisions
+Description: Packed at altitude.
+ID: BID_115_DieselpunkMale
 
-name: Airflow
-description: Tuned for turbulence.
-id: BID_116_DieselpunkFemale
+Name: Airflow
+Description: Tuned for turbulence.
+ID: BID_116_DieselpunkFemale
 
-name: Clockworks
-description: What time is it, little llama?
+Name: Clockworks
+Description: What time is it, little llama?
 Reactive: Makes sound after eliminating an opponent.
-id: BID_117_OctoberfestMale
+ID: BID_117_OctoberfestMale
 
-name: Pretzel Protector
-description: Pass the mustard.
-id: BID_118_OctoberfestFemale
+Name: Pretzel Protector
+Description: Pass the mustard.
+ID: BID_118_OctoberfestFemale
 
-name: Dusk Wings
-description: Sharper than fangs.
-id: BID_119_VampireFemale
+Name: Dusk Wings
+Description: Sharper than fangs.
+ID: BID_119_VampireFemale
 
-name: Wolfpack
-description: Packing extra bite.
-id: BID_120_Werewolf
+Name: Wolfpack
+Description: Packing extra bite.
+ID: BID_120_Werewolf
 
-name: Fabled Cape
-description: Nothing lil' about it.
-id: BID_121_RedRiding
+Name: Fabled Cape
+Description: Nothing lil' about it.
+ID: BID_121_RedRiding
 
-name: Night Cloak
-description: Stealthy and saucy.
-id: BID_122_HalloweenTomato
+Name: Night Cloak
+Description: Stealthy and saucy.
+ID: BID_122_HalloweenTomato
 
-name: Waveform
-description: Expertly equalized.
-id: BID_123_FortniteDJ
+Name: Waveform
+Description: Expertly equalized.
+ID: BID_123_FortniteDJ
 
-name: Hay Nest
-description: Hatch a plan.
-id: BID_124_ScarecrowMale
+Name: Hay Nest
+Description: Hatch a plan.
+ID: BID_124_ScarecrowMale
 
-name: Birdhovel
-description: Keep your enemies close.
-id: BID_125_ScarecrowFemale
+Name: Birdhovel
+Description: Keep your enemies close.
+ID: BID_125_ScarecrowFemale
 
-name: Dark Bag
-description: Don't forget to pack an umbrella.
-id: BID_126_DarkBomber
+Name: Dark Bag
+Description: Don't forget to pack an umbrella.
+ID: BID_126_DarkBomber
 
-name: Dismal Cape
-description: Black as night.
-id: BID_127_PlagueMale
+Name: Dismal Cape
+Description: Black as night.
+ID: BID_127_PlagueMale
 
-name: Arcanum
-description: Perilous & potent.
-id: BID_128_PlagueFemale
+Name: Arcanum
+Description: Perilous & potent.
+ID: BID_128_PlagueFemale
 
-name: Mouldering Cloak
-description: Ragged and worn, from days long gone.
-id: BID_129_PumpkinSlice
+Name: Mouldering Cloak
+Description: Ragged and worn, from days long gone.
+ID: BID_129_PumpkinSlice
 
-name: Coven Cape
-description: Certified coven couture.
-id: BID_130_VampireMale02
+Name: Coven Cape
+Description: Certified coven couture.
+ID: BID_130_VampireMale02
 
-name: Long Legs
-description: Stretch your legs.
-id: BID_131_BlackWidowfemale
+Name: Long Legs
+Description: Stretch your legs.
+ID: BID_131_BlackWidowfemale
 
-name: Spider Shield
-description: Spun from endless strands.
-id: BID_132_BlackWidowMale
+Name: Spider Shield
+Description: Spun from endless strands.
+ID: BID_132_BlackWidowMale
 
-name: Loyal Shield
-description: Dependable as always.
-id: BID_133_GuanYu
+Name: Loyal Shield
+Description: Dependable as always.
+ID: BID_133_GuanYu
 
-name: Top Notch
-description: Best in class.
-id: BID_134_MilitaryFashion
+Name: Top Notch
+Description: Best in class.
+ID: BID_134_MilitaryFashion
 
-name: Calavera
-description: Bare bones fashion.
+Name: Calavera
+Description: Bare bones fashion.
 Reactive: Glows in the dark
-id: BID_135_MuertosFemale
+ID: BID_135_MuertosFemale
 
-name: Spirit Cape
-description: Find your spirit.
+Name: Spirit Cape
+Description: Find your spirit.
 Reactive: Glows in the dark
-id: BID_136_MuertosMale
+ID: BID_136_MuertosMale
 
-name: Shackled Stone
-description: Keep it contained.
+Name: Shackled Stone
+Description: Keep it contained.
 Reactive: Transforms by dealing damage, or by outliving other players.
-id: BID_137_EvilCowboy
+ID: BID_137_EvilCowboy
 
-name: Galactic Disc
-description: Light-years ahead of the rest.
-id: BID_138_Celestial
+Name: Galactic Disc
+Description: Light-years ahead of the rest.
+ID: BID_138_Celestial
 
-name: Goodie Gourd
-description: Yum!
-id: BID_139_FuzzyBearHalloween
+Name: Goodie Gourd
+Description: Yum!
+ID: BID_139_FuzzyBearHalloween
 
-name: Response Unit
-description: Send a message.
-id: BID_140_StreetOpsMale
+Name: Response Unit
+Description: Send a message.
+ID: BID_140_StreetOpsMale
 
-name: Reaction Tank
-description: Pressurized.
-id: BID_141_StreetOpsFemale
+Name: Reaction Tank
+Description: Pressurized.
+ID: BID_141_StreetOpsFemale
 
-name: Freezing Point
-description: Ice cold.
-id: BID_142_RaptorArcticCamo
+Name: Freezing Point
+Description: Ice cold.
+ID: BID_142_RaptorArcticCamo
 
-name: Bladed Wings
-description: Wings with edge.
-id: BID_142_SamuraiUltra
+Name: Bladed Wings
+Description: Wings with edge.
+ID: BID_142_SamuraiUltra
 
-name: Spike Chamber
-description: Rusty and trusty.
-id: BID_143_MadCommanderMale
+Name: Spike Chamber
+Description: Rusty and trusty.
+ID: BID_143_MadCommanderMale
 
-name: Puncture Pack
-description: Crusty and musty.
-id: BID_144_MadCommanderFemale
+Name: Puncture Pack
+Description: Crusty and musty.
+ID: BID_144_MadCommanderFemale
 
-name: Woofs
-description: Already house-broken.
-id: BID_145_AnimalJacketsMale
+Name: Woofs
+Description: Already house-broken.
+ID: BID_145_AnimalJacketsMale
 
-name: Nibbles
-description: Stuffed full of carrots.
-id: BID_146_AnimalJacketsFemale
+Name: Nibbles
+Description: Stuffed full of carrots.
+ID: BID_146_AnimalJacketsFemale
 
-name: Lil' Kev
-description: Loves to play in the lake.
-id: BID_147_LilKev
+Name: Lil' Kev
+Description: Loves to play in the lake.
+ID: BID_147_LilKev
 
-name: E.L.I.M.
-description: Increment elimination count.
+Name: E.L.I.M.
+Description: Increment elimination count.
 Reactive: Displays your number of eliminations in the match.
-id: BID_148_RobotRed
+ID: BID_148_RobotRed
 
-name: Spellbinder
-description: Arcane apparel.
-id: BID_149_Wizard
+Name: Spellbinder
+Description: Arcane apparel.
+ID: BID_149_Wizard
 
-name: Tome Pouch
-description: Long forgotten lore.
-id: BID_150_Witch
+Name: Tome Pouch
+Description: Long forgotten lore.
+ID: BID_150_Witch
 
-name: Shrimpy
-description: Pack a tasty snack on your back.
-id: BID_151_SushiChefFemale
+Name: Shrimpy
+Description: Pack a tasty snack on your back.
+ID: BID_151_SushiChefFemale
 
-name: Trusty Tusks
-description: Tufted and tusked.
-id: BID_152_HornedMaskMale
+Name: Trusty Tusks
+Description: Tufted and tusked.
+ID: BID_152_HornedMaskMale
 
-name: White Fang
-description: Fearsome and fanged.
-id: BID_153_HornedMaskFemale
+Name: White Fang
+Description: Fearsome and fanged.
+ID: BID_153_HornedMaskFemale
 
-name: Hatchback
-description: Come out of your shell.
-id: BID_154_Feathers
+Name: Hatchback
+Description: Come out of your shell.
+ID: BID_154_Feathers
 
-name: Scope Satchel
-description: Geared for long distance.
-id: BID_155_SniperHoodMale
+Name: Scope Satchel
+Description: Geared for long distance.
+ID: BID_155_SniperHoodMale
 
-name: Sight Sling
-description: Expertly sighted.
-id: BID_156_SniperHoodFemale
+Name: Sight Sling
+Description: Expertly sighted.
+ID: BID_156_SniperHoodFemale
 
-name: Wingback
-description: Retracted & ready.
-id: BID_157_MothMale
+Name: Wingback
+Description: Retracted & ready.
+ID: BID_157_MothMale
 
-name: Altitude
-description: Climb to the top.
+Name: Altitude
+Description: Climb to the top.
 Reactive: Indicates your current altitude.
-id: BID_158_ArcticSniperMale
+ID: BID_158_ArcticSniperMale
 
-name: Perfect Present
-description: I wonder what it could be?!
-id: BID_160_TacticalSantaMale
+Name: Perfect Present
+Description: I wonder what it could be?!
+ID: BID_160_TacticalSantaMale
 
-name: Trail Tote
-description: Hit the slopes!
-id: BID_161_SnowBoardFemale
+Name: Trail Tote
+Description: Hit the slopes!
+ID: BID_161_SnowBoardFemale
 
-name: Ice Cube
-description: Even too cold for penguins.
-id: BID_162_YetiMale
+Name: Ice Cube
+Description: Even too cold for penguins.
+ID: BID_162_YetiMale
 
-name: Ice Mantle
-description: Fit for an ice king.
-id: BID_163_IceKing
+Name: Ice Mantle
+Description: Fit for an ice king.
+ID: BID_163_IceKing
 
-name: Slushy Jr.
-description: Prone to meltdowns.
-id: BID_164_SnowmanMale
+Name: Slushy Jr.
+Description: Prone to meltdowns.
+ID: BID_164_SnowmanMale
 
-name: Signal Hub
-description: Uplink secured.
+Name: Signal Hub
+Description: Uplink secured.
 Reactive: Changes color based on damage dealt to opponents.
-id: BID_165_BlueBadassFemale
+ID: BID_165_BlueBadassFemale
 
-name: Frozen Iron Cage
-description: There is no escape from the cold.
-id: BID_166_RavenWinterMale
+Name: Frozen Iron Cage
+Description: There is no escape from the cold.
+ID: BID_166_RavenWinterMale
 
-name: Frozen Red Shield
-description: The Red Knight's legendary frozen shield.
-id: BID_167_RedKnightWinterFemale
+Name: Frozen Red Shield
+Description: The Red Knight's legendary frozen shield.
+ID: BID_167_RedKnightWinterFemale
 
-name: Frozen Love Wings
-description: Freeze love in its tracks.
-id: BID_168_CupidWinterMale
+Name: Frozen Love Wings
+Description: Freeze love in its tracks.
+ID: BID_168_CupidWinterMale
 
-name: Tabulator
-description: Get those digits.
+Name: Tabulator
+Description: Get those digits.
 Reactive: Displays your number of eliminations in the match.
-id: BID_169_MathMale
+ID: BID_169_MathMale
 
-name: Techie
-description: Boot up.
-id: BID_170_MathFemale
+Name: Techie
+Description: Boot up.
+ID: BID_170_MathFemale
 
-name: V6
-description: Get revved up!
-id: BID_171_Rhino
+Name: V6
+Description: Get revved up!
+ID: BID_171_Rhino
 
-name: Padlock
-description: Locked down.
-id: BID_175_Prisoner
+Name: Padlock
+Description: Locked down.
+ID: BID_175_Prisoner
 
-name: Rebreather
-description: Shelling out air on demand.
-id: BID_176_NautilusMale
+Name: Rebreather
+Description: Shelling out air on demand.
+ID: BID_176_NautilusMale
 
-name: Octotank
-description: Eight chambers of oxygen.
-id: BID_177_NautilusFemale
+Name: Octotank
+Description: Eight chambers of oxygen.
+ID: BID_177_NautilusFemale
 
-name: Ark Wings
-description: Pristine plumage.
-id: BID_178_Angel
+Name: Ark Wings
+Description: Pristine plumage.
+ID: BID_178_Angel
 
-name: Malcore Wings
-description: Spread your wicked wings.
-id: BID_179_DemonMale
+Name: Malcore Wings
+Description: Spread your wicked wings.
+ID: BID_179_DemonMale
 
-name: Glimmering Cloak
-description: Tailored from ice and snow.
-id: BID_180_IceMaiden
+Name: Glimmering Cloak
+Description: Tailored from ice and snow.
+ID: BID_180_IceMaiden
 
-name: Snow Star
-description: Hard to handle.
-id: BID_181_SnowNinjaMale
+Name: Snow Star
+Description: Hard to handle.
+ID: BID_181_SnowNinjaMale
 
-name: Birdshot
-description: Flock together.
-id: BID_182_NutcrackerMale
+Name: Birdshot
+Description: Flock together.
+ID: BID_182_NutcrackerMale
 
-name: Snackshot
-description: Now snack-sized.
-id: BID_183_NutcrackerFemale
+Name: Snackshot
+Description: Now snack-sized.
+ID: BID_183_NutcrackerFemale
 
-name: Flutterfrost
-description: A chill is in the air.
-id: BID_184_SnowFairyFemale
+Name: Flutterfrost
+Description: A chill is in the air.
+ID: BID_184_SnowFairyFemale
 
-name: Luminous Lamp
-description: Light up the night.
-id: BID_185_GnomeMale
+Name: Luminous Lamp
+Description: Light up the night.
+ID: BID_185_GnomeMale
 
-name: Mini Marauder
-description: Extra salty.
-id: BID_186_GingerbreadMale
+Name: Mini Marauder
+Description: Extra salty.
+ID: BID_186_GingerbreadMale
 
-name: Giddy Gunner
-description: Extra sweet.
-id: BID_187_GingerbreadFemale
+Name: Giddy Gunner
+Description: Extra sweet.
+ID: BID_187_GingerbreadFemale
 
-name: Glow Show
-description: Illuminate the room.
-id: BID_188_FortniteDJFemale
+Name: Glow Show
+Description: Illuminate the room.
+ID: BID_188_FortniteDJFemale
 
-name: Eternal
-description: Unbounded.
-id: BID_189_StreetGothMale
+Name: Eternal
+Description: Unbounded.
+ID: BID_189_StreetGothMale
 
-name: Stitches
-description: Sown into your nightmares.
-id: BID_190_StreetGothFemale
+Name: Stitches
+Description: Sown into your nightmares.
+ID: BID_190_StreetGothFemale
 
-name: Shadow Wings
-description: Soar in the shadows.
-id: BID_191_WinterGhoulMale
+Name: Shadow Wings
+Description: Soar in the shadows.
+ID: BID_191_WinterGhoulMale
 
-name: Combat Wreath
-description: Tidings of combat and joy.
-id: BID_192_WinterHolidayFemale
+Name: Combat Wreath
+Description: Tidings of combat and joy.
+ID: BID_192_WinterHolidayFemale
 
-name: Saltwater Satchel
-description: Keep the ocean at hand.
-id: BID_193_TeriyakiFishMale
+Name: Saltwater Satchel
+Description: Keep the ocean at hand.
+ID: BID_193_TeriyakiFishMale
 
-name: Brat Bag
-description: Fill 'er up.
-id: BID_194_Krampus
+Name: Brat Bag
+Description: Fill 'er up.
+ID: BID_194_Krampus
 
-name: Disco Ball
-description: Lose yourself in the sparkling light.
-id: BID_195_FunkOpsFemale
+Name: Disco Ball
+Description: Lose yourself in the sparkling light.
+ID: BID_195_FunkOpsFemale
 
-name: Emblazoned Buckler
-description: To the victor go the spoils.
-id: BID_196_BarbarianMale
+Name: Emblazoned Buckler
+Description: To the victor go the spoils.
+ID: BID_196_BarbarianMale
 
-name: Runic Shield
-description: Claimed in battle.
-id: BID_197_BarbarianFemale
+Name: Runic Shield
+Description: Claimed in battle.
+ID: BID_197_BarbarianFemale
 
-name: Capacitor
-description: Fully charged.
-id: BID_198_TechOps
+Name: Capacitor
+Description: Fully charged.
+ID: BID_198_TechOps
 
-name: Ice Spikes
-description: Clad yourself in jagged ice.
-id: BID_199_IceQueen
+Name: Ice Spikes
+Description: Clad yourself in jagged ice.
+ID: BID_199_IceQueen
 
-name: Snowbrand
-description: Piercingly cold.
-id: BID_200_SnowNinjaFemale
+Name: Snowbrand
+Description: Piercingly cold.
+ID: BID_200_SnowNinjaFemale
 
-name: Bendie Inflator
-description: It literally blows.
-id: BID_201_WavyManMale
+Name: Bendie Inflator
+Description: It literally blows.
+ID: BID_201_WavyManMale
 
-name: Twistie Inflator
-description: Your biggest fan.
-id: BID_202_WavyManFemale
+Name: Twistie Inflator
+Description: Your biggest fan.
+ID: BID_202_WavyManFemale
 
-name: Reinforced Backplate
-description: Strong and secured.
-id: BID_203_BlueMystery
+Name: Reinforced Backplate
+Description: Strong and secured.
+ID: BID_203_BlueMystery
 
-name: Used Racket
-description: Near mint condition!
-id: BID_204_TennisFemale
+Name: Used Racket
+Description: Near mint condition!
+ID: BID_204_TennisFemale
 
-name: Trash Lid
-description: Put a lid on it.
-id: BID_205_ScrapyardMale
+Name: Trash Lid
+Description: Put a lid on it.
+ID: BID_205_ScrapyardMale
 
-name: Scrappy
-description: Barking out of the Boneyard.
-id: BID_206_ScrapyardFemale
+Name: Scrappy
+Description: Barking out of the Boneyard.
+ID: BID_206_ScrapyardFemale
 
-name: Bao Basket
-description: Steamy and savory.
-id: BID_207_DumplingMan
+Name: Bao Basket
+Description: Steamy and savory.
+ID: BID_207_DumplingMan
 
-name: Fallen Wings
-description: Ready to rebound.
-id: BID_208_CupidDarkMale
+Name: Fallen Wings
+Description: Ready to rebound.
+ID: BID_208_CupidDarkMale
 
-name: Board Bag
-description: Ready for the grind.
-id: BID_209_RobotTroubleMale
+Name: Board Bag
+Description: Ready for the grind.
+ID: BID_209_RobotTroubleMale
 
-name: Cannister Carrier
-description: Spray it, don't say it.
-id: BID_210_RobotTroubleFemale
+Name: Cannister Carrier
+Description: Spray it, don't say it.
+ID: BID_210_RobotTroubleFemale
 
-name: Skully Satchel
-description: Equal parts adorable and disturbing.
-id: BID_211_SkullBrite
+Name: Skully Satchel
+Description: Equal parts adorable and disturbing.
+ID: BID_211_SkullBrite
 
-name: Sno Cone
-description: A neverending treat.
-id: BID_213_IceCream
+Name: Sno Cone
+Description: A neverending treat.
+ID: BID_213_IceCream
 
-name: Sweetheart
-description: Wear your heart on your back.
-id: BID_214_LoveLlama
+Name: Sweetheart
+Description: Wear your heart on your back.
+ID: BID_214_LoveLlama
 
-name: Master Portal
-description: Unlock the mystery.
+Name: Master Portal
+Description: Unlock the mystery.
 Reactive: Changes style based on number of chests opened in a match.
-id: BID_215_MasterKey
+ID: BID_215_MasterKey
 
-name: Mutiny
-description: Seize the wheel.
-id: BID_216_PirateProgressive
+Name: Mutiny
+Description: Seize the wheel.
+ID: BID_216_PirateProgressive
 
-name: High Caliber
-description: Fully loaded flair.
-id: BID_217_ShinyFemale
+Name: High Caliber
+Description: Fully loaded flair.
+ID: BID_217_ShinyFemale
 
-name: Cobra
-description: King of the serpents.
-id: BID_218_Medusa
+Name: Cobra
+Description: King of the serpents.
+ID: BID_218_Medusa
 
-name: Haystacks
-description: Characteristically unfriendly to birds.
-id: BID_219_FarmerMale
+Name: Haystacks
+Description: Characteristically unfriendly to birds.
+ID: BID_219_FarmerMale
 
-name: Sun Sprout
-description: Perfectly sunny.
-id: BID_220_FarmerFemale
+Name: Sun Sprout
+Description: Perfectly sunny.
+ID: BID_220_FarmerFemale
 
-name: Hypnotic
-description: Look into my eyes...
-id: BID_221_AztecMale
+Name: Hypnotic
+Description: Look into my eyes...
+ID: BID_221_AztecMale
 
-name: Sun Wings
-description: Solar powered.
-id: BID_222_AztecFemale
+Name: Sun Wings
+Description: Solar powered.
+ID: BID_222_AztecFemale
 
-name: Oscilloscope
-description: Dialed in.
-id: BID_223_OrangeCamo
+Name: Oscilloscope
+Description: Dialed in.
+ID: BID_223_OrangeCamo
 
-name: Carbon Pack
-description: Lightweight and combat ready.
-id: BID_224_TechOpsBlue
+Name: Carbon Pack
+Description: Lightweight and combat ready.
+ID: BID_224_TechOpsBlue
 
-name: Katana & Kunai
-description: Blades of choice.
-id: BID_225_BandageNinjaMale
+Name: Katana & Kunai
+Description: Blades of choice.
+ID: BID_225_BandageNinjaMale
 
-name: Dual Kama
-description: Goes hand in hand with victory.
-id: BID_226_BandageNinjaFemale
+Name: Dual Kama
+Description: Goes hand in hand with victory.
+ID: BID_226_BandageNinjaFemale
 
-name: Omission
-description: Selectively discreet.
-id: BID_227_SciOpsFemale
+Name: Omission
+Description: Selectively discreet.
+ID: BID_227_SciOpsFemale
 
-name: Commission
-description: Authorized to engage.
-id: BID_228_SciOpsMale
+Name: Commission
+Description: Authorized to engage.
+ID: BID_228_SciOpsMale
 
-name: Rainbow Clover
-description: Three leaf fashion.
-id: BID_229_LuckyRiderMale
+Name: Rainbow Clover
+Description: Three leaf fashion.
+ID: BID_229_LuckyRiderMale
 
-name: Banana Bag
-description: Potassium Packed.
-id: BID_230_TropicalMale
+Name: Banana Bag
+Description: Potassium Packed.
+ID: BID_230_TropicalMale
 
-name: Pineapple Strummer
-description: Sounds sweet.
-id: BID_231_TropicalFemale
+Name: Pineapple Strummer
+Description: Sounds sweet.
+ID: BID_231_TropicalFemale
 
-name: Lucky Coins
-description: Save up your luck.
-id: BID_232_Leprechaun
+Name: Lucky Coins
+Description: Save up your luck.
+ID: BID_232_Leprechaun
 
-name: Malice Wings
-description: Simply malicious.
-id: BID_233_DevilRock
+Name: Malice Wings
+Description: Simply malicious.
+ID: BID_233_DevilRock
 
-name: Dark Deflector
-description: Darken the course of the battle.
-id: BID_234_SpeedyMidnight
+Name: Dark Deflector
+Description: Darken the course of the battle.
+ID: BID_234_SpeedyMidnight
 
-name: Crystal Llama
-description: Shiny!
-id: BID_235_Heist
+Name: Crystal Llama
+Description: Shiny!
+ID: BID_235_Heist
 
-name: Seaworthy
-description: Ready to board.
-id: BID_236_Pirate01Female
+Name: Seaworthy
+Description: Ready to board.
+ID: BID_236_Pirate01Female
 
-name: Barrel & Booty
-description: True bling.
-id: BID_238_Pirate02Male
+Name: Barrel & Booty
+Description: True bling.
+ID: BID_238_Pirate02Male
 
-name: Battle Mask
-description: Battle boldly.
-id: BID_240_DarkShamanMale
+Name: Battle Mask
+Description: Battle boldly.
+ID: BID_240_DarkShamanMale
 
-name: Cuddle Doll
-description: Cute, cuddly, and cursed.
-id: BID_241_DarkShamanFemale
+Name: Cuddle Doll
+Description: Cute, cuddly, and cursed.
+ID: BID_241_DarkShamanFemale
 
-name: Dying Light
-description: The light before the darkness.
-id: BID_242_FurnaceFace
+Name: Dying Light
+Description: The light before the darkness.
+ID: BID_242_FurnaceFace
 
-name: Molten Crested Cape
-description: Molten and courageous.
-id: BID_243_BattleHoundFire
+Name: Molten Crested Cape
+Description: Molten and courageous.
+ID: BID_243_BattleHoundFire
 
-name: Molten Valkyrie Wings
-description: Burning winds prevail.
-id: BID_244_DarkVikingFire
+Name: Molten Valkyrie Wings
+Description: Burning winds prevail.
+ID: BID_244_DarkVikingFire
 
-name: Double Play
-description: Two for one.
-id: BID_245_BaseballKitbashFemale
+Name: Double Play
+Description: Two for one.
+ID: BID_245_BaseballKitbashFemale
 
-name: Strike Zone
-description: Strike 'em out.
-id: BID_246_BaseballKitbashMale
+Name: Strike Zone
+Description: Strike 'em out.
+ID: BID_246_BaseballKitbashMale
 
-name: Bladed Bag
-description: Sharp and ready.
-id: BID_247_StreetAssassin
+Name: Bladed Bag
+Description: Sharp and ready.
+ID: BID_247_StreetAssassin
 
-name: Gauge
-description: Targets engaged.
+Name: Gauge
+Description: Targets engaged.
 Reactive: Displays your number of eliminations in the match.
-id: BID_248_Pilots
-
-name: Stealth Response Unit
-description: Quick and quiet.
-id: BID_249_StreetOpsStealth
-
-name: Volatile
-description: Make mine explosive.
-id: BID_250_TheBomb
-
-name: Cryo Hops
-description: The bunny's just chilling.
-id: BID_251_SpaceBunny
-
-name: Floppy
-description: This bunny's gone bad.
-id: BID_252_EvilBunny
-
-name: Bunny Bag
-description: Take the bunny and run.
-id: BID_253_HoppityHeist
-
-name: Diamond Star
-description: Perfectly cut.
-id: BID_254_ShinyMale
-
-name: Lunar Light
-description: Interstellar style.
-id: BID_255_MoonlightAssassin
-
-name: Shattered Wing
-description: Break through.
-id: BID_256_ShatterFly
-
-name: Slice 'n dice
-description: Straight to the point.
-id: BID_257_Swashbuckler
-
-name: Widow’s Pack
-description: Mission ready.
-id: BID_258_AshtonBoardwalk
-
-name: Star-Lord Pack
-description: Fit for an outlaw.
-id: BID_259_Ashton_SaltLake
-
-name: Hot Wings
-description: Sear through the sky.
-id: BID_261_Rooster
-
-name: Go bag
-description: Always ready.
-id: BID_262_BountyHunterFemale
-
-name: Scarlet Edge
-description: Double bladed fury.
-id: BID_263_Masako
-
-name: Backtracker
-description: Features real-time storm data.
-id: BID_264_StormTracker
-
-name: Retribution
-description: Strike back.
-id: BID_265_BattleSuit
-
-name: Nana Cape
-description: A Peely original.
-id: BID_266_BunkerMan
-
-name: CnXn
-description: Always connected.
-id: BID_267_CyberScavengerMale
-
-name: Phrenzy
-description: Burn through the firewall.
-id: BID_268_CyberScavengerFemale
-
-name: Bomber bag
-description: High flying.
-id: BID_269_RaptorFemale
-
-name: Spectral Spine
-description: Show some backbone.
-id: BID_270_StreetDemon
-
-name: Assassin Pack
-description: Ready for anything.
-id: BID_271_AssassinSuitMale
-
-name: Gun Bag
-description: Locked and loaded.
-id: BID_272_AssassinSuitFemale
-
-name: Gold Token
-description: Out of unity comes strength.
-id: BID_273_AssassinSuitCoin
-
-name: Gaze
-description: Unbroken sight.
-id: BID_275_Geisha
-
-name: Chow Down
-description: Stay hungry.
-id: BID_276_Pug
-
-name: Palette Pack
-description: Sharp color.
-id: BID_277_WhiteTiger
-
-name: Back Board
-description: Decked out.
-id: BID_278_VigilanteBoard
-
-name: Holo-pack
-description: Holographically enhanced battle bag.
-id: BID_279_CyberRunner
-
-name: Hexxed
-description: Caution: Haunted.
-id: BID_280_DemonHunterFemale
-
-name: Ocular
-description: Always watching.
-id: BID_281_DemonHunterMale
-
-name: Utility Pack
-description: Everything you need.
-id: BID_282_UrbanScavenger
-
-name: Lightning Cloak
-description: Crackling with furious energy.
-id: BID_283_StormSoldier
-
-name: Signal Jammer
-description: Nothing gets through.
-id: BID_284_NeonLines
-
-name: Stark Satchel
-description: Equal parts adorable and stark.
-id: BID_285_SkullBriteEclipse
-
-name: Perfect Wings
-description: Soar in shadows.
-id: BID_286_WinterGhoulMaleEclipse
-
-name: Shadowbird Wings
-description: Fly in the eclipse.
-id: BID_287_AztecFemaleEclipse
-
-name: Neo Phrenzy
-description: Phase through the firewall.
-id: BID_288_CyberScavengerFemaleBlue
-
-name: Banner Cape
-description: Customize your look by choosing a Banner and color in your Locker.
-id: BID_289_Banner
-
-name: Flutter Wings
-description: Float like a butterfly.
-id: BID_290_Butterfly
-
-name: Carapace
-description: Naturally thick skinned.
-id: BID_291_Caterpillar
-
-name: Chuck Pack
-description: Wield responsibly.
-id: BID_292_CyberFuFemale
-
-name: Lumi Core Red
-description: Do not disturb.
-id: BID_293_GlowBroFemale
-
-name: Lumi Core Green
-description: Don't tap the glass.
-id: BID_294_GlowBroMale
-
-name: Anemone
-description: Pleasantly hypnotic.
-id: BID_295_Jellyfish
-
-name: Floral Shell
-description: Seaside style.
-id: BID_296_Sarong
-
-name: Streamline
-description: Streamlined style.
-id: BID_297_SpaceGirl
-
-name: Glow Jet
-description: Rated for all known atmospheres.
-id: BID_298_ZodiacFemale
-
-name: Brite Board
-description: Shred the sunshine.
-id: BID_299_BriteBomberSummer
-
-name: Oozie
-description: Stay hydrated.
-id: BID_300_DriftSummer
-
-name: Tiny Totem
-description: Carved in the likeness of victory.
-id: BID_301_HeistSummer
-
-name: Cooler
-description: Pack a snack.
-id: BID_302_Hairy
-
-name: Smoothie
-description: Blended banana buddy.
-id: BID_303_BananaSmoothie
-
-name: Quack Pack
-description: Everybody duck.
-id: BID_304_Duck
-
-name: Brave Bag
-description: Brave and blue.
-id: BID_305_StarAndStripesFemale
-
-name: Color Guard
-description: Forever bold.
-id: BID_306_StarAndStripesMale
-
-name: Mochi
-description: So sweet.
-id: BID_307_Bani
-
-name: Tahna
-description: On the edge.
-id: BID_308_CyberKarateFemale
-
-name: Striped Stalker
-description: Ready to pounce.
-id: BID_309_CyberKarateMale
-
-name: Lazer Wings
-description: Free the universe.
-id: BID_310_Lasagna
-
-name: Jet Set
-description: Powered up and ready for action.
-id: BID_311_Multibot
-
-name: Prospect
-description: Endless possibilities.
-id: BID_312_Stealth
-
-name: Bubble Blast
-description: A flavor explosion.
-id: BID_313_Bubblegum
-
-name: Geode
-description: Rock solid.
-id: BID_314_Geode
-
-name: Cheesy
-description: Lookin' sharp.
-id: BID_315_PizzaPit
-
-name: Paint Pack
-description: Spray and pray.
-id: BID_316_GraffitiRemix
-
-name: Dragoncrest
-description: Forged in dragon fire.
-id: BID_317_KnightRemix
-
-name: Star Shot
-description: Radiating confidence.
-id: BID_318_SparkleRemix
-
-name: Atmosphere
-description: Resonating with energy.
-id: BID_319_StreetRacerDriftRemix
-
-name: Spiked Satchel
-description: Make your point.
-id: BID_320_RustLordRemix
-
-name: Trophy Sack
-description: Keep ahead of the competition.
-id: BID_321_RustLordRemixScavenger
-
-name: Gameplan
-description: Bring your game wherever you go.
-id: BID_322_VoyagerRemix
-
-name: Golden Disco
-description: Now the party's started.
-id: BID_323_FunkOpsRemix
-
-name: Tri-Pack
-description: Light it up.
-id: BID_324_BlueBadass
-
-name: Primal Danger
-description: Trust your instincts.
-id: BID_325_BoneWasp
-
-name: Bronto Bag
-description: One for the ages.
-id: BID_326_Bronto
-
-name: Rift Rock
-description: Back from beyond.
-id: BID_327_Meteorite
-
-name: Detonator
-description: Set it off.
-id: BID_328_WildWest
-
-name: Grande Pack
-description: River ready.
-id: BID_329_WildWestFemale
-
-name: Xenopod
-description: Suspiciously glitchy.
-id: BID_330_AstronautEvilUpgrade
-
-name: Starcrest Shift
-description: Elegantly engineered.
-id: BID_331_DarkNinjaWhite
-
-name: Starcrest Flux
-description: Pure perfection.
-id: BID_332_FrostMystery
-
-name: Backbeat
-description: Live loud.
-id: BID_333_Reverb
-
-name: Banner Shield
-description: Customize your look by choosing a Banner and color in your Locker.
-id: BID_334_BannerMale
-
-name: Foxpack
-description: Sly and spikey.
-id: BID_335_Lopex
-
-name: Takeout
-description: Beefy.
-id: BID_336_MascotMilitiaBurger
-
-name: TomCom
-description: Savory field radio.
-id: BID_337_MascotMilitiaTomato
-
-name: Starfield
-description: The fate of the galaxy rests on your shoulders.
-id: BID_338_StarWalker
-
-name: Exo-Spine
-description: Always carry a spare.
-id: BID_339_Syko
-
-name: Kunai Shield
-description: Sharp and steady.
-id: BID_340_WiseMaster
-
-name: Shadow Ark Wings
-description: Feathered darkness.
-id: BID_341_AngelEclipse
-
-name: Wedge
-description: Sleek and refreshing.
-id: BID_342_LemonLime
-
-name: Dark Shield
-description: Timeless.
-id: BID_343_CubeRedKnight
-
-name: Wild Cube
-description: Untamable.
-id: BID_344_CubeWildCard
-
-name: Toxic Kitty
-description: Prepared for all nine lives.
-id: BID_345_ToxicKitty
-
-name: Rogue Spider Shield
-description: Venomous protector.
-id: BID_346_BlackWidowRogue
-
-name: Molten Battle Shroud
-description: Shrouded in fire.
-id: BID_347_DarkEagleFire
-
-name: Stronghold
-description: Strong and ready.
-id: BID_348_PaddedArmor
-
-name: Containment Pack
-description: Battle rated containment system.
-id: BID_349_RaptorBlackOps
-
-name: Motocase
-description: Built for speed.
-id: BID_350_TacticalBiker
-
-name: Spiked Shell
-description: Durable and dangerous.
-id: BID_351_FutureBikerWhite
-
-name: Wings of Love
-description: Soar on.
-id: BID_352_CupidFemale
-
-name: Starlet
-description: Make a wish.
-id: BID_353_StreetGothCandy
-
-name: Red Alert
-description: Let 'em know what's up.
-id: BID_354_StreetFashionRed
-
-name: Turbocoil
-description: DO NOT TOUCH!
-id: BID_355_Jumpstart
-
-name: Moose
-description: Fight like a moose.
-id: BID_356_Punchy
-
-name: Dreamer
-description: Share the dream.
-id: BID_357_Sleepytime
-
-name: Pry Pack
-description: A hard look to pull off.
-id: BID_358_StreetUrchin
-
-name: Star Surge
-description: Power through the rifts.
-id: BID_359_MeteorManRemix
-
-name: The Dark Knight Movie Cloak
-description: Become The Bat.
-id: BID_360_BlackMondayKansas_VCZ9M
-
-name: Jeweled Cat
-description: The purrfect prize.
-id: BID_361_BlackMondayFemale_R0P2N
-
-name: Batman Comic Book Cape
-description: Cloak yourself in darkness.
-id: BID_362_BlackMondayHouston_2I53G
-
-name: Fire Vortex
-description: The swirling flame of the great beyond.
-id: BID_363_Kurohomura
-
-name: Llamacorn Shield
-description: A mighty sigil.
-id: BID_364_LlamaHero
-
-name: Heartless
-description: Smother them with love.
-id: BID_365_MascotMilitiaCuddle
-
-name: Tackle Box
-description: Tackle the waves.
-id: BID_367_TacticalFishermanMale
-
-name: Basecamp Bag
-description: Ascend to new heights.
-id: BID_368_RockClimber
-
-name: Ball Bling
-description: Behind the eight ball.
-id: BID_369_CrazyEight
-
-name: Antidote
-description: Find the cure.
-id: BID_370_RebirthMedic
-
-name: Blade Bag
-description: Look sharp.
-id: BID_371_Sheath
-
-name: Fusion Orb
-description: Encircle immeasurable energy.
-id: BID_372_Viper
-
-name: Black Hole
-description: One singularity sensation.
-id: BID_373_HauntLensFlare
-
-name: Dark Six String
-description: Tuned to the key of darkness.
-id: BID_374_CubeRockerPunk_Female
-
-name: Dry Bag
-description: Prepared for the depths.
-id: BID_375_BulletBlueFemale
-
-name: Saddle Bag
-description: Ready for any job.
-id: BID_376_CODSquad_Plaid
-
-name: Leather Lugger
-description: Geared up for any range.
-id: BID_377_CODSquad_Plaid_Female
-
-name: Fresh Catch
-description: Catch and release.
-id: BID_378_FishermanFemale
-
-name: Pack Leader
-description: The pack's got your back.
-id: BID_379_RedRidingRemix
-
-name: Broken Heart
-description: Stuffed with sadness.
-id: BID_380_CuddleTeamDark
-
-name: Wheelie
-description: Burn rubber.
-id: BID_381_RustyRaiderMotor
-
-name: Dark Scaly
-description: A little dark around the edges.
-id: BID_382_DarkDinoMale
-
-name: Dark Hatchling
-description: A mystery from prehistory.
-id: BID_383_DarkDinoFemale
-
-name: Containment Unit
-description: Perfectly stabilized for Nosh entrapment.
-id: BID_384_NoshHunter
-
-name: Nosh
-description: The snack that bites back.
-id: BID_385_Nosh
-
-name: Mourning Glory
-description: Grow a beautiful backbone.
-id: BID_386_FlowerSkeletonFemale
-
-name: Ridgeback
-description: Forged in eternal fire.
-id: BID_387_PunkDevil
-
-name: Flame Sigil
-description: The underworld beckons.
-id: BID_388_DevilRockMale
-
-name: Illusion Rune
-description: Make them see.
-id: BID_389_GoatRobe
-
-name: Zomball
-description: Goal from beyond the grave.
-id: BID_390_SoccerZombieMale
-
-name: Dead Card
-description: Hit the showers.
-id: BID_391_SoccerZombieFemale
-
-name: Council of Frogs
-description: Grant us wisdom.
-id: BID_392_Freak
-
-name: Bear Brained
-description: Not so cute anymore.
-id: BID_393_GhoulTrooper
-
-name: Ooze Chamber
-description: Contain yourself.
-id: BID_394_Mastermind
-
-name: Time Keeper
-description: Time is running out.
-id: BID_395_Phantom
+ID: BID_248_Pilots
+
+Name: Stealth Response Unit
+Description: Quick and quiet.
+ID: BID_249_StreetOpsStealth
+
+Name: Volatile
+Description: Make mine explosive.
+ID: BID_250_TheBomb
+
+Name: Cryo Hops
+Description: The bunny's just chilling.
+ID: BID_251_SpaceBunny
+
+Name: Floppy
+Description: This bunny's gone bad.
+ID: BID_252_EvilBunny
+
+Name: Bunny Bag
+Description: Take the bunny and run.
+ID: BID_253_HoppityHeist
+
+Name: Diamond Star
+Description: Perfectly cut.
+ID: BID_254_ShinyMale
+
+Name: Lunar Light
+Description: Interstellar style.
+ID: BID_255_MoonlightAssassin
+
+Name: Shattered Wing
+Description: Break through.
+ID: BID_256_ShatterFly
+
+Name: Slice 'n dice
+Description: Straight to the point.
+ID: BID_257_Swashbuckler
+
+Name: Widow’s Pack
+Description: Mission ready.
+ID: BID_258_AshtonBoardwalk
+
+Name: Star-Lord Pack
+Description: Fit for an outlaw.
+ID: BID_259_Ashton_SaltLake
+
+Name: Hot Wings
+Description: Sear through the sky.
+ID: BID_261_Rooster
+
+Name: Go bag
+Description: Always ready.
+ID: BID_262_BountyHunterFemale
+
+Name: Scarlet Edge
+Description: Double bladed fury.
+ID: BID_263_Masako
+
+Name: Backtracker
+Description: Features real-time storm data.
+ID: BID_264_StormTracker
+
+Name: Retribution
+Description: Strike back.
+ID: BID_265_BattleSuit
+
+Name: Nana Cape
+Description: A Peely original.
+ID: BID_266_BunkerMan
+
+Name: CnXn
+Description: Always connected.
+ID: BID_267_CyberScavengerMale
+
+Name: Phrenzy
+Description: Burn through the firewall.
+ID: BID_268_CyberScavengerFemale
+
+Name: Bomber bag
+Description: High flying.
+ID: BID_269_RaptorFemale
+
+Name: Spectral Spine
+Description: Show some backbone.
+ID: BID_270_StreetDemon
+
+Name: Assassin Pack
+Description: Ready for anything.
+ID: BID_271_AssassinSuitMale
+
+Name: Gun Bag
+Description: Locked and loaded.
+ID: BID_272_AssassinSuitFemale
+
+Name: Gold Token
+Description: Out of unity comes strength.
+ID: BID_273_AssassinSuitCoin
+
+Name: Gaze
+Description: Unbroken sight.
+ID: BID_275_Geisha
+
+Name: Chow Down
+Description: Stay hungry.
+ID: BID_276_Pug
+
+Name: Palette Pack
+Description: Sharp color.
+ID: BID_277_WhiteTiger
+
+Name: Back Board
+Description: Decked out.
+ID: BID_278_VigilanteBoard
+
+Name: Holo-pack
+Description: Holographically enhanced battle bag.
+ID: BID_279_CyberRunner
+
+Name: Hexxed
+Description: Caution: Haunted.
+ID: BID_280_DemonHunterFemale
+
+Name: Ocular
+Description: Always watching.
+ID: BID_281_DemonHunterMale
+
+Name: Utility Pack
+Description: Everything you need.
+ID: BID_282_UrbanScavenger
+
+Name: Lightning Cloak
+Description: Crackling with furious energy.
+ID: BID_283_StormSoldier
+
+Name: Signal Jammer
+Description: Nothing gets through.
+ID: BID_284_NeonLines
+
+Name: Stark Satchel
+Description: Equal parts adorable and stark.
+ID: BID_285_SkullBriteEclipse
+
+Name: Perfect Wings
+Description: Soar in shadows.
+ID: BID_286_WinterGhoulMaleEclipse
+
+Name: Shadowbird Wings
+Description: Fly in the eclipse.
+ID: BID_287_AztecFemaleEclipse
+
+Name: Neo Phrenzy
+Description: Phase through the firewall.
+ID: BID_288_CyberScavengerFemaleBlue
+
+Name: Banner Cape
+Description: Customize your look by choosing a Banner and color in your Locker.
+ID: BID_289_Banner
+
+Name: Flutter Wings
+Description: Float like a butterfly.
+ID: BID_290_Butterfly
+
+Name: Carapace
+Description: Naturally thick skinned.
+ID: BID_291_Caterpillar
+
+Name: Chuck Pack
+Description: Wield responsibly.
+ID: BID_292_CyberFuFemale
+
+Name: Lumi Core Red
+Description: Do not disturb.
+ID: BID_293_GlowBroFemale
+
+Name: Lumi Core Green
+Description: Don't tap the glass.
+ID: BID_294_GlowBroMale
+
+Name: Anemone
+Description: Pleasantly hypnotic.
+ID: BID_295_Jellyfish
+
+Name: Floral Shell
+Description: Seaside style.
+ID: BID_296_Sarong
+
+Name: Streamline
+Description: Streamlined style.
+ID: BID_297_SpaceGirl
+
+Name: Glow Jet
+Description: Rated for all known atmospheres.
+ID: BID_298_ZodiacFemale
+
+Name: Brite Board
+Description: Shred the sunshine.
+ID: BID_299_BriteBomberSummer
+
+Name: Oozie
+Description: Stay hydrated.
+ID: BID_300_DriftSummer
+
+Name: Tiny Totem
+Description: Carved in the likeness of victory.
+ID: BID_301_HeistSummer
+
+Name: Cooler
+Description: Pack a snack.
+ID: BID_302_Hairy
+
+Name: Smoothie
+Description: Blended banana buddy.
+ID: BID_303_BananaSmoothie
+
+Name: Quack Pack
+Description: Everybody duck.
+ID: BID_304_Duck
+
+Name: Brave Bag
+Description: Brave and blue.
+ID: BID_305_StarAndStripesFemale
+
+Name: Color Guard
+Description: Forever bold.
+ID: BID_306_StarAndStripesMale
+
+Name: Mochi
+Description: So sweet.
+ID: BID_307_Bani
+
+Name: Tahna
+Description: On the edge.
+ID: BID_308_CyberKarateFemale
+
+Name: Striped Stalker
+Description: Ready to pounce.
+ID: BID_309_CyberKarateMale
+
+Name: Lazer Wings
+Description: Free the universe.
+ID: BID_310_Lasagna
+
+Name: Jet Set
+Description: Powered up and ready for action.
+ID: BID_311_Multibot
+
+Name: Prospect
+Description: Endless possibilities.
+ID: BID_312_Stealth
+
+Name: Bubble Blast
+Description: A flavor explosion.
+ID: BID_313_Bubblegum
+
+Name: Geode
+Description: Rock solid.
+ID: BID_314_Geode
+
+Name: Cheesy
+Description: Lookin' sharp.
+ID: BID_315_PizzaPit
+
+Name: Paint Pack
+Description: Spray and pray.
+ID: BID_316_GraffitiRemix
+
+Name: Dragoncrest
+Description: Forged in dragon fire.
+ID: BID_317_KnightRemix
+
+Name: Star Shot
+Description: Radiating confidence.
+ID: BID_318_SparkleRemix
+
+Name: Atmosphere
+Description: Resonating with energy.
+ID: BID_319_StreetRacerDriftRemix
+
+Name: Spiked Satchel
+Description: Make your point.
+ID: BID_320_RustLordRemix
+
+Name: Trophy Sack
+Description: Keep ahead of the competition.
+ID: BID_321_RustLordRemixScavenger
+
+Name: Gameplan
+Description: Bring your game wherever you go.
+ID: BID_322_VoyagerRemix
+
+Name: Golden Disco
+Description: Now the party's started.
+ID: BID_323_FunkOpsRemix
+
+Name: Tri-Pack
+Description: Light it up.
+ID: BID_324_BlueBadass
+
+Name: Primal Danger
+Description: Trust your instincts.
+ID: BID_325_BoneWasp
+
+Name: Bronto Bag
+Description: One for the ages.
+ID: BID_326_Bronto
+
+Name: Rift Rock
+Description: Back from beyond.
+ID: BID_327_Meteorite
+
+Name: Detonator
+Description: Set it off.
+ID: BID_328_WildWest
+
+Name: Grande Pack
+Description: River ready.
+ID: BID_329_WildWestFemale
+
+Name: Xenopod
+Description: Suspiciously glitchy.
+ID: BID_330_AstronautEvilUpgrade
+
+Name: Starcrest Shift
+Description: Elegantly engineered.
+ID: BID_331_DarkNinjaWhite
+
+Name: Starcrest Flux
+Description: Pure perfection.
+ID: BID_332_FrostMystery
+
+Name: Backbeat
+Description: Live loud.
+ID: BID_333_Reverb
+
+Name: Banner Shield
+Description: Customize your look by choosing a Banner and color in your Locker.
+ID: BID_334_BannerMale
+
+Name: Foxpack
+Description: Sly and spikey.
+ID: BID_335_Lopex
+
+Name: Takeout
+Description: Beefy.
+ID: BID_336_MascotMilitiaBurger
+
+Name: TomCom
+Description: Savory field radio.
+ID: BID_337_MascotMilitiaTomato
+
+Name: Starfield
+Description: The fate of the galaxy rests on your shoulders.
+ID: BID_338_StarWalker
+
+Name: Exo-Spine
+Description: Always carry a spare.
+ID: BID_339_Syko
+
+Name: Kunai Shield
+Description: Sharp and steady.
+ID: BID_340_WiseMaster
+
+Name: Shadow Ark Wings
+Description: Feathered darkness.
+ID: BID_341_AngelEclipse
+
+Name: Wedge
+Description: Sleek and refreshing.
+ID: BID_342_LemonLime
+
+Name: Dark Shield
+Description: Timeless.
+ID: BID_343_CubeRedKnight
+
+Name: Wild Cube
+Description: Untamable.
+ID: BID_344_CubeWildCard
+
+Name: Toxic Kitty
+Description: Prepared for all nine lives.
+ID: BID_345_ToxicKitty
+
+Name: Rogue Spider Shield
+Description: Venomous protector.
+ID: BID_346_BlackWidowRogue
+
+Name: Molten Battle Shroud
+Description: Shrouded in fire.
+ID: BID_347_DarkEagleFire
+
+Name: Stronghold
+Description: Strong and ready.
+ID: BID_348_PaddedArmor
+
+Name: Containment Pack
+Description: Battle rated containment system.
+ID: BID_349_RaptorBlackOps
+
+Name: Motocase
+Description: Built for speed.
+ID: BID_350_TacticalBiker
+
+Name: Spiked Shell
+Description: Durable and dangerous.
+ID: BID_351_FutureBikerWhite
+
+Name: Wings of Love
+Description: Soar on.
+ID: BID_352_CupidFemale
+
+Name: Starlet
+Description: Make a wish.
+ID: BID_353_StreetGothCandy
+
+Name: Red Alert
+Description: Let 'em know what's up.
+ID: BID_354_StreetFashionRed
+
+Name: Turbocoil
+Description: DO NOT TOUCH!
+ID: BID_355_Jumpstart
+
+Name: Moose
+Description: Fight like a moose.
+ID: BID_356_Punchy
+
+Name: Dreamer
+Description: Share the dream.
+ID: BID_357_Sleepytime
+
+Name: Pry Pack
+Description: A hard look to pull off.
+ID: BID_358_StreetUrchin
+
+Name: Star Surge
+Description: Power through the rifts.
+ID: BID_359_MeteorManRemix
+
+Name: The Dark Knight Movie Cloak
+Description: Become The Bat.
+ID: BID_360_BlackMondayKansas_VCZ9M
+
+Name: Jeweled Cat
+Description: The purrfect prize.
+ID: BID_361_BlackMondayFemale_R0P2N
+
+Name: Batman Comic Book Cape
+Description: Cloak yourself in darkness.
+ID: BID_362_BlackMondayHouston_2I53G
+
+Name: Fire Vortex
+Description: The swirling flame of the great beyond.
+ID: BID_363_Kurohomura
+
+Name: Llamacorn Shield
+Description: A mighty sigil.
+ID: BID_364_LlamaHero
+
+Name: Heartless
+Description: Smother them with love.
+ID: BID_365_MascotMilitiaCuddle
+
+Name: Tackle Box
+Description: Tackle the waves.
+ID: BID_367_TacticalFishermanMale
+
+Name: Basecamp Bag
+Description: Ascend to new heights.
+ID: BID_368_RockClimber
+
+Name: Ball Bling
+Description: Behind the eight ball.
+ID: BID_369_CrazyEight
+
+Name: Antidote
+Description: Find the cure.
+ID: BID_370_RebirthMedic
+
+Name: Blade Bag
+Description: Look sharp.
+ID: BID_371_Sheath
+
+Name: Fusion Orb
+Description: Encircle immeasurable energy.
+ID: BID_372_Viper
+
+Name: Black Hole
+Description: One singularity sensation.
+ID: BID_373_HauntLensFlare
+
+Name: Dark Six String
+Description: Tuned to the key of darkness.
+ID: BID_374_CubeRockerPunk_Female
+
+Name: Dry Bag
+Description: Prepared for the depths.
+ID: BID_375_BulletBlueFemale
+
+Name: Saddle Bag
+Description: Ready for any job.
+ID: BID_376_CODSquad_Plaid
+
+Name: Leather Lugger
+Description: Geared up for any range.
+ID: BID_377_CODSquad_Plaid_Female
+
+Name: Fresh Catch
+Description: Catch and release.
+ID: BID_378_FishermanFemale
+
+Name: Pack Leader
+Description: The pack's got your back.
+ID: BID_379_RedRidingRemix
+
+Name: Broken Heart
+Description: Stuffed with sadness.
+ID: BID_380_CuddleTeamDark
+
+Name: Wheelie
+Description: Burn rubber.
+ID: BID_381_RustyRaiderMotor
+
+Name: Dark Scaly
+Description: A little dark around the edges.
+ID: BID_382_DarkDinoMale
+
+Name: Dark Hatchling
+Description: A mystery from prehistory.
+ID: BID_383_DarkDinoFemale
+
+Name: Containment Unit
+Description: Perfectly stabilized for Nosh entrapment.
+ID: BID_384_NoshHunter
+
+Name: Nosh
+Description: The snack that bites back.
+ID: BID_385_Nosh
+
+Name: Mourning Glory
+Description: Grow a beautiful backbone.
+ID: BID_386_FlowerSkeletonFemale
+
+Name: Ridgeback
+Description: Forged in eternal fire.
+ID: BID_387_PunkDevil
+
+Name: Flame Sigil
+Description: The underworld beckons.
+ID: BID_388_DevilRockMale
+
+Name: Illusion Rune
+Description: Make them see.
+ID: BID_389_GoatRobe
+
+Name: Zomball
+Description: Goal from beyond the grave.
+ID: BID_390_SoccerZombieMale
+
+Name: Dead Card
+Description: Hit the showers.
+ID: BID_391_SoccerZombieFemale
+
+Name: Council of Frogs
+Description: Grant us wisdom.
+ID: BID_392_Freak
+
+Name: Bear Brained
+Description: Not so cute anymore.
+ID: BID_393_GhoulTrooper
+
+Name: Ooze Chamber
+Description: Contain yourself.
+ID: BID_394_Mastermind
+
+Name: Time Keeper
+Description: Time is running out.
+ID: BID_395_Phantom
 
-name: Back-o-lantern
-description: Share a spooky smile.
-id: BID_396_RaptorGlow
+Name: Back-o-lantern
+Description: Share a spooky smile.
+ID: BID_396_RaptorGlow
 
-name: Second Sight
-description: It's watching you...
-id: BID_397_SkeletonHunter
+Name: Second Sight
+Description: It's watching you...
+ID: BID_397_SkeletonHunter
 
-name: Dolly
-description: She wants to play.
-id: BID_398_Palespooky
+Name: Dolly
+Description: She wants to play.
+ID: BID_398_Palespooky
 
-name: Indigo Wings
-description: Spread your wings of glowy gloom.
-id: BID_399_SpookyNeon
+Name: Indigo Wings
+Description: Spread your wings of glowy gloom.
+ID: BID_399_SpookyNeon
 
-name: Grinning Ghoul
-description: Gleaming grill included.
-id: BID_400_HalloweenAlt
+Name: Grinning Ghoul
+Description: Gleaming grill included.
+ID: BID_400_HalloweenAlt
 
-name: Fierce Cloudpuff
-description: Fiercely adorable. Obsessed with cookies and sandwiches.
-id: BID_401_Razor
+Name: Fierce Cloudpuff
+Description: Fiercely adorable. Obsessed with cookies and sandwiches.
+ID: BID_401_Razor
 
-name: Ninja's Edge
-description: Keep your skills sharp.
-id: BID_402_TourBus
+Name: Ninja's Edge
+Description: Keep your skills sharp.
+ID: BID_402_TourBus
 
-name: Shortwave
-description: Almost waterproof.
-id: BID_403_JetSkiFemale
+Name: Shortwave
+Description: Almost waterproof.
+ID: BID_403_JetSkiFemale
 
-name: Wave Fuel
-description: Gas up and go.
-id: BID_404_JetSkiMale
+Name: Wave Fuel
+Description: Gas up and go.
+ID: BID_404_JetSkiMale
 
-name: Bag of Shadows
-description: Stylishly dreary.
-id: BID_405_ModernWitch
+Name: Bag of Shadows
+Description: Stylishly dreary.
+ID: BID_405_ModernWitch
 
-name: Torpedo Tank
-description: Danger from the depths.
-id: BID_406_Submariner
+Name: Torpedo Tank
+Description: Danger from the depths.
+ID: BID_406_Submariner
 
-name: Bello Bag
-description: Make it mushy.
-id: BID_407_ShiitakeShaolin
+Name: Bello Bag
+Description: Make it mushy.
+ID: BID_407_ShiitakeShaolin
 
-name: Buzzy Bag
-description: Protect the queen!
-id: BID_408_WeepingWoods
+Name: Buzzy Bag
+Description: Protect the queen!
+ID: BID_408_WeepingWoods
 
-name: Ghostly
-description: Haunted and flaunted.
-id: BID_409_StreetOpsPink
+Name: Ghostly
+Description: Haunted and flaunted.
+ID: BID_409_StreetOpsPink
 
-name: Armory Bag
-description: High caliber gear.
-id: BID_410_ShirtlessWarpaint
+Name: Armory Bag
+Description: High caliber gear.
+ID: BID_410_ShirtlessWarpaint
 
-name: Ready Ruck
-description: Good to go.
-id: BID_411_BaneFemale
+Name: Ready Ruck
+Description: Good to go.
+ID: BID_411_BaneFemale
 
-name: Black Stripe
-description: High contrast angularity.
-id: BID_412_CavalryBandit
+Name: Black Stripe
+Description: High contrast angularity.
+ID: BID_412_CavalryBandit
 
-name: Autumn's Mantle
-description: The latest in fall fashion.
-id: BID_413_ForestQueen
+Name: Autumn's Mantle
+Description: The latest in fall fashion.
+ID: BID_413_ForestQueen
 
-name: Hollow Horn
-description: Pitch perfect.
-id: BID_414_ForestDwellerMale
+Name: Hollow Horn
+Description: Pitch perfect.
+ID: BID_414_ForestDwellerMale
 
-name: Loons
-description: Fashionably floaty.
-id: BID_415_TechLlama
+Name: Loons
+Description: Fashionably floaty.
+ID: BID_415_TechLlama
 
-name: Juggus
-description: Slurp Juice not included.
-id: BID_416_BigChuggus
+Name: Juggus
+Description: Slurp Juice not included.
+ID: BID_416_BigChuggus
 
-name: Spinal Blade
-description: For when you have a bone to pick.
-id: BID_417_BoneSnake
+Name: Spinal Blade
+Description: For when you have a bone to pick.
+ID: BID_417_BoneSnake
 
-name: Wavepiercer
-description: It's open season on the open water.
-id: BID_418_BulletBlueMale
+Name: Wavepiercer
+Description: It's open season on the open water.
+ID: BID_418_BulletBlueMale
 
-name: Manta
-description: Circle your prey and pick your moment.
-id: BID_419_Frogman
+Name: Manta
+Description: Circle your prey and pick your moment.
+ID: BID_419_Frogman
 
-name: Coral Commandos
-description: Ready for the trenches. 
+Name: Coral Commandos
+Description: Ready for the trenches. 
 Reactive: Sings songs for those you eliminate.
-id: BID_421_TeriyakiWarrior
-
-name: Gwinny
-description: Cold and cuddly.
-id: BID_422_SnufflesLeader
-
-name: Sinister Stocking
-description: It sees you when you're sleeping.
-id: BID_423_HolidayTime
-
-name: Ornament
-description: Wearable winter wonderland.
-id: BID_424_SnowGlobe
-
-name: Sweet Spikes
-description: Delicious and dangerous.
-id: BID_425_Kane
-
-name: Kylo's Cape
-description: First Order battle cape.
-id: BID_426_GalileoKayak_NS67T
-
-name: Sith Trooper Blaster
-description: Weapon of the army of elite First Order soldiers.
-id: BID_427_GalileoSled_ZDWOV
-
-name: The Resistance
-description: Symbol of the Resistance.
-id: BID_428_GalileoFerry_28UZ3
-
-name: The Jedi Order
-description: Force-wielders devoted to the light side.
-id: BID_429_GalileoRocket_ZD0AF
-
-name: The Sith
-description: Force-wielders devoted to the dark side.
-id: BID_430_GalileoSpeedBoat_9RXE3
-
-name: First Order
-description: Reclaim the legacy of the dark side.
-id: BID_431_GalileoFlatbed_JV1DD
-
-name: Diamond Grid
-description: High tech and high stakes.
-id: BID_433_NeonAnimal
-
-name: Heart Grid
-description: Advanced construction for maximum heart.
-id: BID_434_NeonAnimalFemale
-
-name: Shining Star
-description: Follow the way.
-id: BID_435_Constellation
-
-name: Ice Fisher
-description: Chilled to the gills.
-id: BID_436_TacticalBear
-
-name: Kabag!
-description: Fashionably Explosive
-id: BID_437_TNTina
-
-name: Bough Breaker
-description: Deck your back.
-id: BID_438_SweaterWeather
-
-name: Re-gifter
-description: Pass it along.
-id: BID_439_OrnamentSoldier
-
-name: Modern Summit
-description: Mountain upward and style forward.
-id: BID_440_MsAlpine
-
-name: Yule Breakers
-description: Open the door to the holidays.
-id: BID_441_HolidayPJ
-
-name: Castle Peaks
-description: Winter storm the Castle.
-id: BID_442_Cattus
-
-name: Ice Wings
-description: Frozen fury.
-id: BID_443_WingedFury
-
-name: Holiday Hydrant
-description: Relief wrapped in a bow.
-id: BID_444_FestivePug
-
-name: E.L.F. Shield
-description: Protect your festivities.
-id: BID_445_Elf
-
-name: Easy Reach
-description: For sticky situations.
-id: BID_446_Barefoot
-
-name: Peel Pack
-description: A snack for the road.
-id: BID_447_ToyMonkey
-
-name: Reliant Blue
-description: Exacting design, unshakable performance.
-id: BID_448_TechOpsBlueFemale
-
-name: Cryo Chamber
-description: Put em in the deep freeze.
-id: BID_449_MrIceGuy
-
-name: Snow Crystal
-description: One festive flake.
-id: BID_450_Iceflake
-
-name: 2020 Kickflip
-description: Skate into the new year.
-id: BID_451_HolidayDeck
-
-name: Indigo Kama
-description: Perfectly balanced for victory.
-id: BID_452_BandageNinjaBlue
-
-name: Contender
-description: Bring your best to be the best.
-id: BID_453_FrogmanFemale
-
-name: Shellie
-description: That's one tough Shellie.
-id: BID_454_Gummi
-
-name: Purple Jam
-description: Sticky style.
-id: BID_455_NeonGraffitiFemale
-
-name: Darkest Edge
-description: From the edges of darkness.
-id: BID_456_CloakedMale
-
-name: Roundabout
-description: Vibrant, vivid, and very round.
-id: BID_457_HoodieBandit
-
-name: Radiant Mantle
-description: The frozen rays of an ancient star.
-id: BID_458_TheGoldenSkeleton
-
-name: Hurricane
-description: Add a little danger to your tropical adventure.
-id: BID_459_CODSquad_Hoodie
-
-name: Shark's Tank
-description: It can never stop swimming. Never.
-id: BID_460_SharkAttack
-
-name: Dark Paradigm
-description: Utility in the darkness.
-id: BID_462_ModernMilitaryEclipse
-
-name: Rat Lantern
-description: Shine bright in the Year Of The Rat.
-id: BID_463_StreetRat
-
-name: Blue Wave
-description: Follow the water, find your way.
-id: BID_464_MartialArtist
-
-name: Bladed Breath
-description: The sharp surprise of a dragon's fire.
-id: BID_465_VirtualShadow
-
-name: Jade Blades
-description: Jaded and serrated.
-id: BID_466_TigerFashion
-
-name: Dragon Guard
-description: Who dares challenge the dragon?
-id: BID_467_DragonRacer
-
-name: Cactus Jack
-description: No Bystanders.
-id: BID_468_Cyclone
-
-name: Neon Wings
-description: Glow above and beyond.
-id: BID_469_Wings
-
-name: Hack Pack
-description: Your bag is your passport.
-id: BID_470_SpyTechHacker
-
-name: Pinkie's Pink Pack
-description: Hearty survival pack.
-id: BID_471_CuteDuo
-
-name: Arroyo Pack
-description: Stay cool in the desert sun.
-id: BID_472_DesertOpsCamo
-
-name: Adventure Pack
-description: Adventure not included.
-id: BID_473_Photographer
-
-name: Infatuation Pack
-description: Is this love?
-id: BID_474_DarkHeart
-
-name: Teknical Glow
-description: Packed with plans.
-id: BID_475_AgentAce
-
-name: Puma Pack
-description: Growl and glow.
-id: BID_476_AgentRogue
-
-name: Feline Fun
-description: Play a game of cat and mouse.
-id: BID_477_BuffCat
-
-name: Hench Hauler
-description: Sometimes you gotta rough 'em up a little.
-id: BID_478_HenchmanTough
-
-name: Gold Dagger Pack
-description: For the classiest capers.
-id: BID_479_CatBurglar
-
-name: Deadpool's Katanas
-description: Wield with maximum effort.
-id: BID_480_Donut
-
-name: Skeletal Wings
-description: Futuristic agility is in your bones.
-id: BID_481_GraffitiFuture
-
-name: Recon Strike
-description: Shoot your shot.
-id: BID_482_LongShorts
-
-name: Emissary Bag
-description: Your mission awaits.
-id: BID_483_Spy
-
-name: Doggie Bag
-description: Take it to go.
-id: BID_484_PugMilitia
-
-name: Banana Briefcase
-description: More than one, it's a bunch.
-id: BID_485_BananaAgent
-
-name: Gold Chain
-description: If it fits...
-id: BID_486_WinterHunterMale
-
-name: Goldy Lock
-description: Just right.
-id: BID_487_WinterHunterFemale
-
-name: Lucky Clover
-description: Pack a little luck.
-id: BID_488_LuckyHero
-
-name: True Reflection
-description: Two true originals. One perfect pack.
-id: BID_489_TwinDark
-
-name: Heavy Harvester
-description: How dirt becomes corn.
-id: BID_490_AnarchyAcresFarmer
-
-name: Back Burner
-description: Pack some heat.
-id: BID_491_FlameSkull
-
-name: Slurp Jet
-description: Faster than the speed of slurp.
-id: BID_492_BlueFlames
-
-name: Blue Heart
-description: I <3 Slurp.
-id: BID_493_BlueFlamesFemale
-
-name: Lush Edge
-description: Spring style with an angular edge.
-id: BID_494_StreetFashionEmerald
-
-name: Tropical Stash
-description: A splash of tropical cash.
-id: BID_495_PineappleBandit
-
-name: Dorsal Destroyer
-description: He's got your deep six.
-id: BID_496_TeriyakiFishAssassin
-
-name: Backchannel
-description: You never know who's listening in.
-id: BID_498_AgentX
-
-name: Hit me!
-description: Daring and dangerous.
-id: BID_499_TargetPractice
-
-name: Light Intel
-description: Secretly illuminating.
-id: BID_500_SpyTech
-
-name: Angled Intercept
-description: Know all the angles.
-id: BID_501_SpyTechFemale
-
-name: Back Stitch
-description: Keep it all sewn up.
-id: BID_502_Tailor
-
-name: Bull Shield
-description: Bullish and battle-tested.
-id: BID_503_MinotaurLuck
-
-name: Bionic Relay
-description: Stay connected in the heat of battle.
-id: BID_504_Handyman
-
-name: Stellar Jaunt
-description: Ready for anywhere.                                                                                                         Reactive: Glow will react when taking damage.
-id: BID_505_Informer
-
-name: Cable Cloak
-description: Always ready for trouble.
-id: BID_506_DonutCup
-
-name: Shurayuki
-description: Forged a thousand years ago.
-id: BID_507_DonutPlate
-
-name: Domino Pack
-description: Luck is always on your side.
-id: BID_508_DonutDish
-
-name: Choco Shell
-description: Have a little backbling. As a treat.
-id: BID_509_ChocoBunny
-
-name: Blast Radius
-description: When in doubt, rockets.
-id: BID_511_BadEgg
-
-name: Windshear Cloak
-description: Wherever the wind blows.
-id: BID_512_Hurricane
-
-name: Backstabber
-description: Be careful who you trust.
-id: BID_513_GraffitiAssassin
-
-name: Whisker Pack
-description: Battle kitty approved.
-id: BID_514_NeonCatSpy
-
-name: Scarlet Satchel
-description: Stylishly scarlet.
-id: BID_515_Hostile
-
-name: Back Scratcher
-description: Always on the beat.
-id: BID_516_RaveNinja
-
-name: Pelt Pack
-description: Heavy-duty furry battle bag.
-id: BID_517_Splinter
-
-name: Last Kiss
-description: Sealed with a kiss.
-id: BID_518_HitmanCase
-
-name: Fluffle Bag
-description: Jam-packed with sparkly shards.
-id: BID_519_Comet
-
-name: Astroworld
-description: My Planet, My Home.
-id: BID_520_CycloneUniverse
-
-name: Sleek Strike
-description: Sharpen your style.
-id: BID_521_WildCat
-
-name: Silencer
-description: Engineered for perfect silence.
-id: BID_522_TechExplorer
-
-name: Loot & Shoot
-description: Pumped full of cash.
-id: BID_523_RapVillainess
-
-name: Ravenpool's Cage
-description: There is still no escape.
-id: BID_525_RavenQuillDonut
-
-name: Cuddlepool's Bow
-description: Additional hugs!
-id: BID_526_FuzzyBearDonut
-
-name: Buddy Bag
-description: Keep your friends close...
-id: BID_527_Loofah
-
-name: Mini Moon
-description: Created on a mini sound stage.
-id: BID_528_SpaceWanderer
-
-name: Eternal Shield
-description: Heralds the arrival of a true champion.
-id: BID_530_BlackKnightFemale
-
-name: Handbag
-description: We're number one!
-id: BID_531_HardcoreSportzFemale
-
-name: Pokey Pack
-description: Two kinds of dangerous in one convenient package.
-id: BID_532_HardcoreSportzMale
-
-name: Beachcomber
-description: Take the beach!
-id: BID_534_OceanRider
-
-name: Supreme Shell
-description: Fit for a sea king.
-id: BID_535_SandCastle
-
-name: Anchor
-description: Give it a moment to sink in.
-id: BID_536_Beacon
-
-name: Deep Dive
-description: Dual blade protection so you can breathe easy.
-id: BID_537_TacticalScuba
-
-name: Weathered Wings
-description: Always ready to rise above.
-id: BID_538_StreetRacerCobraGold
-
-name: Infinite Bloom
-description: From everywhere and for always.
-id: BID_539_RacerZero
-
-name: Double Fang
-description: Strike from all sides.
-id: BID_540_Python
-
-name: Swampy Sack
-description: Gator-tough swamp original.
-id: BID_541_Gator
-
-name: Number One
-description: Who's number one?
-id: BID_542_Foam
-
-name: Warning Bow
-description: Caution: adorable.
-id: BID_543_FuzzyBearTeddy
-
-name: Nite Bag
-description: It was a dark and stormy bag.
-id: BID_544_BrightGunnerEclipse
-
-name: Firestarter
-description: Warning: Contents of firestarter may be hot.
-id: BID_545_RenegadeRaiderFire
-
-name: Double Agent Stripe
-description: Agency inspired angularity.
-id: BID_546_CavalryBanditGhost
-
-name: Double Agent Hard Case
-description: Make your case.
-id: BID_547_HeistGhost
-
-name: Double Agent Ooze Unit
-description: Next generation ooze containment chamber.
-id: BID_548_MastermindGhost
-
-name: Wrong Turn
-description: No! The other way!
-id: BID_549_Dummeez
-
-name: Beef Pack
-description: Packed with beefy goodness.
-id: BID_550_JonesyVagabond
-
-name: Heartless Wings
-description: Heartbreakingly flappy.
-id: BID_551_CupidDarkFemale
-
-name: Universal Bloom
-description: Harness the power of creation.
-id: BID_552_ConstellationSun
-
-name: Manta Pack
-description: Suit up and dive into battle.
-id: BID_553_Seaweed_NIS9V
-
-name: Boombox 3000
-description: Here comes the boombox.
-id: BID_554_Robro
-
-name: Gunny Sack
-description: Locked and loaded up with goodies.
-id: BID_555_HeartBreaker
-
-name: Overbite
-description: It's got teeth.
-id: BID_556_SharkSuit
-
-name: Sharky Shawl
-description: Drape yourself in sharky goodness.
-id: BID_557_SharkSuitFemale
-
-name: Starpower
-description: You've got the makings of a real star.
-id: BID_558_PunkDevilSummer
-
-name: Impact Green
-description: Let 'em see you coming.
-id: BID_559_GreenJacket
-
-name: Proto-Adamantium Shield
-description: Captain America's shield is as indestructible as his will.
-id: BID_560_CandyApple_WTXXO
-
-name: Capearoni
-description: A cheesy slice of flavor.
-id: BID_561_PeppaRonnie
-
-name: Nucleus
-description: A whole galaxy to-go.
-id: BID_562_CelestialFemale
-
-name: Dune Tripper
-description: There's even a little pouch for sunscreen.
-id: BID_563_MilitaryFashionSummer
-
-name: Sour Swirl
-description: Pucker powered.
-id: BID_564_CandySummer
-
-name: Trapper Pack
-description: What big teeth it has.
-id: BID_565_RedRidingSummer
-
-name: Titan Scale
-description: Harvested from a colossus of the deep.
-id: BID_566_TeriyakiAtlantis
-
-name: Vanilla Whip
-description: Don't forget the sprinkles.
-id: BID_567_MsWhip
-
-name: Banana Cabana
-description: Packed with bananas.
-id: BID_568_BananaSummer
-
-name: Tidal Hazard
-description: Who knows what lurks beneath the waves?
-id: BID_569_DirtyDocksMale
-
-name: Dive Hazard
-description: Very nearly shark proof.
-id: BID_570_DirtyDocksFemale
-
-name: Rocky
-description: Unbelievably heavy.
-id: BID_571_Tiki
-
-name: Chair
-description: You might want to sit down...
-id: BID_572_Chair
-
-name: Tube Top
-description: Previously on... your back.
-id: BID_573_TV
-
-name: Moon Jelly
-description: It's cute, but don't touch the tentacles.
-id: BID_575_AnglerFemale
-
-name: Wind Shell
-description: If you listen close, you can hear the waves.
-id: BID_576_Islander
-
-name: Haute Holster
-description: No knock-offs here.
-id: BID_577_RaiderPink
-
-name: Angular Chic
-description: Hit your triangles.
-id: BID_578_SportsFashion
-
-name: Back Scoop
-description: Scoop it.
-id: BID_579_FloatillaCaptain
-
-name: Back Bloom
-description: Poison is very in this season.
-id: BID_580_ParcelPetal
-
-name: Laugh Riot
-description: It's a little cranky.
-id: BID_581_ParcelPrankSurprise
-
-name: Midas Crest
-description: The mantle of a fallen king.
-id: BID_582_ParcelGold
-
-name: Lunar Sim
-description: A vivid reminder of home.
-id: BID_583_SpaceWandererMale
-
-name: Llama Buster
-description: The mark of a true llamercenary.
-id: BID_584_AntiLlama
-
-name: Tactical Quiver
-description: A hero is only as good as their tools.
-id: BID_585_TipToe_V1T3M
-
-name: Speed Force
-description: The energy field that gives all speedsters their powers.
-id: BID_586_Tar_DIJGH
-
-name: Quad Roller
-description: Rink tested and ready to roll.
-id: BID_587_TripleScoop
-
-name: Neon Backboard
-description: Not regulation height.
-id: BID_588_Axl
-
-name: Coral Cowl
-description: Regal, but impossible to keep dry.
-id: BID_589_LadyAtlantis
-
-name: Chainstick Pack
-description: Built for back alley brawls.
-id: BID_590_MaskedDancer
-
-name: Shadow Jet Set
-description: Powered up and ready for shadowy action.
-id: BID_591_MultibotStealth
-
-name: Scrapper Sashimono
-description: Raise your banner, and stand out in battle.
-id: BID_592_JunkSamurai
-
-name: Storm's Cloak
-description: Perfect for riding the winds.
-id: BID_593_HightowerSquash
-
-name: Scales of Justice
-description: Overruled.
-id: BID_594_HightowerHoneydew
-
-name: Mystique's Skull
-description: An ancient artifact that yearns for combat.
-id: BID_595_HightowerMango
-
-name: Iron Man Backplate
-description: Nanotech-assisted targeting system.
-id: BID_596_HightowerTomato
-
-name: Wolverine's Trophy
-description: He won it fair and square.
-id: BID_597_HightowerWasabi
-
-name: Sapling Groot
-description: Don't forget to water your Groot.
-id: BID_598_HightowerGrape
-
-name: Doom Chalice
-description: Seal your fate with a toast.
-id: BID_599_HightowerDate
-
-name: Thor's Cloak
-description: Thor's Herald Cloak.
-id: BID_600_HightowerTapas
-
-name: Flytrapper
-description: It's just a friendly place for flies to land.
-id: BID_601_Venus
-
-name: Dread Shield
-description: Bladed for extra dread.
-id: BID_602_DarkNinjaPurple_Female
-
-name: Dread Shroud
-description: Shrouded in dread.
-id: BID_603_DarkEaglePurple_Male
-
-name: Dark Skully Satchel
-description: Equal parts disturbing and disturbing.
-id: BID_604_SkullBritecube
-
-name: DOOM's Cowl
-description: Nothing finer than Latverian silk.
-id: BID_605_HightowerDate_Cape
-
-name: Herald's Star
-description: A galaxy of potential in one tiny package.
-id: BID_605_Soy_Y0DW7
-
-name: Corrupted Long Legs
-description: Stretch your corrupt legs.
-id: BID_606_BlackwidowFemale_Corrupt
-
-name: Corrupted Sight Sling
-description: Expertly sighted... yet riddled with corruption.
-id: BID_607_SniperHoodFemale_Corrupt
-
-name: Corrupted Bladed Wings
-description: The edgy wings of corruption.
-id: BID_608_SamuraiArmorUltra_Corrupt
-
-name: Emoticape
-description: Express yourself on the battlecape.
-id: BID_609_ElasticCape
-
-name: Holo-Back
-description: Holographic self-expression.
-id: BID_610_ElasticHologram
-
-name: Steelfeather Shield
-description: The last of its kind.
-id: BID_613_MythFemale
-
-name: Vanquisher's Oath
-description: Protected by an unbreakable vow.
-id: BID_614_Myth
-
-name: Sword of the Daywalker
-description: Look, but don't touch.
-id: BID_615_Backspin_KA0K2
-
-name: Slayer's Saddlebag
-description: Garlic-infused and crypt rated.
-id: BID_616_Cavalry
-
-name: Trendsetter
-description: What's on your playlist?
-id: BID_617_StreetFashionGarnet
-
-name: Cake!
-description: We're three!
-id: BID_618_Birthday03
-
-name: Octane RL
-description: Take your shot!
-id: BID_619_Turbo
-
-name: Holo-Skull
-description: Glowing with dread.
-id: BID_621_Poison
-
-name: Batty Pack
-description: Not approved for daytime wear.
-id: BID_622_VampireCasual
-
-name: Arachnid Tote
-description: The webs are only decorative.
-id: BID_623_BlackWidowJacket
-
-name: Lil' Gnashy
-description: Take a lil' chomp out of life.
-id: BID_624_Palespooky
-
-name: Firebreather's Daypack
-description: Llama-charmed and up to no good.
-id: BID_625_DarkBomberSummer
-
-name: UV Wings
-description: A whole new spectrum of spookiness.
-id: BID_626_SpookyNeonFemale
-
-name: Radar Senses
-description: I "see" you.
-id: BID_627_DeliSandwich
-
-name: Reaper's Backplate
-description: Forever wilting, never blooming.
-id: BID_628_FlowerSkeletonMale
-
-name: PWR Pack
-description: Power up.
-id: BID_629_LunchBox
-
-name: Trappy
-description: Watch your fingers.
-id: BID_630_Famine
-
-name: Squash Bats
-description: Extra batty.
-id: BID_631_PumpkinPunkMale
-
-name: Spiced Sippers
-description: Yes, they're all for me.
-id: BID_632_PumpkinSpice
-
-name: Glass Wings
-description: They'll never hold her down now.
-id: BID_633_FrankieFemale
-
-name: Ghost Trap
-description: Careful you don't let anything out.
-id: BID_634_York_Female
-
-name: Proton Pack
-description: Don't cross the streams.
-id: BID_635_York_Male
-
-name: Bone Wings
-description: Kick back and enjoy the fright.
-id: BID_636_RavenQuillSkull
-
-name: Cuddly Bones
-description: Doomed hugs!
-id: BID_637_FuzzyBearSkull
-
-name: Creep Fried
-description: Perfectly ghastly.
-id: BID_638_DurrburgerSkull
-
-name: Auric
-description: Who's a pretty bird?
-id: BID_639_BabaYaga
-
-name: Bobo
-description: Watch the monkey.
-id: BID_640_ElfAttackMale
-
-name: Chemist's Curiosities
-description: Brewing dark concoctions for darker deeds.
-id: BID_641_Jekyll
-
-name: Infernal Chain
-description: Wrapped in supernatural flame.
-id: BID_642_Embers
-
-name: Widow's Light
-description: The mark of a super-spy.
-id: BID_643_Tapdance
-
-name: Elevation
-description: Don't let gravity hold you down.
-id: BID_644_StreetFashionDiamond
-
-name: Batnap
-description: It's so dreamy.
-id: BID_645_NauticalPajamas
-
-name: Shakez-2-Go
-description: Get shook with a friend!
-id: BID_646_NauticalPajamasNight
-
-name: Deep Zzz
-description: Sleep with the fishes.
-id: BID_647_NauticalPajamas_Underwater
-
-name: Constructor Classic
-description: Built to build.
-id: BID_648_Blonde
-
-name: Power Pack
-description: Supercharged and crackling with electric might.
-id: BID_649_ShockWave
-
-name: Tendril Tote
-description: Don't forget the buddy system.
-id: BID_650_Vertigo
-
-name: Fractured World
-description: Forever caught in stasis moments before it exploded.
-id: BID_651_EternityFemale
-
-name: Shine Pack
-description: Can't hide this shine.
-id: BID_652_RaiderSilverFemale
-
-name: Logo-a-go-go
-description: Fly your colors.
-id: BID_653_Football20_1BS75
-
-name: Heart Target
-description: Delivered with love.
-id: BID_654_Ponytail
-
-name: Stir-Baby
-description: Who wants to lick the bowl?
-id: BID_655_PieMan
-
-name: Shield of the Mighty
-description: Inherited from a fallen foe.
-id: BID_656_AncientGladiatorMale
-
-name: Mechafusion Interface
-description: Dad always said neutrinos were the only way to go.
-id: BID_657_LexaFemale
-
-name: Mimir
-description: Wise and wizened.
-id: BID_658_Historian_4RCG3
-
-name: Breakfast Bounty
-description: Butter keep the good stuff for yourself.
-id: BID_659_FlapjackWrangler
-
-name: Wildheart Buckler
-description: A conduit to the power of the Wildheart.
-id: BID_660_Shapeshifter
-
-name: Dynamo Grav-Suit
-description: Beast (Hunter) mode activated.
-id: BID_661_SpaceFighter
-
-name: Spirit's Pact
-description: The blades do not sleep until the deed is done.
-id: BID_662_FutureSamuraiMale
-
-name: Blustery Bag
-description: The forecast calls for friendship.
-id: BID_663_SnowmanFashionMale
-
-name: Bitter Sweets
-description: Baked to perfection and frosted for a fight.
-id: BID_664_RenegadeRaiderHoliday
-
-name: Battle Legend
-description: You will never know defeat. Maybe.
-id: BID_665_Jupiter_XD7AK
-
-name: The Fishcracker
-description: Someone carved it special.
-id: BID_666_TeriyakiFishElf
-
-name: Edge Case
-description: What are the chances?
-id: BID_667_StarsMale
-
-name: Exploding Axis
-description: Ooh, pointy.
-id: BID_668_StarsFemale
-
-name: Glow Grin
-description: It's the smiliest!
-id: BID_669_NeonMale
-
-name: Vibe Star
-description: It's the starriest!
-id: BID_670_NeonFemale
-
-name: Tankbuilt Loader
-description: Built to last.
-id: BID_671_Mechstructor
-
-name: Holly Jolly Hatchet
-description: Honed for maximum cheer.
-id: BID_672_StreetFashionHoliday
-
-name: Cheery Chime
-description: Every time a bell rings...
-id: BID_673_ElfFemale
-
-name: Merry Mountaineer
-description: Treat yourself to a little summit.
-id: BID_674_SnowboarderMale
-
-name: Hunting Quiver
-description: Take dead aim at the walkers.
-id: BID_675_WombatMale_X18U5
-
-name: Michonne's Katana
-description: Walkers beware.
-id: BID_676_WombatFemale_6PEJZ
-
-name: Candy Cache
-description: Sticky sweet peppermint loot.
-id: BID_677_FancyCandy
-
-name: Wrapping Caper
-description: Crinkling gracefully in the winter wind.
-id: BID_678_CardboardCrewHolidayMale
-
-name: Shield Surprise
-description: It's perfect!
-id: BID_679_CardboardCrewHolidayFemale
-
-name: Ice Kitsune
-description: Frosty-tailed frozen fox.
-id: BID_680_DriftWinter
-
-name: Frosty Fox
-description: Faithful frosty friend.
-id: BID_681_DriftWinterFox
-
-name: Kree Backplate
-description: Brimming with cosmic energy.
-id: BID_682_CherryFemale_RXEIW
-
-name: Wings of Frost
-description: Soar on the frozen gale.
-id: BID_683_CupidWinterFemale
-
-name: Swirly Snowglobe
-description: Give it a shake.
-id: BID_684_HolidayLightsMale
-
-name: King's Cowl
-description: Dark as night and woven with vibranium thread.
-id: BID_685_PlumRetro_EY7ZM
-
-name: Mimic's Shield
-description: Picked this one up from Rogers.
-id: BID_686_TiramisuMale_1YMN4
-
-name: Balls of Power
-description: Powerful artifacts from another world.
-id: BID_687_GrilledCheese_C9FB6
-
-name: Hunter's Trophy
-description: Grim keepsake from a far-off world.
-id: BID_688_Nightmare_S85HI
-
-name: HK Skynet Uplink
-description: The Resistance will be terminated.
-id: BID_689_TyphoonRobot_SMLZ7
-
-name: T-800 Endoskeleton Arm
-description: There is no fate but what we make for ourselves.
-id: BID_690_TyphoonFemale_1NBFZ
-
-name: Mechafusion Jumpkit
-description: Even a little mechafusion goes a long way.
-id: BID_691_LexaMale
-
-name: Snake Eyes Katana
-description: Legendary blade forged by the masters.
-id: BID_692_ConvoyTarantula_34ZM0
-
-name: Blackout Bag
-description: They'll never know what's up.
-id: BID_695_StreetFashionEclipse
-
-name: Prickly Heart
-description: Cute and spiky.
-id: BID_696_CombatDoll
-
-name: Foxbow Quiver
-description: May your aim be true.
-id: BID_697_FoxWarrior_G0YTR
-
-name: Stuffy Sack
-description: Crammed with cuddles. Stuffed with love.
-id: BID_698_StreetCuddlesMale
-
-name: Identity Disc
-description: Never leave your home System without it.
-id: BID_699_MainframeMale_2W2M3
-
-name: Heartblast
-description: Lub. Dub. Boom.
-id: BID_700_Crush
-
-name: Training Bag
-description: Always be training.
-id: BID_701_SkirmishMale_5LH4I
-
-name: Super Cab-Masher
-description: I've got next.
-id: BID_702_SkirmishFemale_P9FE3
-
-name: Xenomorph Tail
-description: Razor-sharp and whatever the exact opposite of cuddly is.
-id: BID_703_KeplerMale_ZTFJU
-
-name: Weyland-Yutani Cat Carrier
-description: Jonesy's home-on-the-go. (No relation)
-id: BID_704_KeplerFemale_C0L25
-
-name: Arena Elite
-description: Won in battle. Worn with pride.
-id: BID_705_AncientGladiatorFemale
-
-name: Gordo
-description: Stuffed with Llamacorn style.
-id: BID_706_CasualBomberLight
-
-name: Up North
-description: Follow the frost.
-id: BID_707_LlamaHeroWinter_3OQ1V
-
-name: Baby Gingy
-description: Take your son to work day.
-id: BID_708_GingerbreadBuilder
-
-name: Quantic Pulsar
-description: Capable of tracking criminals across an entire star system.
-id: BID_709_SpaceWarrior
-
-name: Ant-Tonio
-description: Ant-Man's loyal steed.
-id: BID_710_SmallFry_GDE1J
-
-name: Golden Gambit
-description: The perfect move at the perfect time.
-id: BID_711_CatBurglarFemale
-
-name: Gallant Gear
-description: Sometimes courage is all you need.
-id: BID_712_LionSoldier
-
-name: Champion's Crest
-description: Show 'em your credentials.
-id: BID_713_FNCS21
-
-name: Dimensional Gate
-description: Pocket portal to interdimensional power.
-id: BID_714_Obsidian
-
-name: Dino Deck
-description: Outta the tar pits and into the skate park.
-id: BID_715_DinoHunterFemale
-
-name: Hatch Pack
-description: He got it from his mom.
-id: BID_716_ChickenWarrior
-
-name: Soul's Reach
-description: Keeper of The Spire's flame.
-id: BID_717_TowerSentinel
-
-name: Jones' Field Pack
-description: Make sure to pack a granola bar or something. Might be a bumpy ride.
-id: BID_718_ProgressiveJonesy
-
-name: Endless Scroll
-description: Keep on scrolling.
-id: BID_719_CubeNinja
-
-name: Survivor's Pack
-description: Just room for the essentials.
-id: BID_720_Temple
-
-name: The Book of Spells Vol. 3
-description: First edition, natch.
-id: BID_721_ScholarFemale
-
-name: Squee
-description: ... he's just sleeping.
-id: BID_722_NeonCatFashion_KEP9B
-
-name: Bladed Cage
-description: Try to escape... if you dare.
-id: BID_723_DarkMinion
-
-name: Cape of Potassius
-description: Friends, produce, lend me your peels.
-id: BID_724_BananaLeader
-
-name: BluGlo Injector
-description: BluGlo power generation on the go!
-id: BID_725_AssembleR
-
-name: Blister Pack
-description: Some accessories not included.
-id: BID_726_Figure
-
-name: Turbo Ball!
-description: It's in a (Rocket) League of its own.
-id: BID_727_TurboBall_892OE
-
-name: Watchful Wabbit
-description: Big ears and multi-spectrum vision mean Chigusa's avatar is always ready for the latest scoop.
-id: BID_728_SailorSquadLeader
-
-name: Guard Pup
-description: Megumi's avatar has seen its fair share of action, but it's still standing strong.
-id: BID_729_SailorSquadRebel
-
-name: H4ck // P4ck
-description: Best case scenario, no one ever sees Yuki's avatar at all.
-id: BID_730_SailorSquadRose
-
-name: Bunzy
-description: Copy that, the bunny trail is clear.
-id: BID_731_BunnyFashion
-
-name: Skellebun Key
-description: Spring any lock.
-id: BID_732_HipHareMale
-
-name: Mecha-Feathers
-description: Ready for fowl play.
-id: BID_734_WickedDuckMale
-
-name: Qwick-Qwack
-description: The widdlest member of the Danger Dux.
-id: BID_735_WickedDuckFemale
-
-name: Gains!
-description: Hodl!
-id: BID_736_DayTrader_QS4PD
-
-name: TBD
-description: TBD
-id: BID_NPC_HightowerDate
-
-name: Random
-description: Randomly chooses between favorite Back Blings (or all owned Back Blings if nothing is marked as a favorite)
-id: BID_Random
-
-name: Hero
-description: null
-id: BID_STWHero
-
-name: Hero
-description: null
-id: BID_STWHeroNoDefaultBackpack
-
-name: TBD
-description: TBD
-id: BID_TBD_Cosmos
+ID: BID_421_TeriyakiWarrior
+
+Name: Gwinny
+Description: Cold and cuddly.
+ID: BID_422_SnufflesLeader
+
+Name: Sinister Stocking
+Description: It sees you when you're sleeping.
+ID: BID_423_HolidayTime
+
+Name: Ornament
+Description: Wearable winter wonderland.
+ID: BID_424_SnowGlobe
+
+Name: Sweet Spikes
+Description: Delicious and dangerous.
+ID: BID_425_Kane
+
+Name: Kylo's Cape
+Description: First Order battle cape.
+ID: BID_426_GalileoKayak_NS67T
+
+Name: Sith Trooper Blaster
+Description: Weapon of the army of elite First Order soldiers.
+ID: BID_427_GalileoSled_ZDWOV
+
+Name: The Resistance
+Description: Symbol of the Resistance.
+ID: BID_428_GalileoFerry_28UZ3
+
+Name: The Jedi Order
+Description: Force-wielders devoted to the light side.
+ID: BID_429_GalileoRocket_ZD0AF
+
+Name: The Sith
+Description: Force-wielders devoted to the dark side.
+ID: BID_430_GalileoSpeedBoat_9RXE3
+
+Name: First Order
+Description: Reclaim the legacy of the dark side.
+ID: BID_431_GalileoFlatbed_JV1DD
+
+Name: Diamond Grid
+Description: High tech and high stakes.
+ID: BID_433_NeonAnimal
+
+Name: Heart Grid
+Description: Advanced construction for maximum heart.
+ID: BID_434_NeonAnimalFemale
+
+Name: Shining Star
+Description: Follow the way.
+ID: BID_435_Constellation
+
+Name: Ice Fisher
+Description: Chilled to the gills.
+ID: BID_436_TacticalBear
+
+Name: Kabag!
+Description: Fashionably Explosive
+ID: BID_437_TNTina
+
+Name: Bough Breaker
+Description: Deck your back.
+ID: BID_438_SweaterWeather
+
+Name: Re-gifter
+Description: Pass it along.
+ID: BID_439_OrnamentSoldier
+
+Name: Modern Summit
+Description: Mountain upward and style forward.
+ID: BID_440_MsAlpine
+
+Name: Yule Breakers
+Description: Open the door to the holidays.
+ID: BID_441_HolidayPJ
+
+Name: Castle Peaks
+Description: Winter storm the Castle.
+ID: BID_442_Cattus
+
+Name: Ice Wings
+Description: Frozen fury.
+ID: BID_443_WingedFury
+
+Name: Holiday Hydrant
+Description: Relief wrapped in a bow.
+ID: BID_444_FestivePug
+
+Name: E.L.F. Shield
+Description: Protect your festivities.
+ID: BID_445_Elf
+
+Name: Easy Reach
+Description: For sticky situations.
+ID: BID_446_Barefoot
+
+Name: Peel Pack
+Description: A snack for the road.
+ID: BID_447_ToyMonkey
+
+Name: Reliant Blue
+Description: Exacting design, unshakable performance.
+ID: BID_448_TechOpsBlueFemale
+
+Name: Cryo Chamber
+Description: Put em in the deep freeze.
+ID: BID_449_MrIceGuy
+
+Name: Snow Crystal
+Description: One festive flake.
+ID: BID_450_Iceflake
+
+Name: 2020 Kickflip
+Description: Skate into the new year.
+ID: BID_451_HolidayDeck
+
+Name: Indigo Kama
+Description: Perfectly balanced for victory.
+ID: BID_452_BandageNinjaBlue
+
+Name: Contender
+Description: Bring your best to be the best.
+ID: BID_453_FrogmanFemale
+
+Name: Shellie
+Description: That's one tough Shellie.
+ID: BID_454_Gummi
+
+Name: Purple Jam
+Description: Sticky style.
+ID: BID_455_NeonGraffitiFemale
+
+Name: Darkest Edge
+Description: From the edges of darkness.
+ID: BID_456_CloakedMale
+
+Name: Roundabout
+Description: Vibrant, vivid, and very round.
+ID: BID_457_HoodieBandit
+
+Name: Radiant Mantle
+Description: The frozen rays of an ancient star.
+ID: BID_458_TheGoldenSkeleton
+
+Name: Hurricane
+Description: Add a little danger to your tropical adventure.
+ID: BID_459_CODSquad_Hoodie
+
+Name: Shark's Tank
+Description: It can never stop swimming. Never.
+ID: BID_460_SharkAttack
+
+Name: Dark Paradigm
+Description: Utility in the darkness.
+ID: BID_462_ModernMilitaryEclipse
+
+Name: Rat Lantern
+Description: Shine bright in the Year Of The Rat.
+ID: BID_463_StreetRat
+
+Name: Blue Wave
+Description: Follow the water, find your way.
+ID: BID_464_MartialArtist
+
+Name: Bladed Breath
+Description: The sharp surprise of a dragon's fire.
+ID: BID_465_VirtualShadow
+
+Name: Jade Blades
+Description: Jaded and serrated.
+ID: BID_466_TigerFashion
+
+Name: Dragon Guard
+Description: Who dares challenge the dragon?
+ID: BID_467_DragonRacer
+
+Name: Cactus Jack
+Description: No Bystanders.
+ID: BID_468_Cyclone
+
+Name: Neon Wings
+Description: Glow above and beyond.
+ID: BID_469_Wings
+
+Name: Hack Pack
+Description: Your bag is your passport.
+ID: BID_470_SpyTechHacker
+
+Name: Pinkie's Pink Pack
+Description: Hearty survival pack.
+ID: BID_471_CuteDuo
+
+Name: Arroyo Pack
+Description: Stay cool in the desert sun.
+ID: BID_472_DesertOpsCamo
+
+Name: Adventure Pack
+Description: Adventure not included.
+ID: BID_473_Photographer
+
+Name: Infatuation Pack
+Description: Is this love?
+ID: BID_474_DarkHeart
+
+Name: Teknical Glow
+Description: Packed with plans.
+ID: BID_475_AgentAce
+
+Name: Puma Pack
+Description: Growl and glow.
+ID: BID_476_AgentRogue
+
+Name: Feline Fun
+Description: Play a game of cat and mouse.
+ID: BID_477_BuffCat
+
+Name: Hench Hauler
+Description: Sometimes you gotta rough 'em up a little.
+ID: BID_478_HenchmanTough
+
+Name: Gold Dagger Pack
+Description: For the classiest capers.
+ID: BID_479_CatBurglar
+
+Name: Deadpool's Katanas
+Description: Wield with maximum effort.
+ID: BID_480_Donut
+
+Name: Skeletal Wings
+Description: Futuristic agility is in your bones.
+ID: BID_481_GraffitiFuture
+
+Name: Recon Strike
+Description: Shoot your shot.
+ID: BID_482_LongShorts
+
+Name: Emissary Bag
+Description: Your mission awaits.
+ID: BID_483_Spy
+
+Name: Doggie Bag
+Description: Take it to go.
+ID: BID_484_PugMilitia
+
+Name: Banana Briefcase
+Description: More than one, it's a bunch.
+ID: BID_485_BananaAgent
+
+Name: Gold Chain
+Description: If it fits...
+ID: BID_486_WinterHunterMale
+
+Name: Goldy Lock
+Description: Just right.
+ID: BID_487_WinterHunterFemale
+
+Name: Lucky Clover
+Description: Pack a little luck.
+ID: BID_488_LuckyHero
+
+Name: True Reflection
+Description: Two true originals. One perfect pack.
+ID: BID_489_TwinDark
+
+Name: Heavy Harvester
+Description: How dirt becomes corn.
+ID: BID_490_AnarchyAcresFarmer
+
+Name: Back Burner
+Description: Pack some heat.
+ID: BID_491_FlameSkull
+
+Name: Slurp Jet
+Description: Faster than the speed of slurp.
+ID: BID_492_BlueFlames
+
+Name: Blue Heart
+Description: I <3 Slurp.
+ID: BID_493_BlueFlamesFemale
+
+Name: Lush Edge
+Description: Spring style with an angular edge.
+ID: BID_494_StreetFashionEmerald
+
+Name: Tropical Stash
+Description: A splash of tropical cash.
+ID: BID_495_PineappleBandit
+
+Name: Dorsal Destroyer
+Description: He's got your deep six.
+ID: BID_496_TeriyakiFishAssassin
+
+Name: Backchannel
+Description: You never know who's listening in.
+ID: BID_498_AgentX
+
+Name: Hit me!
+Description: Daring and dangerous.
+ID: BID_499_TargetPractice
+
+Name: Light Intel
+Description: Secretly illuminating.
+ID: BID_500_SpyTech
+
+Name: Angled Intercept
+Description: Know all the angles.
+ID: BID_501_SpyTechFemale
+
+Name: Back Stitch
+Description: Keep it all sewn up.
+ID: BID_502_Tailor
+
+Name: Bull Shield
+Description: Bullish and battle-tested.
+ID: BID_503_MinotaurLuck
+
+Name: Bionic Relay
+Description: Stay connected in the heat of battle.
+ID: BID_504_Handyman
+
+Name: Stellar Jaunt
+Description: Ready for anywhere.                                                                                                         Reactive: Glow will react when taking damage.
+ID: BID_505_Informer
+
+Name: Cable Cloak
+Description: Always ready for trouble.
+ID: BID_506_DonutCup
+
+Name: Shurayuki
+Description: Forged a thousand years ago.
+ID: BID_507_DonutPlate
+
+Name: Domino Pack
+Description: Luck is always on your side.
+ID: BID_508_DonutDish
+
+Name: Choco Shell
+Description: Have a little backbling. As a treat.
+ID: BID_509_ChocoBunny
+
+Name: Blast Radius
+Description: When in doubt, rockets.
+ID: BID_511_BadEgg
+
+Name: Windshear Cloak
+Description: Wherever the wind blows.
+ID: BID_512_Hurricane
+
+Name: Backstabber
+Description: Be careful who you trust.
+ID: BID_513_GraffitiAssassin
+
+Name: Whisker Pack
+Description: Battle kitty approved.
+ID: BID_514_NeonCatSpy
+
+Name: Scarlet Satchel
+Description: Stylishly scarlet.
+ID: BID_515_Hostile
+
+Name: Back Scratcher
+Description: Always on the beat.
+ID: BID_516_RaveNinja
+
+Name: Pelt Pack
+Description: Heavy-duty furry battle bag.
+ID: BID_517_Splinter
+
+Name: Last Kiss
+Description: Sealed with a kiss.
+ID: BID_518_HitmanCase
+
+Name: Fluffle Bag
+Description: Jam-packed with sparkly shards.
+ID: BID_519_Comet
+
+Name: Astroworld
+Description: My Planet, My Home.
+ID: BID_520_CycloneUniverse
+
+Name: Sleek Strike
+Description: Sharpen your style.
+ID: BID_521_WildCat
+
+Name: Silencer
+Description: Engineered for perfect silence.
+ID: BID_522_TechExplorer
+
+Name: Loot & Shoot
+Description: Pumped full of cash.
+ID: BID_523_RapVillainess
+
+Name: Ravenpool's Cage
+Description: There is still no escape.
+ID: BID_525_RavenQuillDonut
+
+Name: Cuddlepool's Bow
+Description: Additional hugs!
+ID: BID_526_FuzzyBearDonut
+
+Name: Buddy Bag
+Description: Keep your friends close...
+ID: BID_527_Loofah
+
+Name: Mini Moon
+Description: Created on a mini sound stage.
+ID: BID_528_SpaceWanderer
+
+Name: Eternal Shield
+Description: Heralds the arrival of a true champion.
+ID: BID_530_BlackKnightFemale
+
+Name: Handbag
+Description: We're number one!
+ID: BID_531_HardcoreSportzFemale
+
+Name: Pokey Pack
+Description: Two kinds of dangerous in one convenient package.
+ID: BID_532_HardcoreSportzMale
+
+Name: Beachcomber
+Description: Take the beach!
+ID: BID_534_OceanRider
+
+Name: Supreme Shell
+Description: Fit for a sea king.
+ID: BID_535_SandCastle
+
+Name: Anchor
+Description: Give it a moment to sink in.
+ID: BID_536_Beacon
+
+Name: Deep Dive
+Description: Dual blade protection so you can breathe easy.
+ID: BID_537_TacticalScuba
+
+Name: Weathered Wings
+Description: Always ready to rise above.
+ID: BID_538_StreetRacerCobraGold
+
+Name: Infinite Bloom
+Description: From everywhere and for always.
+ID: BID_539_RacerZero
+
+Name: Double Fang
+Description: Strike from all sides.
+ID: BID_540_Python
+
+Name: Swampy Sack
+Description: Gator-tough swamp original.
+ID: BID_541_Gator
+
+Name: Number One
+Description: Who's number one?
+ID: BID_542_Foam
+
+Name: Warning Bow
+Description: Caution: adorable.
+ID: BID_543_FuzzyBearTeddy
+
+Name: Nite Bag
+Description: It was a dark and stormy bag.
+ID: BID_544_BrightGunnerEclipse
+
+Name: Firestarter
+Description: Warning: Contents of firestarter may be hot.
+ID: BID_545_RenegadeRaiderFire
+
+Name: Double Agent Stripe
+Description: Agency inspired angularity.
+ID: BID_546_CavalryBanditGhost
+
+Name: Double Agent Hard Case
+Description: Make your case.
+ID: BID_547_HeistGhost
+
+Name: Double Agent Ooze Unit
+Description: Next generation ooze containment chamber.
+ID: BID_548_MastermindGhost
+
+Name: Wrong Turn
+Description: No! The other way!
+ID: BID_549_Dummeez
+
+Name: Beef Pack
+Description: Packed with beefy goodness.
+ID: BID_550_JonesyVagabond
+
+Name: Heartless Wings
+Description: Heartbreakingly flappy.
+ID: BID_551_CupidDarkFemale
+
+Name: Universal Bloom
+Description: Harness the power of creation.
+ID: BID_552_ConstellationSun
+
+Name: Manta Pack
+Description: Suit up and dive into battle.
+ID: BID_553_Seaweed_NIS9V
+
+Name: Boombox 3000
+Description: Here comes the boombox.
+ID: BID_554_Robro
+
+Name: Gunny Sack
+Description: Locked and loaded up with goodies.
+ID: BID_555_HeartBreaker
+
+Name: Overbite
+Description: It's got teeth.
+ID: BID_556_SharkSuit
+
+Name: Sharky Shawl
+Description: Drape yourself in sharky goodness.
+ID: BID_557_SharkSuitFemale
+
+Name: Starpower
+Description: You've got the makings of a real star.
+ID: BID_558_PunkDevilSummer
+
+Name: Impact Green
+Description: Let 'em see you coming.
+ID: BID_559_GreenJacket
+
+Name: Proto-Adamantium Shield
+Description: Captain America's shield is as indestructible as his will.
+ID: BID_560_CandyApple_WTXXO
+
+Name: Capearoni
+Description: A cheesy slice of flavor.
+ID: BID_561_PeppaRonnie
+
+Name: Nucleus
+Description: A whole galaxy to-go.
+ID: BID_562_CelestialFemale
+
+Name: Dune Tripper
+Description: There's even a little pouch for sunscreen.
+ID: BID_563_MilitaryFashionSummer
+
+Name: Sour Swirl
+Description: Pucker powered.
+ID: BID_564_CandySummer
+
+Name: Trapper Pack
+Description: What big teeth it has.
+ID: BID_565_RedRidingSummer
+
+Name: Titan Scale
+Description: Harvested from a colossus of the deep.
+ID: BID_566_TeriyakiAtlantis
+
+Name: Vanilla Whip
+Description: Don't forget the sprinkles.
+ID: BID_567_MsWhip
+
+Name: Banana Cabana
+Description: Packed with bananas.
+ID: BID_568_BananaSummer
+
+Name: Tidal Hazard
+Description: Who knows what lurks beneath the waves?
+ID: BID_569_DirtyDocksMale
+
+Name: Dive Hazard
+Description: Very nearly shark proof.
+ID: BID_570_DirtyDocksFemale
+
+Name: Rocky
+Description: Unbelievably heavy.
+ID: BID_571_Tiki
+
+Name: Chair
+Description: You might want to sit down...
+ID: BID_572_Chair
+
+Name: Tube Top
+Description: Previously on... your back.
+ID: BID_573_TV
+
+Name: Moon Jelly
+Description: It's cute, but don't touch the tentacles.
+ID: BID_575_AnglerFemale
+
+Name: Wind Shell
+Description: If you listen close, you can hear the waves.
+ID: BID_576_Islander
+
+Name: Haute Holster
+Description: No knock-offs here.
+ID: BID_577_RaiderPink
+
+Name: Angular Chic
+Description: Hit your triangles.
+ID: BID_578_SportsFashion
+
+Name: Back Scoop
+Description: Scoop it.
+ID: BID_579_FloatillaCaptain
+
+Name: Back Bloom
+Description: Poison is very in this season.
+ID: BID_580_ParcelPetal
+
+Name: Laugh Riot
+Description: It's a little cranky.
+ID: BID_581_ParcelPrankSurprise
+
+Name: Midas Crest
+Description: The mantle of a fallen king.
+ID: BID_582_ParcelGold
+
+Name: Lunar Sim
+Description: A vivid reminder of home.
+ID: BID_583_SpaceWandererMale
+
+Name: Llama Buster
+Description: The mark of a true llamercenary.
+ID: BID_584_AntiLlama
+
+Name: Tactical Quiver
+Description: A hero is only as good as their tools.
+ID: BID_585_TipToe_V1T3M
+
+Name: Speed Force
+Description: The energy field that gives all speedsters their powers.
+ID: BID_586_Tar_DIJGH
+
+Name: Quad Roller
+Description: Rink tested and ready to roll.
+ID: BID_587_TripleScoop
+
+Name: Neon Backboard
+Description: Not regulation height.
+ID: BID_588_Axl
+
+Name: Coral Cowl
+Description: Regal, but impossible to keep dry.
+ID: BID_589_LadyAtlantis
+
+Name: Chainstick Pack
+Description: Built for back alley brawls.
+ID: BID_590_MaskedDancer
+
+Name: Shadow Jet Set
+Description: Powered up and ready for shadowy action.
+ID: BID_591_MultibotStealth
+
+Name: Scrapper Sashimono
+Description: Raise your banner, and stand out in battle.
+ID: BID_592_JunkSamurai
+
+Name: Storm's Cloak
+Description: Perfect for riding the winds.
+ID: BID_593_HightowerSquash
+
+Name: Scales of Justice
+Description: Overruled.
+ID: BID_594_HightowerHoneydew
+
+Name: Mystique's Skull
+Description: An ancient artifact that yearns for combat.
+ID: BID_595_HightowerMango
+
+Name: Iron Man Backplate
+Description: Nanotech-assisted targeting system.
+ID: BID_596_HightowerTomato
+
+Name: Wolverine's Trophy
+Description: He won it fair and square.
+ID: BID_597_HightowerWasabi
+
+Name: Sapling Groot
+Description: Don't forget to water your Groot.
+ID: BID_598_HightowerGrape
+
+Name: Doom Chalice
+Description: Seal your fate with a toast.
+ID: BID_599_HightowerDate
+
+Name: Thor's Cloak
+Description: Thor's Herald Cloak.
+ID: BID_600_HightowerTapas
+
+Name: Flytrapper
+Description: It's just a friendly place for flies to land.
+ID: BID_601_Venus
+
+Name: Dread Shield
+Description: Bladed for extra dread.
+ID: BID_602_DarkNinjaPurple_Female
+
+Name: Dread Shroud
+Description: Shrouded in dread.
+ID: BID_603_DarkEaglePurple_Male
+
+Name: Dark Skully Satchel
+Description: Equal parts disturbing and disturbing.
+ID: BID_604_SkullBritecube
+
+Name: DOOM's Cowl
+Description: Nothing finer than Latverian silk.
+ID: BID_605_HightowerDate_Cape
+
+Name: Herald's Star
+Description: A galaxy of potential in one tiny package.
+ID: BID_605_Soy_Y0DW7
+
+Name: Corrupted Long Legs
+Description: Stretch your corrupt legs.
+ID: BID_606_BlackwidowFemale_Corrupt
+
+Name: Corrupted Sight Sling
+Description: Expertly sighted... yet riddled with corruption.
+ID: BID_607_SniperHoodFemale_Corrupt
+
+Name: Corrupted Bladed Wings
+Description: The edgy wings of corruption.
+ID: BID_608_SamuraiArmorUltra_Corrupt
+
+Name: Emoticape
+Description: Express yourself on the battlecape.
+ID: BID_609_ElasticCape
+
+Name: Holo-Back
+Description: Holographic self-expression.
+ID: BID_610_ElasticHologram
+
+Name: Steelfeather Shield
+Description: The last of its kind.
+ID: BID_613_MythFemale
+
+Name: Vanquisher's Oath
+Description: Protected by an unbreakable vow.
+ID: BID_614_Myth
+
+Name: Sword of the Daywalker
+Description: Look, but don't touch.
+ID: BID_615_Backspin_KA0K2
+
+Name: Slayer's Saddlebag
+Description: Garlic-infused and crypt rated.
+ID: BID_616_Cavalry
+
+Name: Trendsetter
+Description: What's on your playlist?
+ID: BID_617_StreetFashionGarnet
+
+Name: Cake!
+Description: We're three!
+ID: BID_618_Birthday03
+
+Name: Octane RL
+Description: Take your shot!
+ID: BID_619_Turbo
+
+Name: Holo-Skull
+Description: Glowing with dread.
+ID: BID_621_Poison
+
+Name: Batty Pack
+Description: Not approved for daytime wear.
+ID: BID_622_VampireCasual
+
+Name: Arachnid Tote
+Description: The webs are only decorative.
+ID: BID_623_BlackWidowJacket
+
+Name: Lil' Gnashy
+Description: Take a lil' chomp out of life.
+ID: BID_624_Palespooky
+
+Name: Firebreather's Daypack
+Description: Llama-charmed and up to no good.
+ID: BID_625_DarkBomberSummer
+
+Name: UV Wings
+Description: A whole new spectrum of spookiness.
+ID: BID_626_SpookyNeonFemale
+
+Name: Radar Senses
+Description: I "see" you.
+ID: BID_627_DeliSandwich
+
+Name: Reaper's Backplate
+Description: Forever wilting, never blooming.
+ID: BID_628_FlowerSkeletonMale
+
+Name: PWR Pack
+Description: Power up.
+ID: BID_629_LunchBox
+
+Name: Trappy
+Description: Watch your fingers.
+ID: BID_630_Famine
+
+Name: Squash Bats
+Description: Extra batty.
+ID: BID_631_PumpkinPunkMale
+
+Name: Spiced Sippers
+Description: Yes, they're all for me.
+ID: BID_632_PumpkinSpice
+
+Name: Glass Wings
+Description: They'll never hold her down now.
+ID: BID_633_FrankieFemale
+
+Name: Ghost Trap
+Description: Careful you don't let anything out.
+ID: BID_634_York_Female
+
+Name: Proton Pack
+Description: Don't cross the streams.
+ID: BID_635_York_Male
+
+Name: Bone Wings
+Description: Kick back and enjoy the fright.
+ID: BID_636_RavenQuillSkull
+
+Name: Cuddly Bones
+Description: Doomed hugs!
+ID: BID_637_FuzzyBearSkull
+
+Name: Creep Fried
+Description: Perfectly ghastly.
+ID: BID_638_DurrburgerSkull
+
+Name: Auric
+Description: Who's a pretty bird?
+ID: BID_639_BabaYaga
+
+Name: Bobo
+Description: Watch the monkey.
+ID: BID_640_ElfAttackMale
+
+Name: Chemist's Curiosities
+Description: Brewing dark concoctions for darker deeds.
+ID: BID_641_Jekyll
+
+Name: Infernal Chain
+Description: Wrapped in supernatural flame.
+ID: BID_642_Embers
+
+Name: Widow's Light
+Description: The mark of a super-spy.
+ID: BID_643_Tapdance
+
+Name: Elevation
+Description: Don't let gravity hold you down.
+ID: BID_644_StreetFashionDiamond
+
+Name: Batnap
+Description: It's so dreamy.
+ID: BID_645_NauticalPajamas
+
+Name: Shakez-2-Go
+Description: Get shook with a friend!
+ID: BID_646_NauticalPajamasNight
+
+Name: Deep Zzz
+Description: Sleep with the fishes.
+ID: BID_647_NauticalPajamas_Underwater
+
+Name: Constructor Classic
+Description: Built to build.
+ID: BID_648_Blonde
+
+Name: Power Pack
+Description: Supercharged and crackling with electric might.
+ID: BID_649_ShockWave
+
+Name: Tendril Tote
+Description: Don't forget the buddy system.
+ID: BID_650_Vertigo
+
+Name: Fractured World
+Description: Forever caught in stasis moments before it exploded.
+ID: BID_651_EternityFemale
+
+Name: Shine Pack
+Description: Can't hide this shine.
+ID: BID_652_RaiderSilverFemale
+
+Name: Logo-a-go-go
+Description: Fly your colors.
+ID: BID_653_Football20_1BS75
+
+Name: Heart Target
+Description: Delivered with love.
+ID: BID_654_Ponytail
+
+Name: Stir-Baby
+Description: Who wants to lick the bowl?
+ID: BID_655_PieMan
+
+Name: Shield of the Mighty
+Description: Inherited from a fallen foe.
+ID: BID_656_AncientGladiatorMale
+
+Name: Mechafusion Interface
+Description: Dad always said neutrinos were the only way to go.
+ID: BID_657_LexaFemale
+
+Name: Mimir
+Description: Wise and wizened.
+ID: BID_658_Historian_4RCG3
+
+Name: Breakfast Bounty
+Description: Butter keep the good stuff for yourself.
+ID: BID_659_FlapjackWrangler
+
+Name: Wildheart Buckler
+Description: A conduit to the power of the Wildheart.
+ID: BID_660_Shapeshifter
+
+Name: Dynamo Grav-Suit
+Description: Beast (Hunter) mode activated.
+ID: BID_661_SpaceFighter
+
+Name: Spirit's Pact
+Description: The blades do not sleep until the deed is done.
+ID: BID_662_FutureSamuraiMale
+
+Name: Blustery Bag
+Description: The forecast calls for friendship.
+ID: BID_663_SnowmanFashionMale
+
+Name: Bitter Sweets
+Description: Baked to perfection and frosted for a fight.
+ID: BID_664_RenegadeRaiderHoliday
+
+Name: Battle Legend
+Description: You will never know defeat. Maybe.
+ID: BID_665_Jupiter_XD7AK
+
+Name: The Fishcracker
+Description: Someone carved it special.
+ID: BID_666_TeriyakiFishElf
+
+Name: Edge Case
+Description: What are the chances?
+ID: BID_667_StarsMale
+
+Name: Exploding Axis
+Description: Ooh, pointy.
+ID: BID_668_StarsFemale
+
+Name: Glow Grin
+Description: It's the smiliest!
+ID: BID_669_NeonMale
+
+Name: Vibe Star
+Description: It's the starriest!
+ID: BID_670_NeonFemale
+
+Name: Tankbuilt Loader
+Description: Built to last.
+ID: BID_671_Mechstructor
+
+Name: Holly Jolly Hatchet
+Description: Honed for maximum cheer.
+ID: BID_672_StreetFashionHoliday
+
+Name: Cheery Chime
+Description: Every time a bell rings...
+ID: BID_673_ElfFemale
+
+Name: Merry Mountaineer
+Description: Treat yourself to a little summit.
+ID: BID_674_SnowboarderMale
+
+Name: Hunting Quiver
+Description: Take dead aim at the walkers.
+ID: BID_675_WombatMale_X18U5
+
+Name: Michonne's Katana
+Description: Walkers beware.
+ID: BID_676_WombatFemale_6PEJZ
+
+Name: Candy Cache
+Description: Sticky sweet peppermint loot.
+ID: BID_677_FancyCandy
+
+Name: Wrapping Caper
+Description: Crinkling gracefully in the winter wind.
+ID: BID_678_CardboardCrewHolidayMale
+
+Name: Shield Surprise
+Description: It's perfect!
+ID: BID_679_CardboardCrewHolidayFemale
+
+Name: Ice Kitsune
+Description: Frosty-tailed frozen fox.
+ID: BID_680_DriftWinter
+
+Name: Frosty Fox
+Description: Faithful frosty friend.
+ID: BID_681_DriftWinterFox
+
+Name: Kree Backplate
+Description: Brimming with cosmic energy.
+ID: BID_682_CherryFemale_RXEIW
+
+Name: Wings of Frost
+Description: Soar on the frozen gale.
+ID: BID_683_CupidWinterFemale
+
+Name: Swirly Snowglobe
+Description: Give it a shake.
+ID: BID_684_HolidayLightsMale
+
+Name: King's Cowl
+Description: Dark as night and woven with vibranium thread.
+ID: BID_685_PlumRetro_EY7ZM
+
+Name: Mimic's Shield
+Description: Picked this one up from Rogers.
+ID: BID_686_TiramisuMale_1YMN4
+
+Name: Balls of Power
+Description: Powerful artifacts from another world.
+ID: BID_687_GrilledCheese_C9FB6
+
+Name: Hunter's Trophy
+Description: Grim keepsake from a far-off world.
+ID: BID_688_Nightmare_S85HI
+
+Name: HK Skynet Uplink
+Description: The Resistance will be terminated.
+ID: BID_689_TyphoonRobot_SMLZ7
+
+Name: T-800 Endoskeleton Arm
+Description: There is no fate but what we make for ourselves.
+ID: BID_690_TyphoonFemale_1NBFZ
+
+Name: Mechafusion Jumpkit
+Description: Even a little mechafusion goes a long way.
+ID: BID_691_LexaMale
+
+Name: Snake Eyes Katana
+Description: Legendary blade forged by the masters.
+ID: BID_692_ConvoyTarantula_34ZM0
+
+Name: Blackout Bag
+Description: They'll never know what's up.
+ID: BID_695_StreetFashionEclipse
+
+Name: Prickly Heart
+Description: Cute and spiky.
+ID: BID_696_CombatDoll
+
+Name: Foxbow Quiver
+Description: May your aim be true.
+ID: BID_697_FoxWarrior_G0YTR
+
+Name: Stuffy Sack
+Description: Crammed with cuddles. Stuffed with love.
+ID: BID_698_StreetCuddlesMale
+
+Name: Identity Disc
+Description: Never leave your home System without it.
+ID: BID_699_MainframeMale_2W2M3
+
+Name: Heartblast
+Description: Lub. Dub. Boom.
+ID: BID_700_Crush
+
+Name: Training Bag
+Description: Always be training.
+ID: BID_701_SkirmishMale_5LH4I
+
+Name: Super Cab-Masher
+Description: I've got next.
+ID: BID_702_SkirmishFemale_P9FE3
+
+Name: Xenomorph Tail
+Description: Razor-sharp and whatever the exact opposite of cuddly is.
+ID: BID_703_KeplerMale_ZTFJU
+
+Name: Weyland-Yutani Cat Carrier
+Description: Jonesy's home-on-the-go. (No relation)
+ID: BID_704_KeplerFemale_C0L25
+
+Name: Arena Elite
+Description: Won in battle. Worn with pride.
+ID: BID_705_AncientGladiatorFemale
+
+Name: Gordo
+Description: Stuffed with Llamacorn style.
+ID: BID_706_CasualBomberLight
+
+Name: Up North
+Description: Follow the frost.
+ID: BID_707_LlamaHeroWinter_3OQ1V
+
+Name: Baby Gingy
+Description: Take your son to work day.
+ID: BID_708_GingerbreadBuilder
+
+Name: Quantic Pulsar
+Description: Capable of tracking criminals across an entire star system.
+ID: BID_709_SpaceWarrior
+
+Name: Ant-Tonio
+Description: Ant-Man's loyal steed.
+ID: BID_710_SmallFry_GDE1J
+
+Name: Golden Gambit
+Description: The perfect move at the perfect time.
+ID: BID_711_CatBurglarFemale
+
+Name: Gallant Gear
+Description: Sometimes courage is all you need.
+ID: BID_712_LionSoldier
+
+Name: Champion's Crest
+Description: Show 'em your credentials.
+ID: BID_713_FNCS21
+
+Name: Dimensional Gate
+Description: Pocket portal to interdimensional power.
+ID: BID_714_Obsidian
+
+Name: Dino Deck
+Description: Outta the tar pits and into the skate park.
+ID: BID_715_DinoHunterFemale
+
+Name: Hatch Pack
+Description: He got it from his mom.
+ID: BID_716_ChickenWarrior
+
+Name: Soul's Reach
+Description: Keeper of The Spire's flame.
+ID: BID_717_TowerSentinel
+
+Name: Jones' Field Pack
+Description: Make sure to pack a granola bar or something. Might be a bumpy ride.
+ID: BID_718_ProgressiveJonesy
+
+Name: Endless Scroll
+Description: Keep on scrolling.
+ID: BID_719_CubeNinja
+
+Name: Survivor's Pack
+Description: Just room for the essentials.
+ID: BID_720_Temple
+
+Name: The Book of Spells Vol. 3
+Description: First edition, natch.
+ID: BID_721_ScholarFemale
+
+Name: Squee
+Description: ... he's just sleeping.
+ID: BID_722_NeonCatFashion_KEP9B
+
+Name: Bladed Cage
+Description: Try to escape... if you dare.
+ID: BID_723_DarkMinion
+
+Name: Cape of Potassius
+Description: Friends, produce, lend me your peels.
+ID: BID_724_BananaLeader
+
+Name: BluGlo Injector
+Description: BluGlo power generation on the go!
+ID: BID_725_AssembleR
+
+Name: Blister Pack
+Description: Some accessories not included.
+ID: BID_726_Figure
+
+Name: Turbo Ball!
+Description: It's in a (Rocket) League of its own.
+ID: BID_727_TurboBall_892OE
+
+Name: Watchful Wabbit
+Description: Big ears and multi-spectrum vision mean Chigusa's avatar is always ready for the latest scoop.
+ID: BID_728_SailorSquadLeader
+
+Name: Guard Pup
+Description: Megumi's avatar has seen its fair share of action, but it's still standing strong.
+ID: BID_729_SailorSquadRebel
+
+Name: H4ck // P4ck
+Description: Best case scenario, no one ever sees Yuki's avatar at all.
+ID: BID_730_SailorSquadRose
+
+Name: Bunzy
+Description: Copy that, the bunny trail is clear.
+ID: BID_731_BunnyFashion
+
+Name: Skellebun Key
+Description: Spring any lock.
+ID: BID_732_HipHareMale
+
+Name: Mecha-Feathers
+Description: Ready for fowl play.
+ID: BID_734_WickedDuckMale
+
+Name: Qwick-Qwack
+Description: The widdlest member of the Danger Dux.
+ID: BID_735_WickedDuckFemale
+
+Name: Gains!
+Description: Hodl!
+ID: BID_736_DayTrader_QS4PD
+
+Name: TBD
+Description: TBD
+ID: BID_NPC_HightowerDate
+
+Name: Random
+Description: Randomly chooses between favorite Back Blings (or all owned Back Blings if nothing is marked as a favorite)
+ID: BID_Random
+
+Name: Hero
+Description: null
+ID: BID_STWHero
+
+Name: Hero
+Description: null
+ID: BID_STWHeroNoDefaultBackpack
+
+Name: TBD
+Description: TBD
+ID: BID_TBD_Cosmos
 
