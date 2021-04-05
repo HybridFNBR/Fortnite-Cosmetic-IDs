@@ -1,1976 +1,1976 @@
-Accolades
-Soak it all in.
-EID_Accolades
-
-Ground Pound
-Take it for a spin.
-EID_AcrobaticSuperhero
-
-Work It Out
-Break a sweat.
-EID_Aerobics
-
-Bombastic
-Step up and show 'em what you've got.
-EID_AfroHouse
-
-Air Shredder
-The guitar is in your mind.
-EID_AirGuitar
-
-Air Horn
-Subtle.
-EID_AirHorn
-
-Air Horn
-Subtle.
-EID_AirHornRaisin
-
-Extraterrestrial
-Interplanetary groove.
-EID_Alien
-
-Team Space
-Humanity had its chance.
-EID_AlienSupport
-
-Wakandan Salute
-Wakanda Forever.
-EID_AmazingForever_Q68W0
-
-A Warrior Prepares
-Fight dirty.
-EID_AncientGladiator
-
-Go home!
-Leave us alone!
-EID_AntiVisitorProtest
-
-Backstroke
-Put your back into it.
-EID_ArmUpDance
-
-Wavy T
-Strike a wavy pose.
-EID_ArmWave
-
-Toosie Slide
-Let it slide.
-EID_ArtGiant
-
-Widow’s Pirouette
-A deadly dance.
-EID_AshtonBoardwalk
-
-Dance Off
-A perfect distraction.
-EID_AshtonSaltLake
-
-Be Seeing You
-Not if I see you first.
-EID_AssassinSalute
-
-Bulletproof
-Brush it off.
-EID_AssassinVest
-
-Blinding Lights
-It's all in the footwork.
-EID_AutumnTea
-
-Flippin' Incredible
-Flip on 'em. Flex on 'em.
-EID_Backflip
-
-Daywalker's Kata
-Bloodsuckers beware.
-EID_Backspin_R3NAI
-
-Stormy
-The forecast calls for frowns.
-EID_BadMood
-
-Balletic
-So graceful.
-EID_BalletJumps
-
-Pirouette
-On point.
-EID_BalletSpin
-
-Nana Nana
-Have a bunch of fun!
-EID_Banana
-
-Pandemonium
-Keep it saucy!
-EID_BangThePan
-
-Banner Wave
-Show your true colors.
-EID_BannerFlagWave
-
-Baller
-Show off your moves.
-EID_Basketball
-
-Ballsy
-Keep your eye on the ball.
-EID_BasketballV2
-
-Beckon
-Party Emote
-EID_BeckonPapayaComms
-
-Ring it on
-Shake those bells.
-EID_Bellringer
-
-Zany
-Go ahead, get weird with it.
-EID_Bendy
-
-Best Mates
-Who's your best mate?
-EID_BestMates
-
-Sasquatchin'
-Put you best bigfoot forward.
-EID_BigfootWalk
-
-Billy Bounce
-You do you.
-EID_BillyBounce
-
-Whipcrack
-Whip up some action.
-EID_BlackMondayFemale_6HO4L
-
-Martial Arts Master
-Master the art of battle.
-EID_BlackMondayMale2
-
-Bat Signal
-Did somebody order a Batman?
-EID_BlackMondayMale_E0VSB
-
-Blowing Bubbles
-Get poppin.
-EID_BlowingBubbles
-
-Bhangra Boogie
-Celebrate together.
-EID_Bollywood
-
-Boneless
-Beyond bendy.
-EID_Boneless
-
-Boogie Down
-Boogie Down with Populotus.
-EID_BoogieDown
-
-Boomin'
-Music on the move.
-EID_Boombox
-
-Boots 'n' Cats
-Beat outside the box.
-EID_BootsAndCats
-
-Cap Kick
-Give it a kick.
-EID_BottleCapChallenge
-
-Bloomin' Bouquet
-Freshly picked for you.
-EID_Bouquet
-
-Switchstep
-Switch it up.
-EID_Breakboy
-
-Breakin'
-Bust a move!
-EID_BreakDance
-
-Breakneck
-Break it down, just don't break your neck.
-EID_Breakdance2
-
-Primo Moves
-Take it to the max!
-EID_BreakfastCoffeeDance
-
-Breaking Point
-Give 'em a break.
-EID_BreakYou
-
-Bring It
-Let's see what you've got.
-EID_BringItOn
-
-Swole Cat
-Gotta get those gains.
-EID_BuffCat
-
-Snow Day
-We'll make him our best friend.
-EID_BuildASnowman
-
-Lunch Break
-I want five of 'em.
-EID_Builders
-
-Hoppity
-Without the hippity there can be no hoppity.
-EID_BunnyFlop
-
-Bunny Hop
-Put all your eggs in one basket.
-EID_Bunnyhop
-
-Sizzlin'
-Flip with flavor.
-EID_BurgerFlipping
-
-Burpee
-Set a new personal best.
-EID_Burpee
-
-Prickly Pose
-Completely inconspicuous.
-EID_CactusTPose
-
-Calculated
-Think about it.
-EID_Calculated
-
-Call me
-Seriously though, just send a text.
-EID_CallMe
-
-Sugar Rush
-Shake it til you crash.
-EID_CandyDance
-
-Capoeira
-Are you ready to dance with danger?
-EID_Capoeira
-
-Cartwheelin'
-Head over heels.
-EID_Cartwheel
-
-Power Roar
-Scream of the Devourer.
-EID_CattusRoar
-
-Jubilation
-A heaping helping of happiness!
-EID_Celebration
-
-Have a Seat
-Pull up a chair and relax.
-EID_ChairTime
-
-On Your Marks...
-Get set... Go!
-EID_CheckeredFlag
-
-Cheer Up
-Be aggressive. B-E aggressive.
-EID_Cheerleading
-
-Cheer
-Party Emote
-EID_CheerPapayaComms
-
-Chicken
-Top of the pecking order.
-EID_Chicken
-
-Cluck Strut
-Who're you calling chicken?
-EID_ChickenMoves
-
-Distracted
-Plan of attack... entirely forgotten.
-EID_Chopsticks
-
-Go! Go! Go!
-You can do it!
-EID_Chug
-
-null
-null
-EID_ClapAndWave
-
-Clap
-Party Emote
-EID_ClapPapayaComms
-
-Take 14
-...and action!
-EID_Clapperboard
-
-Staff Stand
-Staff up and take your stand.
-EID_ClimbTheStaff
-
-Dream Stance
-Tap into the glyphs.
-EID_CloudFloat
-
-Coin Flip
-Best two out of three?
-EID_CoinToss
-
-Confused
-Seriously. What happened?
-EID_Confused
-
-Conga
-Get in line.
-EID_Conga
-
-I Declare!
-Be your own biggest fan.
-EID_CoolOff
-
-Overdrive
-Push it past the limit.
-EID_CoolRobot
-
-Overdrive
-Push it past the limit.
-EID_CoolRobotRaisin
-
-Hover-Pram Control
-Keep him close.
-EID_CosmosPet
-
-Knee Slapper
-Rustle up the rhythm.
-EID_CowboyDance
-
-Crabby
-Ready in a pinch.
-EID_CrabDance
-
-Around the Clock
-Keep time.
-EID_CrackshotClock
-
-Crackdown
-Go nuts.
-EID_CrackshotDance
-
-Droop
-Dig deep.
-EID_CrazyDance
-
-Droop
-Dig deep.
-EID_CrazyDanceRaisin
-
-Crazy Feet
-Wild and crazy feet!
-EID_CrazyFeet
-
-Criss Cross
-Get your point across.
-EID_CrissCross
-
-Waterworks
-Show 'em your battle cry.
-EID_Cry
-
-Clean Sweep
-Tidy as you go.
-EID_Custodial
-
-Rage
-It's Lit!
-EID_Cyclone
-
-Head Banger
-Open it up!
-EID_CycloneHeadBang
-
-Dab
-Express yourself on the battlefield.
-EID_Dab
-
-Get Loose
-Ready for whatever comes your way.
-EID_DaBounce
-
-Dance Moves
-Express yourself on the battlefield.
-EID_DanceMoves
-
-Unification
-Balance the forces.
-EID_DarkFireLegends
-
-Levitate
-Rise above.
-EID_Davinci
-
-Deep Dab
-Bring 'em down to your level.
-EID_DeepDab
-
-Rawr
-Tyrannosaurus royale.
-EID_Dinosaur
-
-Denied
-Not this time.
-EID_Disagree
-
-Disco Fever
-Heat up the dance floor.
-EID_DiscoFever
-
-Harmony
-Achieve inner balance.
-EID_DivinePose
-
-Drop The Bass
-Wait for it...
-EID_DJ01
-
-Strut
-Take your time, you'll get there.
-EID_DoggyStrut
-
-So Square
-Like, seriously. So square.
-EID_DontBeSquare
-
-Smeeze
-Hop to it.
-EID_DontSneeze
-
-Scootin'
-Dangerously dainty.
-EID_Donut1
-
-Chimichanga!
-Too hot! Too hot!
-EID_Donut2
-
-Revel
-Nothing wrong with a little celebration.
-EID_Doublesnap
-
-Dream Feet
-Get some boogie in your boots.
-EID_DreamFeet
-
-Drum Major
-Lead the line, and step in time.
-EID_DrumMajor
-
-Featherweight
-Do you even lift?
-EID_Dumbbell_Lift
-
-Buckets
-Own the game.
-EID_Dunk
-
-Job Well Done
-That's that.
-EID_DustingHands
-
-Brush Your Shoulders
-Get that dirt off your shoulder.
-EID_DustOffShoulders
-
-Squat Kick
-Don't skip leg day.
-EID_EasternBloc
-
-Glyphic
-A dance for the ages.
-EID_EgyptianDance
-
-Hero's Beacon
-Light the signal.
-EID_Elastic
-
-Electro Shuffle
-Express yourself on the battlefield.
-EID_ElectroShuffle
-
-Signature Shuffle
-Show off your signature moves.
-EID_ElectroShuffle_V2
-
-Electro Swing
-Brand new groove, old school swing.
-EID_ElectroSwing
-
-Focused
-Stay focused in the heat of battle.
-EID_EngagedWalk
-
-Vivacious
-Never stop dancing.
-EID_Everytime
-
-Egg Drop Scoop
-Exit through the gift basket.
-EID_Exaggerated
-
-Face Palm
-The cringe is real.
-EID_Facepalm
-
-Fancy Feet
-Show off that footwork.
-EID_FancyFeet
-
-Fanciful
-Just a little dance to get the heartrate going.
-EID_FancyWorkout
-
-Savage
-You a challenger or what?
-EID_Feral
-
-Finger Guns
-Express yourself on the battlefield.
-EID_FingerGuns
-
-Sharpshooter
-Lookin' good out there.
-EID_FingerGunsV2
-
-Fire Spinner
-Heat it up.
-EID_FireDance
-
-Rocket Spinner
-Don't try this at home!
-EID_FireworksSpin
-
-Grand Salute
-A salute to all heroes.
-EID_Fireworks_WKX2W
-
-Fist Pump
-Emphatically flailing fists.
-EID_FistPump
-
-Flamenco
-Clap it up.
-EID_Flamenco
-
-Flapper
-It's the bee's knees!
-EID_Flapper
-
-Gun Show
-Express yourself on the battlefield.
-EID_Flex
-
-Flex On 'Em
-Let them know.
-EID_Flex02
-
-Fandangle
-Loosen up and prepare for nonsense.
-EID_Floppy
-
-Floss
-Express yourself on the battlefield.
-EID_Floss
-
-Kite!
-Let's fly!
-EID_FlyingKite
-
-Penalty
-That's a flag!
-EID_Football20Flag_C3QEE
-
-It's good!
-Straight through the uprights!
-EID_FootballTD_U2HZI
-
-Fresh
-Express yourself on the battlefield.
-EID_Fresh
-
-Disc Spinner
-Put on a show.
-EID_FrisbeeShow
-
-Vengeful Wish
-He's been waiting for this for a long time.
-EID_FutureSamurai
-
-Laid Back Shuffle
-It's all in the legs.
-EID_GabbyHipHop_01
-
-Dark Side
-There is a great disturbance in the Force.
-EID_Galileo1_B3EX6
-
-Traitor!
-Bring order to the galaxy.
-EID_Galileo2_2VYEJ
-
-Jedi Training
-Sharpen your skills.
-EID_Galileo3_T4DKO
-
-Resistance Thumbs Up
-Encouragment across the galaxy.
-EID_Galileo4_PXPE0
-
-null
-null
-EID_GalileoShow_Cheer
-
-Pull Up
-Pull up and take the challenge.
-EID_GasStation_104FQ
-
-Get Funky
-Find your groove.
-EID_GetFunky
-
-C'mere
-Don't make me go over there.
-EID_GetOverHere
-
-Bully
-Get ready to charge.
-EID_GetTheHorns
-
-Glowsticks
-Make it glow.
-EID_GlowstickDance
-
-Double Up
-It takes two...
-EID_GoatDance
-
-Double Up
-It takes two...
-EID_GoatDance_Sync
-
-Double Up
-It takes two...
-EID_GoatDance_Sync_Owned
-
-Golf Clap
-Good show. Good show.
-EID_GolfClap
-
-Orange Justice
-It's also a great exercise move.
-EID_GoodVibes
-
-Infectious
-Let it take over.
-EID_GothDance
-
-Controller Crew
-Two sticks. One heart.
-EID_GrilledCheese_N31C9
-
-Groove Jam
-Untamed groove.
-EID_GrooveJam
-
-Vibin'
-Find your flow.
-EID_Grooving
-
-Guitar Walk
-Play on.
-EID_GuitarWalk
-
-Syrup Slinger
-Syrup the ante.
-EID_GunspinnerTeacup
-
-Bold Stance
-Stand your ground and break it down.
-EID_GwaraDance
-
-Sackin'
-Can you hack it?
-EID_HackySack
-
-Taxi!
-When you got places to be.
-EID_HailingCab
-
-Treat Yourself
-Go ahead and take two... or the entire bucket.
-EID_HalloweenCandy
-
-Hand Signals
-All signals go?
-EID_HandSignals
-
-Dabstand
-Get a leg up on the competition.
-EID_HandstandLegDab
-
-Planetary Vibe
-Bring 'em into your orbit.
-EID_HandsUp
-
-Take The Cake
-Enjoy the big blowout!
-EID_HappyBirthday
-
-Tra La La
-Sometimes you just need to skip the battle.
-EID_HappySkipping
-
-Hello Friend
-Hi there!
-EID_HappyWave
-
-Headbanger
-Bang your head against the air.
-EID_HeadBang
-
-Headbanger
-Bang your head against the air.
-EID_HeadBangRaisin
-
-Bobbin'
-Really get into it.
-EID_HeadShake
-
-Click!
-Jump for joy.
-EID_HeelClick
-
-High Five
-Up Top.
-EID_HiFive
-
-High Five
-Up Top.
-EID_HiFive_Sync
-
-High Five
-Up Top.
-EID_HiFive_SyncOwned
-
-Victory Von Doom
-Earn a Victory Royal and sit in judgement with Doctor Doom's built-in emote.
-EID_HightowerDate
-
-null
-null
-EID_HightowerDate_NPC
-
-Battle Brother
-Don't forget your favorite furry pal.
-EID_HightowerGrape
-
-Gamma Overload
-Transform into She-Hulk.
-EID_HightowerHoneydew
-
-Shapeshifter
-Eliminate your opponent and borrow their appearance.
-EID_HightowerMango
-
-Gale Force
-Control the elements!
-EID_HightowerSquash
-
-God of Thunder
-Only the worthy can raise Mjolnir in battle.
-EID_HightowerTapas
-
-Suit Up
-Transform into Iron Man.
-EID_HightowerTomato
-
-Hover
-Iron Man AI Hovers
-EID_HightowerTomato_NPC
-
-Snikt!
-Equip Wolverine's adamantium claws.
-EID_HightowerWasabi
-
-Witch Way
-The only way to fly.
-EID_Hilda
-
-Daydream
-Dance the day away.
-EID_HiLowWave
-
-Freestylin'
-Tear up the dance floor.
-EID_HipHop01
-
-Breakdown
-Break it down.
-EID_HipHopS5
-
-Free Flow
-Feel the flow.
-EID_HipHopS7
-
-Business Hips
-Put some swivel in your step.
-EID_HipToBeSquare
-
-Freezing Burst
-Unleash the frozen Leviathan.
-EID_Historian_2TEF8
-
-Hitchhiker
-Take a hike.
-EID_Hitchhiker
-
-Out With The Old
-May your new year be a blowout.
-EID_HNYGoodRiddance
-
-Hang on
-Let's just talk this out...
-EID_HoldOnAMinute
-
-Party Favor
-Get Cracking.
-EID_HolidayCracker
-
-Party Favor
-Get Cracking
-EID_HolidayCracker_Owned
-
-Party Favor
-Get Cracking
-EID_HolidayCracker_Sync
-
-Party Favor
-Get Cracking
-EID_HolidayCracker_Sync_Follower
-
-Party Favor
-Get Cracking
-EID_HolidayCracker_Sync_Owned_Follower
-
-Bouncer
-Hop on.
-EID_Hopper
-
-Say So
-Roll with the changes.
-EID_HotPink
-
-Hot Stuff
-Tss!
-EID_HotStuff
-
-Hula
-Get the luau started!
-EID_Hula
-
-Hoop Master
-Round and round.
-EID_HulaHoop
-
-Hula Hoopin'
-Practice makes perfect.
-EID_HulaHoopChallenge
-
-Hype
-Get hyped.
-EID_Hype
-
-Point It Out
-You've been warned.
-EID_IceKing
-
-IDK
-Don't ask me.
-EID_IDontKnow
-
-Lavish
-Join in the celebration.
-EID_IndianDance
-
-Poki
-Positively enthusiastic.
-EID_IndigoApple
-
-Infinite Dab
-Can't stop, won't stop.
-EID_InfiniteDab
-
-Infinite Dab
-Can't stop, won't stop.
-EID_InfiniteDabRaisin
-
-Intensity
-Dance like you mean it.
-EID_Intensity
-
-Step It Up
-Do a little jig.
-EID_IrishJig
-
-Clean Groove
-Dust off your best moves.
-EID_Jammin
-
-Jabba Switchway
-I'm a little bit different. They get it.
-EID_JanuaryBop
-
-Jaywalking
-Don't just walk the line.
-EID_Jaywalking
-
-Slick
-Makin' it look easy.
-EID_JazzDance
-
-Jazz Hands
-Get jazzy.
-EID_JazzHands
-
-Fishin'
-There's always time for a little fishin'.
-EID_JellyFrog
-
-Jugglin'
-Pure concentration.
-EID_Juggler
-
-Out West
-Jump off the back of the bus.
-EID_JulyBooks
-
-Jumping Jacks
-Get jacked!
-EID_JumpingJack
-
-Springy
-Always bounce back.
-EID_JumpStyleDance
-
-Lil' Warthog
-Snack size M12 Force Application Vehicle.
-EID_Jupiter_7JZ9R
-
-The Renegade
-Win big.
-EID_JustHome
-
-Eagle
-Believe you can fly.
-EID_KEagle
-
-I'm Diamond
-You know I glow up.
-EID_KeeperDreamChorus
-
-Glow On
-Glow with the music and dance.
-EID_KeeperDreamGlowstick
-
-It's Dynamite!
-Light it up!
-EID_KeeperDreamHook
-
-Burst Case Scenario
-That's some serious indigestion.
-EID_KeplerFemale_C98JD
-
-Xeno Menace
-Don't spoil your appetite.
-EID_KeplerMale_OQS83
-
-Pelé’s Air Punch
-A celebration fit for a King.
-EID_Kilo_VD0PK
-
-CrazyBoy
-Never forget your pure heart and fight on.
-EID_KingEagle
-
-Kiss Kiss
-Show some love.
-EID_KissKiss
-
-Dynamic Shuffle
-I know the moves!
-EID_KitchenNavigator
-
-Cat Flip
-Show your catlike reflexes.
-EID_Kittycat
-
-True Heart
-<3
-EID_KPopDance01
-
-Smooth Moves
-Make them swoon.
-EID_KPopDance02
-
-Scenario
-Make it happen.
-EID_KPopDance03
-
-Glitter
-Show your sparkle.
-EID_KpopDance04
-
-Respect
-For worthy combatants.
-EID_KungFuSalute
-
-Shadow Spar
-Train for victory.
-EID_KungFuShadowBoxing
-
-Lazer Blast
-Major moves.
-EID_LasagnaDance
-
-Lazer Flex
-Armed and dangerous.
-EID_LasagnaFlex
-
-Laugh It Up
-What's so funny?
-EID_Laugh
-
-Lazy Shuffle
-Keep it lazy.
-EID_LazyShuffle
-
-Don't Start Now
-I'm better on the other side.
-EID_LetsBegin
-
-Raise The Cup
-Winning looks good on you.
-EID_LetsPlay
-
-Hunter Protocol
-Set mechafusion levels to maximum.
-EID_Lexa
-
-Buckle Up
-Line 'em up, pard'ner.
-EID_LineDance
-
-Living Large
-Life is good.
-EID_LivingLarge
-
-Llama Bell
-Clang! Clang! Clang! Clang!
-EID_LlamaBell
-
-Llama Bell
-Clang! Clang! Clang! Clang!
-EID_LlamaBellRaisin
-
-Llama Conga
-Trot on.
-EID_LlamaMarch
-
-Glitter-up
-What a sparkly mess!
-EID_LlamaRider_Glitter
-
-Lock It Up
-Snap into place.
-EID_LockItUp
-
-Bounce Berry
-One sweet little berry.
-EID_Loofah
-
-Behold!
-Look at this!
-EID_LookAtThis
-
-Bean Bag
-Snacks not included.
-EID_Lounging
-
-PWR Punch
-PWR up!
-EID_LunchBox
-
-Verve
-It's all about the energy.
-EID_MagicMan
-
-Make It Plantain
-It's bananas.
-EID_MakeItPlantain
-
-Make It Rain
-Better grab an umbrella!
-EID_MakeItRain
-
-Raining Doubloons
-Make it rain gold.
-EID_MakeItRainV2
-
-Morph Juice
-Awaken your inner monster.
-EID_ManAndMonster
-
-Shake It Up
-Feel the rhythm.
-EID_Maracas
-
-Punched Up
-Show off your form.
-EID_MartialArts
-
-Leave The Door Open
-Music by Bruno Mars & Anderson .Paak as Silk Sonic. Dance Moves by Bruno Mars.
-EID_Martian_SK4J6
-
-Mashed Potato
-Gravy not included.
-EID_MashedPotato
-
-Advanced Math
-Break it down and show your work.
-EID_MathDance
-
-Peely Pulse
-Blend in to your surroundings.
-EID_MechPeely
-
-Mic Drop
-We're done here.
-EID_MicDrop
-
-Mime Time
-Please take me seriously!
-EID_Mime
-
-Mind Blown
-Rethink everything you know.
-EID_MindBlown
-
-Wanna See Me
-Do your dance.
-EID_ModerateAmount_9LUN1
-
-Freemix
-Anything goes.
-EID_MonteCarlo
-
-Keyed Up
-Lock in the melody.
-EID_MonteKeyboard
-
-Moon Bounce
-Gravity can't hold you down.
-EID_Moonwalking
-
-My Idol!
-...in the presence of a legend.
-EID_MyIdol
-
-It's Go Time!
-It's now or right now!
-EID_NeedToGo
-
-Spin Out
-Don't forget to pose.
-EID_NeonCatSpy
-
-Never Gonna
-Surprisingly smooth.
-EID_NeverGonna
-
-Never Gonna
-Surprisingly smooth.
-EID_NeverGonnaRaisin
-
-Bio-helmet Online
-They'll never see you coming.
-EID_Nightmare_MS3AQ
-
-null
-null
-EID_Nightmare_NPC_M6EXP
-
-Nod Head
-Party Emote
-EID_NodHeadPapayaComms
-
-Chicken Wing It
-Sometimes you just need to make up a dance on the spot.
-EID_Noodles_X6R9E
-
-Finger Wag
-Not today, my friend.
-EID_NotToday
-
-Azarath Metrion Zinthos!
-Hone your power taught from the Monks of Azarath.
-EID_Obsidian
-
-Slitherin'
-Undeniably hypnotic.
-EID_Octopus
-
-Office Chariot
-Go for a spin.
-EID_Office
-
-Old School
-Never out of style.
-EID_OG_RunningMan
-
-No Sweat
-With one hand tied behind your back.
-EID_OneArmFloss
-
-On The Hook
-Reel in a prize catch.
-EID_OnTheHook
-
-B.R.U.T.A.L. Dab
-Mecha flex on 'em.
-EID_OstrichSpin
-
-Tippy Tap
-It's a real toe tapper.
-EID_PartyJazzTwinkleToes
-
-Well rounded
-Take your turn.
-EID_PartyJazzWigglyDance
-
-Paws & Claws
-Meow it's time to dance.
-EID_Paws
-
-Xylo-bone
-Real music comes from the inside.
-EID_PeelyBones
-
-Waddle Away
-Some days you just gotta waddle.
-EID_PenguinWalk
-
-Phew!
-I was almost worried for a second.
-EID_Phew
-
-Phone Wave
-Party Emote
-EID_PhoneWavePapayaComms
-
-Phono Follies
-Throw another nickel in and watch that turntable spin.
-EID_Phonograph
-
-Ollie Bounce
-We make a great team!
-EID_Photographer
-
-Boobytrapped
-The sea delivers.
-EID_PirateGold
-
-Pizza Party
-Delicious.
-EID_Pizzatime
-
-Introducing...
-Make yourself known.
-EID_PlayerEleven
-
-Boing!
-Put a little spring in your step.
-EID_PogoTraversal
-
-Point Finger
-Party Emote
-EID_PointFingerPapayaComms
-
-Popcorn
-This is gettin' good.
-EID_Popcorn
-
-Star Power
-No autographs please.
-EID_PopDance01
-
-Pop Lock
-Lock it down.
-EID_PopLock
-
-Sad Claps
-Clap through the sadness.
-EID_PoutyClap
-
-Storm Salutation
-Respect the storm.
-EID_PraiseStorm
-
-Praise The Tomato
-Splatter unto thee.
-EID_PraiseTheTomato
-
-Unwrapped
-What did you get me?
-EID_PresentOpening
-
-Go Cat Go
-Grab and go.
-EID_ProfessorPup
-
-Welcome!
-Show us the way!
-EID_ProVisitorProtest
-
-Gangnam Style
-Pony up and ride.
-EID_Psychic_7SO2Z
-
-Pumpernickel
-Get pumped.
-EID_Pump
-
-Pump It Up
-Carve out some space on the dance floor.
-EID_PumpkinDance
-
-Pure Salt
-All-purpose seasoning.
-EID_PureSalt
-
-Amazing Cube
-Wow your friends! Intimidate your enemies! Be a hit at parties!
-EID_PuzzleBox
-
-Jamboree
-Celebrate anything and everything.
-EID_QuickSweeper
-
-On Your Mark...
-Don't forget to stretch.
-EID_RaceStart
-
-Rage Quit
-I'm out.
-EID_RageQuit
-
-Raise The Roof
-Go ahead, we won't judge.
-EID_RaiseTheRoof
-
-Red Card
-Foul play!
-EID_RedCard
-
-Regal Wave
-Greetings royale.
-EID_RegalWave
-
-Respect The Peace
-Show some respect.
-EID_RespectThePeace
-
-Lil' Octane
-Pop it, tip it, and dodge it to the goal.
-EID_RhymeLock_5B2Y3
-
-Ribbon Dancer
-Can't deny the ribbon.
-EID_RibbonDance
-
-It's Complicated
-Turn some heads.
-EID_RichFam
-
-Pony Up
-Yeehaw!
-EID_RideThePonyTwo
-
-Ride The Pony
-Express yourself on the battlefield.
-EID_RideThePony_Athena
-
-Zombie Shambles
-Good luck finding those brains.
-EID_RigorMortis
-
-Toasty
-Keep it mallow.
-EID_RoastingMarshmallow
-
-The Robot
-Execute dance sequence.
-EID_Robot
-
-Rocket Rodeo
-Hang on tight!
-EID_RocketRodeo
-
-Rock Out
-Are you ready to rock?!
-EID_RockGuitar
-
-Pickin'
-And grinnin'.
-EID_RockingChair
-
-Rock Paper Scissors
-Best out of three.
-EID_RockPaperScissors
-
-Jump Jets
-Lift with your legs.
-EID_RoosterMech
-
-Running Man
-The challenge is to never stop running.
-EID_RunningMan
-
-Pick It Up
-Pick it up, pick it up, pick it up!
-EID_RunningManv3
-
-Sad Trombone
-Womp womp.
-EID_SadTrombone
-
-Salute
-At ease!
-EID_Salute
-
-Go Mufasa
-I did it legit-ly.
-EID_SandwichBop
-
-Phone It In
-Lay down a saxy groove.
-EID_Saxophone
-
-Extracurricularmor
-For when knowledge isn't enough power.
-EID_Scholar
-
-Skipper
-Hop, skip, jump.
-EID_Schoolyard
-
-Scorecard
-Consider yourself judged.
-EID_ScoreCard
-
-Team Burger
-Be beefy.
-EID_ScoreCardBurger
-
-Team Tomato
-Stay saucy.
-EID_ScorecardTomato
-
-Members Only
-Are you in the club?
-EID_SecretHandshake
-
-null
-null
-EID_SecretHandshake_Owned
-
-null
-null
-EID_SecretHandshake_Owned_Follower
-
-null
-null
-EID_SecretHandshake_Sync
-
-null
-null
-EID_SecretHandshake_Sync_Follower
-
-Work It
-Split the dancefloor.
-EID_SecurityGuard
-
-Flippin' Sexy
-Flip out!
-EID_SexyFlip
-
-Shadow Boxer
-Stick and move.
-EID_Shadowboxing
-
-Hang Loose
-Take it easy.
-EID_Shaka
-
-Shake Head
-Party Emote
-EID_ShakeHeadPapayaComms
-
-Shanty for a Squad
-Keep the tempo and catch the wave.
-EID_ShallWe
-
-Shaolin Sit-up
-Mind over body.
-EID_Shaolin
-
-Shaolin Sip
-Mind over body, but first- tea.
-EID_ShaolinSipUp
-
-Dragon Stance
-Form of the dragon.
-EID_Shinobi
-
-Fierce
-Utterly dominated.
-EID_Shiny
-
-Jumbo Popcorn
-This is getting really good.
-EID_Shorts
-
-Showstopper
-Pull out all the stops.
-EID_Showstopper
-
-Sign Spinner
-In it to spin it.
-EID_SignSpinner
-
-Leapin'
-Bounce with joy.
-EID_SillyJumps
-
-Sing Along
-C'mon, you know the words!
-EID_SingAlong
-
-Sit
-Party Emote
-EID_SitPapayaComms
-
-Fright Funk
-Show off your ghoulish groove.
-EID_SkeletonDance
-
-Lightning Kick!
-Hundred Lightning Legs!
-EID_SkirmishFemale_I5OTJ
-
-Shoryuken!
-Rising Dragon Fist!
-EID_SkirmishMale_FGPJ3
-
-Ride Along
-Time for a little sleigh ride.
-EID_SleighIt
-
-Slow Clap
-Express yourself on the battlefield.
-EID_SlowClap
-
-Poof
-Beguile your enemies in a cloud smoke.
-EID_SmokeBombFail
-
-Snap
-Balance is restored.
-EID_Snap
-
-Very Sneaky
-Stealth mode engaged!
-EID_SneakingTraversal
-
-Snowshaker
-A Winter Wonderland in your hand.
-EID_SnowGlobe
-
-Kick Ups
-Look, no hands.
-EID_SoccerJuggling
-
-Fancy Footwork
-Keep 'em guessing all the way to the goal.
-EID_SoccerTraversal
-
-Something Stinks
-Whoever smelt it...
-EID_SomethingStinks
-
-Sparkler
-So sparkly!
-EID_Sparkler
-
-Full Tilt
-Lean into it.
-EID_SpeedRun
-
-Sprinkler
-Sprinkled with style.
-EID_Sprinkler
-
-Spyglass
-Land ho!
-EID_Spyglass
-
-Butterfly knife
-This will end in tears.
-EID_SpyMale
-
-Marsh Walk
-Keep it mello.
-EID_SquishyDance
-
-Keep It Mello
-Join in the fun.
-EID_SquishyMedley
-
-Gentleman's Dab
-Salutations good sir!
-EID_StageBow
-
-Statuesque
-So lifelike!
-EID_StatuePose
-
-Side Hustle
-The whole world's on your side.
-EID_StepBreakdance
-
-Peace Out
-Keep It Positive.
-EID_StrawberryPilotKpop
-
-Party Hips
-Some strings attached.
-EID_StringDance
-
-Turbocharged
-Wind up and let em have it.
-EID_SuckerPunch
-
-Cardistry
-Watch the hands.
-EID_Suits
-
-Flippin' Away
-Back in action.
-EID_SuperheroBackflip
-
-Deep End
-Dive in.
-EID_SwimDance
-
-Jitterbug
-We're buggin' out!
-EID_SwingDance
-
-Swipe It
-Swipe it over and over again.
-EID_SwipeIt
-
-Witchcraft
-Share your magic.
-EID_SwitchTheWitch
-
-Taco Time
-Set your tacos free.
-EID_TacoTimeDance
-
-Tai Chi
-Find your balance.
-EID_TaiChi
-
-Take The Elf
-Break out the mistletoe.
-EID_TakeTheElf
-
-Take The L
-Savor the W.
-EID_TakeTheL
-
-Savor The W
-This is what winning looks like.
-EID_TakeTheW
-
-null
-null
-EID_TalkingGesture
-
-Hootenanny
-Yee haw!
-EID_TapShuffle
-
-Quick Bite
-Grab a light(speed) snack.
-EID_Tar_S9YVE
-
-Team Monster
-You monster!
-EID_TeamMonster
-
-Team Mech
-Mecha Team Leader Forever!
-EID_TeamRobot
-
-Steamed
-Let off some steam.
-EID_TemperTantrum
-
-Evasive Maneuvers
-That gymnastics training is really paying off.
-EID_Temple
-
-Paddle Royale
-Hop on the paddle bus.
-EID_TennisPaddle
-
-Busy
-I'll be with you in just a moment.
-EID_Texting
-
-The Flow
-Crow Foe Flow? Let's go!
-EID_TheShow
-
-Slap Happy
-Stop hitting yourself.
-EID_ThighSlapper
-
-Thumbs Down
-Nah.
-EID_ThumbsDown
-
-Thumbs Up
-Aye!
-EID_ThumbsUp
-
-Tidy
-Keep it tidy.
-EID_Tidy
-
-Time Out
-Stop the clock.
-EID_TimeOut
-
-Spring-Loaded
-Handspring into action.
-EID_TimetravelBackflip
-
-Tiniest Violin
-Extend your tiniest sympathies.
-EID_TinyTremors
-
-Boom!
-It's a blast.
-EID_TnTina
-
-Tsssss
-Your time here is done.
-EID_TorchSnuffer
-
-Spike It
-Celebrate a big play.
-EID_Touchdown
-
-Ninja Style
-The moves of a true ninja.
-EID_TourBus
-
-Tower Guard
-There's no turning back...
-EID_TowerSentinel
-
-T-Pose
-Chin up, arms straight!
-EID_TPose
-
-Stride
-Find a groove, and hit your stride.
-EID_TreadmillDance
-
-Light Up
-Bright idea.
-EID_TreeLightPose
-
-Freewheelin'
-Skate through life.
-EID_TripleScoop
-
-Kiss The Cup
-Relish your victories.
-EID_TrophyCelebration
-
-Beep Beep
-Comin' through!
-EID_TruckerHorn
-
-True Love
-Get Romantic.
-EID_TrueLove
-
-Twist
-It's all in the hips.
-EID_Twist
-
-Rollie
-Dab of ranch not included.
-EID_TwistDaytona
-
-Last Forever
-Who said love don't last forever?
-EID_TwistEternity
-
-Last Forever
-Who said love don't last forever?
-EID_TwistEternity_Sync
-
-Last Forever
-Who said love don't last forever?
-EID_TwistEternity_Sync_Follower
-
-Twist
-It's all in the hips.
-EID_TwistRaisin
-
-Cyberdyne Salute
-He'll be back.
-EID_Typhoon_VO9OF
-
-Island Vibes
-Strum a happy little tune.
-EID_UkuleleTime
-
-Unicycle
-Because you've made choices.
-EID_UnicycleTraversal
-
-We are Venom
-Watch your brains.
-EID_Vertigo
-
-Battle Call
-Heed the call.
-EID_VikingHorn
-
-Breezy
-Any way the wind blows.
-EID_WackyWavy
-
-Feelin' Jaunty
-For when strutting just won't cut it.
-EID_WalkieWalk
-
-Dance Therapy
-Let it all out.
-EID_Warehouse
-
-Wave
-Express yourself on the battlefield.
-EID_Wave
-
-Flux
-Stay in the flow.
-EID_WaveDance
-
-Wave
-Party Emote
-EID_WavePapayaComms
-
-Where Is Matt?
-Show the world your moves.
-EID_WhereIsMatt
-
-Whirlwind
-Around and around abound.
-EID_Whirlwind
-
-Wiggle
-Never stop wigglin'.
-EID_Wiggle
-
-Wiggle
-Never stop wigglin'.
-EID_WiggleRaisin
-
-Windmill Floss
-Take it all the way around.
-EID_WindmillFloss
-
-Hot Marat
-Wreck the dance floor.
-EID_WIR
-
-Llamacadabra
-Don't forget the magic word.
-EID_Wizard
-
-Howl
-Stand in front of a moon for maximum effect.
-EID_WolfHowl
-
-The Worm
-Express yourself on the battlefield.
-EID_Worm
-
-Shimmer
-Bordering on excessive levels of sass.
-EID_WristFlick
-
-Yay!
-So excited!
-EID_YayExcited
-
-Dip
-Take a dip.
-EID_Yeet
-
-Snoozefest
-Yawn.
-EID_YouBoreMe
-
-You're Awesome
-Seriously. We all think so.
-EID_YoureAwesome
-
-Rambunctious
-The embodiment of boundless energy.
-EID_Zippy
-
-Reanimated
-From beyond the rave!
-EID_Zombie
-
-Zombified
-Braaaains.
-EID_ZombieWalk
+name: Accolades
+description: Soak it all in.
+id: EID_Accolades
+
+name: Ground Pound
+description: Take it for a spin.
+id: EID_AcrobaticSuperhero
+
+name: Work It Out
+description: Break a sweat.
+id: EID_Aerobics
+
+name: Bombastic
+description: Step up and show 'em what you've got.
+id: EID_AfroHouse
+
+name: Air Shredder
+description: The guitar is in your mind.
+id: EID_AirGuitar
+
+name: Air Horn
+description: Subtle.
+id: EID_AirHorn
+
+name: Air Horn
+description: Subtle.
+id: EID_AirHornRaisin
+
+name: Extraterrestrial
+description: Interplanetary groove.
+id: EID_Alien
+
+name: Team Space
+description: Humanity had its chance.
+id: EID_AlienSupport
+
+name: Wakandan Salute
+description: Wakanda Forever.
+id: EID_AmazingForever_Q68W0
+
+name: A Warrior Prepares
+description: Fight dirty.
+id: EID_AncientGladiator
+
+name: Go home!
+description: Leave us alone!
+id: EID_AntiVisitorProtest
+
+name: Backstroke
+description: Put your back into it.
+id: EID_ArmUpDance
+
+name: Wavy T
+description: Strike a wavy pose.
+id: EID_ArmWave
+
+name: Toosie Slide
+description: Let it slide.
+id: EID_ArtGiant
+
+name: Widow’s Pirouette
+description: A deadly dance.
+id: EID_AshtonBoardwalk
+
+name: Dance Off
+description: A perfect distraction.
+id: EID_AshtonSaltLake
+
+name: Be Seeing You
+description: Not if I see you first.
+id: EID_AssassinSalute
+
+name: Bulletproof
+description: Brush it off.
+id: EID_AssassinVest
+
+name: Blinding Lights
+description: It's all in the footwork.
+id: EID_AutumnTea
+
+name: Flippin' Incredible
+description: Flip on 'em. Flex on 'em.
+id: EID_Backflip
+
+name: Daywalker's Kata
+description: Bloodsuckers beware.
+id: EID_Backspin_R3NAI
+
+name: Stormy
+description: The forecast calls for frowns.
+id: EID_BadMood
+
+name: Balletic
+description: So graceful.
+id: EID_BalletJumps
+
+name: Pirouette
+description: On point.
+id: EID_BalletSpin
+
+name: Nana Nana
+description: Have a bunch of fun!
+id: EID_Banana
+
+name: Pandemonium
+description: Keep it saucy!
+id: EID_BangThePan
+
+name: Banner Wave
+description: Show your true colors.
+id: EID_BannerFlagWave
+
+name: Baller
+description: Show off your moves.
+id: EID_Basketball
+
+name: Ballsy
+description: Keep your eye on the ball.
+id: EID_BasketballV2
+
+name: Beckon
+description: Party Emote
+id: EID_BeckonPapayaComms
+
+name: Ring it on
+description: Shake those bells.
+id: EID_Bellringer
+
+name: Zany
+description: Go ahead, get weird with it.
+id: EID_Bendy
+
+name: Best Mates
+description: Who's your best mate?
+id: EID_BestMates
+
+name: Sasquatchin'
+description: Put you best bigfoot forward.
+id: EID_BigfootWalk
+
+name: Billy Bounce
+description: You do you.
+id: EID_BillyBounce
+
+name: Whipcrack
+description: Whip up some action.
+id: EID_BlackMondayFemale_6HO4L
+
+name: Martial Arts Master
+description: Master the art of battle.
+id: EID_BlackMondayMale2
+
+name: Bat Signal
+description: Did somebody order a Batman?
+id: EID_BlackMondayMale_E0VSB
+
+name: Blowing Bubbles
+description: Get poppin.
+id: EID_BlowingBubbles
+
+name: Bhangra Boogie
+description: Celebrate together.
+id: EID_Bollywood
+
+name: Boneless
+description: Beyond bendy.
+id: EID_Boneless
+
+name: Boogie Down
+description: Boogie Down with Populotus.
+id: EID_BoogieDown
+
+name: Boomin'
+description: Music on the move.
+id: EID_Boombox
+
+name: Boots 'n' Cats
+description: Beat outside the box.
+id: EID_BootsAndCats
+
+name: Cap Kick
+description: Give it a kick.
+id: EID_BottleCapChallenge
+
+name: Bloomin' Bouquet
+description: Freshly picked for you.
+id: EID_Bouquet
+
+name: Switchstep
+description: Switch it up.
+id: EID_Breakboy
+
+name: Breakin'
+description: Bust a move!
+id: EID_BreakDance
+
+name: Breakneck
+description: Break it down, just don't break your neck.
+id: EID_Breakdance2
+
+name: Primo Moves
+description: Take it to the max!
+id: EID_BreakfastCoffeeDance
+
+name: Breaking Point
+description: Give 'em a break.
+id: EID_BreakYou
+
+name: Bring It
+description: Let's see what you've got.
+id: EID_BringItOn
+
+name: Swole Cat
+description: Gotta get those gains.
+id: EID_BuffCat
+
+name: Snow Day
+description: We'll make him our best friend.
+id: EID_BuildASnowman
+
+name: Lunch Break
+description: I want five of 'em.
+id: EID_Builders
+
+name: Hoppity
+description: Without the hippity there can be no hoppity.
+id: EID_BunnyFlop
+
+name: Bunny Hop
+description: Put all your eggs in one basket.
+id: EID_Bunnyhop
+
+name: Sizzlin'
+description: Flip with flavor.
+id: EID_BurgerFlipping
+
+name: Burpee
+description: Set a new personal best.
+id: EID_Burpee
+
+name: Prickly Pose
+description: Completely inconspicuous.
+id: EID_CactusTPose
+
+name: Calculated
+description: Think about it.
+id: EID_Calculated
+
+name: Call me
+description: Seriously though, just send a text.
+id: EID_CallMe
+
+name: Sugar Rush
+description: Shake it til you crash.
+id: EID_CandyDance
+
+name: Capoeira
+description: Are you ready to dance with danger?
+id: EID_Capoeira
+
+name: Cartwheelin'
+description: Head over heels.
+id: EID_Cartwheel
+
+name: Power Roar
+description: Scream of the Devourer.
+id: EID_CattusRoar
+
+name: Jubilation
+description: A heaping helping of happiness!
+id: EID_Celebration
+
+name: Have a Seat
+description: Pull up a chair and relax.
+id: EID_ChairTime
+
+name: On Your Marks...
+description: Get set... Go!
+id: EID_CheckeredFlag
+
+name: Cheer Up
+description: Be aggressive. B-E aggressive.
+id: EID_Cheerleading
+
+name: Cheer
+description: Party Emote
+id: EID_CheerPapayaComms
+
+name: Chicken
+description: Top of the pecking order.
+id: EID_Chicken
+
+name: Cluck Strut
+description: Who're you calling chicken?
+id: EID_ChickenMoves
+
+name: Distracted
+description: Plan of attack... entirely forgotten.
+id: EID_Chopsticks
+
+name: Go! Go! Go!
+description: You can do it!
+id: EID_Chug
+
+name: null
+description: null
+id: EID_ClapAndWave
+
+name: Clap
+description: Party Emote
+id: EID_ClapPapayaComms
+
+name: Take 14
+description: ...and action!
+id: EID_Clapperboard
+
+name: Staff Stand
+description: Staff up and take your stand.
+id: EID_ClimbTheStaff
+
+name: Dream Stance
+description: Tap into the glyphs.
+id: EID_CloudFloat
+
+name: Coin Flip
+description: Best two out of three?
+id: EID_CoinToss
+
+name: Confused
+description: Seriously. What happened?
+id: EID_Confused
+
+name: Conga
+description: Get in line.
+id: EID_Conga
+
+name: I Declare!
+description: Be your own biggest fan.
+id: EID_CoolOff
+
+name: Overdrive
+description: Push it past the limit.
+id: EID_CoolRobot
+
+name: Overdrive
+description: Push it past the limit.
+id: EID_CoolRobotRaisin
+
+name: Hover-Pram Control
+description: Keep him close.
+id: EID_CosmosPet
+
+name: Knee Slapper
+description: Rustle up the rhythm.
+id: EID_CowboyDance
+
+name: Crabby
+description: Ready in a pinch.
+id: EID_CrabDance
+
+name: Around the Clock
+description: Keep time.
+id: EID_CrackshotClock
+
+name: Crackdown
+description: Go nuts.
+id: EID_CrackshotDance
+
+name: Droop
+description: Dig deep.
+id: EID_CrazyDance
+
+name: Droop
+description: Dig deep.
+id: EID_CrazyDanceRaisin
+
+name: Crazy Feet
+description: Wild and crazy feet!
+id: EID_CrazyFeet
+
+name: Criss Cross
+description: Get your point across.
+id: EID_CrissCross
+
+name: Waterworks
+description: Show 'em your battle cry.
+id: EID_Cry
+
+name: Clean Sweep
+description: Tidy as you go.
+id: EID_Custodial
+
+name: Rage
+description: It's Lit!
+id: EID_Cyclone
+
+name: Head Banger
+description: Open it up!
+id: EID_CycloneHeadBang
+
+name: Dab
+description: Express yourself on the battlefield.
+id: EID_Dab
+
+name: Get Loose
+description: Ready for whatever comes your way.
+id: EID_DaBounce
+
+name: Dance Moves
+description: Express yourself on the battlefield.
+id: EID_DanceMoves
+
+name: Unification
+description: Balance the forces.
+id: EID_DarkFireLegends
+
+name: Levitate
+description: Rise above.
+id: EID_Davinci
+
+name: Deep Dab
+description: Bring 'em down to your level.
+id: EID_DeepDab
+
+name: Rawr
+description: Tyrannosaurus royale.
+id: EID_Dinosaur
+
+name: Denied
+description: Not this time.
+id: EID_Disagree
+
+name: Disco Fever
+description: Heat up the dance floor.
+id: EID_DiscoFever
+
+name: Harmony
+description: Achieve inner balance.
+id: EID_DivinePose
+
+name: Drop The Bass
+description: Wait for it...
+id: EID_DJ01
+
+name: Strut
+description: Take your time, you'll get there.
+id: EID_DoggyStrut
+
+name: So Square
+description: Like, seriously. So square.
+id: EID_DontBeSquare
+
+name: Smeeze
+description: Hop to it.
+id: EID_DontSneeze
+
+name: Scootin'
+description: Dangerously dainty.
+id: EID_Donut1
+
+name: Chimichanga!
+description: Too hot! Too hot!
+id: EID_Donut2
+
+name: Revel
+description: Nothing wrong with a little celebration.
+id: EID_Doublesnap
+
+name: Dream Feet
+description: Get some boogie in your boots.
+id: EID_DreamFeet
+
+name: Drum Major
+description: Lead the line, and step in time.
+id: EID_DrumMajor
+
+name: Featherweight
+description: Do you even lift?
+id: EID_Dumbbell_Lift
+
+name: Buckets
+description: Own the game.
+id: EID_Dunk
+
+name: Job Well Done
+description: That's that.
+id: EID_DustingHands
+
+name: Brush Your Shoulders
+description: Get that dirt off your shoulder.
+id: EID_DustOffShoulders
+
+name: Squat Kick
+description: Don't skip leg day.
+id: EID_EasternBloc
+
+name: Glyphic
+description: A dance for the ages.
+id: EID_EgyptianDance
+
+name: Hero's Beacon
+description: Light the signal.
+id: EID_Elastic
+
+name: Electro Shuffle
+description: Express yourself on the battlefield.
+id: EID_ElectroShuffle
+
+name: Signature Shuffle
+description: Show off your signature moves.
+id: EID_ElectroShuffle_V2
+
+name: Electro Swing
+description: Brand new groove, old school swing.
+id: EID_ElectroSwing
+
+name: Focused
+description: Stay focused in the heat of battle.
+id: EID_EngagedWalk
+
+name: Vivacious
+description: Never stop dancing.
+id: EID_Everytime
+
+name: Egg Drop Scoop
+description: Exit through the gift basket.
+id: EID_Exaggerated
+
+name: Face Palm
+description: The cringe is real.
+id: EID_Facepalm
+
+name: Fancy Feet
+description: Show off that footwork.
+id: EID_FancyFeet
+
+name: Fanciful
+description: Just a little dance to get the heartrate going.
+id: EID_FancyWorkout
+
+name: Savage
+description: You a challenger or what?
+id: EID_Feral
+
+name: Finger Guns
+description: Express yourself on the battlefield.
+id: EID_FingerGuns
+
+name: Sharpshooter
+description: Lookin' good out there.
+id: EID_FingerGunsV2
+
+name: Fire Spinner
+description: Heat it up.
+id: EID_FireDance
+
+name: Rocket Spinner
+description: Don't try this at home!
+id: EID_FireworksSpin
+
+name: Grand Salute
+description: A salute to all heroes.
+id: EID_Fireworks_WKX2W
+
+name: Fist Pump
+description: Emphatically flailing fists.
+id: EID_FistPump
+
+name: Flamenco
+description: Clap it up.
+id: EID_Flamenco
+
+name: Flapper
+description: It's the bee's knees!
+id: EID_Flapper
+
+name: Gun Show
+description: Express yourself on the battlefield.
+id: EID_Flex
+
+name: Flex On 'Em
+description: Let them know.
+id: EID_Flex02
+
+name: Fandangle
+description: Loosen up and prepare for nonsense.
+id: EID_Floppy
+
+name: Floss
+description: Express yourself on the battlefield.
+id: EID_Floss
+
+name: Kite!
+description: Let's fly!
+id: EID_FlyingKite
+
+name: Penalty
+description: That's a flag!
+id: EID_Football20Flag_C3QEE
+
+name: It's good!
+description: Straight through the uprights!
+id: EID_FootballTD_U2HZI
+
+name: Fresh
+description: Express yourself on the battlefield.
+id: EID_Fresh
+
+name: Disc Spinner
+description: Put on a show.
+id: EID_FrisbeeShow
+
+name: Vengeful Wish
+description: He's been waiting for this for a long time.
+id: EID_FutureSamurai
+
+name: Laid Back Shuffle
+description: It's all in the legs.
+id: EID_GabbyHipHop_01
+
+name: Dark Side
+description: There is a great disturbance in the Force.
+id: EID_Galileo1_B3EX6
+
+name: Traitor!
+description: Bring order to the galaxy.
+id: EID_Galileo2_2VYEJ
+
+name: Jedi Training
+description: Sharpen your skills.
+id: EID_Galileo3_T4DKO
+
+name: Resistance Thumbs Up
+description: Encouragment across the galaxy.
+id: EID_Galileo4_PXPE0
+
+name: null
+description: null
+id: EID_GalileoShow_Cheer
+
+name: Pull Up
+description: Pull up and take the challenge.
+id: EID_GasStation_104FQ
+
+name: Get Funky
+description: Find your groove.
+id: EID_GetFunky
+
+name: C'mere
+description: Don't make me go over there.
+id: EID_GetOverHere
+
+name: Bully
+description: Get ready to charge.
+id: EID_GetTheHorns
+
+name: Glowsticks
+description: Make it glow.
+id: EID_GlowstickDance
+
+name: Double Up
+description: It takes two...
+id: EID_GoatDance
+
+name: Double Up
+description: It takes two...
+id: EID_GoatDance_Sync
+
+name: Double Up
+description: It takes two...
+id: EID_GoatDance_Sync_Owned
+
+name: Golf Clap
+description: Good show. Good show.
+id: EID_GolfClap
+
+name: Orange Justice
+description: It's also a great exercise move.
+id: EID_GoodVibes
+
+name: Infectious
+description: Let it take over.
+id: EID_GothDance
+
+name: Controller Crew
+description: Two sticks. One heart.
+id: EID_GrilledCheese_N31C9
+
+name: Groove Jam
+description: Untamed groove.
+id: EID_GrooveJam
+
+name: Vibin'
+description: Find your flow.
+id: EID_Grooving
+
+name: Guitar Walk
+description: Play on.
+id: EID_GuitarWalk
+
+name: Syrup Slinger
+description: Syrup the ante.
+id: EID_GunspinnerTeacup
+
+name: Bold Stance
+description: Stand your ground and break it down.
+id: EID_GwaraDance
+
+name: Sackin'
+description: Can you hack it?
+id: EID_HackySack
+
+name: Taxi!
+description: When you got places to be.
+id: EID_HailingCab
+
+name: Treat Yourself
+description: Go ahead and take two... or the entire bucket.
+id: EID_HalloweenCandy
+
+name: Hand Signals
+description: All signals go?
+id: EID_HandSignals
+
+name: Dabstand
+description: Get a leg up on the competition.
+id: EID_HandstandLegDab
+
+name: Planetary Vibe
+description: Bring 'em into your orbit.
+id: EID_HandsUp
+
+name: Take The Cake
+description: Enjoy the big blowout!
+id: EID_HappyBirthday
+
+name: Tra La La
+description: Sometimes you just need to skip the battle.
+id: EID_HappySkipping
+
+name: Hello Friend
+description: Hi there!
+id: EID_HappyWave
+
+name: Headbanger
+description: Bang your head against the air.
+id: EID_HeadBang
+
+name: Headbanger
+description: Bang your head against the air.
+id: EID_HeadBangRaisin
+
+name: Bobbin'
+description: Really get into it.
+id: EID_HeadShake
+
+name: Click!
+description: Jump for joy.
+id: EID_HeelClick
+
+name: High Five
+description: Up Top.
+id: EID_HiFive
+
+name: High Five
+description: Up Top.
+id: EID_HiFive_Sync
+
+name: High Five
+description: Up Top.
+id: EID_HiFive_SyncOwned
+
+name: Victory Von Doom
+description: Earn a Victory Royal and sit in judgement with Doctor Doom's built-in emote.
+id: EID_HightowerDate
+
+name: null
+description: null
+id: EID_HightowerDate_NPC
+
+name: Battle Brother
+description: Don't forget your favorite furry pal.
+id: EID_HightowerGrape
+
+name: Gamma Overload
+description: Transform into She-Hulk.
+id: EID_HightowerHoneydew
+
+name: Shapeshifter
+description: Eliminate your opponent and borrow their appearance.
+id: EID_HightowerMango
+
+name: Gale Force
+description: Control the elements!
+id: EID_HightowerSquash
+
+name: God of Thunder
+description: Only the worthy can raise Mjolnir in battle.
+id: EID_HightowerTapas
+
+name: Suit Up
+description: Transform into Iron Man.
+id: EID_HightowerTomato
+
+name: Hover
+description: Iron Man AI Hovers
+id: EID_HightowerTomato_NPC
+
+name: Snikt!
+description: Equip Wolverine's adamantium claws.
+id: EID_HightowerWasabi
+
+name: Witch Way
+description: The only way to fly.
+id: EID_Hilda
+
+name: Daydream
+description: Dance the day away.
+id: EID_HiLowWave
+
+name: Freestylin'
+description: Tear up the dance floor.
+id: EID_HipHop01
+
+name: Breakdown
+description: Break it down.
+id: EID_HipHopS5
+
+name: Free Flow
+description: Feel the flow.
+id: EID_HipHopS7
+
+name: Business Hips
+description: Put some swivel in your step.
+id: EID_HipToBeSquare
+
+name: Freezing Burst
+description: Unleash the frozen Leviathan.
+id: EID_Historian_2TEF8
+
+name: Hitchhiker
+description: Take a hike.
+id: EID_Hitchhiker
+
+name: Out With The Old
+description: May your new year be a blowout.
+id: EID_HNYGoodRiddance
+
+name: Hang on
+description: Let's just talk this out...
+id: EID_HoldOnAMinute
+
+name: Party Favor
+description: Get Cracking.
+id: EID_HolidayCracker
+
+name: Party Favor
+description: Get Cracking
+id: EID_HolidayCracker_Owned
+
+name: Party Favor
+description: Get Cracking
+id: EID_HolidayCracker_Sync
+
+name: Party Favor
+description: Get Cracking
+id: EID_HolidayCracker_Sync_Follower
+
+name: Party Favor
+description: Get Cracking
+id: EID_HolidayCracker_Sync_Owned_Follower
+
+name: Bouncer
+description: Hop on.
+id: EID_Hopper
+
+name: Say So
+description: Roll with the changes.
+id: EID_HotPink
+
+name: Hot Stuff
+description: Tss!
+id: EID_HotStuff
+
+name: Hula
+description: Get the luau started!
+id: EID_Hula
+
+name: Hoop Master
+description: Round and round.
+id: EID_HulaHoop
+
+name: Hula Hoopin'
+description: Practice makes perfect.
+id: EID_HulaHoopChallenge
+
+name: Hype
+description: Get hyped.
+id: EID_Hype
+
+name: Point It Out
+description: You've been warned.
+id: EID_IceKing
+
+name: IDK
+description: Don't ask me.
+id: EID_IDontKnow
+
+name: Lavish
+description: Join in the celebration.
+id: EID_IndianDance
+
+name: Poki
+description: Positively enthusiastic.
+id: EID_IndigoApple
+
+name: Infinite Dab
+description: Can't stop, won't stop.
+id: EID_InfiniteDab
+
+name: Infinite Dab
+description: Can't stop, won't stop.
+id: EID_InfiniteDabRaisin
+
+name: Intensity
+description: Dance like you mean it.
+id: EID_Intensity
+
+name: Step It Up
+description: Do a little jig.
+id: EID_IrishJig
+
+name: Clean Groove
+description: Dust off your best moves.
+id: EID_Jammin
+
+name: Jabba Switchway
+description: I'm a little bit different. They get it.
+id: EID_JanuaryBop
+
+name: Jaywalking
+description: Don't just walk the line.
+id: EID_Jaywalking
+
+name: Slick
+description: Makin' it look easy.
+id: EID_JazzDance
+
+name: Jazz Hands
+description: Get jazzy.
+id: EID_JazzHands
+
+name: Fishin'
+description: There's always time for a little fishin'.
+id: EID_JellyFrog
+
+name: Jugglin'
+description: Pure concentration.
+id: EID_Juggler
+
+name: Out West
+description: Jump off the back of the bus.
+id: EID_JulyBooks
+
+name: Jumping Jacks
+description: Get jacked!
+id: EID_JumpingJack
+
+name: Springy
+description: Always bounce back.
+id: EID_JumpStyleDance
+
+name: Lil' Warthog
+description: Snack size M12 Force Application Vehicle.
+id: EID_Jupiter_7JZ9R
+
+name: The Renegade
+description: Win big.
+id: EID_JustHome
+
+name: Eagle
+description: Believe you can fly.
+id: EID_KEagle
+
+name: I'm Diamond
+description: You know I glow up.
+id: EID_KeeperDreamChorus
+
+name: Glow On
+description: Glow with the music and dance.
+id: EID_KeeperDreamGlowstick
+
+name: It's Dynamite!
+description: Light it up!
+id: EID_KeeperDreamHook
+
+name: Burst Case Scenario
+description: That's some serious indigestion.
+id: EID_KeplerFemale_C98JD
+
+name: Xeno Menace
+description: Don't spoil your appetite.
+id: EID_KeplerMale_OQS83
+
+name: Pelé’s Air Punch
+description: A celebration fit for a King.
+id: EID_Kilo_VD0PK
+
+name: CrazyBoy
+description: Never forget your pure heart and fight on.
+id: EID_KingEagle
+
+name: Kiss Kiss
+description: Show some love.
+id: EID_KissKiss
+
+name: Dynamic Shuffle
+description: I know the moves!
+id: EID_KitchenNavigator
+
+name: Cat Flip
+description: Show your catlike reflexes.
+id: EID_Kittycat
+
+name: True Heart
+description: <3
+id: EID_KPopDance01
+
+name: Smooth Moves
+description: Make them swoon.
+id: EID_KPopDance02
+
+name: Scenario
+description: Make it happen.
+id: EID_KPopDance03
+
+name: Glitter
+description: Show your sparkle.
+id: EID_KpopDance04
+
+name: Respect
+description: For worthy combatants.
+id: EID_KungFuSalute
+
+name: Shadow Spar
+description: Train for victory.
+id: EID_KungFuShadowBoxing
+
+name: Lazer Blast
+description: Major moves.
+id: EID_LasagnaDance
+
+name: Lazer Flex
+description: Armed and dangerous.
+id: EID_LasagnaFlex
+
+name: Laugh It Up
+description: What's so funny?
+id: EID_Laugh
+
+name: Lazy Shuffle
+description: Keep it lazy.
+id: EID_LazyShuffle
+
+name: Don't Start Now
+description: I'm better on the other side.
+id: EID_LetsBegin
+
+name: Raise The Cup
+description: Winning looks good on you.
+id: EID_LetsPlay
+
+name: Hunter Protocol
+description: Set mechafusion levels to maximum.
+id: EID_Lexa
+
+name: Buckle Up
+description: Line 'em up, pard'ner.
+id: EID_LineDance
+
+name: Living Large
+description: Life is good.
+id: EID_LivingLarge
+
+name: Llama Bell
+description: Clang! Clang! Clang! Clang!
+id: EID_LlamaBell
+
+name: Llama Bell
+description: Clang! Clang! Clang! Clang!
+id: EID_LlamaBellRaisin
+
+name: Llama Conga
+description: Trot on.
+id: EID_LlamaMarch
+
+name: Glitter-up
+description: What a sparkly mess!
+id: EID_LlamaRider_Glitter
+
+name: Lock It Up
+description: Snap into place.
+id: EID_LockItUp
+
+name: Bounce Berry
+description: One sweet little berry.
+id: EID_Loofah
+
+name: Behold!
+description: Look at this!
+id: EID_LookAtThis
+
+name: Bean Bag
+description: Snacks not included.
+id: EID_Lounging
+
+name: PWR Punch
+description: PWR up!
+id: EID_LunchBox
+
+name: Verve
+description: It's all about the energy.
+id: EID_MagicMan
+
+name: Make It Plantain
+description: It's bananas.
+id: EID_MakeItPlantain
+
+name: Make It Rain
+description: Better grab an umbrella!
+id: EID_MakeItRain
+
+name: Raining Doubloons
+description: Make it rain gold.
+id: EID_MakeItRainV2
+
+name: Morph Juice
+description: Awaken your inner monster.
+id: EID_ManAndMonster
+
+name: Shake It Up
+description: Feel the rhythm.
+id: EID_Maracas
+
+name: Punched Up
+description: Show off your form.
+id: EID_MartialArts
+
+name: Leave The Door Open
+description: Music by Bruno Mars & Anderson .Paak as Silk Sonic. Dance Moves by Bruno Mars.
+id: EID_Martian_SK4J6
+
+name: Mashed Potato
+description: Gravy not included.
+id: EID_MashedPotato
+
+name: Advanced Math
+description: Break it down and show your work.
+id: EID_MathDance
+
+name: Peely Pulse
+description: Blend in to your surroundings.
+id: EID_MechPeely
+
+name: Mic Drop
+description: We're done here.
+id: EID_MicDrop
+
+name: Mime Time
+description: Please take me seriously!
+id: EID_Mime
+
+name: Mind Blown
+description: Rethink everything you know.
+id: EID_MindBlown
+
+name: Wanna See Me
+description: Do your dance.
+id: EID_ModerateAmount_9LUN1
+
+name: Freemix
+description: Anything goes.
+id: EID_MonteCarlo
+
+name: Keyed Up
+description: Lock in the melody.
+id: EID_MonteKeyboard
+
+name: Moon Bounce
+description: Gravity can't hold you down.
+id: EID_Moonwalking
+
+name: My Idol!
+description: ...in the presence of a legend.
+id: EID_MyIdol
+
+name: It's Go Time!
+description: It's now or right now!
+id: EID_NeedToGo
+
+name: Spin Out
+description: Don't forget to pose.
+id: EID_NeonCatSpy
+
+name: Never Gonna
+description: Surprisingly smooth.
+id: EID_NeverGonna
+
+name: Never Gonna
+description: Surprisingly smooth.
+id: EID_NeverGonnaRaisin
+
+name: Bio-helmet Online
+description: They'll never see you coming.
+id: EID_Nightmare_MS3AQ
+
+name: null
+description: null
+id: EID_Nightmare_NPC_M6EXP
+
+name: Nod Head
+description: Party Emote
+id: EID_NodHeadPapayaComms
+
+name: Chicken Wing It
+description: Sometimes you just need to make up a dance on the spot.
+id: EID_Noodles_X6R9E
+
+name: Finger Wag
+description: Not today, my friend.
+id: EID_NotToday
+
+name: Azarath Metrion Zinthos!
+description: Hone your power taught from the Monks of Azarath.
+id: EID_Obsidian
+
+name: Slitherin'
+description: Undeniably hypnotic.
+id: EID_Octopus
+
+name: Office Chariot
+description: Go for a spin.
+id: EID_Office
+
+name: Old School
+description: Never out of style.
+id: EID_OG_RunningMan
+
+name: No Sweat
+description: With one hand tied behind your back.
+id: EID_OneArmFloss
+
+name: On The Hook
+description: Reel in a prize catch.
+id: EID_OnTheHook
+
+name: B.R.U.T.A.L. Dab
+description: Mecha flex on 'em.
+id: EID_OstrichSpin
+
+name: Tippy Tap
+description: It's a real toe tapper.
+id: EID_PartyJazzTwinkleToes
+
+name: Well rounded
+description: Take your turn.
+id: EID_PartyJazzWigglyDance
+
+name: Paws & Claws
+description: Meow it's time to dance.
+id: EID_Paws
+
+name: Xylo-bone
+description: Real music comes from the inside.
+id: EID_PeelyBones
+
+name: Waddle Away
+description: Some days you just gotta waddle.
+id: EID_PenguinWalk
+
+name: Phew!
+description: I was almost worried for a second.
+id: EID_Phew
+
+name: Phone Wave
+description: Party Emote
+id: EID_PhoneWavePapayaComms
+
+name: Phono Follies
+description: Throw another nickel in and watch that turntable spin.
+id: EID_Phonograph
+
+name: Ollie Bounce
+description: We make a great team!
+id: EID_Photographer
+
+name: Boobytrapped
+description: The sea delivers.
+id: EID_PirateGold
+
+name: Pizza Party
+description: Delicious.
+id: EID_Pizzatime
+
+name: Introducing...
+description: Make yourself known.
+id: EID_PlayerEleven
+
+name: Boing!
+description: Put a little spring in your step.
+id: EID_PogoTraversal
+
+name: Point Finger
+description: Party Emote
+id: EID_PointFingerPapayaComms
+
+name: Popcorn
+description: This is gettin' good.
+id: EID_Popcorn
+
+name: Star Power
+description: No autographs please.
+id: EID_PopDance01
+
+name: Pop Lock
+description: Lock it down.
+id: EID_PopLock
+
+name: Sad Claps
+description: Clap through the sadness.
+id: EID_PoutyClap
+
+name: Storm Salutation
+description: Respect the storm.
+id: EID_PraiseStorm
+
+name: Praise The Tomato
+description: Splatter unto thee.
+id: EID_PraiseTheTomato
+
+name: Unwrapped
+description: What did you get me?
+id: EID_PresentOpening
+
+name: Go Cat Go
+description: Grab and go.
+id: EID_ProfessorPup
+
+name: Welcome!
+description: Show us the way!
+id: EID_ProVisitorProtest
+
+name: Gangnam Style
+description: Pony up and ride.
+id: EID_Psychic_7SO2Z
+
+name: Pumpernickel
+description: Get pumped.
+id: EID_Pump
+
+name: Pump It Up
+description: Carve out some space on the dance floor.
+id: EID_PumpkinDance
+
+name: Pure Salt
+description: All-purpose seasoning.
+id: EID_PureSalt
+
+name: Amazing Cube
+description: Wow your friends! Intimidate your enemies! Be a hit at parties!
+id: EID_PuzzleBox
+
+name: Jamboree
+description: Celebrate anything and everything.
+id: EID_QuickSweeper
+
+name: On Your Mark...
+description: Don't forget to stretch.
+id: EID_RaceStart
+
+name: Rage Quit
+description: I'm out.
+id: EID_RageQuit
+
+name: Raise The Roof
+description: Go ahead, we won't judge.
+id: EID_RaiseTheRoof
+
+name: Red Card
+description: Foul play!
+id: EID_RedCard
+
+name: Regal Wave
+description: Greetings royale.
+id: EID_RegalWave
+
+name: Respect The Peace
+description: Show some respect.
+id: EID_RespectThePeace
+
+name: Lil' Octane
+description: Pop it, tip it, and dodge it to the goal.
+id: EID_RhymeLock_5B2Y3
+
+name: Ribbon Dancer
+description: Can't deny the ribbon.
+id: EID_RibbonDance
+
+name: It's Complicated
+description: Turn some heads.
+id: EID_RichFam
+
+name: Pony Up
+description: Yeehaw!
+id: EID_RideThePonyTwo
+
+name: Ride The Pony
+description: Express yourself on the battlefield.
+id: EID_RideThePony_Athena
+
+name: Zombie Shambles
+description: Good luck finding those brains.
+id: EID_RigorMortis
+
+name: Toasty
+description: Keep it mallow.
+id: EID_RoastingMarshmallow
+
+name: The Robot
+description: Execute dance sequence.
+id: EID_Robot
+
+name: Rocket Rodeo
+description: Hang on tight!
+id: EID_RocketRodeo
+
+name: Rock Out
+description: Are you ready to rock?!
+id: EID_RockGuitar
+
+name: Pickin'
+description: And grinnin'.
+id: EID_RockingChair
+
+name: Rock Paper Scissors
+description: Best out of three.
+id: EID_RockPaperScissors
+
+name: Jump Jets
+description: Lift with your legs.
+id: EID_RoosterMech
+
+name: Running Man
+description: The challenge is to never stop running.
+id: EID_RunningMan
+
+name: Pick It Up
+description: Pick it up, pick it up, pick it up!
+id: EID_RunningManv3
+
+name: Sad Trombone
+description: Womp womp.
+id: EID_SadTrombone
+
+name: Salute
+description: At ease!
+id: EID_Salute
+
+name: Go Mufasa
+description: I did it legit-ly.
+id: EID_SandwichBop
+
+name: Phone It In
+description: Lay down a saxy groove.
+id: EID_Saxophone
+
+name: Extracurricularmor
+description: For when knowledge isn't enough power.
+id: EID_Scholar
+
+name: Skipper
+description: Hop, skip, jump.
+id: EID_Schoolyard
+
+name: Scorecard
+description: Consider yourself judged.
+id: EID_ScoreCard
+
+name: Team Burger
+description: Be beefy.
+id: EID_ScoreCardBurger
+
+name: Team Tomato
+description: Stay saucy.
+id: EID_ScorecardTomato
+
+name: Members Only
+description: Are you in the club?
+id: EID_SecretHandshake
+
+name: null
+description: null
+id: EID_SecretHandshake_Owned
+
+name: null
+description: null
+id: EID_SecretHandshake_Owned_Follower
+
+name: null
+description: null
+id: EID_SecretHandshake_Sync
+
+name: null
+description: null
+id: EID_SecretHandshake_Sync_Follower
+
+name: Work It
+description: Split the dancefloor.
+id: EID_SecurityGuard
+
+name: Flippin' Sexy
+description: Flip out!
+id: EID_SexyFlip
+
+name: Shadow Boxer
+description: Stick and move.
+id: EID_Shadowboxing
+
+name: Hang Loose
+description: Take it easy.
+id: EID_Shaka
+
+name: Shake Head
+description: Party Emote
+id: EID_ShakeHeadPapayaComms
+
+name: Shanty for a Squad
+description: Keep the tempo and catch the wave.
+id: EID_ShallWe
+
+name: Shaolin Sit-up
+description: Mind over body.
+id: EID_Shaolin
+
+name: Shaolin Sip
+description: Mind over body, but first- tea.
+id: EID_ShaolinSipUp
+
+name: Dragon Stance
+description: Form of the dragon.
+id: EID_Shinobi
+
+name: Fierce
+description: Utterly dominated.
+id: EID_Shiny
+
+name: Jumbo Popcorn
+description: This is getting really good.
+id: EID_Shorts
+
+name: Showstopper
+description: Pull out all the stops.
+id: EID_Showstopper
+
+name: Sign Spinner
+description: In it to spin it.
+id: EID_SignSpinner
+
+name: Leapin'
+description: Bounce with joy.
+id: EID_SillyJumps
+
+name: Sing Along
+description: C'mon, you know the words!
+id: EID_SingAlong
+
+name: Sit
+description: Party Emote
+id: EID_SitPapayaComms
+
+name: Fright Funk
+description: Show off your ghoulish groove.
+id: EID_SkeletonDance
+
+name: Lightning Kick!
+description: Hundred Lightning Legs!
+id: EID_SkirmishFemale_I5OTJ
+
+name: Shoryuken!
+description: Rising Dragon Fist!
+id: EID_SkirmishMale_FGPJ3
+
+name: Ride Along
+description: Time for a little sleigh ride.
+id: EID_SleighIt
+
+name: Slow Clap
+description: Express yourself on the battlefield.
+id: EID_SlowClap
+
+name: Poof
+description: Beguile your enemies in a cloud smoke.
+id: EID_SmokeBombFail
+
+name: Snap
+description: Balance is restored.
+id: EID_Snap
+
+name: Very Sneaky
+description: Stealth mode engaged!
+id: EID_SneakingTraversal
+
+name: Snowshaker
+description: A Winter Wonderland in your hand.
+id: EID_SnowGlobe
+
+name: Kick Ups
+description: Look, no hands.
+id: EID_SoccerJuggling
+
+name: Fancy Footwork
+description: Keep 'em guessing all the way to the goal.
+id: EID_SoccerTraversal
+
+name: Something Stinks
+description: Whoever smelt it...
+id: EID_SomethingStinks
+
+name: Sparkler
+description: So sparkly!
+id: EID_Sparkler
+
+name: Full Tilt
+description: Lean into it.
+id: EID_SpeedRun
+
+name: Sprinkler
+description: Sprinkled with style.
+id: EID_Sprinkler
+
+name: Spyglass
+description: Land ho!
+id: EID_Spyglass
+
+name: Butterfly knife
+description: This will end in tears.
+id: EID_SpyMale
+
+name: Marsh Walk
+description: Keep it mello.
+id: EID_SquishyDance
+
+name: Keep It Mello
+description: Join in the fun.
+id: EID_SquishyMedley
+
+name: Gentleman's Dab
+description: Salutations good sir!
+id: EID_StageBow
+
+name: Statuesque
+description: So lifelike!
+id: EID_StatuePose
+
+name: Side Hustle
+description: The whole world's on your side.
+id: EID_StepBreakdance
+
+name: Peace Out
+description: Keep It Positive.
+id: EID_StrawberryPilotKpop
+
+name: Party Hips
+description: Some strings attached.
+id: EID_StringDance
+
+name: Turbocharged
+description: Wind up and let em have it.
+id: EID_SuckerPunch
+
+name: Cardistry
+description: Watch the hands.
+id: EID_Suits
+
+name: Flippin' Away
+description: Back in action.
+id: EID_SuperheroBackflip
+
+name: Deep End
+description: Dive in.
+id: EID_SwimDance
+
+name: Jitterbug
+description: We're buggin' out!
+id: EID_SwingDance
+
+name: Swipe It
+description: Swipe it over and over again.
+id: EID_SwipeIt
+
+name: Witchcraft
+description: Share your magic.
+id: EID_SwitchTheWitch
+
+name: Taco Time
+description: Set your tacos free.
+id: EID_TacoTimeDance
+
+name: Tai Chi
+description: Find your balance.
+id: EID_TaiChi
+
+name: Take The Elf
+description: Break out the mistletoe.
+id: EID_TakeTheElf
+
+name: Take The L
+description: Savor the W.
+id: EID_TakeTheL
+
+name: Savor The W
+description: This is what winning looks like.
+id: EID_TakeTheW
+
+name: null
+description: null
+id: EID_TalkingGesture
+
+name: Hootenanny
+description: Yee haw!
+id: EID_TapShuffle
+
+name: Quick Bite
+description: Grab a light(speed) snack.
+id: EID_Tar_S9YVE
+
+name: Team Monster
+description: You monster!
+id: EID_TeamMonster
+
+name: Team Mech
+description: Mecha Team Leader Forever!
+id: EID_TeamRobot
+
+name: Steamed
+description: Let off some steam.
+id: EID_TemperTantrum
+
+name: Evasive Maneuvers
+description: That gymnastics training is really paying off.
+id: EID_Temple
+
+name: Paddle Royale
+description: Hop on the paddle bus.
+id: EID_TennisPaddle
+
+name: Busy
+description: I'll be with you in just a moment.
+id: EID_Texting
+
+name: The Flow
+description: Crow Foe Flow? Let's go!
+id: EID_TheShow
+
+name: Slap Happy
+description: Stop hitting yourself.
+id: EID_ThighSlapper
+
+name: Thumbs Down
+description: Nah.
+id: EID_ThumbsDown
+
+name: Thumbs Up
+description: Aye!
+id: EID_ThumbsUp
+
+name: Tidy
+description: Keep it tidy.
+id: EID_Tidy
+
+name: Time Out
+description: Stop the clock.
+id: EID_TimeOut
+
+name: Spring-Loaded
+description: Handspring into action.
+id: EID_TimetravelBackflip
+
+name: Tiniest Violin
+description: Extend your tiniest sympathies.
+id: EID_TinyTremors
+
+name: Boom!
+description: It's a blast.
+id: EID_TnTina
+
+name: Tsssss
+description: Your time here is done.
+id: EID_TorchSnuffer
+
+name: Spike It
+description: Celebrate a big play.
+id: EID_Touchdown
+
+name: Ninja Style
+description: The moves of a true ninja.
+id: EID_TourBus
+
+name: Tower Guard
+description: There's no turning back...
+id: EID_TowerSentinel
+
+name: T-Pose
+description: Chin up, arms straight!
+id: EID_TPose
+
+name: Stride
+description: Find a groove, and hit your stride.
+id: EID_TreadmillDance
+
+name: Light Up
+description: Bright idea.
+id: EID_TreeLightPose
+
+name: Freewheelin'
+description: Skate through life.
+id: EID_TripleScoop
+
+name: Kiss The Cup
+description: Relish your victories.
+id: EID_TrophyCelebration
+
+name: Beep Beep
+description: Comin' through!
+id: EID_TruckerHorn
+
+name: True Love
+description: Get Romantic.
+id: EID_TrueLove
+
+name: Twist
+description: It's all in the hips.
+id: EID_Twist
+
+name: Rollie
+description: Dab of ranch not included.
+id: EID_TwistDaytona
+
+name: Last Forever
+description: Who said love don't last forever?
+id: EID_TwistEternity
+
+name: Last Forever
+description: Who said love don't last forever?
+id: EID_TwistEternity_Sync
+
+name: Last Forever
+description: Who said love don't last forever?
+id: EID_TwistEternity_Sync_Follower
+
+name: Twist
+description: It's all in the hips.
+id: EID_TwistRaisin
+
+name: Cyberdyne Salute
+description: He'll be back.
+id: EID_Typhoon_VO9OF
+
+name: Island Vibes
+description: Strum a happy little tune.
+id: EID_UkuleleTime
+
+name: Unicycle
+description: Because you've made choices.
+id: EID_UnicycleTraversal
+
+name: We are Venom
+description: Watch your brains.
+id: EID_Vertigo
+
+name: Battle Call
+description: Heed the call.
+id: EID_VikingHorn
+
+name: Breezy
+description: Any way the wind blows.
+id: EID_WackyWavy
+
+name: Feelin' Jaunty
+description: For when strutting just won't cut it.
+id: EID_WalkieWalk
+
+name: Dance Therapy
+description: Let it all out.
+id: EID_Warehouse
+
+name: Wave
+description: Express yourself on the battlefield.
+id: EID_Wave
+
+name: Flux
+description: Stay in the flow.
+id: EID_WaveDance
+
+name: Wave
+description: Party Emote
+id: EID_WavePapayaComms
+
+name: Where Is Matt?
+description: Show the world your moves.
+id: EID_WhereIsMatt
+
+name: Whirlwind
+description: Around and around abound.
+id: EID_Whirlwind
+
+name: Wiggle
+description: Never stop wigglin'.
+id: EID_Wiggle
+
+name: Wiggle
+description: Never stop wigglin'.
+id: EID_WiggleRaisin
+
+name: Windmill Floss
+description: Take it all the way around.
+id: EID_WindmillFloss
+
+name: Hot Marat
+description: Wreck the dance floor.
+id: EID_WIR
+
+name: Llamacadabra
+description: Don't forget the magic word.
+id: EID_Wizard
+
+name: Howl
+description: Stand in front of a moon for maximum effect.
+id: EID_WolfHowl
+
+name: The Worm
+description: Express yourself on the battlefield.
+id: EID_Worm
+
+name: Shimmer
+description: Bordering on excessive levels of sass.
+id: EID_WristFlick
+
+name: Yay!
+description: So excited!
+id: EID_YayExcited
+
+name: Dip
+description: Take a dip.
+id: EID_Yeet
+
+name: Snoozefest
+description: Yawn.
+id: EID_YouBoreMe
+
+name: You're Awesome
+description: Seriously. We all think so.
+id: EID_YoureAwesome
+
+name: Rambunctious
+description: The embodiment of boundless energy.
+id: EID_Zippy
+
+name: Reanimated
+description: From beyond the rave!
+id: EID_Zombie
+
+name: Zombified
+description: Braaaains.
+id: EID_ZombieWalk
 
