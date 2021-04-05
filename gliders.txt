@@ -1,1321 +1,1321 @@
-name: Glider
-description: Standard Battle Glider.
-id: DefaultGlider
-
-name: Duo Umbrella
-description: Duo Victory Umbrella.
-id: Duo_Umbrella
-
-name: Founder's Glider
-description: Founder's exclusive!
-id: FounderGlider
-
-name: Founder's Umbrella
-description: Founder's exclusive!
-id: FounderUmbrella
-
-name: Modern
-description: A bold addition to your gliding repertoire.
-id: Glider_Bold
-
-name: null
-description: null
-id: Glider_Broomstick
-
-name: Hot Rod
-description: Burn through the clouds with this custom Screaming Skull Hot Rod Glider.
-id: Glider_Flames
-
-name: Petunia
-description: For when you're a pretty flower on a quest for vengeance.
-id: Glider_FlowerPOwer
-
-name: Aerial Assault One
-description: Fly into battle on the wings of victory.
-id: Glider_ID_001
-
-name: Sir Glider the Brave
-description: First of his name.
-id: Glider_ID_002_Medieval
-
-name: Royale X
-description: State of the art combat glider.
-id: Glider_ID_003_District
-
-name: Get Down!
-description: Can you dig it?
-id: Glider_ID_004_Disco
-
-name: Cozy Coaster
-description: Snuggle up to the firefight in holiday style.
-id: Glider_ID_005_HolidaySweater
-
-name: Snow Squall
-description: Unleash winter's icy wrath.
-id: Glider_ID_006_WinterCamo
-
-name: Half Shell
-description: Turtles glide with honor.
-id: Glider_ID_007_TurtleShell
-
-name: Zephyr
-description: Glide with style.
-id: Glider_ID_008_Graffiti
-
-name: Gum Drop
-description: Sweet victory!
-id: Glider_ID_009_CandyCoat
-
-name: Cloud Strike
-description: Forecasting storms all week.
-id: Glider_ID_010_Storm
-
-name: Jolly Roger
-description: Avast!
-id: Glider_ID_011_JollyRoger
-
-name: Bear Force One
-description: It's so fluffy!
-id: Glider_ID_012_TeddyBear
-
-name: Blue Streak
-description: Like a bolt from the blue!
-id: Glider_ID_013_PSBlue
-
-name: Royale Dragon
-description: Ride the dragon!
-id: Glider_ID_014_Dragon
-
-name: Rainbow Rider
-description: Everything's puppies and rainbows and unicorns and sunshine and...
-id: Glider_ID_015_Brite
-
-name: Carbon
-description: Precision built carbon fiber glider.
-id: Glider_ID_016_Tactical
-
-name: High Octane
-description: Operating at maximum horsepower.
-id: Glider_ID_017_Assassin
-
-name: Slipstream
-description: Get right down to business.
-id: Glider_ID_018_Twitch
-
-name: Checker
-description: Always in service.
-id: Glider_ID_019_Taxi
-
-name: Fighter Kite
-description: Outmaneuver the competition.
-id: Glider_ID_020_Fighter
-
-name: Rusty Rider
-description: Finely crafted from twisted wreckage.
-id: Glider_ID_021_Scavenger
-
-name: Stage Dive
-description: Dive into the crowd.
-id: Glider_ID_022_RockerPunk
-
-name: Storm Sigil
-description: From the Emerald Isle to the eye of the storm.
-id: Glider_ID_023_CuChulainn
-
-name: Feathered Flyer
-description: Winged victory.
-id: Glider_ID_024_Reaper
-
-name: Orbital Shuttle
-description: Cleared for re-entry.
-id: Glider_ID_025_ShuttleA
-
-name: Deep Space Lander
-description: Light-years ahead of the competition.
-id: Glider_ID_026_ShuttleB
-
-name: Planetary Probe
-description: Scanning the unknown.
-id: Glider_ID_027_Satelite
-
-name: Googly
-description: Hi guys!
-id: Glider_ID_028_Googly
-
-name: Fossil Flyer
-description: Prehistoric aerodynamics.
-id: Glider_ID_029_PajamaParty
-
-name: Mainframe
-description: Calculating optimal trajectory.
-id: Glider_ID_030_CircuitBreaker
-
-name: Solid Strider
-description: Hit your stride.
-id: Glider_ID_031_Metal
-
-name: Field Flyer
-description: Field tested battle standard.
-id: Glider_ID_032_TacticalWoodland
-
-name: Wings of Valor
-description: Spread your wings.
-id: Glider_ID_033_Valor
-
-name: Intrepid
-description: Adaptive pivot-wing control prototype.
-id: Glider_ID_034_CarbideBlue
-
-name: Sugar Crash
-description: Don't crash!
-id: Glider_ID_035_Candy
-
-name: Glow Rider
-description: Illuminate a path to victory.
-id: Glider_ID_036_AuroraGlow
-
-name: Meltdown
-description: Fall out of the battle bus with confidence.
-id: Glider_ID_037_Hazmat
-
-name: Triumph
-description: Harness the winds of victory.
-id: Glider_ID_038_Deco
-
-name: Venus Flyer
-description: Pretty fly.
-id: Glider_ID_039_Venus
-
-name: Starry Flight
-description: A masterpiece of flight.
-id: Glider_ID_040_Jailbird
-
-name: Hang Time
-description: Get air.
-id: Glider_ID_041_Basketball
-
-name: Goalbound
-description: Goooooooooooooal!
-id: Glider_ID_042_Soccer
-
-name: Split Wing
-description: Snap into action.
-id: Glider_ID_043_DarkNinja
-
-name: Pterodactyl
-description: Saur into battle.
-id: Glider_ID_044_Pterodactyl
-
-name: Terminus
-description: It's the end of the line.
-id: Glider_ID_045_CarbideBlack
-
-name: Viceroy Mark I
-description: Ain't she a beaut?
-id: Glider_ID_046_Gumshoe
-
-name: Forerunner
-description: Amped and aerodynamic.
-id: Glider_ID_047_SpeedyRed
-
-name: Conquest
-description: Row against the tide.
-id: Glider_ID_048_Viking
-
-name: Splashdown
-description: Make waves.
-id: Glider_ID_049_Lifeguard
-
-name: Cruiser
-description: Put it in neutral, and glide easy.
-id: Glider_ID_050_StreetRacerCobra
-
-name: Libre
-description: High-flying freedom.
-id: Glider_ID_051_Luchador
-
-name: Rhinestone Rider
-description: Glide by the seat of your pants.
-id: Glider_ID_052_Bedazzled
-
-name: Rush
-description: It's a rush!
-id: Glider_ID_053_Huya
-
-name: Helium
-description: Lighter than air.
-id: Glider_ID_054_Douyu
-
-name: Downshift
-description: Glide into gear.
-id: Glider_ID_055_StreetRacerBlack
-
-name: Aurora
-description: Harness the solar wind.
-id: Glider_ID_056_CarbideWhite
-
-name: Servo
-description: Prototype compound glider.
-id: Glider_ID_057_ModernMilitary
-
-name: Laser Chomp
-description: Laser-guided. Razor-sharp. Slippery.
-id: Glider_ID_058_Shark
-
-name: Flying Saucer
-description: Make mine a Royale.
-id: Glider_ID_059_DurrburgerHero
-
-name: Windbreaker
-description: Break the wind.
-id: Glider_ID_060_Exercise
-
-name: Cyclone
-description: A whirlwind of fury.
-id: Glider_ID_061_StreetRacerBiker
-
-name: White Squall
-description: Create a whirlwind.
-id: Glider_ID_062_StreetRacerWhite
-
-name: Flying Fish
-description: Keep it fresh.
-id: Glider_ID_063_SushiChef
-
-name: Blaze
-description: Glide down in a blaze of glory.
-id: Glider_ID_064_Biker
-
-name: Tie-dye Flyer
-description: So many colors.
-id: Glider_ID_065_Hippie
-
-name: Purrfect
-description: It's the cat's meow.
-id: Glider_ID_066_SamuraiBlue
-
-name: Flappy
-description: Flap happy.
-id: Glider_ID_067_PSBurnout
-
-name: Hot Ride
-description: Burn down the road.
-id: Glider_ID_068_GarageBand
-
-name: Shadow Puppet
-description: Play in the light.
-id: Glider_ID_069_Hacivat
-
-name: Frostwing
-description: Awoken from ageless slumber.
-id: Glider_ID_070_DarkViking
-
-name: Touchdown
-description: Go for the extra point.
-id: Glider_ID_071_Football
-
-name: Safecracker
-description: Breaking in was the easy part...
-id: Glider_ID_072_Bling
-
-name: Airlift
-description: Glide to the rescue.
-id: Glider_ID_073_Medic
-
-name: Cold Front
-description: Cool to the touch.
-id: Glider_ID_074_RaptorArcticCamo
-
-name: Rotor
-description: Calibrated to maximize airflow.
-id: Glider_ID_075_ModernMilitaryRed
-
-name: Dirigible
-description: Lighter than air.
-id: Glider_ID_076_DieselPunk
-
-name: Oktoberfeast
-description: Never glide on an empty stomach.
-id: Glider_ID_077_Octoberfest
-
-name: Swarm
-description: Glide on the dark wings of the nite.
-id: Glider_ID_078_Vampire
-
-name: Picnic
-description: Glide now, picnic later.
-id: Glider_ID_079_RedRiding
-
-name: Covered Crusader
-description: Forge a trail through the frontier.
-id: Glider_ID_080_PrairiePusher
-
-name: Crossfire
-description: Glider duel at high noon.
-id: Glider_ID_081_CowboyGunslinger
-
-name: Field Wraith
-description: Don't just scare crows, give them nightmares.
-id: Glider_ID_082_Scarecrow
-
-name: Dark Glyph
-description: Indecipherable.
-id: Glider_ID_083_DarkBomber
-
-name: Lamplight
-description: A light in the darkness.
-id: Glider_ID_084_Plague
-
-name: Crypt Cruiser
-description: From beyond the grave!
-id: Glider_ID_085_SkullTrooper
-
-name: Hatchling
-description: Along came a glider...
-id: Glider_ID_086_BlackWidow
-
-name: Divine Dragon
-description: Sail through the clouds, and row toward victory.
-id: Glider_ID_087_GuanYu
-
-name: Dark Engine
-description: Fueled by darkness.
-id: Glider_ID_088_EvilCowboy
-
-name: Spirit
-description: It's a hoot.
+Name: Glider
+Description: Standard Battle Glider.
+ID: DefaultGlider
+
+Name: Duo Umbrella
+Description: Duo Victory Umbrella.
+ID: Duo_Umbrella
+
+Name: Founder's Glider
+Description: Founder's exclusive!
+ID: FounderGlider
+
+Name: Founder's Umbrella
+Description: Founder's exclusive!
+ID: FounderUmbrella
+
+Name: Modern
+Description: A bold addition to your gliding repertoire.
+ID: Glider_Bold
+
+Name: null
+Description: null
+ID: Glider_Broomstick
+
+Name: Hot Rod
+Description: Burn through the clouds with this custom Screaming Skull Hot Rod Glider.
+ID: Glider_Flames
+
+Name: Petunia
+Description: For when you're a pretty flower on a quest for vengeance.
+ID: Glider_FlowerPOwer
+
+Name: Aerial Assault One
+Description: Fly into battle on the wings of victory.
+ID: Glider_ID_001
+
+Name: Sir Glider the Brave
+Description: First of his name.
+ID: Glider_ID_002_Medieval
+
+Name: Royale X
+Description: State of the art combat glider.
+ID: Glider_ID_003_District
+
+Name: Get Down!
+Description: Can you dig it?
+ID: Glider_ID_004_Disco
+
+Name: Cozy Coaster
+Description: Snuggle up to the firefight in holiday style.
+ID: Glider_ID_005_HolidaySweater
+
+Name: Snow Squall
+Description: Unleash winter's icy wrath.
+ID: Glider_ID_006_WinterCamo
+
+Name: Half Shell
+Description: Turtles glide with honor.
+ID: Glider_ID_007_TurtleShell
+
+Name: Zephyr
+Description: Glide with style.
+ID: Glider_ID_008_Graffiti
+
+Name: Gum Drop
+Description: Sweet victory!
+ID: Glider_ID_009_CandyCoat
+
+Name: Cloud Strike
+Description: Forecasting storms all week.
+ID: Glider_ID_010_Storm
+
+Name: Jolly Roger
+Description: Avast!
+ID: Glider_ID_011_JollyRoger
+
+Name: Bear Force One
+Description: It's so fluffy!
+ID: Glider_ID_012_TeddyBear
+
+Name: Blue Streak
+Description: Like a bolt from the blue!
+ID: Glider_ID_013_PSBlue
+
+Name: Royale Dragon
+Description: Ride the dragon!
+ID: Glider_ID_014_Dragon
+
+Name: Rainbow Rider
+Description: Everything's puppies and rainbows and unicorns and sunshine and...
+ID: Glider_ID_015_Brite
+
+Name: Carbon
+Description: Precision built carbon fiber glider.
+ID: Glider_ID_016_Tactical
+
+Name: High Octane
+Description: Operating at maximum horsepower.
+ID: Glider_ID_017_Assassin
+
+Name: Slipstream
+Description: Get right down to business.
+ID: Glider_ID_018_Twitch
+
+Name: Checker
+Description: Always in service.
+ID: Glider_ID_019_Taxi
+
+Name: Fighter Kite
+Description: Outmaneuver the competition.
+ID: Glider_ID_020_Fighter
+
+Name: Rusty Rider
+Description: Finely crafted from twisted wreckage.
+ID: Glider_ID_021_Scavenger
+
+Name: Stage Dive
+Description: Dive into the crowd.
+ID: Glider_ID_022_RockerPunk
+
+Name: Storm Sigil
+Description: From the Emerald Isle to the eye of the storm.
+ID: Glider_ID_023_CuChulainn
+
+Name: Feathered Flyer
+Description: Winged victory.
+ID: Glider_ID_024_Reaper
+
+Name: Orbital Shuttle
+Description: Cleared for re-entry.
+ID: Glider_ID_025_ShuttleA
+
+Name: Deep Space Lander
+Description: Light-years ahead of the competition.
+ID: Glider_ID_026_ShuttleB
+
+Name: Planetary Probe
+Description: Scanning the unknown.
+ID: Glider_ID_027_Satelite
+
+Name: Googly
+Description: Hi guys!
+ID: Glider_ID_028_Googly
+
+Name: Fossil Flyer
+Description: Prehistoric aerodynamics.
+ID: Glider_ID_029_PajamaParty
+
+Name: Mainframe
+Description: Calculating optimal trajectory.
+ID: Glider_ID_030_CircuitBreaker
+
+Name: Solid Strider
+Description: Hit your stride.
+ID: Glider_ID_031_Metal
+
+Name: Field Flyer
+Description: Field tested battle standard.
+ID: Glider_ID_032_TacticalWoodland
+
+Name: Wings of Valor
+Description: Spread your wings.
+ID: Glider_ID_033_Valor
+
+Name: Intrepid
+Description: Adaptive pivot-wing control prototype.
+ID: Glider_ID_034_CarbideBlue
+
+Name: Sugar Crash
+Description: Don't crash!
+ID: Glider_ID_035_Candy
+
+Name: Glow Rider
+Description: Illuminate a path to victory.
+ID: Glider_ID_036_AuroraGlow
+
+Name: Meltdown
+Description: Fall out of the battle bus with confidence.
+ID: Glider_ID_037_Hazmat
+
+Name: Triumph
+Description: Harness the winds of victory.
+ID: Glider_ID_038_Deco
+
+Name: Venus Flyer
+Description: Pretty fly.
+ID: Glider_ID_039_Venus
+
+Name: Starry Flight
+Description: A masterpiece of flight.
+ID: Glider_ID_040_Jailbird
+
+Name: Hang Time
+Description: Get air.
+ID: Glider_ID_041_Basketball
+
+Name: Goalbound
+Description: Goooooooooooooal!
+ID: Glider_ID_042_Soccer
+
+Name: Split Wing
+Description: Snap into action.
+ID: Glider_ID_043_DarkNinja
+
+Name: Pterodactyl
+Description: Saur into battle.
+ID: Glider_ID_044_Pterodactyl
+
+Name: Terminus
+Description: It's the end of the line.
+ID: Glider_ID_045_CarbideBlack
+
+Name: Viceroy Mark I
+Description: Ain't she a beaut?
+ID: Glider_ID_046_Gumshoe
+
+Name: Forerunner
+Description: Amped and aerodynamic.
+ID: Glider_ID_047_SpeedyRed
+
+Name: Conquest
+Description: Row against the tide.
+ID: Glider_ID_048_Viking
+
+Name: Splashdown
+Description: Make waves.
+ID: Glider_ID_049_Lifeguard
+
+Name: Cruiser
+Description: Put it in neutral, and glide easy.
+ID: Glider_ID_050_StreetRacerCobra
+
+Name: Libre
+Description: High-flying freedom.
+ID: Glider_ID_051_Luchador
+
+Name: Rhinestone Rider
+Description: Glide by the seat of your pants.
+ID: Glider_ID_052_Bedazzled
+
+Name: Rush
+Description: It's a rush!
+ID: Glider_ID_053_Huya
+
+Name: Helium
+Description: Lighter than air.
+ID: Glider_ID_054_Douyu
+
+Name: Downshift
+Description: Glide into gear.
+ID: Glider_ID_055_StreetRacerBlack
+
+Name: Aurora
+Description: Harness the solar wind.
+ID: Glider_ID_056_CarbideWhite
+
+Name: Servo
+Description: Prototype compound glider.
+ID: Glider_ID_057_ModernMilitary
+
+Name: Laser Chomp
+Description: Laser-guided. Razor-sharp. Slippery.
+ID: Glider_ID_058_Shark
+
+Name: Flying Saucer
+Description: Make mine a Royale.
+ID: Glider_ID_059_DurrburgerHero
+
+Name: Windbreaker
+Description: Break the wind.
+ID: Glider_ID_060_Exercise
+
+Name: Cyclone
+Description: A whirlwind of fury.
+ID: Glider_ID_061_StreetRacerBiker
+
+Name: White Squall
+Description: Create a whirlwind.
+ID: Glider_ID_062_StreetRacerWhite
+
+Name: Flying Fish
+Description: Keep it fresh.
+ID: Glider_ID_063_SushiChef
+
+Name: Blaze
+Description: Glide down in a blaze of glory.
+ID: Glider_ID_064_Biker
+
+Name: Tie-dye Flyer
+Description: So many colors.
+ID: Glider_ID_065_Hippie
+
+Name: Purrfect
+Description: It's the cat's meow.
+ID: Glider_ID_066_SamuraiBlue
+
+Name: Flappy
+Description: Flap happy.
+ID: Glider_ID_067_PSBurnout
+
+Name: Hot Ride
+Description: Burn down the road.
+ID: Glider_ID_068_GarageBand
+
+Name: Shadow Puppet
+Description: Play in the light.
+ID: Glider_ID_069_Hacivat
+
+Name: Frostwing
+Description: Awoken from ageless slumber.
+ID: Glider_ID_070_DarkViking
+
+Name: Touchdown
+Description: Go for the extra point.
+ID: Glider_ID_071_Football
+
+Name: Safecracker
+Description: Breaking in was the easy part...
+ID: Glider_ID_072_Bling
+
+Name: Airlift
+Description: Glide to the rescue.
+ID: Glider_ID_073_Medic
+
+Name: Cold Front
+Description: Cool to the touch.
+ID: Glider_ID_074_RaptorArcticCamo
+
+Name: Rotor
+Description: Calibrated to maximize airflow.
+ID: Glider_ID_075_ModernMilitaryRed
+
+Name: Dirigible
+Description: Lighter than air.
+ID: Glider_ID_076_DieselPunk
+
+Name: Oktoberfeast
+Description: Never glide on an empty stomach.
+ID: Glider_ID_077_Octoberfest
+
+Name: Swarm
+Description: Glide on the dark wings of the nite.
+ID: Glider_ID_078_Vampire
+
+Name: Picnic
+Description: Glide now, picnic later.
+ID: Glider_ID_079_RedRiding
+
+Name: Covered Crusader
+Description: Forge a trail through the frontier.
+ID: Glider_ID_080_PrairiePusher
+
+Name: Crossfire
+Description: Glider duel at high noon.
+ID: Glider_ID_081_CowboyGunslinger
+
+Name: Field Wraith
+Description: Don't just scare crows, give them nightmares.
+ID: Glider_ID_082_Scarecrow
+
+Name: Dark Glyph
+Description: Indecipherable.
+ID: Glider_ID_083_DarkBomber
+
+Name: Lamplight
+Description: A light in the darkness.
+ID: Glider_ID_084_Plague
+
+Name: Crypt Cruiser
+Description: From beyond the grave!
+ID: Glider_ID_085_SkullTrooper
+
+Name: Hatchling
+Description: Along came a glider...
+ID: Glider_ID_086_BlackWidow
+
+Name: Divine Dragon
+Description: Sail through the clouds, and row toward victory.
+ID: Glider_ID_087_GuanYu
+
+Name: Dark Engine
+Description: Fueled by darkness.
+ID: Glider_ID_088_EvilCowboy
+
+Name: Spirit
+Description: It's a hoot.
 Reactive: Glows in the dark
-id: Glider_ID_089_Muertos
-
-name: Discovery
-description: Explore the galaxy.
-id: Glider_ID_090_Celestial
-
-name: Junkjet
-description: It might just get you where you're going.
-id: Glider_ID_091_MadCommander
-
-name: Pivot
-description: Primed to pivot with precision.
-id: Glider_ID_092_StreetOps
-
-name: Poofy Parasail
-description: Puffed up and ready for landing.
-id: Glider_ID_093_AnimalJackets
-
-name: Kabuto
-description: Sharp enough to cut through air.
-id: Glider_ID_094_SamuraiUltra
-
-name: Magic Wings
-description: Soaring and spellbound.
-id: Glider_ID_095_Witch
-
-name: Flying Carp
-description: Dive into the sky.
-id: Glider_ID_096_HornedMask
-
-name: Flappy Flyer
-description: Keep it flappy.
-id: Glider_ID_097_Feathers
-
-name: Hyper
-description: What's up must come down.
-id: Glider_ID_098_Sup
-
-name: Flutterbug
-description: Wings a flutter.
-id: Glider_ID_099_Moth
-
-name: Rickety Runner
-description: Who says penguins can't fly?
-id: Glider_ID_100_Yeti
-
-name: Tactical Sleigh
-description: No chimney is safe.
-id: Glider_ID_101_TacticalSanta
-
-name: Fuel
-description: Turn and burn.
-id: Glider_ID_102_Rhino
-
-name: Nautilus
-description: Dive! Dive! Dive!
-id: Glider_ID_103_Nautilus
-
-name: Glidurrr
-description: Order up!
-id: Glider_ID_104_Durrburger
-
-name: Cuddle Cruiser
-description: The turbulence is bearable.
-id: Glider_ID_104_FuzzyBear
-
-name: Paper Plane
-description: Finely folded flyer.
-id: Glider_ID_104_Math
-
-name: Gingersled
-description: That's one sweet ride.
-id: Glider_ID_105_Gingerbread
-
-name: Royale Air
-description: Don't forget your lift ticket.
-id: Glider_ID_105_SnowBoard
-
-name: Equalizer
-description: Soar through the soundscape.
-id: Glider_ID_106_FortniteDJ
-
-name: Crystal Carriage
-description: The finest coach in the land.
-id: Glider_ID_107_IceMaiden
-
-name: Krampus' Little Helper
-description: The greatest of all time.
-id: Glider_ID_108_Krampus
-
-name: Equilibrium
-description: Perfectly balanced.
-id: Glider_ID_109_StreetGoth
-
-name: Coral Cruiser
-description: Ride the reef.
-id: Glider_ID_110_TeriyakiFish
-
-name: Diverge
-description: Break away from the pack.
-id: Glider_ID_111_MilitaryFashion
-
-name: Coaxial Copter
-description: Dual-rotor tactical copter.
-id: Glider_ID_112_TechOps
-
-name: Tusk
-description: Wild and woolly.
-id: Glider_ID_113_Barbarian
-
-name: Winter's Thorn
-description: Ride out the squall.
-id: Glider_ID_114_IceQueen
-
-name: Snowblades
-description: Cut through the cold.
-id: Glider_ID_115_SnowNinja
-
-name: Extra Cheese
-description: Slice through the sky.
-id: Glider_ID_116_PizzaPit
-
-name: Wild Streak
-description: Marked for battle.
-id: Glider_ID_117_Warpaint
-
-name: Mello Rider
-description: Fly happier.
-id: Glider_ID_118_Squishy
-
-name: Frozen Feathers
-description: A cold wind bellows.
-id: Glider_ID_119_ReaperFrozen
-
-name: Ice Cream Cruiser
-description: Melty at every altitude.
-id: Glider_ID_120_IceCream
-
-name: Brite Blimp
-description: Rainbow powered.
-id: Glider_ID_121_BriteBomberDeluxe
-
-name: Heartspan
-description: Soar on the wide wings of love.
-id: Glider_ID_122_Valentines
-
-name: Lockstep
-description: Lock in the win.
-id: Glider_ID_123_MasterKey
-
-name: Sky Serpents
-description: Slither through the sky.
-id: Glider_ID_124_Medusa
-
-name: Choppa
-description: Calling in air support.
-id: Glider_ID_125_Bandolier
-
-name: Crop Duster
-description: Prepare for the harvest.
-id: Glider_ID_126_Farmer
-
-name: Sunrise
-description: Rise up.
-id: Glider_ID_127_Aztec
-
-name: Booty Buoy
-description: Hide your plunder in a parachute.
-id: Glider_ID_128_BootyBuoy
-
-name: Cinder
-description: Harness the all consuming flame.
-id: Glider_ID_129_FireElf
-
-name: Disruptor
-description: Cause a commotion.
-id: Glider_ID_130_SciOps
-
-name: Dark Forerunner
-description: Distort. Distract. Destroy.
-id: Glider_ID_131_SpeedyMidnight
-
-name: Plunder
-description: Set sail to plunder!
-id: Glider_ID_132_Pirate01Octopus
-
-name: Falcon
-description: Soar on the wings of the fabled falcon.
-id: Glider_ID_133_BandageNinja
-
-name: Lavawing
-description: Awoken by a violent eruption.
-id: Glider_ID_134_DarkVikingFire
-
-name: Home Run
-description: It's outta here!
-id: Glider_ID_135_Baseball
-
-name: Targeted
-description: Always hit your mark.
-id: Glider_ID_136_Bullseye
-
-name: Stealth Pivot
-description: Strategic silence.
-id: Glider_ID_137_StreetOpsStealth
-
-name: Surefire
-description: Classic camo hits the spot.
-id: Glider_ID_138_BomberPlane
-
-name: Globetrotter
-description: The world is yours.
-id: Glider_ID_139_EarthDay
-
-name: Arcana
-description: Soar on wings of mystery.
-id: Glider_ID_140_ShatterFly
-
-name: Avengers Quinjet
-description: Avengers assemble!
-id: Glider_ID_141_AshtonBoardwalk
-
-name: The Milano
-description: Guard the galaxy in style.
-id: Glider_ID_142_AshtonSaltLake
-
-name: Retaliator
-description: No one's out of reach.
-id: Glider_ID_143_BattleSuit
-
-name: Turbo Spin
-description: Engines ignited.
-id: Glider_ID_144_StrawberryPilot
-
-name: Tailwind Twister
-description: Fly into the eye.
-id: Glider_ID_145_StormTracker
-
-name: Scarlet Strike
-description: A sleek and stealthy landing.
-id: Glider_ID_146_Masako
-
-name: Assault Bomber
-description: Bomb's away!
-id: Glider_ID_147_Raptor
-
-name: Tech Turbine
-description: Adapt and excel.
-id: Glider_ID_148_CyberScavenger
-
-name: Engage
-description: A new day begins.
-id: Glider_ID_149_Geisha
-
-name: Coaxial Blue
-description: Dual-rotor tactical copter.
-id: Glider_ID_150_TechOpsBlue
-
-name: Storm Eye
-description: Harness the storm.
-id: Glider_ID_151_StormSoldier
-
-name: Batso
-description: Be afraid, be slightly afraid!
-id: Glider_ID_152_DemonHunter
-
-name: Custom Cruiser
-description: Fly your banner.
-id: Glider_ID_153_Banner
-
-name: Megabat
-description: Soar with the storm.
-id: Glider_ID_154_GlowBroBat
-
-name: Man O' War
-description: Behold the splendor of the sea. From a safe distance.
-id: Glider_ID_155_Jellyfish
-
-name: Payload
-description: A megaton of smiles.
-id: Glider_ID_156_SummerBomber
-
-name: Driftstream
-description: Prepare for interdimensional drift.
-id: Glider_ID_157_Drift
-
-name: Camp Cruiser
-description: It's his now.
-id: Glider_ID_158_Hairy
-
-name: Ion
-description: Glide beyond the edge of science.
-id: Glider_ID_159_TechMage
-
-name: Chaos
-description: No rules.
-id: Glider_ID_160_Anarchy
-
-name: Rose Rider
-description: Battle tested and pleasantly scented.
-id: Glider_ID_161_RoseLeader
-
-name: Horned Strike
-description: Grab the battle by the horns.
-id: Glider_ID_162_BoneWasp
-
-name: Master Mix
-description: Mix it up.
-id: Glider_ID_163_DJRemix
-
-name: Spray Sail
-description: Tagged on the fly.
-id: Glider_ID_164_GraffitiRemix
-
-name: Steelwing
-description: Utterly untamable.
-id: Glider_ID_165_KnightRemix
-
-name: Junk Bucket
-description: It's sharp. It lands. What else do you want?
-id: Glider_ID_166_RustLordRemix
-
-name: Sparkle Strider
-description: Dazzle all the way down.
-id: Glider_ID_167_SparkleRemix
-
-name: Rift Rider
-description: Cruise the dimensional highway.
-id: Glider_ID_168_StreetRacerDriftRemix
-
-name: Pixel Pilot
-description: From the past, and into the beyond.
-id: Glider_ID_169_VoyagerRemix
-
-name: Burning Beast
-description: Soaring from the underworld.
-id: Glider_ID_171_DevilRock
-
-name: Dual Defiant
-description: Defy all expectations.
-id: Glider_ID_172_RaptorBlackOps
-
-name: Stunt Cycle
-description: Hang on tight.
-id: Glider_ID_173_TacticalBiker
-
-name: Nite Flight
-description: Zzzzzzz.
-id: Glider_ID_174_SleepyTime
-
-name: Sky Stripe
-description: Signature stripe glider.
-id: Glider_ID_175_StreetFashionRed
-
-name: Batglider
-description: On Leather Wings.
-id: Glider_ID_176_BlackMondayCape_4P79K
-
-name: Bat Glider
-description: Bat Glider
-id: Glider_ID_176_BlackMondayCape_GrapplerAsset
-
-name: Catwing
-description: Always land on your feet.
-id: Glider_ID_177_BlackMondayFemale_HO3A9
-
-name: Batwing
-description: Dark Knight Deployed.
-id: Glider_ID_178_BlackMondayMale_03M3E
-
-name: Crazy Eight
-description: Land the shot.
-id: Glider_ID_179_CrazyEight
-
-name: Xile
-description: Make your own way.
-id: Glider_ID_180_NeonGraffiti
-
-name: Base Jumper
-description: Take the leap.
-id: Glider_ID_181_RockClimber
-
-name: Metalmark
-description: Why soar when you can flutter.
-id: Glider_ID_182_Sheath
-
-name: Sky Trawler
-description: Gone fishin'.
-id: Glider_ID_183_TacticalFisherman
-
-name: Fusion Coil
-description: Positively entwined.
-id: Glider_ID_184_Viper
-
-name: Goo Glider
-description: Soar with gummy goodness.
-id: Glider_ID_185_Nosh
-
-name: First Order Tie Fighter
-description: This has got some moves.
-id: Glider_ID_186_GalileoFerry_48L4V
-
-name: TIE Whisper
-description: A ship of speed and ferocity.
-id: Glider_ID_187_GalileoKayak_Q8THV
-
-name: Millennium Falcon
-description: Fastest hunk of junk in the galaxy.
-id: Glider_ID_188_GalileoRocket_G7OKI
-
-name: Y-Wing
-description: Bring hope back to the galaxy.
-id: Glider_ID_189_GalileoZeppelinFemale_353IC
-
-name: 2020
-description: Make it a good one.
-id: Glider_ID_190_NewYears
-
-name: Treefall
-description: There's always something special under the tree.
-id: Glider_ID_191_PineTree
-
-name: Winter Wrapper
-description: Special delivery incoming.
-id: Glider_ID_192_Present
-
-name: Skellon
-description: Nothing stops a dragon.
-id: Glider_ID_193_TheGoldenSkeleton
-
-name: Elite Recon
-description: Your eye in the sky.
-id: Glider_ID_194_Agent
-
-name: Skellefish
-description: The catch of the day.
-id: Glider_ID_195_BuffCatMale
-
-name: Astroworld Cyclone
-description: Enjoy the ride.
-id: Glider_ID_196_CycloneMale
-
-name: Big Haul
-description: Time to cash out.
-id: Glider_ID_197_HenchmanMale
-
-name: Wild Blast
-description: Kaboom!
-id: Glider_ID_198_Kaboom
-
-name: Llamacorn Express
-description: The legendary flight of the Llamacorn!
-id: Glider_ID_199_LlamaHero
-
-name: Ollie
-description: A faithful floaty friend.
-id: Glider_ID_200_PhotographerFemale
-
-name: Bombs Away!
-description: Ride the shockwave.
-id: Glider_ID_201_TNTinaFemale
-
-name: Banana Bomber
-description: I expect you to fly, Agent Peely.
-id: Glider_ID_202_BananaAgent
-
-name: Echo Jet
-description: Twin turbo Echo Class jet prototype.
-id: Glider_ID_203_TwinDarkFemale
-
-name: Pop Dropper
-description: Unstoppable and highly poppable.
-id: Glider_ID_204_CardboardCrew
-
-name: Custom Flier
-description: Gear Specialist Glider.
-id: Glider_ID_205_DesertOpsCamo
-
-name: Dragacorn
-description: Bask in its mutant rainbow glory.
-id: Glider_ID_206_Donut
-
-name: Flux Flier
-description: Reality is always in flux.
-id: Glider_ID_207_InformerMale
-
-name: Shadow Stalker
-description: Nothing is out of reach.
-id: Glider_ID_208_BadEggMale
-
-name: Psi-Rider
-description: Harness the power of telekinesis.
-id: Glider_ID_209_DonutPlate
-
-name: Toxic Flash
-description: Lightweight jet glider with venomous flare.
-id: Glider_ID_210_GraffitiAssassinFemale
-
-name: Squad Sail
-description: The gang's all here.
-id: Glider_ID_211_WildCatBlue
-
-name: Sky Sail
-description: Where the ocean meets the sky.
-id: Glider_ID_212_AquaJacketMale
-
-name: Blade Raven
-description: Honor soars undaunted.
-id: Glider_ID_213_BlackKnightFemale
-
-name: Dumpster Flier
-description: Dumpster dive in style.
-id: Glider_ID_214_GarbageIsland
-
-name: Bladey Bird
-description: A cut above the rest.
-id: Glider_ID_216_HardcoreSportz
-
-name: Stratosphere
-description: For those who were born to fly.
-id: Glider_ID_217_LongshortsMale
-
-name: Ohm
-description: Jules' inimitable mechanical owl.
-id: Glider_ID_218_MechanicalEngineerFemale
-
-name: Top Sail
-description: Hang tight!
-id: Glider_ID_219_OceanRiderFemale
-
-name: Fishy Flier
-description: There's something fishy up there...
-id: Glider_ID_220_ProfessorPup
-
-name: Sky Serpent
-description: Slither high on scaly wings.
-id: Glider_ID_221_PythonFemale
-
-name: Convergence
-description: Follow the butterfly.
-id: Glider_ID_222_RacerZeroMale
-
-name: Star Strider
-description: Suit up for a journey to the stars.
-id: Glider_ID_223_SpaceSuit
-
-name: Comet Crasher
-description: Hitch a ride on a runaway comet.
-id: Glider_ID_224_SpaceWandererFemale
-
-name: Water Wings
-description: Perfectly crafted and not too splashy.
-id: Glider_ID_225_TacticalScubaMale
-
-name: Green Eagle
-description: Be seen.
-id: Glider_ID_226_GreenJacketFemale
-
-name: Sail Shark
-description: Take a bite out of flight.
-id: Glider_ID_227_SharkSuit
-
-name: Celestia
-description: Fly among the stars.
-id: Glider_ID_228_CelestialFemale
-
-name: Sky Ray
-description: Swim through the skies.
-id: Glider_ID_229_Angler
-
-name: Fluorescent Flier
-description: Runway-ready.
-id: Glider_ID_230_NeonGreen
-
-name: Starcross
-description: Ride a falling star.
-id: Glider_ID_231_SpaceWandererMale
-
-name: Arcane Energy Glider
-description: Doom is a master of the arcane.
-id: Glider_ID_232_HightowerDate
-
-name: The MCG
-description: A marvel of engineering.
-id: Glider_ID_233_HightowerDefault
-
-name: Root Wing
-description: Fly high on the wings of Groot.
-id: Glider_ID_234_HightowerGrape
-
-name: Gathering Storm
-description: Wings of the Goddess!
-id: Glider_ID_235_HightowerSquashFemale
-
-name: Mjolnir's Path
-description: Let that hammer fly.
-id: Glider_ID_236_HightowerTapasMale
-
-name: Mark 90 Flight Pack
-description: Repulsor-powered for a smooth ride.
-id: Glider_ID_237_HightowerTomato
-
-name: Silver Surfer's Surfboard
-description: The only way to surf a solar flare.
-id: Glider_ID_238_Soy_RWO5D
-
-name: Vanguard Squadron X-wing
-description: Stay fearless to the finish.
-id: Glider_ID_240_Maverick
-
-name: Dayflier
-description: A Whistler Original.
-id: Glider_ID_241_BackspinMale_97LM4
-
-name: Dawn's Promise
-description: Chart a course for a new world.
-id: Glider_ID_243_Myth
-
-name: The O.G.
-description: True Original Glider.
-id: Glider_ID_244_ChOneGlider
-
-name: The Devil's Wings
-description: He hears everything from above.
-id: Glider_ID_245_DeliSandwich
-
-name: Hex Hut
-description: Every witch way.
-id: Glider_ID_246_BabaYaga
-
-name: Skelly Sailer
-description: Skull speed ahead.
-id: Glider_ID_247_Skull
-
-name: Ecto-Glider
-description: By land, by sea, or by air, the Ghostbusters are here for you.
-id: Glider_ID_248_York
-
-name: Nexus War Glider
-description: The battle for reality begins here.
-id: Glider_ID_249_NexusWar
-
-name: Ghost Glider
-description: Johnny Blaze's infernal ride.
-id: Glider_ID_250_EmbersMale
-
-name: Widowmaker
-description: Black Widow's signature jetpack.
-id: Glider_ID_251_TapDanceFemale
-
-name: Mash
-description: Yummy yummy yummy.
-id: Glider_ID_252_PieManMale
-
-name: Winter Wing
-description: Pairs nicely with crisp snow and chilly afternoons.
-id: Glider_ID_253_ArcticCamoWoodsFemale
-
-name: Razor Crest
-description: She's a Classic.
-id: Glider_ID_254_CosmosMale
-
-name: Flapjack Flyer
-description: Syrup, up, and away!
-id: Glider_ID_255_FlapjackWranglerMale
-
-name: Crimson Wish
-description: Vengeance will find you.
-id: Glider_ID_256_FutureSamuraiMale
-
-name: Guardian Shield
-description: A gift from Laufey the Just.
-id: Glider_ID_257_Historian_VS0BJ
-
-name: UNSC Pelican
-description: Mini-D77 Troop Carrier
-id: Glider_ID_258_JupiterMale_LB0TE
-
-name: Hyperboard
-description: Syncs to your Mechafusion Interface for a smooth ride.
-id: Glider_ID_259_LexaFemale
-
-name: Eagle's Form
-description: Take to the skies with the power of the Wildheart.
-id: Glider_ID_260_ShapeshifterFemale
-
-name: Hunter's Skyblade
-description: Chase your prey across land and sea.
-id: Glider_ID_261_SpaceFighterFemale
-
-name: Power of Mar-Vell
-description: She's vowed to always use it for good.
-id: Glider_ID_262_Cherry_Y3GIU
-
-name: Candy Plane
-description: Sweet landings guaranteed.
-id: Glider_ID_263_FancyCandyMale
-
-name: Jingle Wing
-description: Oh what fun.
-id: Glider_ID_264_FestiveGold
-
-name: Winter's Wish
-description: Wishing you a bright winter's flight.
-id: Glider_ID_265_HolidayLights
-
-name: Glow Wings
-description: Glowing glow wings, for wherever you're going.
-id: Glider_ID_266_Neon
-
-name: Wakandan Skyrider
-description: A kingly ride.
-id: Glider_ID_267_PlumRetro_R2CYE
-
-name: Tree Topper
-description: Pine-fresh frosty flier.
-id: Glider_ID_268_SnowGlobeMint
-
-name: Multipoint Edge
-description: The perfect angle of attack.
-id: Glider_ID_269_Stars
-
-name: Spikey Jet
-description: A lot of heart, and a little edge.
-id: Glider_ID_271_CombatDoll
-
-name: Sky Shadow
-description: Shadow style signature stripe glider.
-id: Glider_ID_272_StreetFashionEclipseFemale
-
-name: Light Cycle
-description: The Grid warrior's best friend.
-id: Glider_ID_273_MainframeMale_P06W7
-
-name: Dauntless Dragon
-description: Wisdom, power, and luck.
-id: Glider_ID_274_DragonRacerBlue
-
-name: Cerberus
-description: Rise from the underworld.
-id: Glider_ID_275_AncientGladiatorMale
-
-name: Cheyenne Dropship
-description: In the pipe, five by five.
-id: Glider_ID_276_Kepler_BEUUP
-
-name: Sumo Torpedo
-description: Dosukoi!
-id: Glider_ID_277_Skirmish_9KK2W
-
-name: Meteor Skimmer
-description: Standard Ranger-issue landing module.
-id: Glider_ID_278_SpaceWarriorMale
-
-name: Eggar
-description: He's a little shy.
-id: Glider_ID_279_ChickenWarriorMale
-
-name: Soaring Cipher
-description: Imbued with glyphic grace.
-id: Glider_ID_280_CubeNinjaMale
-
-name: Weeping Crow
-description: It has regrets.
-id: Glider_ID_281_DarkMinionMale
-
-name: Bone Patrol
-description: It's got good bones.
-id: Glider_ID_282_DinoHunterFemale
-
-name: Soaring Soul-Self
-description: Catch a ride on the wings of Azarath.
-id: Glider_ID_283_ObsidianFemale
-
-name: Salvaged Chute
-description: Hope this still works.
-id: Glider_ID_284_TempleFemale
-
-name: Spire Fire
-description: The burning flame of a long ago sacrifice.
-id: Glider_ID_285_TowerSentinelFemale
-
-name: Raptor
-description: Go ahead. Buzz the tower. You've earned it.
-id: Glider_MiG
-
-name: Warthog
-description: Hit the ground running with the battle tested Warthog Glider.
-id: Glider_Military
-
-name: Prismatic
-description: It's so colorful!
-id: Glider_Prismatic
-
-name: Glider
-description: Standard Battle Glider.
-id: Glider_ProxyTest
-
-name: Random
-description: Randomly chooses between favorite Gliders (or all owned Gliders if nothing is marked as a favorite)
-id: Glider_Random
-
-name: Roadtrip
-description: Never miss a battle snack with the world's first picnic-ready glider.
-id: Glider_RoadTrip
-
-name: Stealth
-description: Shh.
-id: Glider_Stealth
-
-name: Glider
-description: Standard Battle Glider.
-id: Glider_TestStaticParts
-
-name: Wasp
-description: Float like a glider. Sting like a wasp.
-id: Glider_Venom
-
-name: Voyager
-description: Bravely float into the fray aboard the Voyager Glider.
-id: Glider_Voyager
-
-name: Mako
-description: Soar through the air like the mighty shark!
-id: Glider_Warthog
-
-name: Rainbow Glider
-description: It's all of the colors!
-id: PreSeasonGlider
-
-name: Rainbow Glider Elite
-description: It's all of the colors... but better!
-id: PreSeasonGlider_Elite
-
-name: The Umbrella
-description: The fabled victory umbrella.
-id: Solo_Umbrella
-
-name: Squad Umbrella
-description: Squad Victory Umbrella.
-id: Squad_Umbrella
-
-name: One Shot
-description: Assassin's choice
-id: Umbrella_AssassinSuit
-
-name: The Umbrella
-description: The fabled victory umbrella.
-id: Umbrella_Bronze
-
-name: Brella
-description: Float into action with the first ever customizable umbrella.
-id: Umbrella_BuildABrella
-
-name: The Umbrella
-description: The fabled victory umbrella.
-id: Umbrella_Gold
-
-name: Paper Parasol
-description: A Season 3 Victory Royale umbrella as delicate as paper.
-id: Umbrella_PaperParasol
-
-name: The Umbrella
-description: The fabled victory umbrella.
-id: Umbrella_Platinum
-
-name: Wet Paint
-description: Represent your Season 4 Victory Royale in style!
-id: Umbrella_Season_04
-
-name: Beach Umbrella
-description: Bask in Season 5 Victory Royale, then relax in the shade.
-id: Umbrella_Season_05
-
-name: Webrella
-description: Spun from Victory Royale in Season 6.
-id: Umbrella_Season_06
-
-name: Snowfall
-description: The forecast calls for Victory Royale in Season 7.
-id: Umbrella_Season_07
-
-name: Palm Leaf
-description: Kick back and enjoy Victory Royale in Season 8.
-id: Umbrella_Season_08
-
-name: Holographic
-description: Neo Tilted's finest.
-id: Umbrella_Season_09
-
-name: X
-description: Remixed and reimagined.
-id: Umbrella_Season_10
-
-name: Downpour
-description: Chapter 2: Season 1 Victory Umbrella.
-id: Umbrella_Season_11
-
-name: CLASSIFIED
-description: Tell no one you've found this.
-id: Umbrella_Season_12
-
-name: Fortilla Flier
-description: The signature brella of unsinkable drifters.
-id: Umbrella_Season_13
-
-name: Mighty Marvel 'Brella
-description: You know what they say: Make mine Marvel.
-id: Umbrella_Season_14
-
-name: Bounty 'Brella
-description: Drop in and sow some chaos.
-id: Umbrella_Season_15
-
-name: Foundational 'Brella
-description: No matter what happens, do not give up.
-id: Umbrella_Season_16
-
-name: The Umbrella
-description: The fabled victory umbrella.
-id: Umbrella_Silver
-
-name: Snowflake
-description: A Season 2 Victory Royale umbrella handcrafted from locally sourced snowflakes.
-id: Umbrella_Snowflake
-
-name: Storm Sail
-description: Run, the storm's coming.
-id: Umbrella_Storm
-
-name: Beskar Umbrella
-description: Bears the signet of a clan of two.
-id: Umbrella_Vendetta
+ID: Glider_ID_089_Muertos
+
+Name: Discovery
+Description: Explore the galaxy.
+ID: Glider_ID_090_Celestial
+
+Name: Junkjet
+Description: It might just get you where you're going.
+ID: Glider_ID_091_MadCommander
+
+Name: Pivot
+Description: Primed to pivot with precision.
+ID: Glider_ID_092_StreetOps
+
+Name: Poofy Parasail
+Description: Puffed up and ready for landing.
+ID: Glider_ID_093_AnimalJackets
+
+Name: Kabuto
+Description: Sharp enough to cut through air.
+ID: Glider_ID_094_SamuraiUltra
+
+Name: Magic Wings
+Description: Soaring and spellbound.
+ID: Glider_ID_095_Witch
+
+Name: Flying Carp
+Description: Dive into the sky.
+ID: Glider_ID_096_HornedMask
+
+Name: Flappy Flyer
+Description: Keep it flappy.
+ID: Glider_ID_097_Feathers
+
+Name: Hyper
+Description: What's up must come down.
+ID: Glider_ID_098_Sup
+
+Name: Flutterbug
+Description: Wings a flutter.
+ID: Glider_ID_099_Moth
+
+Name: Rickety Runner
+Description: Who says penguins can't fly?
+ID: Glider_ID_100_Yeti
+
+Name: Tactical Sleigh
+Description: No chimney is safe.
+ID: Glider_ID_101_TacticalSanta
+
+Name: Fuel
+Description: Turn and burn.
+ID: Glider_ID_102_Rhino
+
+Name: Nautilus
+Description: Dive! Dive! Dive!
+ID: Glider_ID_103_Nautilus
+
+Name: Glidurrr
+Description: Order up!
+ID: Glider_ID_104_Durrburger
+
+Name: Cuddle Cruiser
+Description: The turbulence is bearable.
+ID: Glider_ID_104_FuzzyBear
+
+Name: Paper Plane
+Description: Finely folded flyer.
+ID: Glider_ID_104_Math
+
+Name: Gingersled
+Description: That's one sweet ride.
+ID: Glider_ID_105_Gingerbread
+
+Name: Royale Air
+Description: Don't forget your lift ticket.
+ID: Glider_ID_105_SnowBoard
+
+Name: Equalizer
+Description: Soar through the soundscape.
+ID: Glider_ID_106_FortniteDJ
+
+Name: Crystal Carriage
+Description: The finest coach in the land.
+ID: Glider_ID_107_IceMaiden
+
+Name: Krampus' Little Helper
+Description: The greatest of all time.
+ID: Glider_ID_108_Krampus
+
+Name: Equilibrium
+Description: Perfectly balanced.
+ID: Glider_ID_109_StreetGoth
+
+Name: Coral Cruiser
+Description: Ride the reef.
+ID: Glider_ID_110_TeriyakiFish
+
+Name: Diverge
+Description: Break away from the pack.
+ID: Glider_ID_111_MilitaryFashion
+
+Name: Coaxial Copter
+Description: Dual-rotor tactical copter.
+ID: Glider_ID_112_TechOps
+
+Name: Tusk
+Description: Wild and woolly.
+ID: Glider_ID_113_Barbarian
+
+Name: Winter's Thorn
+Description: Ride out the squall.
+ID: Glider_ID_114_IceQueen
+
+Name: Snowblades
+Description: Cut through the cold.
+ID: Glider_ID_115_SnowNinja
+
+Name: Extra Cheese
+Description: Slice through the sky.
+ID: Glider_ID_116_PizzaPit
+
+Name: Wild Streak
+Description: Marked for battle.
+ID: Glider_ID_117_Warpaint
+
+Name: Mello Rider
+Description: Fly happier.
+ID: Glider_ID_118_Squishy
+
+Name: Frozen Feathers
+Description: A cold wind bellows.
+ID: Glider_ID_119_ReaperFrozen
+
+Name: Ice Cream Cruiser
+Description: Melty at every altitude.
+ID: Glider_ID_120_IceCream
+
+Name: Brite Blimp
+Description: Rainbow powered.
+ID: Glider_ID_121_BriteBomberDeluxe
+
+Name: Heartspan
+Description: Soar on the wide wings of love.
+ID: Glider_ID_122_Valentines
+
+Name: Lockstep
+Description: Lock in the win.
+ID: Glider_ID_123_MasterKey
+
+Name: Sky Serpents
+Description: Slither through the sky.
+ID: Glider_ID_124_Medusa
+
+Name: Choppa
+Description: Calling in air support.
+ID: Glider_ID_125_Bandolier
+
+Name: Crop Duster
+Description: Prepare for the harvest.
+ID: Glider_ID_126_Farmer
+
+Name: Sunrise
+Description: Rise up.
+ID: Glider_ID_127_Aztec
+
+Name: Booty Buoy
+Description: Hide your plunder in a parachute.
+ID: Glider_ID_128_BootyBuoy
+
+Name: Cinder
+Description: Harness the all consuming flame.
+ID: Glider_ID_129_FireElf
+
+Name: Disruptor
+Description: Cause a commotion.
+ID: Glider_ID_130_SciOps
+
+Name: Dark Forerunner
+Description: Distort. Distract. Destroy.
+ID: Glider_ID_131_SpeedyMidnight
+
+Name: Plunder
+Description: Set sail to plunder!
+ID: Glider_ID_132_Pirate01Octopus
+
+Name: Falcon
+Description: Soar on the wings of the fabled falcon.
+ID: Glider_ID_133_BandageNinja
+
+Name: Lavawing
+Description: Awoken by a violent eruption.
+ID: Glider_ID_134_DarkVikingFire
+
+Name: Home Run
+Description: It's outta here!
+ID: Glider_ID_135_Baseball
+
+Name: Targeted
+Description: Always hit your mark.
+ID: Glider_ID_136_Bullseye
+
+Name: Stealth Pivot
+Description: Strategic silence.
+ID: Glider_ID_137_StreetOpsStealth
+
+Name: Surefire
+Description: Classic camo hits the spot.
+ID: Glider_ID_138_BomberPlane
+
+Name: Globetrotter
+Description: The world is yours.
+ID: Glider_ID_139_EarthDay
+
+Name: Arcana
+Description: Soar on wings of mystery.
+ID: Glider_ID_140_ShatterFly
+
+Name: Avengers Quinjet
+Description: Avengers assemble!
+ID: Glider_ID_141_AshtonBoardwalk
+
+Name: The Milano
+Description: Guard the galaxy in style.
+ID: Glider_ID_142_AshtonSaltLake
+
+Name: Retaliator
+Description: No one's out of reach.
+ID: Glider_ID_143_BattleSuit
+
+Name: Turbo Spin
+Description: Engines ignited.
+ID: Glider_ID_144_StrawberryPilot
+
+Name: Tailwind Twister
+Description: Fly into the eye.
+ID: Glider_ID_145_StormTracker
+
+Name: Scarlet Strike
+Description: A sleek and stealthy landing.
+ID: Glider_ID_146_Masako
+
+Name: Assault Bomber
+Description: Bomb's away!
+ID: Glider_ID_147_Raptor
+
+Name: Tech Turbine
+Description: Adapt and excel.
+ID: Glider_ID_148_CyberScavenger
+
+Name: Engage
+Description: A new day begins.
+ID: Glider_ID_149_Geisha
+
+Name: Coaxial Blue
+Description: Dual-rotor tactical copter.
+ID: Glider_ID_150_TechOpsBlue
+
+Name: Storm Eye
+Description: Harness the storm.
+ID: Glider_ID_151_StormSoldier
+
+Name: Batso
+Description: Be afraid, be slightly afraid!
+ID: Glider_ID_152_DemonHunter
+
+Name: Custom Cruiser
+Description: Fly your banner.
+ID: Glider_ID_153_Banner
+
+Name: Megabat
+Description: Soar with the storm.
+ID: Glider_ID_154_GlowBroBat
+
+Name: Man O' War
+Description: Behold the splendor of the sea. From a safe distance.
+ID: Glider_ID_155_Jellyfish
+
+Name: Payload
+Description: A megaton of smiles.
+ID: Glider_ID_156_SummerBomber
+
+Name: Driftstream
+Description: Prepare for interdimensional drift.
+ID: Glider_ID_157_Drift
+
+Name: Camp Cruiser
+Description: It's his now.
+ID: Glider_ID_158_Hairy
+
+Name: Ion
+Description: Glide beyond the edge of science.
+ID: Glider_ID_159_TechMage
+
+Name: Chaos
+Description: No rules.
+ID: Glider_ID_160_Anarchy
+
+Name: Rose Rider
+Description: Battle tested and pleasantly scented.
+ID: Glider_ID_161_RoseLeader
+
+Name: Horned Strike
+Description: Grab the battle by the horns.
+ID: Glider_ID_162_BoneWasp
+
+Name: Master Mix
+Description: Mix it up.
+ID: Glider_ID_163_DJRemix
+
+Name: Spray Sail
+Description: Tagged on the fly.
+ID: Glider_ID_164_GraffitiRemix
+
+Name: Steelwing
+Description: Utterly untamable.
+ID: Glider_ID_165_KnightRemix
+
+Name: Junk Bucket
+Description: It's sharp. It lands. What else do you want?
+ID: Glider_ID_166_RustLordRemix
+
+Name: Sparkle Strider
+Description: Dazzle all the way down.
+ID: Glider_ID_167_SparkleRemix
+
+Name: Rift Rider
+Description: Cruise the dimensional highway.
+ID: Glider_ID_168_StreetRacerDriftRemix
+
+Name: Pixel Pilot
+Description: From the past, and into the beyond.
+ID: Glider_ID_169_VoyagerRemix
+
+Name: Burning Beast
+Description: Soaring from the underworld.
+ID: Glider_ID_171_DevilRock
+
+Name: Dual Defiant
+Description: Defy all expectations.
+ID: Glider_ID_172_RaptorBlackOps
+
+Name: Stunt Cycle
+Description: Hang on tight.
+ID: Glider_ID_173_TacticalBiker
+
+Name: Nite Flight
+Description: Zzzzzzz.
+ID: Glider_ID_174_SleepyTime
+
+Name: Sky Stripe
+Description: Signature stripe glider.
+ID: Glider_ID_175_StreetFashionRed
+
+Name: Batglider
+Description: On Leather Wings.
+ID: Glider_ID_176_BlackMondayCape_4P79K
+
+Name: Bat Glider
+Description: Bat Glider
+ID: Glider_ID_176_BlackMondayCape_GrapplerAsset
+
+Name: Catwing
+Description: Always land on your feet.
+ID: Glider_ID_177_BlackMondayFemale_HO3A9
+
+Name: Batwing
+Description: Dark Knight Deployed.
+ID: Glider_ID_178_BlackMondayMale_03M3E
+
+Name: Crazy Eight
+Description: Land the shot.
+ID: Glider_ID_179_CrazyEight
+
+Name: Xile
+Description: Make your own way.
+ID: Glider_ID_180_NeonGraffiti
+
+Name: Base Jumper
+Description: Take the leap.
+ID: Glider_ID_181_RockClimber
+
+Name: Metalmark
+Description: Why soar when you can flutter.
+ID: Glider_ID_182_Sheath
+
+Name: Sky Trawler
+Description: Gone fishin'.
+ID: Glider_ID_183_TacticalFisherman
+
+Name: Fusion Coil
+Description: Positively entwined.
+ID: Glider_ID_184_Viper
+
+Name: Goo Glider
+Description: Soar with gummy goodness.
+ID: Glider_ID_185_Nosh
+
+Name: First Order Tie Fighter
+Description: This has got some moves.
+ID: Glider_ID_186_GalileoFerry_48L4V
+
+Name: TIE Whisper
+Description: A ship of speed and ferocity.
+ID: Glider_ID_187_GalileoKayak_Q8THV
+
+Name: Millennium Falcon
+Description: Fastest hunk of junk in the galaxy.
+ID: Glider_ID_188_GalileoRocket_G7OKI
+
+Name: Y-Wing
+Description: Bring hope back to the galaxy.
+ID: Glider_ID_189_GalileoZeppelinFemale_353IC
+
+Name: 2020
+Description: Make it a good one.
+ID: Glider_ID_190_NewYears
+
+Name: Treefall
+Description: There's always something special under the tree.
+ID: Glider_ID_191_PineTree
+
+Name: Winter Wrapper
+Description: Special delivery incoming.
+ID: Glider_ID_192_Present
+
+Name: Skellon
+Description: Nothing stops a dragon.
+ID: Glider_ID_193_TheGoldenSkeleton
+
+Name: Elite Recon
+Description: Your eye in the sky.
+ID: Glider_ID_194_Agent
+
+Name: Skellefish
+Description: The catch of the day.
+ID: Glider_ID_195_BuffCatMale
+
+Name: Astroworld Cyclone
+Description: Enjoy the ride.
+ID: Glider_ID_196_CycloneMale
+
+Name: Big Haul
+Description: Time to cash out.
+ID: Glider_ID_197_HenchmanMale
+
+Name: Wild Blast
+Description: Kaboom!
+ID: Glider_ID_198_Kaboom
+
+Name: Llamacorn Express
+Description: The legendary flight of the Llamacorn!
+ID: Glider_ID_199_LlamaHero
+
+Name: Ollie
+Description: A faithful floaty friend.
+ID: Glider_ID_200_PhotographerFemale
+
+Name: Bombs Away!
+Description: Ride the shockwave.
+ID: Glider_ID_201_TNTinaFemale
+
+Name: Banana Bomber
+Description: I expect you to fly, Agent Peely.
+ID: Glider_ID_202_BananaAgent
+
+Name: Echo Jet
+Description: Twin turbo Echo Class jet prototype.
+ID: Glider_ID_203_TwinDarkFemale
+
+Name: Pop Dropper
+Description: Unstoppable and highly poppable.
+ID: Glider_ID_204_CardboardCrew
+
+Name: Custom Flier
+Description: Gear Specialist Glider.
+ID: Glider_ID_205_DesertOpsCamo
+
+Name: Dragacorn
+Description: Bask in its mutant rainbow glory.
+ID: Glider_ID_206_Donut
+
+Name: Flux Flier
+Description: Reality is always in flux.
+ID: Glider_ID_207_InformerMale
+
+Name: Shadow Stalker
+Description: Nothing is out of reach.
+ID: Glider_ID_208_BadEggMale
+
+Name: Psi-Rider
+Description: Harness the power of telekinesis.
+ID: Glider_ID_209_DonutPlate
+
+Name: Toxic Flash
+Description: Lightweight jet glider with venomous flare.
+ID: Glider_ID_210_GraffitiAssassinFemale
+
+Name: Squad Sail
+Description: The gang's all here.
+ID: Glider_ID_211_WildCatBlue
+
+Name: Sky Sail
+Description: Where the ocean meets the sky.
+ID: Glider_ID_212_AquaJacketMale
+
+Name: Blade Raven
+Description: Honor soars undaunted.
+ID: Glider_ID_213_BlackKnightFemale
+
+Name: Dumpster Flier
+Description: Dumpster dive in style.
+ID: Glider_ID_214_GarbageIsland
+
+Name: Bladey Bird
+Description: A cut above the rest.
+ID: Glider_ID_216_HardcoreSportz
+
+Name: Stratosphere
+Description: For those who were born to fly.
+ID: Glider_ID_217_LongshortsMale
+
+Name: Ohm
+Description: Jules' inimitable mechanical owl.
+ID: Glider_ID_218_MechanicalEngineerFemale
+
+Name: Top Sail
+Description: Hang tight!
+ID: Glider_ID_219_OceanRiderFemale
+
+Name: Fishy Flier
+Description: There's something fishy up there...
+ID: Glider_ID_220_ProfessorPup
+
+Name: Sky Serpent
+Description: Slither high on scaly wings.
+ID: Glider_ID_221_PythonFemale
+
+Name: Convergence
+Description: Follow the butterfly.
+ID: Glider_ID_222_RacerZeroMale
+
+Name: Star Strider
+Description: Suit up for a journey to the stars.
+ID: Glider_ID_223_SpaceSuit
+
+Name: Comet Crasher
+Description: Hitch a ride on a runaway comet.
+ID: Glider_ID_224_SpaceWandererFemale
+
+Name: Water Wings
+Description: Perfectly crafted and not too splashy.
+ID: Glider_ID_225_TacticalScubaMale
+
+Name: Green Eagle
+Description: Be seen.
+ID: Glider_ID_226_GreenJacketFemale
+
+Name: Sail Shark
+Description: Take a bite out of flight.
+ID: Glider_ID_227_SharkSuit
+
+Name: Celestia
+Description: Fly among the stars.
+ID: Glider_ID_228_CelestialFemale
+
+Name: Sky Ray
+Description: Swim through the skies.
+ID: Glider_ID_229_Angler
+
+Name: Fluorescent Flier
+Description: Runway-ready.
+ID: Glider_ID_230_NeonGreen
+
+Name: Starcross
+Description: Ride a falling star.
+ID: Glider_ID_231_SpaceWandererMale
+
+Name: Arcane Energy Glider
+Description: Doom is a master of the arcane.
+ID: Glider_ID_232_HightowerDate
+
+Name: The MCG
+Description: A marvel of engineering.
+ID: Glider_ID_233_HightowerDefault
+
+Name: Root Wing
+Description: Fly high on the wings of Groot.
+ID: Glider_ID_234_HightowerGrape
+
+Name: Gathering Storm
+Description: Wings of the Goddess!
+ID: Glider_ID_235_HightowerSquashFemale
+
+Name: Mjolnir's Path
+Description: Let that hammer fly.
+ID: Glider_ID_236_HightowerTapasMale
+
+Name: Mark 90 Flight Pack
+Description: Repulsor-powered for a smooth ride.
+ID: Glider_ID_237_HightowerTomato
+
+Name: Silver Surfer's Surfboard
+Description: The only way to surf a solar flare.
+ID: Glider_ID_238_Soy_RWO5D
+
+Name: Vanguard Squadron X-wing
+Description: Stay fearless to the finish.
+ID: Glider_ID_240_Maverick
+
+Name: Dayflier
+Description: A Whistler Original.
+ID: Glider_ID_241_BackspinMale_97LM4
+
+Name: Dawn's Promise
+Description: Chart a course for a new world.
+ID: Glider_ID_243_Myth
+
+Name: The O.G.
+Description: True Original Glider.
+ID: Glider_ID_244_ChOneGlider
+
+Name: The Devil's Wings
+Description: He hears everything from above.
+ID: Glider_ID_245_DeliSandwich
+
+Name: Hex Hut
+Description: Every witch way.
+ID: Glider_ID_246_BabaYaga
+
+Name: Skelly Sailer
+Description: Skull speed ahead.
+ID: Glider_ID_247_Skull
+
+Name: Ecto-Glider
+Description: By land, by sea, or by air, the Ghostbusters are here for you.
+ID: Glider_ID_248_York
+
+Name: Nexus War Glider
+Description: The battle for reality begins here.
+ID: Glider_ID_249_NexusWar
+
+Name: Ghost Glider
+Description: Johnny Blaze's infernal ride.
+ID: Glider_ID_250_EmbersMale
+
+Name: Widowmaker
+Description: Black Widow's signature jetpack.
+ID: Glider_ID_251_TapDanceFemale
+
+Name: Mash
+Description: Yummy yummy yummy.
+ID: Glider_ID_252_PieManMale
+
+Name: Winter Wing
+Description: Pairs nicely with crisp snow and chilly afternoons.
+ID: Glider_ID_253_ArcticCamoWoodsFemale
+
+Name: Razor Crest
+Description: She's a Classic.
+ID: Glider_ID_254_CosmosMale
+
+Name: Flapjack Flyer
+Description: Syrup, up, and away!
+ID: Glider_ID_255_FlapjackWranglerMale
+
+Name: Crimson Wish
+Description: Vengeance will find you.
+ID: Glider_ID_256_FutureSamuraiMale
+
+Name: Guardian Shield
+Description: A gift from Laufey the Just.
+ID: Glider_ID_257_Historian_VS0BJ
+
+Name: UNSC Pelican
+Description: Mini-D77 Troop Carrier
+ID: Glider_ID_258_JupiterMale_LB0TE
+
+Name: Hyperboard
+Description: Syncs to your Mechafusion Interface for a smooth ride.
+ID: Glider_ID_259_LexaFemale
+
+Name: Eagle's Form
+Description: Take to the skies with the power of the Wildheart.
+ID: Glider_ID_260_ShapeshifterFemale
+
+Name: Hunter's Skyblade
+Description: Chase your prey across land and sea.
+ID: Glider_ID_261_SpaceFighterFemale
+
+Name: Power of Mar-Vell
+Description: She's vowed to always use it for good.
+ID: Glider_ID_262_Cherry_Y3GIU
+
+Name: Candy Plane
+Description: Sweet landings guaranteed.
+ID: Glider_ID_263_FancyCandyMale
+
+Name: Jingle Wing
+Description: Oh what fun.
+ID: Glider_ID_264_FestiveGold
+
+Name: Winter's Wish
+Description: Wishing you a bright winter's flight.
+ID: Glider_ID_265_HolidayLights
+
+Name: Glow Wings
+Description: Glowing glow wings, for wherever you're going.
+ID: Glider_ID_266_Neon
+
+Name: Wakandan Skyrider
+Description: A kingly ride.
+ID: Glider_ID_267_PlumRetro_R2CYE
+
+Name: Tree Topper
+Description: Pine-fresh frosty flier.
+ID: Glider_ID_268_SnowGlobeMint
+
+Name: Multipoint Edge
+Description: The perfect angle of attack.
+ID: Glider_ID_269_Stars
+
+Name: Spikey Jet
+Description: A lot of heart, and a little edge.
+ID: Glider_ID_271_CombatDoll
+
+Name: Sky Shadow
+Description: Shadow style signature stripe glider.
+ID: Glider_ID_272_StreetFashionEclipseFemale
+
+Name: Light Cycle
+Description: The Grid warrior's best friend.
+ID: Glider_ID_273_MainframeMale_P06W7
+
+Name: Dauntless Dragon
+Description: Wisdom, power, and luck.
+ID: Glider_ID_274_DragonRacerBlue
+
+Name: Cerberus
+Description: Rise from the underworld.
+ID: Glider_ID_275_AncientGladiatorMale
+
+Name: Cheyenne Dropship
+Description: In the pipe, five by five.
+ID: Glider_ID_276_Kepler_BEUUP
+
+Name: Sumo Torpedo
+Description: Dosukoi!
+ID: Glider_ID_277_Skirmish_9KK2W
+
+Name: Meteor Skimmer
+Description: Standard Ranger-issue landing module.
+ID: Glider_ID_278_SpaceWarriorMale
+
+Name: Eggar
+Description: He's a little shy.
+ID: Glider_ID_279_ChickenWarriorMale
+
+Name: Soaring Cipher
+Description: Imbued with glyphic grace.
+ID: Glider_ID_280_CubeNinjaMale
+
+Name: Weeping Crow
+Description: It has regrets.
+ID: Glider_ID_281_DarkMinionMale
+
+Name: Bone Patrol
+Description: It's got good bones.
+ID: Glider_ID_282_DinoHunterFemale
+
+Name: Soaring Soul-Self
+Description: Catch a ride on the wings of Azarath.
+ID: Glider_ID_283_ObsidianFemale
+
+Name: Salvaged Chute
+Description: Hope this still works.
+ID: Glider_ID_284_TempleFemale
+
+Name: Spire Fire
+Description: The burning flame of a long ago sacrifice.
+ID: Glider_ID_285_TowerSentinelFemale
+
+Name: Raptor
+Description: Go ahead. Buzz the tower. You've earned it.
+ID: Glider_MiG
+
+Name: Warthog
+Description: Hit the ground running with the battle tested Warthog Glider.
+ID: Glider_Military
+
+Name: Prismatic
+Description: It's so colorful!
+ID: Glider_Prismatic
+
+Name: Glider
+Description: Standard Battle Glider.
+ID: Glider_ProxyTest
+
+Name: Random
+Description: Randomly chooses between favorite Gliders (or all owned Gliders if nothing is marked as a favorite)
+ID: Glider_Random
+
+Name: Roadtrip
+Description: Never miss a battle snack with the world's first picnic-ready glider.
+ID: Glider_RoadTrip
+
+Name: Stealth
+Description: Shh.
+ID: Glider_Stealth
+
+Name: Glider
+Description: Standard Battle Glider.
+ID: Glider_TestStaticParts
+
+Name: Wasp
+Description: Float like a glider. Sting like a wasp.
+ID: Glider_Venom
+
+Name: Voyager
+Description: Bravely float into the fray aboard the Voyager Glider.
+ID: Glider_Voyager
+
+Name: Mako
+Description: Soar through the air like the mighty shark!
+ID: Glider_Warthog
+
+Name: Rainbow Glider
+Description: It's all of the colors!
+ID: PreSeasonGlider
+
+Name: Rainbow Glider Elite
+Description: It's all of the colors... but better!
+ID: PreSeasonGlider_Elite
+
+Name: The Umbrella
+Description: The fabled victory umbrella.
+ID: Solo_Umbrella
+
+Name: Squad Umbrella
+Description: Squad Victory Umbrella.
+ID: Squad_Umbrella
+
+Name: One Shot
+Description: Assassin's choice
+ID: Umbrella_AssassinSuit
+
+Name: The Umbrella
+Description: The fabled victory umbrella.
+ID: Umbrella_Bronze
+
+Name: Brella
+Description: Float into action with the first ever customizable umbrella.
+ID: Umbrella_BuildABrella
+
+Name: The Umbrella
+Description: The fabled victory umbrella.
+ID: Umbrella_Gold
+
+Name: Paper Parasol
+Description: A Season 3 Victory Royale umbrella as delicate as paper.
+ID: Umbrella_PaperParasol
+
+Name: The Umbrella
+Description: The fabled victory umbrella.
+ID: Umbrella_Platinum
+
+Name: Wet Paint
+Description: Represent your Season 4 Victory Royale in style!
+ID: Umbrella_Season_04
+
+Name: Beach Umbrella
+Description: Bask in Season 5 Victory Royale, then relax in the shade.
+ID: Umbrella_Season_05
+
+Name: Webrella
+Description: Spun from Victory Royale in Season 6.
+ID: Umbrella_Season_06
+
+Name: Snowfall
+Description: The forecast calls for Victory Royale in Season 7.
+ID: Umbrella_Season_07
+
+Name: Palm Leaf
+Description: Kick back and enjoy Victory Royale in Season 8.
+ID: Umbrella_Season_08
+
+Name: Holographic
+Description: Neo Tilted's finest.
+ID: Umbrella_Season_09
+
+Name: X
+Description: Remixed and reimagined.
+ID: Umbrella_Season_10
+
+Name: Downpour
+Description: Chapter 2: Season 1 Victory Umbrella.
+ID: Umbrella_Season_11
+
+Name: CLASSIFIED
+Description: Tell no one you've found this.
+ID: Umbrella_Season_12
+
+Name: Fortilla Flier
+Description: The signature brella of unsinkable drifters.
+ID: Umbrella_Season_13
+
+Name: Mighty Marvel 'Brella
+Description: You know what they say: Make mine Marvel.
+ID: Umbrella_Season_14
+
+Name: Bounty 'Brella
+Description: Drop in and sow some chaos.
+ID: Umbrella_Season_15
+
+Name: Foundational 'Brella
+Description: No matter what happens, do not give up.
+ID: Umbrella_Season_16
+
+Name: The Umbrella
+Description: The fabled victory umbrella.
+ID: Umbrella_Silver
+
+Name: Snowflake
+Description: A Season 2 Victory Royale umbrella handcrafted from locally sourced snowflakes.
+ID: Umbrella_Snowflake
+
+Name: Storm Sail
+Description: Run, the storm's coming.
+ID: Umbrella_Storm
+
+Name: Beskar Umbrella
+Description: Bears the signet of a clan of two.
+ID: Umbrella_Vendetta
 
