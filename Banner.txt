@@ -1,348 +1,348 @@
-name: Monster Team Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_001_Cattus
-
-name: Mecha Team Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_002_Doggus
-
-name: World Cup 2019 Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_003_2019WorldCup
-
-name: Vault Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_004_Oak
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_005_BlackMonday
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_006_StormKing
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_007_S11_TreeSymbol
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_008_S11_DiamondShapes
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_009_S11_EightBall
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_010_S11_Toadstool
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_011_S11_Pawmark
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_012_S11_Fishhook
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_013_S11_ToxicMask
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_014_S11_WaterWaves
-
-name: First Order Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_015_GalileoA_0W6VH
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_016_GalileoB_ZF42Y
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_017_GalileoC_CKB0B
-
-name: Resistance Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_018_GalileoD_5XXFQ
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_019_XmasSweaterB
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_020_Flake
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_021_SockMonkey
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_022_S11_Badge_01
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_023_S11_Badge_02
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_024_S11_Badge_03
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_025_S11_Badge_04
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_026_S11_Badge_05
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_027_LoveAndWar_Love
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_028_LoveAndWar_War
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_029_S12_Cowboy
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_030_S12_Grenade
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_031_S12_Kitty
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_032_S12_Roses
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_033_S12_Skull
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_034_S12_WingedCritter
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_035_S12_Badge_1
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_036_S12_Badge_2
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_037_S12_Badge_3
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_038_S12_Badge_4
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_039_S12_Badge_5
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_040_S12_Midas
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_041_S12_CycloneA
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_043_S12_Donut
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_044_S12_BananaAgent
-
-name: Toucan Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_045_S12_BrazilToucan
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_046_S12_BrazilDrum
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_047_S13_BlackKnight
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_048_S13_MechanicalEngineer
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_049_S13_OceanRider
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_050_S13_ProfessorPup
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_051_S13_RacerZero
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_052_S13_SandCastle
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_053_S13_SpaceWanderer
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_054_S13_TacticalScuba
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_055_S13_Yonezu
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_056_S14_HighTowerDate
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_057_S14_HighTowerGrape
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_058_S14_HighTowerHoneyDew
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_059_S14_HighTowerMango
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_060_S14_HighTowerRadish
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_061_S14_HighTowerSquash
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_062_S14_HighTowerTapas
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_063_S14_HighTowerTomato
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_064_S14_HighTowerWasabi
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_065_S14_PS_PlusPack_11
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_066_S15_AncientGladiator
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_067_S15_Shapeshifter
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_068_S15_Lexa
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_069_S15_FutureSamurai
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_070_S15_Flapjack
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_071_S15_SpaceFighter
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_072_S15_CosmosA
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_073_S15_CosmosB
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_074_S15_CosmosC
-
-name: Homebase Banner
-description: A new banner for your homebase. Find it in the homebase banner editor.
-id: BannerToken_STW001_Starlight1
-
-name: Homebase Banner
-description: A new banner for your homebase. Find it in the homebase banner editor.
-id: BannerToken_STW002_Starlight5
-
-name: Homebase Banner
-description: A new banner for your homebase. Find it in the homebase banner editor.
-id: BannerToken_STW003_Starlight3
-
-name: Homebase Banner
-description: A new banner for your homebase. Find it in the homebase banner editor.
-id: BannerToken_STW004_Starlight4
-
-name: Homebase Banner
-description: A new banner for your homebase. Find it in the homebase banner editor.
-id: BannerToken_STW005_Starlight2
-
-name: Homebase Banner
-description: A new banner for your homebase. Find it in the homebase banner editor.
-id: BannerToken_STW006_Starlight6
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_TBD_S13_Badge_1
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_TBD_S13_Badge_2
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_TBD_S13_Badge_3
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_TBD_S13_Badge_4
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_TBD_S13_Badge_5
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_TBD_S13_SeasonBanner1
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_TBD_S13_SeasonBanner2
-
-name: Banner
-description: A new icon for your banner. Assign it in the Locker.
-id: BannerToken_TBD_S13_SpraySweater
+Name: Monster Team Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_001_Cattus
+
+Name: Mecha Team Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_002_Doggus
+
+Name: World Cup 2019 Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_003_2019WorldCup
+
+Name: Vault Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_004_Oak
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_005_BlackMonday
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_006_StormKing
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_007_S11_TreeSymbol
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_008_S11_DiamondShapes
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_009_S11_EightBall
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_010_S11_Toadstool
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_011_S11_Pawmark
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_012_S11_Fishhook
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_013_S11_ToxicMask
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_014_S11_WaterWaves
+
+Name: First Order Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_015_GalileoA_0W6VH
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_016_GalileoB_ZF42Y
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_017_GalileoC_CKB0B
+
+Name: Resistance Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_018_GalileoD_5XXFQ
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_019_XmasSweaterB
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_020_Flake
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_021_SockMonkey
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_022_S11_Badge_01
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_023_S11_Badge_02
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_024_S11_Badge_03
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_025_S11_Badge_04
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_026_S11_Badge_05
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_027_LoveAndWar_Love
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_028_LoveAndWar_War
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_029_S12_Cowboy
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_030_S12_Grenade
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_031_S12_Kitty
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_032_S12_Roses
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_033_S12_Skull
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_034_S12_WingedCritter
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_035_S12_Badge_1
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_036_S12_Badge_2
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_037_S12_Badge_3
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_038_S12_Badge_4
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_039_S12_Badge_5
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_040_S12_Midas
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_041_S12_CycloneA
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_043_S12_Donut
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_044_S12_BananaAgent
+
+Name: Toucan Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_045_S12_BrazilToucan
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_046_S12_BrazilDrum
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_047_S13_BlackKnight
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_048_S13_MechanicalEngineer
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_049_S13_OceanRider
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_050_S13_ProfessorPup
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_051_S13_RacerZero
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_052_S13_SandCastle
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_053_S13_SpaceWanderer
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_054_S13_TacticalScuba
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_055_S13_Yonezu
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_056_S14_HighTowerDate
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_057_S14_HighTowerGrape
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_058_S14_HighTowerHoneyDew
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_059_S14_HighTowerMango
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_060_S14_HighTowerRadish
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_061_S14_HighTowerSquash
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_062_S14_HighTowerTapas
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_063_S14_HighTowerTomato
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_064_S14_HighTowerWasabi
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_065_S14_PS_PlusPack_11
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_066_S15_AncientGladiator
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_067_S15_Shapeshifter
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_068_S15_Lexa
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_069_S15_FutureSamurai
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_070_S15_Flapjack
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_071_S15_SpaceFighter
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_072_S15_CosmosA
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_073_S15_CosmosB
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_074_S15_CosmosC
+
+Name: Homebase Banner
+Description: A new banner for your homebase. Find it in the homebase banner editor.
+ID: BannerToken_STW001_Starlight1
+
+Name: Homebase Banner
+Description: A new banner for your homebase. Find it in the homebase banner editor.
+ID: BannerToken_STW002_Starlight5
+
+Name: Homebase Banner
+Description: A new banner for your homebase. Find it in the homebase banner editor.
+ID: BannerToken_STW003_Starlight3
+
+Name: Homebase Banner
+Description: A new banner for your homebase. Find it in the homebase banner editor.
+ID: BannerToken_STW004_Starlight4
+
+Name: Homebase Banner
+Description: A new banner for your homebase. Find it in the homebase banner editor.
+ID: BannerToken_STW005_Starlight2
+
+Name: Homebase Banner
+Description: A new banner for your homebase. Find it in the homebase banner editor.
+ID: BannerToken_STW006_Starlight6
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_TBD_S13_Badge_1
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_TBD_S13_Badge_2
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_TBD_S13_Badge_3
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_TBD_S13_Badge_4
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_TBD_S13_Badge_5
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_TBD_S13_SeasonBanner1
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_TBD_S13_SeasonBanner2
+
+Name: Banner
+Description: A new icon for your banner. Assign it in the Locker.
+ID: BannerToken_TBD_S13_SpraySweater
 
