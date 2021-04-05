@@ -1,540 +1,2326 @@
-BoltonPickaxe
-DefaultPickaxe
-Dev_Test_Pickaxe
-HalloweenScythe
-HappyPickaxe
-Pickaxe_Deathvalley
-Pickaxe_Flamingo
-Pickaxe_ID_011_Medieval
-Pickaxe_ID_012_District
-Pickaxe_ID_013_Teslacoil
-Pickaxe_ID_014_WinterCamo
-Pickaxe_ID_015_HolidayCandyCane
-Pickaxe_ID_016_Disco
-Pickaxe_ID_017_Shark
-Pickaxe_ID_018_Anchor
-Pickaxe_ID_019_Heart
-Pickaxe_ID_020_Keg
-Pickaxe_ID_021_Megalodon
-Pickaxe_ID_022_HolidayGiftWrap
-Pickaxe_ID_023_SkiBoot
-Pickaxe_ID_024_Plunger
-Pickaxe_ID_025_Dragon
-Pickaxe_ID_026_Brite
-Pickaxe_ID_027_Scavenger
-Pickaxe_ID_028_Space
-Pickaxe_ID_029_Assassin
-Pickaxe_ID_030_ArtDeco
-Pickaxe_ID_031_Squeak
-Pickaxe_ID_032_Tactical
-Pickaxe_ID_033_PotOfGold
-Pickaxe_ID_034_RockerPunk
-Pickaxe_ID_035_Prismatic
-Pickaxe_ID_036_CuChulainn
-Pickaxe_ID_037_Stealth
-Pickaxe_ID_038_Carrot
-Pickaxe_ID_039_TacticalBlack
-Pickaxe_ID_040_Pizza
-Pickaxe_ID_041_PajamaParty
-Pickaxe_ID_042_CircuitBreaker
-Pickaxe_ID_043_OrbitingPlanets
-Pickaxe_ID_044_TacticalUrbanHammer
-Pickaxe_ID_045_Valor
-Pickaxe_ID_046_Candy
-Pickaxe_ID_047_CarbideBlue
-Pickaxe_ID_048_CarbideBlack
-Pickaxe_ID_049_Metal
-Pickaxe_ID_050_Graffiti
-Pickaxe_ID_051_NeonGlow
-Pickaxe_ID_052_Hazmat
-Pickaxe_ID_053_Deco
-Pickaxe_ID_054_FilmCamera
-Pickaxe_ID_055_Stop
-Pickaxe_ID_056_Venus
-Pickaxe_ID_057_Jailbird
-Pickaxe_ID_058_Basketball
-Pickaxe_ID_059_DarkEagle
-Pickaxe_ID_060_DarkNinja
-Pickaxe_ID_061_WWIIPilot
-Pickaxe_ID_062_Soccer
-Pickaxe_ID_063_Vuvuzela
-Pickaxe_ID_064_Gumshoe
-Pickaxe_ID_065_SpeedyRed
-Pickaxe_ID_066_FlintlockRed
-Pickaxe_ID_067_Taxi
-Pickaxe_ID_068_Drift
-Pickaxe_ID_069_DarkViking
-Pickaxe_ID_070_Viking
-Pickaxe_ID_071_StreetRacer
-Pickaxe_ID_072_Luchador
-Pickaxe_ID_073_Balloon
-Pickaxe_ID_074_SharpDresser
-Pickaxe_ID_075_Huya
-Pickaxe_ID_076_Douyu
-Pickaxe_ID_077_CarbideWhite
-Pickaxe_ID_078_Lifeguard
-Pickaxe_ID_079_ModernMilitary
-Pickaxe_ID_080_Scuba
-Pickaxe_ID_081_StreetRacerCobra
-Pickaxe_ID_082_SushiChef
-Pickaxe_ID_083_Exercise
-Pickaxe_ID_084_DurrburgerHero
-Pickaxe_ID_085_Wukong
-Pickaxe_ID_086_Biker
-Pickaxe_ID_087_Hippie
-Pickaxe_ID_088_PSBurnout
-Pickaxe_ID_089_RavenQuill
-Pickaxe_ID_090_SamuraiBlue
-Pickaxe_ID_091_Hacivat
-Pickaxe_ID_092_Bling
-Pickaxe_ID_093_Medic
-Pickaxe_ID_094_Football
-Pickaxe_ID_095_FootballTrophy
-Pickaxe_ID_096_FootballReferee
-Pickaxe_ID_097_RaptorArcticCamo
-Pickaxe_ID_098_GarageBand
-Pickaxe_ID_099_ModernMilitaryRed
-Pickaxe_ID_100_DieselPunk
-Pickaxe_ID_101_Octoberfest
-Pickaxe_ID_102_RedRiding
-Pickaxe_ID_103_FortniteDJ
-Pickaxe_ID_104_Cowgirl
-Pickaxe_ID_105_Scarecrow
-Pickaxe_ID_106_DarkBomber
-Pickaxe_ID_107_HalloweenTomato
-Pickaxe_ID_107_Plague
-Pickaxe_ID_108_PumpkinSlice
-Pickaxe_ID_109_SkullTrooper
-Pickaxe_ID_110_Vampire
-Pickaxe_ID_111_BlackWidow
-Pickaxe_ID_112_GuanYu
-Pickaxe_ID_113_Muertos
-Pickaxe_ID_114_BadassCowboyCowSkull
-Pickaxe_ID_115_EvilCowboy
-Pickaxe_ID_116_Celestial
-Pickaxe_ID_117_MadCommander
-Pickaxe_ID_118_StreetOps
-Pickaxe_ID_119_AnimalJackets
-Pickaxe_ID_120_SamuraiUltraArmor
-Pickaxe_ID_121_RobotRed
-Pickaxe_ID_122_Witch
-Pickaxe_ID_123_HornedMask
-Pickaxe_ID_124_Feathers
-Pickaxe_ID_125_Moth
-Pickaxe_ID_126_Yeti
-Pickaxe_ID_127_Rhino
-Pickaxe_ID_131_Nautilus
-Pickaxe_ID_131_NeonCat
-Pickaxe_ID_132_ArcticSniper
-Pickaxe_ID_133_Demon
-Pickaxe_ID_133_IceKing
-Pickaxe_ID_134_Snowman
-Pickaxe_ID_135_SnowNinja
-Pickaxe_ID_136_Math
-Pickaxe_ID_137_NutCracker
-Pickaxe_ID_138_Gnome
-Pickaxe_ID_139_Gingerbread
-Pickaxe_ID_140_StreetGoth
-Pickaxe_ID_141_Krampus
-Pickaxe_ID_142_TeriyakiFish
-Pickaxe_ID_143_FlintlockWinter
-Pickaxe_ID_144_Angel
-Pickaxe_ID_145_IceMaiden
-Pickaxe_ID_146_MilitaryFashion
-Pickaxe_ID_147_TechOps
-Pickaxe_ID_148_Barbarian
-Pickaxe_ID_149_WavyMan
-Pickaxe_ID_150_IceQueen
-Pickaxe_ID_151_AlienFishhead
-Pickaxe_ID_152_DragonMask
-Pickaxe_ID_153_RoseLeader
-Pickaxe_ID_154_Squishy
-Pickaxe_ID_155_ValentinesFrozen
-Pickaxe_ID_156_RavenQuillFrozen
-Pickaxe_ID_157_Dumpling
-Pickaxe_ID_158_FuzzyBear
-Pickaxe_ID_159_RobotTrouble
-Pickaxe_ID_160_IceCream
-Pickaxe_ID_161_LoveLlama
-Pickaxe_ID_162_SkullBrite
-Pickaxe_ID_163_PirateOctopus
-Pickaxe_ID_164_DragonNinja
-Pickaxe_ID_165_MasterKey
-Pickaxe_ID_166_Shiny
-Pickaxe_ID_167_Medusa
-Pickaxe_ID_168_Bandolier
-Pickaxe_ID_169_Farmer
-Pickaxe_ID_170_Aztec
-Pickaxe_ID_171_OrangeCamo
-Pickaxe_ID_172_BandageNinja
-Pickaxe_ID_173_SciOps
-Pickaxe_ID_174_LuckyRider
-Pickaxe_ID_175_Tropical
-Pickaxe_ID_176_DevilRock
-Pickaxe_ID_177_EvilSuit
-Pickaxe_ID_178_SpeedyMidnight
-Pickaxe_ID_179_StarWand
-Pickaxe_ID_180_TriStar
-Pickaxe_ID_181_Log
-Pickaxe_ID_182_PirateWheel
-Pickaxe_ID_183_BaseballBat2018
-Pickaxe_ID_184_DarkShaman
-Pickaxe_ID_185_BadassCowboyCactus
-Pickaxe_ID_186_DemonStone
-Pickaxe_ID_187_FurnaceFace
-Pickaxe_ID_188_StreetAssassin
-Pickaxe_ID_189_StreetOpsStealth
-Pickaxe_ID_190_GolfClub
-Pickaxe_ID_191_Banana
-Pickaxe_ID_192_PalmTree
-Pickaxe_ID_193_HotDog
-Pickaxe_ID_194_TheBomb
-Pickaxe_ID_195_SpaceBunny
-Pickaxe_ID_196_EvilBunny
-Pickaxe_ID_197_HoppityHeist
-Pickaxe_ID_198_BountyBunny
-Pickaxe_ID_199_ShinyHammer
-Pickaxe_ID_200_MoonlightAssassin
-Pickaxe_ID_201_Swashbuckler
-Pickaxe_ID_202_AshtonBoardwalk
-Pickaxe_ID_203_AshtonSaltLake
-Pickaxe_ID_204_Miner
-Pickaxe_ID_205_StrawberryPilot
-Pickaxe_ID_206_StrawberryPilot_1H
-Pickaxe_ID_207_BountyHunter
-Pickaxe_ID_208_Masako
-Pickaxe_ID_209_BattleSuit
-Pickaxe_ID_210_BunkerMan
-Pickaxe_ID_211_BunkerMan_1H
-Pickaxe_ID_212_CyberScavenger
-Pickaxe_ID_213_AssassinSuitSledgehammer
-Pickaxe_ID_214_Geisha
-Pickaxe_ID_215_Pug
-Pickaxe_ID_216_DemonHunter1H
-Pickaxe_ID_217_UrbanScavenger1H
-Pickaxe_ID_218_StormSoldier
-Pickaxe_ID_219_BandageNinja1H
-Pickaxe_ID_220_ForkKnife1H
-Pickaxe_ID_221_SkullBriteEclipse
-Pickaxe_ID_222_Banner
-Pickaxe_ID_223_Jellyfish
-Pickaxe_ID_224_Butterfly
-Pickaxe_ID_225_Caterpillar
-Pickaxe_ID_226_CyberFuBlade
-Pickaxe_ID_227_FemaleGlowBro
-Pickaxe_ID_228_MaleGlowBro
-Pickaxe_ID_229_TechMage
-Pickaxe_ID_230_Drift1H
-Pickaxe_ID_231_Flamingo2
-Pickaxe_ID_232_Grillin1H
-Pickaxe_ID_233_Birthday2019
-Pickaxe_ID_234_CyberKarate
-Pickaxe_ID_235_Lasagna
-Pickaxe_ID_236_Multibot1H
-Pickaxe_ID_237_Warpaint
-Pickaxe_ID_238_Bubblegum
-Pickaxe_ID_239_PizzaPitPJ1H
-Pickaxe_ID_240_GraffitiRemix1H
-Pickaxe_ID_241_KnightRemix
-Pickaxe_ID_242_SparkleRemix
-Pickaxe_ID_243_DJRemix
-Pickaxe_ID_244_RustRemix1H
-Pickaxe_ID_245_VoyagerRemix1H
-Pickaxe_ID_246_BlueBadass1H
-Pickaxe_ID_247_BoneWasp
-Pickaxe_ID_248_MechPilot
-Pickaxe_ID_249_Squishy1H
-Pickaxe_ID_250_Lopex
-Pickaxe_ID_251_MascotMilitiaBurger
-Pickaxe_ID_252_MascotMilitiaTomato
-Pickaxe_ID_253_StarWalker
-Pickaxe_ID_254_Syko
-Pickaxe_ID_255_WiseMaster
-Pickaxe_ID_256_TechOpsBlue
-Pickaxe_ID_257_FrostMystery1H
-Pickaxe_ID_258_RockerPunkCube1H
-Pickaxe_ID_259_CupidFemale1H
-Pickaxe_ID_260_AngelEclipse1H
-Pickaxe_ID_261_DarkEagleFire1H
-Pickaxe_ID_262_FutureBikerWhite
-Pickaxe_ID_263_JonesyCube
-Pickaxe_ID_264_LemonLime1H
-Pickaxe_ID_265_BarbequeLarry1H
-Pickaxe_ID_266_PaddedArmor
-Pickaxe_ID_267_RaptorBlackOps
-Pickaxe_ID_268_ToxicKitty1H
-Pickaxe_ID_269_WWIIPilotSciFi
-Pickaxe_ID_270_Jumpstart
-Pickaxe_ID_271_Punchy
-Pickaxe_ID_272_SleepyTime
-Pickaxe_ID_273_StreetFashionRed
-Pickaxe_ID_274_StreetUrchin
-Pickaxe_ID_275_Traveler
-Pickaxe_ID_276_BlackMondayFemale1H_1V4HE
-Pickaxe_ID_277_BlackMondayMale_5TLSD
-Pickaxe_ID_278_BrightGunnerRemix1H
-Pickaxe_ID_279_MaleLlamaHeroMilitia
-Pickaxe_ID_280_MascotMilitiaCuddle1h
-Pickaxe_ID_281_BulletBlueFemale
-Pickaxe_ID_282_CODSquadPlaidFemale
-Pickaxe_ID_283_CODSquadPlaidMale
-Pickaxe_ID_284_CrazyEight1H
-Pickaxe_ID_285_CuddleTeamDark
-Pickaxe_ID_286_FishermanFemale1H
-Pickaxe_ID_287_RockClimber1H
-Pickaxe_ID_288_RebirthMedicFemale
-Pickaxe_ID_289_RedRidingRemixFemale
-Pickaxe_ID_290_Sheath1H
-Pickaxe_ID_291_SlurpMonster
-Pickaxe_ID_292_TacticalFisherman1H
-Pickaxe_ID_293_Viper
-Pickaxe_ID_294_CandyCane
-Pickaxe_ID_295_DarkDino1H
-Pickaxe_ID_296_DevilRockMale1H
-Pickaxe_ID_297_FlowerSkeletonFemale1H
-Pickaxe_ID_298_Freak1H
-Pickaxe_ID_299_GoatRobe
-Pickaxe_ID_300_Mastermind
-Pickaxe_ID_301_ModernWitch
-Pickaxe_ID_302_TourBus1H
-Pickaxe_ID_303_Nosh
-Pickaxe_ID_304_NoshHunter1H
-Pickaxe_ID_305_Phantom1H
-Pickaxe_ID_306_PunkDevil
-Pickaxe_ID_307_SkeletonHunter
-Pickaxe_ID_308_SpookyNeonMale
-Pickaxe_ID_309_Storm
-Pickaxe_ID_310_SubmarinerMale
-Pickaxe_ID_311_JetSkiFemale1H
-Pickaxe_ID_312_JetSkiMale1H
-Pickaxe_ID_313_ShiitakeShaolinMale
-Pickaxe_ID_314_WeepingWoodsMale1H
-Pickaxe_ID_315_BaneFemale1H
-Pickaxe_ID_316_BigChuggus
-Pickaxe_ID_317_BoneSnake1H
-Pickaxe_ID_318_BulletBlueMale
-Pickaxe_ID_319_CavalryBanditFemale1H
-Pickaxe_ID_320_ForestDwellerMale
-Pickaxe_ID_321_ForestQueenFemale1H
-Pickaxe_ID_322_FrogmanMale
-Pickaxe_ID_323_PinkTrooperMale1H
-Pickaxe_ID_324_NorthPole
-Pickaxe_ID_325_FestivePugMale
-Pickaxe_ID_326_GalileoFerry1H_F5IUA
-Pickaxe_ID_327_GalileoKayak_50NFG
-Pickaxe_ID_328_GalileoRocket_SNC0L
-Pickaxe_ID_329_GingerbreadCookie1H
-Pickaxe_ID_330_HolidayTimeMale
-Pickaxe_ID_331_KaneMale1H
-Pickaxe_ID_332_MintMiner
-Pickaxe_ID_333_MsAlpineFemale1H
-Pickaxe_ID_334_SweaterWeatherMale
-Pickaxe_ID_335_TacticalBearMale1H
-Pickaxe_ID_336_TNTinaFemale
-Pickaxe_ID_337_WingedFuryFemale
-Pickaxe_ID_338_BandageNinjaBlue1H
-Pickaxe_ID_339_CODSquadHoodie
-Pickaxe_ID_340_DragonRacerFemale
-Pickaxe_ID_341_FrogmanFemale1H
-Pickaxe_ID_342_GummiMale1H
-Pickaxe_ID_343_HoodieBanditFemale
-Pickaxe_ID_344_MartialArtistMale
-Pickaxe_ID_345_ModernMilitaryEclipse
-Pickaxe_ID_346_NeonGraffiti
-Pickaxe_ID_348_SharkAttackMale
-Pickaxe_ID_349_StreetRatMale1H
-Pickaxe_ID_350_TheGoldenSkeleton
-Pickaxe_ID_351_TigerFashionFemale1H
-Pickaxe_ID_352_VirtualShadowMale1H
-Pickaxe_ID_353_AgentAce1H
-Pickaxe_ID_354_AgentRogue1H
-Pickaxe_ID_355_BuffCatMale1H
-Pickaxe_ID_356_CandyMale
-Pickaxe_ID_357_CatBurglarMale
-Pickaxe_ID_358_CuteDuoMale
-Pickaxe_ID_359_CycloneMale
-Pickaxe_ID_360_DesertOpsCamoFemale
-Pickaxe_ID_361_HenchmanMale1H
-Pickaxe_ID_362_LollipopFemale
-Pickaxe_ID_363_LollipopTricksterFemale
-Pickaxe_ID_364_PhotographerFemale1H
-Pickaxe_ID_365_SpyTechHackerMale
-Pickaxe_ID_366_SpyMale1H
-Pickaxe_ID_367_WinterHunter
-Pickaxe_ID_368_BananaAgent
-Pickaxe_ID_369_AnarchyAcresFarmer
-Pickaxe_ID_370_BlueFlames
-Pickaxe_ID_371_PineappleBandit1H
-Pickaxe_ID_372_StreetFashionEmeraldFemale1H
-Pickaxe_ID_373_TeriyakiFishAssassin1H
-Pickaxe_ID_374_TwinDarkFemale1H
-Pickaxe_ID_375_AgentXFemale1H
-Pickaxe_ID_376_FNCS
-Pickaxe_ID_377_SpyTechFemale1H
-Pickaxe_ID_378_SpyTechMale1H
-Pickaxe_ID_379_TailorMale1H
-Pickaxe_ID_380_TargetPracticeMale
-Pickaxe_ID_381_CardboardCrew
-Pickaxe_ID_382_Donut1H
-Pickaxe_ID_383_HandymanMale
-Pickaxe_ID_384_InformerMale1H
-Pickaxe_ID_385_BadEggMale
-Pickaxe_ID_386_CometMale
-Pickaxe_ID_387_DonutCup
-Pickaxe_ID_388_DonutDish1H
-Pickaxe_ID_389_DonutPlate1H
-Pickaxe_ID_390_FemaleHitman1H
-Pickaxe_ID_391_GraffitiAssassinFemale
-Pickaxe_ID_392_Hostile
-Pickaxe_ID_393_NeonCatSpyFemale
-Pickaxe_ID_394_RaveNinjaFemale1H
-Pickaxe_ID_395_SplinterMale1H
-Pickaxe_ID_396_RapVillainessFemale1H
-Pickaxe_ID_397_TechExplorerMale1H
-Pickaxe_ID_398_WildCatFemale
-Pickaxe_ID_399_LoofahFemale1H
-Pickaxe_ID_400_AquaJacketMale
-Pickaxe_ID_401_BeaconMale
-Pickaxe_ID_402_BlackKnightFemale1H
-Pickaxe_ID_403_CavalryBanditShadow1H
-Pickaxe_ID_404_GatorMale
-Pickaxe_ID_407_HeistShadow
-Pickaxe_ID_408_MastermindShadow
-Pickaxe_ID_409_MechanicalEngineer1H
-Pickaxe_ID_410_OceanRiderFemale1H
-Pickaxe_ID_411_PartyGoldMale
-Pickaxe_ID_412_ProfessorPupMale1H
-Pickaxe_ID_413_PythonFemale1H
-Pickaxe_ID_414_RacerZero
-Pickaxe_ID_415_SandcastleMale
-Pickaxe_ID_416_SpaceWandererFemale1H
-Pickaxe_ID_417_TacticalScubaMale1H
-Pickaxe_ID_418_CupidDarkFemale1H
-Pickaxe_ID_419_JonesyVagabondMale1H
-Pickaxe_ID_420_CandyAppleSour_JXBZA
-Pickaxe_ID_421_CandySummerFemale1H
-Pickaxe_ID_422_GolfSummerFemale
-Pickaxe_ID_423_GreenJacketFemale1H
-Pickaxe_ID_424_HeartBreakerFemale1H
-Pickaxe_ID_425_MsWhipFemale1H
-Pickaxe_ID_426_PunkDevilSummerFemale
-Pickaxe_ID_427_Seaweed1H_CZ9HA
-Pickaxe_ID_428_SharkSuitMale1H
-Pickaxe_ID_429_CelestialFemale1H
-Pickaxe_ID_430_DirtyDocksFemale
-Pickaxe_ID_431_DirtyDocksMale1H
-Pickaxe_ID_432_Dummeez
-Pickaxe_ID_433_LawnGnome
-Pickaxe_ID_434_MilitaryFashionSummerMale1H
-Pickaxe_ID_435_TeriyakiAtlantisMale1H
-Pickaxe_ID_436_AnglerFemale1H
-Pickaxe_ID_438_AntiLlamaFemale
-Pickaxe_ID_439_AxlMale
-Pickaxe_ID_440_FloatillaCaptainMale1H
-Pickaxe_ID_441_IslanderFemale
-Pickaxe_ID_442_LadyAtlantisFemale
-Pickaxe_ID_443_MaskedDancerMale
-Pickaxe_ID_444_MultibotStealth1H
-Pickaxe_ID_445_RaiderPinkFemale1H
-Pickaxe_ID_446_SeaSalt
-Pickaxe_ID_447_SpaceWandererMale
-Pickaxe_ID_448_SportsFashionFemale1H
-Pickaxe_ID_449_TripleScoopFemale
-Pickaxe_ID_450_Valet
-Pickaxe_ID_451_DarkEaglePurple
-Pickaxe_ID_452_DarkNinjaPurple1H
-Pickaxe_ID_453_HightowerDate
-Pickaxe_ID_454_HightowerGrapeMale1H
-Pickaxe_ID_455_HightowerHoneydew1H
-Pickaxe_ID_456_HightowerMango1H
-Pickaxe_ID_457_HightowerSquash1H
-Pickaxe_ID_458_HightowerTapas1H
-Pickaxe_ID_459_HightowerTomato1H
-Pickaxe_ID_460_HightowerWasabi1H
-Pickaxe_ID_461_SkullBriteCube
-Pickaxe_ID_462_Soy_4CW52
-Pickaxe_ID_463_Elastic1H
-Pickaxe_ID_464_LongShortsMale
-Pickaxe_ID_465_BackspinMale1H_R40E7
-Pickaxe_ID_466_CavalryFemale1H
-Pickaxe_ID_469_MythFemale
-Pickaxe_ID_470_MythMale1H
-Pickaxe_ID_471_StreetFashionGarnetFemale
-Pickaxe_ID_473_VampireCasualFemale
-Pickaxe_ID_474_BlackWidowJacketFemale
-Pickaxe_ID_475_ChOnePickaxe
-Pickaxe_ID_476_DarkBomberSummerFemale
-Pickaxe_ID_477_DeliSandwichMale1H
-Pickaxe_ID_478_FlowerSkeletonMale1H
-Pickaxe_ID_479_LunchBox1H
-Pickaxe_ID_480_PoisonFemale
-Pickaxe_ID_481_SpookyNeonFemale1H
-Pickaxe_ID_482_BabaYagaFemale
-Pickaxe_ID_483_DurrburgerSkull1H
-Pickaxe_ID_484_FamineMale
-Pickaxe_ID_485_FrankieFemale1H
-Pickaxe_ID_486_JekyllMale1H
-Pickaxe_ID_487_PumpkinPunk
-Pickaxe_ID_488_PumpkinSpice1H
-Pickaxe_ID_489_PumpkinSpiceHammer
-Pickaxe_ID_490_TeriyakiFishSkull1H
-Pickaxe_ID_491_YorkMale
-Pickaxe_ID_492_EmbersMale
-Pickaxe_ID_493_NauticalPajamasMale
-Pickaxe_ID_494_NauticalPajamasNightMale1H
-Pickaxe_ID_495_NauticalPajamasUnderwaterMale
-Pickaxe_ID_496_ParcelGoldMale1H
-Pickaxe_ID_497_ParcelPetalFemale
-Pickaxe_ID_498_ParcelPrankHammerMale
-Pickaxe_ID_499_ParcelPrankMale
-Pickaxe_ID_500_TapDanceFemale1H
-Pickaxe_ID_501_EternityFemale
-Pickaxe_ID_502_PiemanMale1H
-Pickaxe_ID_503_RaiderSilverFemale
-Pickaxe_ID_504_VertigoMale
-Pickaxe_ID_505_AncientGladiatorMale1H
-Pickaxe_ID_506_FlapjackWranglerMale
-Pickaxe_ID_507_FutureSamuraiMale1H
-Pickaxe_ID_508_HistorianMale_6BQSW
-Pickaxe_ID_509_IceClaw1H
-Pickaxe_ID_510_JupiterMale_G035V
-Pickaxe_ID_511_LexaFemale1H
-Pickaxe_ID_512_RenegadeRaiderHolidayFemale
-Pickaxe_ID_513_ShapeshifterFemale1H
-Pickaxe_ID_514_SnowmanFashion
-Pickaxe_ID_515_SpaceFighterFemale
-Pickaxe_ID_516_TeriyakiFishElf1H
-Pickaxe_ID_517_CherryFemale_Z0S97
-Pickaxe_ID_518_CupidWinterFemale1H
-Pickaxe_ID_519_DriftWinterMale1H
-Pickaxe_ID_520_FancyCandyMale1H
-Pickaxe_ID_521_FestiveMoose
-Pickaxe_ID_522_FrostbyteMale
-Pickaxe_ID_523_HolidayLightsMale
-Pickaxe_ID_524_Neon
-Pickaxe_ID_525_PlumRetro1H_3FBV3
-Pickaxe_ID_526_SnowboarderMale1H
-Pickaxe_ID_527_Stars
-Pickaxe_ID_528_StreetFashionHolidayFemale
-Pickaxe_ID_529_TiptoeMale_MQ5UM
-Pickaxe_ID_530_TiramisuMale1H_R94F2
-Pickaxe_ID_531_Turkey1H
-Pickaxe_ID_532_WombatFemale_CWE2D
-Pickaxe_ID_533_WombatMale_L7QPQ
-Pickaxe_ID_534_CombatDollFemale
-Pickaxe_ID_538_GrilledCheeseMale_Z7YMW
-Pickaxe_ID_539_LexaMale
-Pickaxe_ID_541_StreetFashionEclipseFemale
-Pickaxe_ID_STW001_Tier_1
-Pickaxe_ID_STW002_Tier_3
-Pickaxe_ID_STW003_Tier_4
-Pickaxe_ID_STW004_Tier_5
-Pickaxe_ID_STW005_Tier_6
-Pickaxe_ID_STW006_Tier_7
-Pickaxe_ID_STW007_Basic
-Pickaxe_ID_TBD_CosmosWeapon
-Pickaxe_Lockjaw
-Pickaxe_Random
-SickleBatPickaxe
-SkiIcePickaxe
-SpikyPickaxe
+name: Close Shave
+description: A stylish pickaxe with bolt on tips.
+id: BoltonPickaxe
+
+name: Default Pickaxe
+description: Perfectly unremarkable.
+id: DefaultPickaxe
+
+name: Test Pickaxe
+description: Used for testing pickaxes.
+id: Dev_Test_Pickaxe
+
+name: Reaper
+description: Harvest resources... and souls.
+id: HalloweenScythe
+
+name: Lucky
+description: A sturdy pickaxe with a great attitude.
+id: HappyPickaxe
+
+name: Death Valley
+description: Whenever you need a skull on a stick, the Death Valley Pickaxe is there for you.
+id: Pickaxe_Deathvalley
+
+name: Pink Flamingo
+description: From suburban lawns to the front lines, the Pink Flamingo Pickaxe is always ready for action.
+id: Pickaxe_Flamingo
+
+name: Axecalibur
+description: Stone and anvil not included.
+id: Pickaxe_ID_011_Medieval
+
+name: Pulse Axe
+description: Bleeding edge axe technology.
+id: Pickaxe_ID_012_District
+
+name: AC/DC
+description: Warning: High Voltage!
+id: Pickaxe_ID_013_Teslacoil
+
+name: Ice Breaker
+description: A great way to meet your fellow combatants.
+id: Pickaxe_ID_014_WinterCamo
+
+name: Candy Axe
+description: Deck the walls with festive mayhem!
+id: Pickaxe_ID_015_HolidayCandyCane
+
+name: Disco Brawl
+description: Ready for a ballroom blitz.
+id: Pickaxe_ID_016_Disco
+
+name: Chomp Jr.
+description: They're going to need a bigger fort.
+id: Pickaxe_ID_017_Shark
+
+name: Bottom Feeder
+description: From the murky depths!
+id: Pickaxe_ID_018_Anchor
+
+name: Tat Axe
+description: No regerts!
+id: Pickaxe_ID_019_Heart
+
+name: Party Animal
+description: Red plastic cups not included.
+id: Pickaxe_ID_020_Keg
+
+name: Tooth Pick
+description: Don't forget to floss.
+id: Pickaxe_ID_021_Megalodon
+
+name: You Shouldn't Have!
+description: For the combatant who has everything.
+id: Pickaxe_ID_022_HolidayGiftWrap
+
+name: Ski Boot
+description: Give 'em the boot.
+id: Pickaxe_ID_023_SkiBoot
+
+name: Plunja
+description: The competition is circling the drain.
+id: Pickaxe_ID_024_Plunger
+
+name: Dragon Axe
+description: Forged in dragon fire.
+id: Pickaxe_ID_025_Dragon
+
+name: Rainbow Smash
+description: Beat the stuffing out of 'em.
+id: Pickaxe_ID_026_Brite
+
+name: Sawtooth
+description: Hack your way to victory.
+id: Pickaxe_ID_027_Scavenger
+
+name: EVA
+description: Extravehicular Axe.
+id: Pickaxe_ID_028_Space
+
+name: Trusty No. 2
+description: Ready to pass the test.
+id: Pickaxe_ID_029_Assassin
+
+name: Empire Axe
+description: Build your empire.
+id: Pickaxe_ID_030_ArtDeco
+
+name: Pick Squeak
+description: Squeak squeak! Squeak! Squeak squeak squeak!
+id: Pickaxe_ID_031_Squeak
+
+name: Tactical Spade
+description: Designed for survival.
+id: Pickaxe_ID_032_Tactical
+
+name: Pot O' Gold
+description: Everything that glitters...
+id: Pickaxe_ID_033_PotOfGold
+
+name: Anarchy Axe
+description: This axe does whatever it wants.
+id: Pickaxe_ID_034_RockerPunk
+
+name: Spectral Axe
+description: What color is it?
+id: Pickaxe_ID_035_Prismatic
+
+name: Silver Fang
+description: Loyal. Brave. Very sharp.
+id: Pickaxe_ID_036_CuChulainn
+
+name: Spectre
+description: They'll never see it coming.
+id: Pickaxe_ID_037_Stealth
+
+name: Carrot Stick
+description: Give 'em 3-5 servings.
+id: Pickaxe_ID_038_Carrot
+
+name: Instigator
+description: Start something.
+id: Pickaxe_ID_039_TacticalBlack
+
+name: Axeroni
+description: Victory by the slice!
+id: Pickaxe_ID_040_Pizza
+
+name: Bitemark
+description: Take a bite out of the competition.
+id: Pickaxe_ID_041_PajamaParty
+
+name: Cutting Edge
+description: Forged in a particle accelerator.
+id: Pickaxe_ID_042_CircuitBreaker
+
+name: Global Axe
+description: Think globally, axe locally.
+id: Pickaxe_ID_043_OrbitingPlanets
+
+name: Tenderizer
+description: Leave a good first impression.
+id: Pickaxe_ID_044_TacticalUrbanHammer
+
+name: Gale Force
+description: Rise above the storm.
+id: Pickaxe_ID_045_Valor
+
+name: Lollipopper
+description: Sweet, sweet, victory.
+id: Pickaxe_ID_046_Candy
+
+name: Positron
+description: Stay positive.
+id: Pickaxe_ID_047_CarbideBlue
+
+name: Onslaught
+description: Unrelenting.
+id: Pickaxe_ID_048_CarbideBlack
+
+name: Persuader
+description: Very convincing.
+id: Pickaxe_ID_049_Metal
+
+name: Renegade Roller
+description: Go on a roll.
+id: Pickaxe_ID_050_Graffiti
+
+name: Glow Stick
+description: Behold, it glows!
+id: Pickaxe_ID_051_NeonGlow
+
+name: Autocleave
+description: Clean out the competition.
+id: Pickaxe_ID_052_Hazmat
+
+name: Airfoil
+description: Streamlined for optimal aerodynamics.
+id: Pickaxe_ID_053_Deco
+
+name: Director's Cut
+description: Lights, Camera, Axin'.
+id: Pickaxe_ID_054_FilmCamera
+
+name: Stop Axe
+description: Never stop axin'.
+id: Pickaxe_ID_055_Stop
+
+name: Tendril
+description: Rooted in fierce competition.
+id: Pickaxe_ID_056_Venus
+
+name: Nite Owl
+description: Pull an all-niter.
+id: Pickaxe_ID_057_Jailbird
+
+name: Slam Dunk
+description: It's a... slam dunk.
+id: Pickaxe_ID_058_Basketball
+
+name: Oracle Axe
+description: Visions of victory.
+id: Pickaxe_ID_059_DarkEagle
+
+name: Fated Frame
+description: Rise above your fate.
+id: Pickaxe_ID_060_DarkNinja
+
+name: Propeller Axe
+description: Take it for a spin.
+id: Pickaxe_ID_061_WWIIPilot
+
+name: Elite Cleat
+description: For those unaccustomed to defeat.
+id: Pickaxe_ID_062_Soccer
+
+name: Vuvuzela
+description: Festively loud.
+id: Pickaxe_ID_063_Vuvuzela
+
+name: Magnifying Axe
+description: Dust 'em for prints.
+id: Pickaxe_ID_064_Gumshoe
+
+name: Razor Edge
+description: On the verge of being too sharp.
+id: Pickaxe_ID_065_SpeedyRed
+
+name: Crimson Axe
+description: Wield, smite, repeat.
+id: Pickaxe_ID_066_FlintlockRed
+
+name: Victory Lap
+description: Give it a spin.
+id: Pickaxe_ID_067_Taxi
+
+name: Rift Edge
+description: Piercing through the dimensional plane.
+id: Pickaxe_ID_068_Drift
+
+name: Permafrost
+description: Chiseled from glacial ice.
+id: Pickaxe_ID_069_DarkViking
+
+name: Forebearer
+description: Wielded by countless generations.
+id: Pickaxe_ID_070_Viking
+
+name: Lug Axe
+description: Tune up the competition.
+id: Pickaxe_ID_071_StreetRacer
+
+name: Piledriver
+description: No holds barred.
+id: Pickaxe_ID_072_Luchador
+
+name: Balloon Axe
+description: Deflate the competition.
+id: Pickaxe_ID_073_Balloon
+
+name: Studded Axe
+description: Edgy.
+id: Pickaxe_ID_074_SharpDresser
+
+name: Pointer
+description: Get to the point.
+id: Pickaxe_ID_075_Huya
+
+name: Power Grip
+description: Get a grip.
+id: Pickaxe_ID_076_Douyu
+
+name: Resonator
+description: Swing with frequency.
+id: Pickaxe_ID_077_CarbideWhite
+
+name: Rescue Paddle
+description: Life preserver?
+id: Pickaxe_ID_078_Lifeguard
+
+name: Caliper
+description: Unparalleled precision.
+id: Pickaxe_ID_079_ModernMilitary
+
+name: Harpoon Axe
+description: Tip of the spear.
+id: Pickaxe_ID_080_Scuba
+
+name: Clutch Axe
+description: Pedal to the metal.
+id: Pickaxe_ID_081_StreetRacerCobra
+
+name: Filet Axe
+description: A cut above the rest.
+id: Pickaxe_ID_082_SushiChef
+
+name: Axercise
+description: Feel the burn!
+id: Pickaxe_ID_083_Exercise
+
+name: Patty Whacker
+description: If you can't stand the heat...
+id: Pickaxe_ID_084_DurrburgerHero
+
+name: Jingu Bang
+description: Fit for a king.
+id: Pickaxe_ID_085_Wukong
+
+name: Throttle
+description: Rev it up!
+id: Pickaxe_ID_086_Biker
+
+name: Drumbeat
+description: Feel the beat.
+id: Pickaxe_ID_087_Hippie
+
+name: Controller
+description: Take control.
+id: Pickaxe_ID_088_PSBurnout
+
+name: Iron Beak
+description: Peck away.
+id: Pickaxe_ID_089_RavenQuill
+
+name: Cat's Claw
+description: Scratch and slash.
+id: Pickaxe_ID_090_SamuraiBlue
+
+name: Tree Splitter
+description: Make like a tree and split.
+id: Pickaxe_ID_091_Hacivat
+
+name: Crowbar
+description: Pry away.
+id: Pickaxe_ID_092_Bling
+
+name: Flatliner
+description: Not on my watch!
+id: Pickaxe_ID_093_Medic
+
+name: Upright Axe
+description: It's up, and it's good!
+id: Pickaxe_ID_094_Football
+
+name: Golden Pigskin
+description: Claim the trophy.
+id: Pickaxe_ID_095_FootballTrophy
+
+name: First Downer
+description: 10 yards to victory.
+id: Pickaxe_ID_096_FootballReferee
+
+name: Chill-Axe
+description: Keep it chill.
+id: Pickaxe_ID_097_RaptorArcticCamo
+
+name: Lead Swinger
+description: Hit the high notes.
+id: Pickaxe_ID_098_GarageBand
+
+name: Pinpoint
+description: Accuracy is paramount.
+id: Pickaxe_ID_099_ModernMilitaryRed
+
+name: Turbine
+description: Self-piloted propulsion.
+id: Pickaxe_ID_100_DieselPunk
+
+name: Axcordion
+description: Squeeze out a smashing tune.
+id: Pickaxe_ID_101_Octoberfest
+
+name: Guiding Glow
+description: The better to chop you with, my dear.
+id: Pickaxe_ID_102_RedRiding
+
+name: Smash Up
+description: When destruction meets harmony.
+id: Pickaxe_ID_103_FortniteDJ
+
+name: Reckoning
+description: Raise the stakes.
+id: Pickaxe_ID_104_Cowgirl
+
+name: Harvester
+description: Reap what you sow.
+id: Pickaxe_ID_105_Scarecrow
+
+name: Thunder Crash
+description: Wield the thunder.
+id: Pickaxe_ID_106_DarkBomber
+
+name: Night Slicer
+description: Slice twice.
+id: Pickaxe_ID_107_HalloweenTomato
+
+name: Herald's Wand
+description: It's vital.
+id: Pickaxe_ID_107_Plague
+
+name: Carver
+description: Honed for the harvest.
+id: Pickaxe_ID_108_PumpkinSlice
+
+name: Skull Sickle
+description: Skeleton's choice.
+id: Pickaxe_ID_109_SkullTrooper
+
+name: Moonrise
+description: Strike at midnight.
+id: Pickaxe_ID_110_Vampire
+
+name: Web Breaker
+description: Clear out the cobwebs.
+id: Pickaxe_ID_111_BlackWidow
+
+name: Guandao
+description: Sharpened for battle.
+id: Pickaxe_ID_112_GuanYu
+
+name: Six String Striker
+description: Now taking requests.
+Reactive: Glows in the dark
+id: Pickaxe_ID_113_Muertos
+
+name: Longhorn
+description: Corral the competition.
+id: Pickaxe_ID_114_BadassCowboyCowSkull
+
+name: Dark Shard
+description: Splintered from geometric perfection.
+Reactive: Transforms by dealing damage, or by outliving other players.
+id: Pickaxe_ID_115_EvilCowboy
+
+name: Stellar Axe
+description: The stars are aligned.
+id: Pickaxe_ID_116_Celestial
+
+name: Splinterstrike
+description: Pointy whichever way you point it.
+id: Pickaxe_ID_117_MadCommander
+
+name: Angular Axe
+description: Acutely obtuse.
+id: Pickaxe_ID_118_StreetOps
+
+name: Jackspammer
+description: Swing it over and over and over and over and over...
+id: Pickaxe_ID_119_AnimalJackets
+
+name: Jawblade
+description: Clench victory between your teeth.
+id: Pickaxe_ID_120_SamuraiUltraArmor
+
+name: A.X.E.
+description: Perfectly programmed pick.
+id: Pickaxe_ID_121_RobotRed
+
+name: Spellslinger
+description: Ancient and gnarled.
+id: Pickaxe_ID_122_Witch
+
+name: Gatekeeper
+description: On the threshold of victory.
+id: Pickaxe_ID_123_HornedMask
+
+name: Scrambler
+description: Mix it up.
+id: Pickaxe_ID_124_Feathers
+
+name: Lamp
+description: The glow is alluring.
+id: Pickaxe_ID_125_Moth
+
+name: Abominable Axe
+description: Expertly crafted by picking up that stick that was in a mountain stream.
+id: Pickaxe_ID_126_Yeti
+
+name: Mauler
+description: Exhaust the competition.
+id: Pickaxe_ID_127_Rhino
+
+name: Krakenaxe
+description: The scourge of the seven seas!
+id: Pickaxe_ID_131_Nautilus
+
+name: Scratchmark
+description: Sharpen your claws.
+id: Pickaxe_ID_131_NeonCat
+
+name: Scorcher
+description: Bring the heat.
+id: Pickaxe_ID_132_ArcticSniper
+
+name: Evil Eye
+description: Always watching. Always.
+id: Pickaxe_ID_133_Demon
+
+name: Ice Scepter
+description: The frozen world is at your command.
+id: Pickaxe_ID_133_IceKing
+
+name: Icicle
+description: Cold to the touch.
+id: Pickaxe_ID_134_Snowman
+
+name: Inverted Blade
+description: Sharp from any direction.
+id: Pickaxe_ID_135_SnowNinja
+
+name: T-Square
+description: Measure twice, chop once.
+id: Pickaxe_ID_136_Math
+
+name: Snow Globe
+description: Shake vigorously.
+id: Pickaxe_ID_137_NutCracker
+
+name: Cold Snap
+description: Frosted and flowery.
+id: Pickaxe_ID_138_Gnome
+
+name: Cookie Cutter
+description: Sweet vengeance.
+id: Pickaxe_ID_139_Gingerbread
+
+name: Vision
+description: Unending gaze.
+id: Pickaxe_ID_140_StreetGoth
+
+name: Brat Catcher
+description: Be on your best behavior.
+id: Pickaxe_ID_141_Krampus
+
+name: Bootstraps
+description: Weaponized boot on a stick.
+id: Pickaxe_ID_142_TeriyakiFish
+
+name: Frozen Axe
+description: Once crimson, now coated in permafrost.
+id: Pickaxe_ID_143_FlintlockWinter
+
+name: Virtue
+description: Swing forever true.
+id: Pickaxe_ID_144_Angel
+
+name: Flurry
+description: Swing flurriously.
+id: Pickaxe_ID_145_IceMaiden
+
+name: Clean Cut
+description: Looks sharp. Actually sharp.
+id: Pickaxe_ID_146_MilitaryFashion
+
+name: Armature
+description: Experimental prototype.
+id: Pickaxe_ID_147_TechOps
+
+name: Battle Axe
+description: Truly barbaric.
+id: Pickaxe_ID_148_Barbarian
+
+name: Flimsie Flail
+description: Flop til they drop.
+id: Pickaxe_ID_149_WavyMan
+
+name: Icebringer
+description: Bitter cold.
+id: Pickaxe_ID_150_IceQueen
+
+name: Squid Striker
+description: Speak softly and carry a giant squid.
+id: Pickaxe_ID_151_AlienFishhead
+
+name: Outburst
+description: Burning bright.
+id: Pickaxe_ID_152_DragonMask
+
+name: Rose Glow
+description: Put the petal to the metal.
+id: Pickaxe_ID_153_RoseLeader
+
+name: Marshy Smasher
+description: Spread some joy.
+id: Pickaxe_ID_154_Squishy
+
+name: Cold Hearted
+description: No love lost.
+id: Pickaxe_ID_155_ValentinesFrozen
+
+name: Frozen Beak
+description: Break the ice.
+id: Pickaxe_ID_156_RavenQuillFrozen
+
+name: Souped Up
+description: Victory by the spoonful.
+id: Pickaxe_ID_157_Dumpling
+
+name: Cuddle Paw
+description: Cuddle up with claws.
+id: Pickaxe_ID_158_FuzzyBear
+
+name: Crossroads
+description: This can go one of two ways...
+id: Pickaxe_ID_159_RobotTrouble
+
+name: Ice Pop
+description: It can take a lickin'.
+id: Pickaxe_ID_160_IceCream
+
+name: Chocollama
+description: Double dipped in chocolate.
+id: Pickaxe_ID_161_LoveLlama
+
+name: Skully Splitter
+description: Color coordinated and battle ready.
+id: Pickaxe_ID_162_SkullBrite
+
+name: Swag Smasher
+description: Get the loot.
+id: Pickaxe_ID_163_PirateOctopus
+
+name: Dragon's Claw
+description: Defend the lair.
+id: Pickaxe_ID_164_DragonNinja
+
+name: Lockpick
+description: Break in, or just break it.
+id: Pickaxe_ID_165_MasterKey
+
+name: Flawless
+description: Experience perfection.
+id: Pickaxe_ID_166_Shiny
+
+name: Snakebite
+description: There is no antivenom.
+id: Pickaxe_ID_167_Medusa
+
+name: Machete
+description: Cut through the jungle.
+id: Pickaxe_ID_168_Bandolier
+
+name: Gold Digger
+description: The gold standard.
+id: Pickaxe_ID_169_Farmer
+
+name: Axetec
+description: Axe of the ancients.
+id: Pickaxe_ID_170_Aztec
+
+name: Brute Force
+description: Unavoidable.
+id: Pickaxe_ID_171_OrangeCamo
+
+name: Quickstrike
+description: Sharpened in the shadows.
+id: Pickaxe_ID_172_BandageNinja
+
+name: Psionic Edge
+description: Focus on the perfect strike.
+id: Pickaxe_ID_173_SciOps
+
+name: Emerald Smasher
+description: Mean and green.
+id: Pickaxe_ID_174_LuckyRider
+
+name: Fresh Cut
+description: Chop down the competition.
+id: Pickaxe_ID_175_Tropical
+
+name: Burning Axe
+description: Immortal instrument of fire.
+id: Pickaxe_ID_176_DevilRock
+
+name: Crimson Scythe
+description: See red.
+id: Pickaxe_ID_177_EvilSuit
+
+name: Dark Razor
+description: On the verge of being too dark.
+id: Pickaxe_ID_178_SpeedyMidnight
+
+name: Star Wand
+description: Swing for the stars.
+id: Pickaxe_ID_179_StarWand
+
+name: Tri-Star
+description: Thrice the slice.
+id: Pickaxe_ID_180_TriStar
+
+name: Stumpy
+description: Count the rings.
+id: Pickaxe_ID_181_Log
+
+name: High Seas
+description: Steer through the storm.
+id: Pickaxe_ID_182_PirateWheel
+
+name: Grand Slammer
+description: Swing for the fences.
+id: Pickaxe_ID_183_BaseballBat2018
+
+name: Moonbone
+description: Strike at full moon.
+id: Pickaxe_ID_184_DarkShaman
+
+name: Prickly Axe
+description: Handle with caution.
+id: Pickaxe_ID_185_BadassCowboyCactus
+
+name: Demon Skull
+description: Imbued with the remnants of a lost soul.
+id: Pickaxe_ID_186_DemonStone
+
+name: Dread
+description: Instill fear.
+id: Pickaxe_ID_187_FurnaceFace
+
+name: Red Streak
+description: Find your hot streak.
+id: Pickaxe_ID_188_StreetAssassin
+
+name: Stealth Angular Axe
+description: Angle for the win.
+id: Pickaxe_ID_189_StreetOpsStealth
+
+name: Driver
+description: Swing for the green.
+id: Pickaxe_ID_190_GolfClub
+
+name: Peely Pick
+description: Wield the power of the peel.
+id: Pickaxe_ID_191_Banana
+
+name: Relax Axe
+description: Victory is in the palm in your hand.
+id: Pickaxe_ID_192_PalmTree
+
+name: Knockwurst
+description: Knock em' out.
+id: Pickaxe_ID_193_HotDog
+
+name: Shrapnel
+description: Fragments of fun.
+id: Pickaxe_ID_194_TheBomb
+
+name: Plasma Carrot
+description: So good you can almost taste it...
+id: Pickaxe_ID_195_SpaceBunny
+
+name: Steel Carrot
+description: Hop and chop.
+id: Pickaxe_ID_196_EvilBunny
+
+name: Bold Bar
+description: Break in, and stand out.
+id: Pickaxe_ID_197_HoppityHeist
+
+name: Sprout
+description: Get to the root of it.
+id: Pickaxe_ID_198_BountyBunny
+
+name: Silver Sledge
+description: Gem studded shine axe.
+id: Pickaxe_ID_199_ShinyHammer
+
+name: Astral Axe
+description: Swing through the stars.
+id: Pickaxe_ID_200_MoonlightAssassin
+
+name: Flint Striker
+description: Bash with bluster.
+id: Pickaxe_ID_201_Swashbuckler
+
+name: Widow’s Bite
+description: Shockingly effective.
+id: Pickaxe_ID_202_AshtonBoardwalk
+
+name: Guardian Axe
+description: Cut down cosmic threats.
+id: Pickaxe_ID_203_AshtonSaltLake
+
+name: Rockbreaker
+description: You know the drill.
+id: Pickaxe_ID_204_Miner
+
+name: Vox
+description: Belt out the hits.
+id: Pickaxe_ID_205_StrawberryPilot
+
+name: Harmonic Axes
+description: Perfectly tuned duo.
+id: Pickaxe_ID_206_StrawberryPilot_1H
+
+name: Revoker
+description: Take what's yours.
+id: Pickaxe_ID_207_BountyHunter
+
+name: Scarlet Scythe
+description: Honed on a dragon's claw.
+id: Pickaxe_ID_208_Masako
+
+name: Mech Axe
+description: Programmed for perfection.
+id: Pickaxe_ID_209_BattleSuit
+
+name: Bunker Basher
+description: Homemade with love.
+id: Pickaxe_ID_210_BunkerMan
+
+name: Ripe Rippers
+description: Two strikes.
+id: Pickaxe_ID_211_BunkerMan_1H
+
+name: Web Wrecker
+description: High-tech precision.
+id: Pickaxe_ID_212_CyberScavenger
+
+name: Simple Sledge
+description: A professional's tool of choice.
+id: Pickaxe_ID_213_AssassinSuitSledgehammer
+
+name: Shamisen
+description: Alluringly destructive.
+id: Pickaxe_ID_214_Geisha
+
+name: Chew Toy
+description: Unburied treasure.
+id: Pickaxe_ID_215_Pug
+
+name: Foul Play
+description: Nailed it!
+id: Pickaxe_ID_216_DemonHunter1H
+
+name: Metro Machetes
+description: Street smart and impossibly sharp.
+id: Pickaxe_ID_217_UrbanScavenger1H
+
+name: Storm Bolt
+description: Strike like lightning.
+id: Pickaxe_ID_218_StormSoldier
+
+name: Talons
+description: Claw your way to the top.
+id: Pickaxe_ID_219_BandageNinja1H
+
+name: Fork Knife
+description: Don't forget your table manners.
+id: Pickaxe_ID_220_ForkKnife1H
+
+name: Stark Splitter
+description: Swing through the shadows.
+id: Pickaxe_ID_221_SkullBriteEclipse
+
+name: Emblematic
+description: Customize your look by choosing a Banner and color in your Locker.
+id: Pickaxe_ID_222_Banner
+
+name: Conch Cleaver
+description: A gift from the deep.
+id: Pickaxe_ID_223_Jellyfish
+
+name: Shard Sickle
+description: Harness the mysterious butterfly effect.
+id: Pickaxe_ID_224_Butterfly
+
+name: Flycatcher
+description: Never cross a caterpillar.
+id: Pickaxe_ID_225_Caterpillar
+
+name: Fixation
+description: Sharp, focused, and relentless.
+id: Pickaxe_ID_226_CyberFuBlade
+
+name: Splintered Light
+description: Share the light.
+id: Pickaxe_ID_227_FemaleGlowBro
+
+name: Vivid Axe
+description: Brighten the battle.
+id: Pickaxe_ID_228_MaleGlowBro
+
+name: Wild Tangent
+description: Find the impossible angle.
+id: Pickaxe_ID_229_TechMage
+
+name: Dual Edge
+description: Slicing through the dimensional planes.
+id: Pickaxe_ID_230_Drift1H
+
+name: Lawnbreaker
+description: Rule the lawn with an iron beak.
+id: Pickaxe_ID_231_Flamingo2
+
+name: Low 'n Slow
+description: Lock in the flavor of victory.
+id: Pickaxe_ID_232_Grillin1H
+
+name: Birthday Slice
+description: Make a wish and swing away.
+id: Pickaxe_ID_233_Birthday2019
+
+name: Power Punch
+description: Overload them.
+id: Pickaxe_ID_234_CyberKarate
+
+name: Lazer Axe
+description: Music is the weapon.
+id: Pickaxe_ID_235_Lasagna
+
+name: Combo Cleavers
+description: Swinging force.
+id: Pickaxe_ID_236_Multibot1H
+
+name: Mean Streak
+description: Paint the town blue.
+id: Pickaxe_ID_237_Warpaint
+
+name: Bubble Popper
+description: Swing sweet.
+id: Pickaxe_ID_238_Bubblegum
+
+name: Pair-peronni
+description: Double the deliciousness.
+id: Pickaxe_ID_239_PizzaPitPJ1H
+
+name: Renegade Rollers
+description: Roll up on the competition.
+id: Pickaxe_ID_240_GraffitiRemix1H
+
+name: Vanquisher
+description: Swing with the strength of steel.
+id: Pickaxe_ID_241_KnightRemix
+
+name: Sparkle Scythe
+description: Dazzle and destroy.
+id: Pickaxe_ID_242_SparkleRemix
+
+name: SC3PT3R
+description: Find the perfect beat.
+id: Pickaxe_ID_243_DJRemix
+
+name: Fang Saws
+description: Bite back.
+id: Pickaxe_ID_244_RustRemix1H
+
+name: Cosmic Cleavers
+description: Strike for the stars.
+id: Pickaxe_ID_245_VoyagerRemix1H
+
+name: Tac Bats
+description: Tactical combat baton.
+id: Pickaxe_ID_246_BlueBadass1H
+
+name: Primal Sting
+description: That's gonna leave a mark.
+id: Pickaxe_ID_247_BoneWasp
+
+name: Robo Wrecker
+description: Pinpoint accuracy.
+id: Pickaxe_ID_248_MechPilot
+
+name: Mello Mallets
+description: There X2
+id: Pickaxe_ID_249_Squishy1H
+
+name: Spikeclone
+description: Sleek and spiky.
+id: Pickaxe_ID_250_Lopex
+
+name: Grillcount
+description: Put some sizzle in your swing.
+id: Pickaxe_ID_251_MascotMilitiaBurger
+
+name: Rusty Roller
+description: Who wants a slice?
+id: Pickaxe_ID_252_MascotMilitiaTomato
+
+name: Star Strike
+description: Star powered stellar axe.
+id: Pickaxe_ID_253_StarWalker
+
+name: Plasmatic Edge
+description: Calibrated for absolute domination.
+id: Pickaxe_ID_254_Syko
+
+name: Wisdom's Edge
+description: Know your blade as you know yourself.
+id: Pickaxe_ID_255_WiseMaster
+
+name: Pneumatic Twin
+description: Dual-pronged pneumatic pickaxe.
+id: Pickaxe_ID_256_TechOpsBlue
+
+name: Hyper Edge
+description: Dominate the zone.
+id: Pickaxe_ID_257_FrostMystery1H
+
+name: Dark Strikers
+description: A double shot of darkness.
+id: Pickaxe_ID_258_RockerPunkCube1H
+
+name: Cupid's Daggers
+description: Love hurts.
+id: Pickaxe_ID_259_CupidFemale1H
+
+name: Shadow Strikers
+description: Strike with shadow and light.
+id: Pickaxe_ID_260_AngelEclipse1H
+
+name: Molten Strikers
+description: Strike with blades of fire.
+id: Pickaxe_ID_261_DarkEagleFire1H
+
+name: Chained Cleaver
+description: Settle the score with an edge.
+id: Pickaxe_ID_262_FutureBikerWhite
+
+name: Dark Axe
+description: Harvest the darkness.
+id: Pickaxe_ID_263_JonesyCube
+
+name: Sour Strikers
+description: Pucker up!
+id: Pickaxe_ID_264_LemonLime1H
+
+name: Psycho Buzz Axes
+description: *Maniacal laughter intensifies*
+id: Pickaxe_ID_265_BarbequeLarry1H
+
+name: Impact Edge
+description: Engineered for ultimate impact.
+id: Pickaxe_ID_266_PaddedArmor
+
+name: Blue Bolt
+description: Infused with the power of blue.
+id: Pickaxe_ID_267_RaptorBlackOps
+
+name: Jagged Edge
+description: A spiky ray of sunshine.
+id: Pickaxe_ID_268_ToxicKitty1H
+
+name: Aero Axe
+description: Show your stripes.
+id: Pickaxe_ID_269_WWIIPilotSciFi
+
+name: Megavolt
+description: Overcharged with electric might.
+id: Pickaxe_ID_270_Jumpstart
+
+name: Clobber Axe
+description: Give 'em the ol' one-two.
+id: Pickaxe_ID_271_Punchy
+
+name: Nighty Night
+description: Spread some sweet dreams.
+id: Pickaxe_ID_272_SleepyTime
+
+name: Stripe Slicer
+description: Line em up.
+id: Pickaxe_ID_273_StreetFashionRed
+
+name: Ave Axe
+description: The route to victory.
+id: Pickaxe_ID_274_StreetUrchin
+
+name: Flying Slasher
+description: Harvest the truth.
+id: Pickaxe_ID_275_Traveler
+
+name: Cat's Claws
+description: Show off your catlike reflexes.
+id: Pickaxe_ID_276_BlackMondayFemale1H_1V4HE
+
+name: Batman Pickaxe
+description: Wield the power of The Bat.
+id: Pickaxe_ID_277_BlackMondayMale_5TLSD
+
+name: Brite Bashers
+description: Pummel them with positivity.
+id: Pickaxe_ID_278_BrightGunnerRemix1H
+
+name: Razor Smash
+description: After the rainbow's end.
+id: Pickaxe_ID_279_MaleLlamaHeroMilitia
+
+name: Snack Attackers
+description: When the craving strikes...
+id: Pickaxe_ID_280_MascotMilitiaCuddle1h
+
+name: Swell Striker
+description: A spiky way to crest the waves.
+id: Pickaxe_ID_281_BulletBlueFemale
+
+name: Spurred Swinger
+description: Move 'em out.
+id: Pickaxe_ID_282_CODSquadPlaidFemale
+
+name: Utility Axe
+description: Practically irreplaceable.
+id: Pickaxe_ID_283_CODSquadPlaidMale
+
+name: Bank Shots
+description: Run the table.
+id: Pickaxe_ID_284_CrazyEight1H
+
+name: Snuggle Swiper
+description: Love 'em to pieces.
+id: Pickaxe_ID_285_CuddleTeamDark
+
+name: Heavy Hooks
+description: Get hooked.
+id: Pickaxe_ID_286_FishermanFemale1H
+
+name: Boulder Breakers
+description: Go over it or go through it.
+id: Pickaxe_ID_287_RockClimber1H
+
+name: Medaxe
+description: In case of emergency.
+id: Pickaxe_ID_288_RebirthMedicFemale
+
+name: Big Bad Axe
+description: The better to chop you with...
+id: Pickaxe_ID_289_RedRidingRemixFemale
+
+name: Highlight Strikers
+description: Add a touch of color.
+id: Pickaxe_ID_290_Sheath1H
+
+name: Sludgehammer
+description: It's time to slime.
+id: Pickaxe_ID_291_SlurpMonster
+
+name: Angler Axes
+description: Hook 'em twice.
+id: Pickaxe_ID_292_TacticalFisherman1H
+
+name: Fusion Scythe
+description: Start a reaction.
+id: Pickaxe_ID_293_Viper
+
+name: Merry Mint Axe
+description: Refreshingly festive.
+id: Pickaxe_ID_294_CandyCane
+
+name: Dark Dino Bones
+description: Pound with primal power.
+id: Pickaxe_ID_295_DarkDino1H
+
+name: Burning Blades
+description: Feel the sear of hot metal.
+id: Pickaxe_ID_296_DevilRockMale1H
+
+name: Blooming Bones
+description: The eternal harvest awaits.
+id: Pickaxe_ID_297_FlowerSkeletonFemale1H
+
+name: Gnashers
+description: Careful. They bite.
+id: Pickaxe_ID_298_Freak1H
+
+name: Spellbound Staff
+description: Bend reality to your will.
+id: Pickaxe_ID_299_GoatRobe
+
+name: Chaos Scythe
+description: Harvest disarray.
+id: Pickaxe_ID_300_Mastermind
+
+name: Witchia Axe
+description: Magic evolved.
+id: Pickaxe_ID_301_ModernWitch
+
+name: Dual Katanas
+description: Two blades are better than one.
+id: Pickaxe_ID_302_TourBus1H
+
+name: Globber
+description: Set your globber to clobber.
+id: Pickaxe_ID_303_Nosh
+
+name: Stickers
+description: Sharp and sticky.
+id: Pickaxe_ID_304_NoshHunter1H
+
+name: Cursed Claws
+description: Two hands of mystical striking power.
+id: Pickaxe_ID_305_Phantom1H
+
+name: Starshot
+description: You've got star power.
+id: Pickaxe_ID_306_PunkDevil
+
+name: Spectral Scythe
+description: Wield the reaper.
+id: Pickaxe_ID_307_SkeletonHunter
+
+name: Ultra Scythe
+description: Slice with electromagnetic force.
+id: Pickaxe_ID_308_SpookyNeonMale
+
+name: Storm King Fist
+description: Beware the thunder strike.
+id: Pickaxe_ID_309_Storm
+
+name: Depth Charger
+description: Make a splash.
+id: Pickaxe_ID_310_SubmarinerMale
+
+name: Dual Filet
+description: Filet your way to victory.
+id: Pickaxe_ID_311_JetSkiFemale1H
+
+name: Piranhas
+description: Ready for a chopping frenzy.
+id: Pickaxe_ID_312_JetSkiMale1H
+
+name: Crescent Shroom
+description: Fit for a mushroom king.
+id: Pickaxe_ID_313_ShiitakeShaolinMale
+
+name: Honey Hitters
+description: Find your sweet spot.
+id: Pickaxe_ID_314_WeepingWoodsMale1H
+
+name: Party Crashers
+description: The party starts now.
+id: Pickaxe_ID_315_BaneFemale1H
+
+name: Double Tap
+description: Twice the slurp in one powerful swing.
+id: Pickaxe_ID_316_BigChuggus
+
+name: Bone Fangs
+description: Venom-tipped bone bashers.
+id: Pickaxe_ID_317_BoneSnake1H
+
+name: Bullet Slash
+description: Precision high-caliber striker.
+id: Pickaxe_ID_318_BulletBlueMale
+
+name: Silent Strike
+description: Whisper quiet, razor sharp.
+id: Pickaxe_ID_319_CavalryBanditFemale1H
+
+name: Bark Basher
+description: Infused with the mystical power of the forest.
+id: Pickaxe_ID_320_ForestDwellerMale
+
+name: Smashrooms
+description: Mighty mushroom mallets.
+id: Pickaxe_ID_321_ForestQueenFemale1H
+
+name: Sea Scorpion
+description: Barbed for action.
+id: Pickaxe_ID_322_FrogmanMale
+
+name: Spiked Mace
+description: Two hands of spiky goodness.
+id: Pickaxe_ID_323_PinkTrooperMale1H
+
+name: Polar Poleaxe
+description: We wish you a merry pickaxe.
+id: Pickaxe_ID_324_NorthPole
+
+name: Holiday Ham
+description: Hit 'em with ham.
+id: Pickaxe_ID_325_FestivePugMale
+
+name: Riot Control Baton
+description: Control the situation.
+id: Pickaxe_ID_326_GalileoFerry1H_F5IUA
+
+name: Vibro-scythe
+description: Knights of Ren blade.
+id: Pickaxe_ID_327_GalileoKayak_50NFG
+
+name: Rey's Quarterstaff
+description: Staff of a scavenger.
+id: Pickaxe_ID_328_GalileoRocket_SNC0L
+
+name: Shortbread Slicers
+description: Fight 'em with frosting.
+id: Pickaxe_ID_329_GingerbreadCookie1H
+
+name: Branch Basher
+description: It's time to branch out.
+id: Pickaxe_ID_330_HolidayTimeMale
+
+name: Candy Cleavers
+description: Sweet and spiky.
+id: Pickaxe_ID_331_KaneMale1H
+
+name: Peppermint Pick
+description: Tap a deep vein of mintiness.
+id: Pickaxe_ID_332_MintMiner
+
+name: Pinkaxe
+description: Hot pink for cold conditions.
+id: Pickaxe_ID_333_MsAlpineFemale1H
+
+name: Snowy
+description: Use your head.
+id: Pickaxe_ID_334_SweaterWeatherMale
+
+name: Fishicles
+description: Time for some ice fishing.
+id: Pickaxe_ID_335_TacticalBearMale1H
+
+name: TNTeeth
+description: Blast with bite.
+id: Pickaxe_ID_336_TNTinaFemale
+
+name: Frost Blade
+description: Honed to frosty perfection.
+id: Pickaxe_ID_337_WingedFuryFemale
+
+name: Twin Talons
+description: Nothing escapes your grasp.
+id: Pickaxe_ID_338_BandageNinjaBlue1H
+
+name: Wild Accent
+description: Sharp and stylish.
+id: Pickaxe_ID_339_CODSquadHoodie
+
+name: Dragon's Breath
+description: Get fired up.
+id: Pickaxe_ID_340_DragonRacerFemale
+
+name: Twilight Strikers
+description: Sparkle and slice.
+id: Pickaxe_ID_341_FrogmanFemale1H
+
+name: Scampi
+description: Fresh and floppy.
+id: Pickaxe_ID_342_GummiMale1H
+
+name: Pop Axe
+description: Add a nice pop of color.
+id: Pickaxe_ID_343_HoodieBanditFemale
+
+name: Rogue Wave
+description: Turn the tide of battle.
+id: Pickaxe_ID_344_MartialArtistMale
+
+name: Shadow Caliper
+description: Dark precision.
+id: Pickaxe_ID_345_ModernMilitaryEclipse
+
+name: Street Shine
+description: This way to superior swiping.
+id: Pickaxe_ID_346_NeonGraffiti
+
+name: Underbite
+description: Chomps from below.
+id: Pickaxe_ID_348_SharkAttackMale
+
+name: Lucky Axes
+description: The future holds good swings.
+id: Pickaxe_ID_349_StreetRatMale1H
+
+name: Gilded Scepter
+description: Cursed... but also shiny.
+id: Pickaxe_ID_350_TheGoldenSkeleton
+
+name: Tiger Claws
+description: Tough as nails.
+id: Pickaxe_ID_351_TigerFashionFemale1H
+
+name: Smolders
+description: Strike with dragon's breath.
+id: Pickaxe_ID_352_VirtualShadowMale1H
+
+name: Serrated Slicers
+description: For the other kind of hacking.
+id: Pickaxe_ID_353_AgentAce1H
+
+name: Chargers
+description: Move in.
+id: Pickaxe_ID_354_AgentRogue1H
+
+name: Solid Scratch
+description: The world is your scratching post.
+id: Pickaxe_ID_355_BuffCatMale1H
+
+name: Heart Beater
+description: Make their hearts pound.
+id: Pickaxe_ID_356_CandyMale
+
+name: Golden King
+description: Crafted with the Midas Touch.
+id: Pickaxe_ID_357_CatBurglarMale
+
+name: Heavy Heart
+description: It's got so much love to give.
+id: Pickaxe_ID_358_CuteDuoMale
+
+name: Diamond Jack
+description: Astroworld's Finest.
+id: Pickaxe_ID_359_CycloneMale
+
+name: Specialist Pickaxe
+description: Gear specialist's axe of choice.
+id: Pickaxe_ID_360_DesertOpsCamoFemale
+
+name: Hack & Smash
+description: Ready for the quick draw.
+id: Pickaxe_ID_361_HenchmanMale1H
+
+name: Punchline
+description: Get it?
+id: Pickaxe_ID_362_LollipopFemale
+
+name: Harley Hitter
+description: Come out swinging.
+id: Pickaxe_ID_363_LollipopTricksterFemale
+
+name: Epic Swords Of Wonder
+description: Turns out they're real.
+id: Pickaxe_ID_364_PhotographerFemale1H
+
+name: Codaxe
+description: Break the code. With this axe.
+id: Pickaxe_ID_365_SpyTechHackerMale
+
+name: Butterfly Knives
+description: Let 'em fly.
+id: Pickaxe_ID_366_SpyMale1H
+
+name: Diamond Eye
+description: If looks could harvest...
+id: Pickaxe_ID_367_WinterHunter
+
+name: Bananaxe
+description: Split anything that gets in your way.
+id: Pickaxe_ID_368_BananaAgent
+
+name: Power Pitch
+description: One souped up fork.
+id: Pickaxe_ID_369_AnarchyAcresFarmer
+
+name: Drip Axe
+description: Careful, it's slurpery.
+id: Pickaxe_ID_370_BlueFlames
+
+name: Piña Clobbers
+description: The spiky bat with a pineapple punch.
+id: Pickaxe_ID_371_PineappleBandit1H
+
+name: Silver Strikers
+description: Swing away.
+id: Pickaxe_ID_372_StreetFashionEmeraldFemale1H
+
+name: Fresh Fish
+description: Today's catch.
+id: Pickaxe_ID_373_TeriyakiFishAssassin1H
+
+name: Inversion Blades
+description: A powerful mix of darkness and light.
+id: Pickaxe_ID_374_TwinDarkFemale1H
+
+name: Volt Batons
+description: Dangerously unstable yet pleasantly shiny.
+id: Pickaxe_ID_375_AgentXFemale1H
+
+name: The Axe of Champions
+description: Current FNCS Champion exclusive.
+id: Pickaxe_ID_376_FNCS
+
+name: Double Dagger
+description: Twice the slice twice.
+id: Pickaxe_ID_377_SpyTechFemale1H
+
+name: Plasma Circuit
+description: Uploading the smackdown.
+id: Pickaxe_ID_378_SpyTechMale1H
+
+name: Bespoke Blades
+description: Tailor made and suited for battle.
+id: Pickaxe_ID_379_TailorMale1H
+
+name: Firing Line
+description: Line up your shot.
+id: Pickaxe_ID_380_TargetPracticeMale
+
+name: Box Basher
+description: Packs a corrugated punch.
+id: Pickaxe_ID_381_CardboardCrew
+
+name: Meaty Mallets
+description: Give 'em a thwack.
+id: Pickaxe_ID_382_Donut1H
+
+name: Bionic Synapse
+description: Built for you and you alone.
+id: Pickaxe_ID_383_HandymanMale
+
+name: Harmonic Flux
+description: Harness the harmonic edge.
+id: Pickaxe_ID_384_InformerMale1H
+
+name: Steel Shadow
+description: Strike from the shadow's edge.
+id: Pickaxe_ID_385_BadEggMale
+
+name: Regal Floof
+description: Give 'em some guff.
+id: Pickaxe_ID_386_CometMale
+
+name: Unstoppable Force
+description: Whatever it takes to survive the fight.
+id: Pickaxe_ID_387_DonutCup
+
+name: Probability Daggers
+description: Beat the odds.
+id: Pickaxe_ID_388_DonutDish1H
+
+name: Psi-blade
+description: Focus on the blade.
+id: Pickaxe_ID_389_DonutPlate1H
+
+name: XO Axes
+description: Kiss your target goodbye.
+id: Pickaxe_ID_390_FemaleHitman1H
+
+name: Venom Blade
+description: Careful, it stings.
+id: Pickaxe_ID_391_GraffitiAssassinFemale
+
+name: Thorn
+description: Every axe has its thorn.
+id: Pickaxe_ID_392_Hostile
+
+name: Purr Axe
+description: It's very happy.
+id: Pickaxe_ID_393_NeonCatSpyFemale
+
+name: Light Knives
+description: Dazzlingly sharp.
+id: Pickaxe_ID_394_RaveNinjaFemale1H
+
+name: Reflex Blades
+description: Field operative inspired battle blades.
+id: Pickaxe_ID_395_SplinterMale1H
+
+name: Double Gold
+description: Solid gold battle bats.
+id: Pickaxe_ID_396_RapVillainessFemale1H
+
+name: Agile Edge
+description: Force and finesse.
+id: Pickaxe_ID_397_TechExplorerMale1H
+
+name: Electri-claw
+description: Charged and ready to strike.
+id: Pickaxe_ID_398_WildCatFemale
+
+name: Fruit Punchers
+description: Vitamin packed and ready to slash.
+id: Pickaxe_ID_399_LoofahFemale1H
+
+name: Wavecrest
+description: Strike against the current.
+id: Pickaxe_ID_400_AquaJacketMale
+
+name: Heavy Hook
+description: There's no escaping the hook.
+id: Pickaxe_ID_401_BeaconMale
+
+name: Reliant Blades
+description: A symbol of the unfallen hero.
+id: Pickaxe_ID_402_BlackKnightFemale1H
+
+name: Shadow Blades
+description: Shadow's silent blades.
+id: Pickaxe_ID_403_CavalryBanditShadow1H
+
+name: Swamp Slicer
+description: Monstrously sharp to master the moistiest swamps.
+id: Pickaxe_ID_404_GatorMale
+
+name: Maniaxe
+description: Go hard.
+id: Pickaxe_ID_406_HardcoreSportzFemale
+
+name: Gold Crow
+description: Give it a pry.
+id: Pickaxe_ID_407_HeistShadow
+
+name: Mayhem Scythe
+description: Mayhem is golden...
+id: Pickaxe_ID_408_MastermindShadow
+
+name: Wrenchers
+description: Twin torque battle wrenches.
+id: Pickaxe_ID_409_MechanicalEngineer1H
+
+name: Tide Axes
+description: Slice through the stormy seas.
+id: Pickaxe_ID_410_OceanRiderFemale1H
+
+name: Weathered Gold
+description: Sturdy shine with a powerful edge.
+id: Pickaxe_ID_411_PartyGoldMale
+
+name: Power Claws
+description: Wield the power of clawtomatic chaos.
+id: Pickaxe_ID_412_ProfessorPupMale1H
+
+name: Fearless Fangs
+description: Never hesitate to strike.
+id: Pickaxe_ID_413_PythonFemale1H
+
+name: Eon Blades
+description: Swing for the edge of eternity.
+id: Pickaxe_ID_414_RacerZero
+
+name: Aquaman's Trident
+description: A powerful symbol of Aquaman's kingdom.
+id: Pickaxe_ID_415_SandcastleMale
+
+name: Vizion Strikers
+description: Unfailingly sharp extraterrestrial blades.
+id: Pickaxe_ID_416_SpaceWandererFemale1H
+
+name: Dive Knives
+description: When the seas get choppy...
+id: Pickaxe_ID_417_TacticalScubaMale1H
+
+name: Bewitching Blades
+description: They'll take your breath away.
+id: Pickaxe_ID_418_CupidDarkFemale1H
+
+name: Snax
+description: Take two, they're small.
+id: Pickaxe_ID_419_JonesyVagabondMale1H
+
+name: Proto-Adamantium Shield
+description: Captain America's shield is as indestructible as his will.
+id: Pickaxe_ID_420_CandyAppleSour_JXBZA
+
+name: Lil' Sweeties
+description: They've got quite a pop.
+id: Pickaxe_ID_421_CandySummerFemale1H
+
+name: Hook Slicer
+description: Any way but the fairway.
+id: Pickaxe_ID_422_GolfSummerFemale
+
+name: Block Blades
+description: Vibrant angular battle cleavers.
+id: Pickaxe_ID_423_GreenJacketFemale1H
+
+name: Flail Blades
+description: Sometimes you gotta bash, sometimes you gotta slice.
+id: Pickaxe_ID_424_HeartBreakerFemale1H
+
+name: Two Scoops
+description: Whip up a double.
+id: Pickaxe_ID_425_MsWhipFemale1H
+
+name: Starstruck Axe
+description: Show off your star power.
+id: Pickaxe_ID_426_PunkDevilSummerFemale
+
+name: Manta Blades
+description: Black Manta's signature dual daggers.
+id: Pickaxe_ID_427_Seaweed1H_CZ9HA
+
+name: Sharky Slappers
+description: The power of a shark. The convenience of a slap.
+id: Pickaxe_ID_428_SharkSuitMale1H
+
+name: Stardust Strikers
+description: Hit 'em with star stuff.
+id: Pickaxe_ID_429_CelestialFemale1H
+
+name: Tri-Hook
+description: Hook, hook, hook, line, and sinker.
+id: Pickaxe_ID_430_DirtyDocksFemale
+
+name: Sawtooth Slashers
+description: Saw through the briny deep.
+id: Pickaxe_ID_431_DirtyDocksMale1H
+
+name: Noggin
+description: Get your head in the game!
+id: Pickaxe_ID_432_Dummeez
+
+name: Gnomax
+description: Gnomax must be obeyed!
+id: Pickaxe_ID_433_LawnGnome
+
+name: Iron Claws
+description: Wield the dreaded Iron Claws.
+id: Pickaxe_ID_434_MilitaryFashionSummerMale1H
+
+name: Fish Sticks
+description: The mythical tridents of the Fishstick Clan.
+id: Pickaxe_ID_435_TeriyakiAtlantisMale1H
+
+name: Trench Blades
+description: Wield the murky might of the ocean's deep.
+id: Pickaxe_ID_436_AnglerFemale1H
+
+name: Llama's Bane
+description: Get that loot.
+id: Pickaxe_ID_438_AntiLlamaFemale
+
+name: Axe-olotl
+description: Built for the busy axolotl on the go.
+id: Pickaxe_ID_439_AxlMale
+
+name: Scoop Shot
+description: Score!
+id: Pickaxe_ID_440_FloatillaCaptainMale1H
+
+name: Tropic Axe
+description: Chop tropically.
+id: Pickaxe_ID_441_IslanderFemale
+
+name: Lapis Trident
+description: Carved from a single stone found at the bottom of the sea. Probably.
+id: Pickaxe_ID_442_LadyAtlantisFemale
+
+name: Street Blade
+description: A powerful, street-sweeping polearm.
+id: Pickaxe_ID_443_MaskedDancerMale
+
+name: Shadow Combo Cleavers
+description: Swinging shadow's force.
+id: Pickaxe_ID_444_MultibotStealth1H
+
+name: Pom Pummelers
+description: Style, spirit, and shakability.
+id: Pickaxe_ID_445_RaiderPinkFemale1H
+
+name: Hulk Smashers
+description: Hulk Smash!
+id: Pickaxe_ID_446_SeaSalt
+
+name: Shooting Starstaff
+description: May the stars guide you home.
+id: Pickaxe_ID_447_SpaceWandererMale
+
+name: Cyclo Sticks
+description: Gyro-tuned battle batons.
+id: Pickaxe_ID_448_SportsFashionFemale1H
+
+name: Bucky Bat
+description: Safety first.
+id: Pickaxe_ID_449_TripleScoopFemale
+
+name: Hi-Octane
+description: Geared up and tuned for maximum impact.
+id: Pickaxe_ID_450_Valet
+
+name: Dread Oracle Axe
+description: Visions of dread.
+id: Pickaxe_ID_451_DarkEaglePurple
+
+name: Dread Strikers
+description: Strike dread into the competition. Unsheathe from the Dread Shield back bling when both items are equipped.
+id: Pickaxe_ID_452_DarkNinjaPurple1H
+
+name: Staff of Doom
+description: Imbued with arcane energy.
+id: Pickaxe_ID_453_HightowerDate
+
+name: Groot's Sap Axes
+description: They are also Groot.
+id: Pickaxe_ID_454_HightowerGrapeMale1H
+
+name: Hammers of Justice
+description: Court is in session.
+id: Pickaxe_ID_455_HightowerHoneydew1H
+
+name: Gilded Morphic Blades
+description: Goes with any look.
+id: Pickaxe_ID_456_HightowerMango1H
+
+name: Hand of Lightning
+description: Harness the elements.
+id: Pickaxe_ID_457_HightowerSquash1H
+
+name: Mjolnir
+description: Whosoever holds this hammer...
+id: Pickaxe_ID_458_HightowerTapas1H
+
+name: Mark 85 Energy Blade
+description: Tony originally designed this one for shaving.
+id: Pickaxe_ID_459_HightowerTomato1H
+
+name: Adamantium Claws
+description: You better believe they can cut through anything, bub.
+id: Pickaxe_ID_460_HightowerWasabi1H
+
+name: Dark Splitter
+description: Battle ready and destined for darkness.
+id: Pickaxe_ID_461_SkullBriteCube
+
+name: Silver Surfer Pickaxe
+description: The Pickaxe Cosmic.
+id: Pickaxe_ID_462_Soy_4CW52
+
+name: Phantasmic Pulse
+description: Channeling energy from a far-off star.
+id: Pickaxe_ID_463_Elastic1H
+
+name: Perfect Point
+description: Perfectly appointed.
+id: Pickaxe_ID_464_LongShortsMale
+
+name: Sword of the Daywalker
+description: Blade's blade.
+id: Pickaxe_ID_465_BackspinMale1H_R40E7
+
+name: Stake & Stalker
+description: Nothing better for a night of hunting.
+id: Pickaxe_ID_466_CavalryFemale1H
+
+name: Hunting Song
+description: It's a little sharp.
+id: Pickaxe_ID_469_MythFemale
+
+name: Destiny's Edge
+description: Embrace your destiny.
+id: Pickaxe_ID_470_MythMale1H
+
+name: Tangerine Terror
+description: A little sweet and a lot sharp.
+id: Pickaxe_ID_471_StreetFashionGarnetFemale
+
+name: Vamp Axe
+description: It vants to slice your forts.
+id: Pickaxe_ID_473_VampireCasualFemale
+
+name: Webspinner's Slice
+description: The bleeding edge of fashion.
+id: Pickaxe_ID_474_BlackWidowJacketFemale
+
+name: Throwback Axe
+description: Take your pick.
+id: Pickaxe_ID_475_ChOnePickaxe
+
+name: Dark Days
+description: Airbrushed for extra awesome.
+id: Pickaxe_ID_476_DarkBomberSummerFemale
+
+name: Daredevil's Billy Clubs
+description: Just like Stick taught him.
+id: Pickaxe_ID_477_DeliSandwichMale1H
+
+name: Blooming Doom
+description: Eternally thorny.
+id: Pickaxe_ID_478_FlowerSkeletonMale1H
+
+name: PWR Slicers
+description: Play harder. Win bigger.
+id: Pickaxe_ID_479_LunchBox1H
+
+name: Forsaken Strike
+description: The latest in reaper style.
+id: Pickaxe_ID_480_PoisonFemale
+
+name: Grim Axes
+description: Razor-sharp and unforgiving.
+id: Pickaxe_ID_481_SpookyNeonFemale1H
+
+name: Spell Sweeper
+description: Terribly tidy.
+id: Pickaxe_ID_482_BabaYagaFemale
+
+name: Beef Bone
+description: Gnawed to perfection.
+id: Pickaxe_ID_483_DurrburgerSkull1H
+
+name: Jaw Dropper
+description: Take a big bite.
+id: Pickaxe_ID_484_FamineMale
+
+name: Fright Clubs
+description: I just came to dance.
+id: Pickaxe_ID_485_FrankieFemale1H
+
+name: Arcane & Dagger
+description: Watch your step.
+id: Pickaxe_ID_486_JekyllMale1H
+
+name: Bash Burner
+description: Pumpkin powered bat-o'-lantern.
+id: Pickaxe_ID_487_PumpkinPunk
+
+name: Carvers
+description: Carve 'em up.
+id: Pickaxe_ID_488_PumpkinSpice1H
+
+name: Smash O'-Lantern
+description: Pulp-powered.
+id: Pickaxe_ID_489_PumpkinSpiceHammer
+
+name: Bait Bones
+description: Perfectly picked clean.
+id: Pickaxe_ID_490_TeriyakiFishSkull1H
+
+name: Proton Pickaxe
+description: We came. We saw. We picked this axe.
+id: Pickaxe_ID_491_YorkMale
+
+name: Soulfire Chains
+description: Forged in eternal flame.
+id: Pickaxe_ID_492_EmbersMale
+
+name: Stuffie Smasher
+description: Tuck into the competition.
+id: Pickaxe_ID_493_NauticalPajamasMale
+
+name: Tater Pounders
+description: I'll take mine to go.
+id: Pickaxe_ID_494_NauticalPajamasNightMale1H
+
+name: Nightbite
+description: Bioluminescent deep sea fishaxe.
+id: Pickaxe_ID_495_NauticalPajamasUnderwaterMale
+
+name: Kingmaker
+description: Wield the Golden Touch.
+id: Pickaxe_ID_496_ParcelGoldMale1H
+
+name: Ivy Axe
+description: Careful. She's hungry.
+id: Pickaxe_ID_497_ParcelPetalFemale
+
+name: Bad Joke
+description: Ha!
+id: Pickaxe_ID_498_ParcelPrankHammerMale
+
+name: Joker's Revenge
+description: Bow down to the Clown Prince of Crime.
+id: Pickaxe_ID_499_ParcelPrankMale
+
+name: Widow's Fangs
+description: Stark engineered electroshock baton.
+id: Pickaxe_ID_500_TapDanceFemale1H
+
+name: Cosmic Llamacorn
+description: Its horn is made of dreamstuff.
+id: Pickaxe_ID_501_EternityFemale
+
+name: Mash-Mincers
+description: Grab yourself a nice, big slice.
+id: Pickaxe_ID_502_PiemanMale1H
+
+name: 6-Carat Cutter
+description: Yes, those are real diamonds.
+id: Pickaxe_ID_503_RaiderSilverFemale
+
+name: Symbiote Slasher
+description: Gooey, but sharp.
+id: Pickaxe_ID_504_VertigoMale
+
+name: Victor's Flail
+description: Responsible for untold damage in the arena.
+id: Pickaxe_ID_505_AncientGladiatorMale1H
+
+name: Josie
+description: Mancake would never leave Butter Flats without her.
+id: Pickaxe_ID_506_FlapjackWranglerMale
+
+name: Oath & Sorrow
+description: Your wish is my command.
+id: Pickaxe_ID_507_FutureSamuraiMale1H
+
+name: Leviathan Axe
+description: Forged by Brok and Sindri.
+id: Pickaxe_ID_508_HistorianMale_6BQSW
+
+name: Frosty Globes
+description: Super cold. Super cursed.
+id: Pickaxe_ID_509_IceClaw1H
+
+name: Gravity Hammer
+description: Built to Smash and Grab.
+id: Pickaxe_ID_510_JupiterMale_G035V
+
+name: Null Claws
+description: Their blades are thinner than a molecule. That's real thin.
+id: Pickaxe_ID_511_LexaFemale1H
+
+name: Gingersledge
+description: The season's sweetest sledge.
+id: Pickaxe_ID_512_RenegadeRaiderHolidayFemale
+
+name: Beastfang
+description: Passed down through the generations.
+id: Pickaxe_ID_513_ShapeshifterFemale1H
+
+name: Toe Pick
+description: Get the edge on the competition.
+id: Pickaxe_ID_514_SnowmanFashion
+
+name: Ne'jari Warhammer
+description: Given as a reward for helping with the Ne'jari's "pest" problem.
+id: Pickaxe_ID_515_SpaceFighterFemale
+
+name: Holiday Hook
+description: Perfect for hanging up a Christmas reef.
+id: Pickaxe_ID_516_TeriyakiFishElf1H
+
+name: Alpha Staff
+description: Channels Carol's energy for maximum punch.
+id: Pickaxe_ID_517_CherryFemale_Z0S97
+
+name: Brrr-witching Blades
+description: They'll make your blood run cold.
+id: Pickaxe_ID_518_CupidWinterFemale1H
+
+name: Glacial Rift Edges
+description: Piercing through the glacial plane.
+id: Pickaxe_ID_519_DriftWinterMale1H
+
+name: Fancy Dandy Canes
+description: Merry minty mallets.
+id: Pickaxe_ID_520_FancyCandyMale1H
+
+name: Pummel Moose
+description: The moose is loose.
+id: Pickaxe_ID_521_FestiveMoose
+
+name: Frostbite Cane
+description: What's colder than cold?
+id: Pickaxe_ID_522_FrostbyteMale
+
+name: Blinky Basher
+description: Keep 'em in your headlights.
+id: Pickaxe_ID_523_HolidayLightsMale
+
+name: Vibe Axe
+description: Cutting edge neon glow axe.
+id: Pickaxe_ID_524_Neon
+
+name: Vibranium Daggers
+description: Old school tool meets new school tech.
+id: Pickaxe_ID_525_PlumRetro1H_3FBV3
+
+name: Tundra Blades
+description: Dig in to the deep freeze.
+id: Pickaxe_ID_526_SnowboarderMale1H
+
+name: Pick Axis
+description: Perfectly rendered.
+id: Pickaxe_ID_527_Stars
+
+name: Ol' Chopper
+description: Evergreen? We'll see about that.
+id: Pickaxe_ID_528_StreetFashionHolidayFemale
+
+name: Boxing Glove Arrow
+description: Always knew it would come in handy.
+id: Pickaxe_ID_529_TiptoeMale_MQ5UM
+
+name: Copycat's Sword
+description: Modeled after The Ebony Blade.
+id: Pickaxe_ID_530_TiramisuMale1H_R94F2
+
+name: Poultry Pummelers
+description: It's all gravy.
+id: Pickaxe_ID_531_Turkey1H
+
+name: Michonne's Katana
+description: Walkers beware.
+id: Pickaxe_ID_532_WombatFemale_CWE2D
+
+name: Daryl's Knives
+description: Stay sharp if you want to survive.
+id: Pickaxe_ID_533_WombatMale_L7QPQ
+
+name: Tricksy Axe
+description: She's tricky, but trusty.
+id: Pickaxe_ID_534_CombatDollFemale
+
+name: Snake Eyes Katana
+description: Legendary blade forged by the masters.
+id: Pickaxe_ID_535_ConvoyTarantulaMale_GQ82N
+
+name: Staff of Control
+description: Defeat them with your aim.
+id: Pickaxe_ID_538_GrilledCheeseMale_Z7YMW
+
+name: Null Pick
+description: Careful, this one's still under development.
+id: Pickaxe_ID_539_LexaMale
+
+name: Yautja Wristblades
+description: The most honorable way to take down one's prey.
+id: Pickaxe_ID_540_NightmareMale_7OSOH
+
+name: Shadow Slicer
+description: Not even the darkness is safe.
+id: Pickaxe_ID_541_StreetFashionEclipseFemale
+
+name: Combat Knife
+description: No fate.
+id: Pickaxe_ID_542_TyphoonFemale1H_CTEVQ
+
+name: Techno-Grip Axe
+description: With real barrier-smashing action!
+id: Pickaxe_ID_543_TyphoonRobotMale_S4B4M
+
+name: Crooked Claw
+description: Trusted and true.
+id: Pickaxe_ID_544_FoxWarriorFemale_BYVM8
+
+name: Lovestruck Striker
+description: More than just a crush.
+id: Pickaxe_ID_545_CrushFemale1H
+
+name: Identity Disc
+description: Never leave your home System without it.
+id: Pickaxe_ID_546_MainframeMale_XW9S6
+
+name: Breathless Blades
+description: Leave 'em breathless.
+id: Pickaxe_ID_547_StreetCuddlesMale1H
+
+name: Speed Force Slashers
+description: Physical manifestations of the Scarlet Speedster's powers.
+id: Pickaxe_ID_548_TarMale_8X3BY
+
+name: Arena's Blessing
+description: Some things can only be won.
+id: Pickaxe_ID_549_AncientGladiatorFemale
+
+name: Breezy Bashers
+description: Llook out, here they come!
+id: Pickaxe_ID_550_CasualBomberLightFemale1H
+
+name: P-5000 Power Loader Arm
+description: Requires a Class-2 rating or higher.
+id: Pickaxe_ID_551_KeplerFemale_AOYI5
+
+name: Puffcorn Pick
+description: Inflated for maximum cornage.
+id: Pickaxe_ID_552_LlamaHeroWinterMale_S9MDN
+
+name: Seven Star Flashing Flail
+description: Super Combo!
+id: Pickaxe_ID_553_SkirmishFemale_J2JXX
+
+name: Signpost Pummeler
+description: Ripped from the battlefield and ready for action.
+id: Pickaxe_ID_554_SkirmishMale_ML78Q
+
+name: Ol' Mate Sledgy
+description: Use this to look like you're doing something.
+id: Pickaxe_ID_555_BuilderMale
+
+name: Golden Daggers
+description: A treasured gift from Midas.
+id: Pickaxe_ID_556_CatBurglarFemale1H
+
+name: Centurion Edge
+description: The only barrier left is fear.
+id: Pickaxe_ID_557_LionSoldierMale
+
+name: Toothpick
+description: Packs an olive-y punch.
+id: Pickaxe_ID_558_SmallFryMale_YBD34
+
+name: Asteroid Trencher
+description: Repurposed deep space mining equipment.
+id: Pickaxe_ID_559_SpaceWarriorMale
+
+name: Synaptic Hatchets
+description: Uncomfortably aerodynamic.
+id: Pickaxe_ID_560_TacticalWoodlandBlueMale
+
+name: Ray's Smasher
+description: Smash 'em all down!
+id: Pickaxe_ID_561_AssembleR
+
+name: Gladius of Potassius
+description: The valiant never taste of pudding but once.
+id: Pickaxe_ID_562_BananaLeader
+
+name: Drummies
+description: Don't forget the dippin' sauce.
+id: Pickaxe_ID_563_ChickenWarriorMale1H
+
+name: Crystal Axe of the Masters
+description: The blade is carved from a single Zero Point crystal.
+id: Pickaxe_ID_564_CubeNinjaMale
+
+name: Razor Wing
+description: The wings of despair also happen to be very sharp.
+id: Pickaxe_ID_565_DarkMinionMale1H
+
+name: Chainsaur
+description: Sometimes you need a dinosaw.
+id: Pickaxe_ID_566_DinoHunterFemale
+
+name: Skellyfish
+description: Picked clean.
+id: Pickaxe_ID_567_NeonCatFashionFemale_FX9S5
+
+name: Axe-tral Form
+description: Control your emotions - Don't let them control you.
+id: Pickaxe_ID_568_ObsidianFemale
+
+name: Astrolomaster's Staff
+description: Pre-Req: Spell-Casting 201
+id: Pickaxe_ID_569_ScholarFemale
+
+name: Pry Axe
+description: A multi-purpose tool for a multitude of purposes.
+id: Pickaxe_ID_570_Temple
+
+name: Spire Flame
+description: Aglow with mystical flame.
+id: Pickaxe_ID_571_TowerSentinelFemale
+
+name: Spring Breaker
+description: Go for broke.
+id: Pickaxe_ID_572_BunnyFashionFemale
+
+name: Candlehopera
+description: Did you hear something..?
+id: Pickaxe_ID_573_HipHareMale
+
+name: Cutting Words
+description: Can't get a story without breaking down some walls.
+id: Pickaxe_ID_574_SailorSquadLeaderFemale1H
+
+name: Rebel Authority
+description: Better change your passwords.
+id: Pickaxe_ID_575_SailorSquadRebelFemale1H
+
+name: Sl1c3 // D1c3
+description: When virtual tools aren't enough for the job.
+id: Pickaxe_ID_576_SailorSquadRoseFemale1H
+
+name: Quackhammer
+description: Quack 'em up.
+id: Pickaxe_ID_578_WickedDuckFemale
+
+name: Tactical Quaxes
+description: Ain't nothing rubber about these duckies.
+id: Pickaxe_ID_579_WickedDuckMale1H
+
+name: Ol' Woody
+description: Looks... sturdy.
+id: Pickaxe_ID_STW001_Tier_1
+
+name: Tech Axe
+description: Enhanced structural analysis.
+id: Pickaxe_ID_STW002_Tier_3
+
+name: Hydraulic Wrecker
+description: Piston powered.
+id: Pickaxe_ID_STW003_Tier_4
+
+name: Vindertech Elite
+description: Cutting edge harvesting technology.
+id: Pickaxe_ID_STW004_Tier_5
+
+name: Laser Pick
+description: Now with lasers!
+id: Pickaxe_ID_STW005_Tier_6
+
+name: Axehammer
+description: Rocket fueled jackhammer pickaxe.
+id: Pickaxe_ID_STW006_Tier_7
+
+name: Basic Basher
+description: Gets the job done!
+id: Pickaxe_ID_STW007_Basic
+
+name: TBD
+description: TBD
+id: Pickaxe_ID_TBD_CosmosWeapon
+
+name: TBD
+description: TBD
+id: Pickaxe_ID_TBD_CrystalShard
+
+name: Raider's Revenge
+description: Wrapped in rusty barbed wire, and ready to settle the score.
+id: Pickaxe_Lockjaw
+
+name: Random
+description: Randomly chooses between favorite Harvesting Tools (or all owned Harvesting Tools if nothing is marked as a favorite)
+id: Pickaxe_Random
+
+name: Batsickle
+description: Take a crack at harvesting with the Batsickle. It's half bat. Half sickle. All Batsickle.
+id: SickleBatPickaxe
+
+name: Cliffhanger
+description: Climb your way to the top with the mountaineering inspired Cliffhanger Pickaxe.
+id: SkiIcePickaxe
+
+name: Spiky
+description: It's a pickaxe with spikes. What's not to like?
+id: SpikyPickaxe
+
