@@ -1,344 +1,344 @@
-name: TBD
-description: TBD
-id: MusicPack_000_Default
-
-name: Squeaky Clean
-description: Press play and floss like a boss.
-id: MusicPack_001_Floss
-
-name: Eerie
-description: Press play to get spooky.
-id: MusicPack_002_Spooky
-
-name: OG (Remix)
-description: Press play for a remixed taste of nostalgia.
-id: MusicPack_003_OGRemix
-
-name: Festive
-description: Press play and get in the spirit of the season.
-id: MusicPack_004_Holiday
-
-name: Disco
-description: Press play to get down.
-id: MusicPack_005_Disco
-
-name: Twist
-description: Press play for a soundtrack with a twist.
-id: MusicPack_006_Twist
-
-name: Ahoy!
-description: Press play to set sail.
-id: MusicPack_007_Pirate
-
-name: Coral Chorus
-description: Press play to hear the coral sing their tune.
-id: MusicPack_008_Coral
-
-name: Star Power
-description: Press play and act like a VIP.
-id: MusicPack_009_StarPower
-
-name: Marathon
-description: Press play and get ready to run.
-id: MusicPack_010_RunningMan
-
-name: Get funky
-description: Press play and bring the funk!
-id: MusicPack_011_GetFunky
-
-name: Electro-fied!
-description: Press play and swing the night away.
-id: MusicPack_012_ElectroSwing
-
-name: Afterburner
-description: Press play and reach the sky.
-id: MusicPack_013_RoboTrack
-
-name: Afterburner
-description: Press play and reach the sky.
-id: MusicPack_013_RoboTrackRaisin
-
-name: Neo World
-description: Press play and dig in.
-id: MusicPack_014_S9Cine
-
-name: Justice
-description: Press play and vibe out.
-id: MusicPack_015_GoodVibes
-
-name: Winner's Circle
-description: The sound of triumph!
-id: MusicPack_016_WorldCup
-
-name: Saxy Groove
-description: Press play and phone it in.
-id: MusicPack_017_PhoneItIn
-
-name: Sparkles
-description: Press play and get glittery.
-id: MusicPack_018_Glitter
-
-name: B-Day Beats
-description: Press play and blow out the candles.
-id: MusicPack_019_Birthday2019
-
-name: Best Buds
-description: Press play and hang with your best bud.
-id: MusicPack_020_BunkerJam
-
-name: Sweet Dreams
-description: Press play and live your dreams.
-id: MusicPack_022_DayDream
-
-name: OG (Classic)
-description: Press play for a true taste of nostalgia.
-id: MusicPack_023_OG
-
-name: The Final Showdown
-description: Press play and face your rival.
-id: MusicPack_024_Showdown
-
-name: Rainy Days
-description: Press play and make it rain.
-id: MusicPack_025_MakeItRain
-
-name: Default Vibe
-description: Lazerism Remix by Major Lazer.
-id: MusicPack_026_LasagnaChill
-
-name: Default Fire
-description: Lazerism Remix by Major Lazer.
-id: MusicPack_027_LasagnaDope
-
-name: Llama Beat
-description: Press play, and demand more.
-id: MusicPack_028_LlamaBell
-
-name: Wiggle Wild
-description: Press play and get wiggly.
-id: MusicPack_029_Wiggle
-
-name: Caped Crusader
-description: Press play and fight crime.
-id: MusicPack_030_BlackMonday_X91ZH
-
-name: 8-bit Beat
-description: Press play and go for the high score.
-id: MusicPack_031_ChipTune
-
-name: Solid Groove
-description: Press play and feel the funk.
-id: MusicPack_032_GrooveJam
-
-name: Storm Shredder
-description: Press play and shred through the storm.
-id: MusicPack_033_RockOut
-
-name: The End
-description: Press play and begin again.
-id: MusicPack_034_SXRocketEvent
-
-name: The End
-description: Press play and begin again.
-id: MusicPack_034_SXRocketEventRaisin
-
-name: Battle Breakers
-description: Press play and break it down.
-id: MusicPack_035_BattleBreakers
-
-name: Storm King
-description: Press play and face the king.
-id: MusicPack_036_Storm
-
-name: Space Groove
-description: Press play and space out.
-id: MusicPack_037_Extraterrestrial
-
-name: The Crackdown
-description: Press play and get cracking.
-id: MusicPack_038_Crackdown
-
-name: Unreal Chill
-description: Press play and get unreal.
-id: MusicPack_039_Envy
-
-name: Merry Chipmas
-description: Press play and go retro.
-id: MusicPack_040_XmasChipTunes
-
-name: Mellow Days
-description: Press play and smooth out.
-id: MusicPack_041_Slick
-
-name: Bunny Bounce
-description: Press play and hop into action.
-id: MusicPack_042_BunnyHop
-
-name: Limitless
-description: Press play and push it past the limit.
-id: MusicPack_043_Overdrive
-
-name: Spies!
-description: Press play and infiltrate the dance floor.
-id: MusicPack_044_S12Cine
-
-name: Sunny Samba
-description: Press play and hit the streets.
-id: MusicPack_045_Carnaval
-
-name: I'm A Cat
-description: Press play and don't get scratched.
-id: MusicPack_046_Paws
-
-name: Freestylin' Remix
-description: Press play and set yourself free.
-id: MusicPack_047_FreestylinClubRemix
-
-name: Subterfuge
-description: Press play and destroy after listening.
-id: MusicPack_048_SpyRemix
-
-name: Prima Remix
-description: Press play and assemblé.
-id: MusicPack_049_BalletSpinRemix
-
-name: Billy Listen
-description: Press play, Billy.
-id: MusicPack_050_BillyBounce
-
-name: Banger
-description: Press play and bang away.
-id: MusicPack_051_Headbanger
-
-name: Shark Ride
-description: Press play and ride the shark.
-id: MusicPack_052_S13Cine
-
-name: OG (Future Remix)
-description: Press play and follow this remix into the future.
-id: MusicPack_053_FortniteTrapRemix
-
-name: The Device
-description: Press play and... can you hear me?
-id: MusicPack_054_Fritter
-
-name: Switch Up
-description: Press play and step it up.
-id: MusicPack_055_Switchstep
-
-name: War's Horizon
-description: Press play and prepare for battle.
-id: MusicPack_056_S14_Cine
-
-name: Might
-description: Press play and fight for justice.
-id: MusicPack_057_S14_Hero
-
-name: Menace
-description: Press play and take over the world.
-id: MusicPack_058_S14_Villain
-
-name: Sweet Victory
-description: Press play and savor the wins.
-id: MusicPack_060_TakeTheW
-
-name: Breathing Underwater
-description: Don't Pause, Press Play.
-id: MusicPack_061_RLxFN
-
-name: Key Change
-description: Press play and find your perfect key.
-id: MusicPack_063_KeydUp
-
-name: Fortnitemares 2020
-description: Press play and get ready to scream!
-id: MusicPack_064_FortniteFright
-
-name: Boss Battle
-description: Created by NAME MUSIC
-id: MusicPack_065_FortlishRap
-
-name: Herald's Warning
-description: Press play and get ready to save the world.
-id: MusicPack_066_ComicBookTrack
-
-name: Click Pow Get Down
-description: Click pow and get down. Featuring Raftaar.
-id: MusicPack_067_Bollywood
-
-name: Rise of the Devourer
-description: Press play and chow down.
-id: MusicPack_068_S14EndEvent
-
-name: Old School Anthem
-description: Press play. School's in session.
-id: MusicPack_069_OldSchool
-
-name: Star Power Remix
-description: Press play and watch the stars.
-id: MusicPack_070_StarPowerRemix
-
-name: Frosty Serenade
-description: Press play and belt it out.
-id: MusicPack_071_FortniteCarollingRemix
-
-name: Merry Mix
-description: Press play and spread good tidings.
-id: MusicPack_072_HolidayEuroDiscoRemix
-
-name: Flip Reset
-description: Press Reset and flip out.
-id: MusicPack_073_RL2PromoTrack
-
-name: Orbital Overload
-description: Press play and rise up above.
-id: MusicPack_074_PlanetaryVibe
-
-name: Hooked On You
-description: Press play and fall in love.
-id: MusicPack_075_FishstickQuest
-
-name: IO ATTACK
-description: Press play and imagine.
-id: MusicPack_076_IO_Guard
-
-name: Butter Barn Hoedown
-description: Press play and grab yer pardner.
-id: MusicPack_077_ButterBarn
-
-name: Raise Up
-description: Press play and raise the roof.
-id: MusicPack_078_RaiseTheRoof
-
-name: Wild
-description: Press play and get wild.
-id: MusicPack_079_S16_Cine
-
-name: After Zero
-description: Press play and save all reality.
-id: MusicPack_080_S15_EndEvent
-
-name: Everybody Dance!
-description: Press play and go supersonic.
-id: MusicPack_081_RL_LlamaRama_9LRCK
-
-name: Larger Than Life
-description: Press play and reach for the moon.
-id: MusicPack_082_LivingLarge
-
-name: Random
-description: Randomly chooses between favorite Music Packs (or all owned Music Packs if nothing is marked as a favorite)
-id: MusicPack_Random
-
-name: Stand and Fight
-description: Press play to Stand and Fight!
-id: MusicPack_STW001_CannyValley
-
-name: Frostnite
-description: Press play to get chilled!
-id: MusicPack_STW001_Holdfast
-
-name: Dungeons
-description: Press play and dive into the darkness...
-id: MusicPack_STW001_Starlight
+Name: TBD
+Description: TBD
+ID: MusicPack_000_Default
+
+Name: Squeaky Clean
+Description: Press play and floss like a boss.
+ID: MusicPack_001_Floss
+
+Name: Eerie
+Description: Press play to get spooky.
+ID: MusicPack_002_Spooky
+
+Name: OG (Remix)
+Description: Press play for a remixed taste of nostalgia.
+ID: MusicPack_003_OGRemix
+
+Name: Festive
+Description: Press play and get in the spirit of the season.
+ID: MusicPack_004_Holiday
+
+Name: Disco
+Description: Press play to get down.
+ID: MusicPack_005_Disco
+
+Name: Twist
+Description: Press play for a soundtrack with a twist.
+ID: MusicPack_006_Twist
+
+Name: Ahoy!
+Description: Press play to set sail.
+ID: MusicPack_007_Pirate
+
+Name: Coral Chorus
+Description: Press play to hear the coral sing their tune.
+ID: MusicPack_008_Coral
+
+Name: Star Power
+Description: Press play and act like a VIP.
+ID: MusicPack_009_StarPower
+
+Name: Marathon
+Description: Press play and get ready to run.
+ID: MusicPack_010_RunningMan
+
+Name: Get funky
+Description: Press play and bring the funk!
+ID: MusicPack_011_GetFunky
+
+Name: Electro-fied!
+Description: Press play and swing the night away.
+ID: MusicPack_012_ElectroSwing
+
+Name: Afterburner
+Description: Press play and reach the sky.
+ID: MusicPack_013_RoboTrack
+
+Name: Afterburner
+Description: Press play and reach the sky.
+ID: MusicPack_013_RoboTrackRaisin
+
+Name: Neo World
+Description: Press play and dig in.
+ID: MusicPack_014_S9Cine
+
+Name: Justice
+Description: Press play and vibe out.
+ID: MusicPack_015_GoodVibes
+
+Name: Winner's Circle
+Description: The sound of triumph!
+ID: MusicPack_016_WorldCup
+
+Name: Saxy Groove
+Description: Press play and phone it in.
+ID: MusicPack_017_PhoneItIn
+
+Name: Sparkles
+Description: Press play and get glittery.
+ID: MusicPack_018_Glitter
+
+Name: B-Day Beats
+Description: Press play and blow out the candles.
+ID: MusicPack_019_Birthday2019
+
+Name: Best Buds
+Description: Press play and hang with your best bud.
+ID: MusicPack_020_BunkerJam
+
+Name: Sweet Dreams
+Description: Press play and live your dreams.
+ID: MusicPack_022_DayDream
+
+Name: OG (Classic)
+Description: Press play for a true taste of nostalgia.
+ID: MusicPack_023_OG
+
+Name: The Final Showdown
+Description: Press play and face your rival.
+ID: MusicPack_024_Showdown
+
+Name: Rainy Days
+Description: Press play and make it rain.
+ID: MusicPack_025_MakeItRain
+
+Name: Default Vibe
+Description: Lazerism Remix by Major Lazer.
+ID: MusicPack_026_LasagnaChill
+
+Name: Default Fire
+Description: Lazerism Remix by Major Lazer.
+ID: MusicPack_027_LasagnaDope
+
+Name: Llama Beat
+Description: Press play, and demand more.
+ID: MusicPack_028_LlamaBell
+
+Name: Wiggle Wild
+Description: Press play and get wiggly.
+ID: MusicPack_029_Wiggle
+
+Name: Caped Crusader
+Description: Press play and fight crime.
+ID: MusicPack_030_BlackMonday_X91ZH
+
+Name: 8-bit Beat
+Description: Press play and go for the high score.
+ID: MusicPack_031_ChipTune
+
+Name: Solid Groove
+Description: Press play and feel the funk.
+ID: MusicPack_032_GrooveJam
+
+Name: Storm Shredder
+Description: Press play and shred through the storm.
+ID: MusicPack_033_RockOut
+
+Name: The End
+Description: Press play and begin again.
+ID: MusicPack_034_SXRocketEvent
+
+Name: The End
+Description: Press play and begin again.
+ID: MusicPack_034_SXRocketEventRaisin
+
+Name: Battle Breakers
+Description: Press play and break it down.
+ID: MusicPack_035_BattleBreakers
+
+Name: Storm King
+Description: Press play and face the king.
+ID: MusicPack_036_Storm
+
+Name: Space Groove
+Description: Press play and space out.
+ID: MusicPack_037_Extraterrestrial
+
+Name: The Crackdown
+Description: Press play and get cracking.
+ID: MusicPack_038_Crackdown
+
+Name: Unreal Chill
+Description: Press play and get unreal.
+ID: MusicPack_039_Envy
+
+Name: Merry Chipmas
+Description: Press play and go retro.
+ID: MusicPack_040_XmasChipTunes
+
+Name: Mellow Days
+Description: Press play and smooth out.
+ID: MusicPack_041_Slick
+
+Name: Bunny Bounce
+Description: Press play and hop into action.
+ID: MusicPack_042_BunnyHop
+
+Name: Limitless
+Description: Press play and push it past the limit.
+ID: MusicPack_043_Overdrive
+
+Name: Spies!
+Description: Press play and infiltrate the dance floor.
+ID: MusicPack_044_S12Cine
+
+Name: Sunny Samba
+Description: Press play and hit the streets.
+ID: MusicPack_045_Carnaval
+
+Name: I'm A Cat
+Description: Press play and don't get scratched.
+ID: MusicPack_046_Paws
+
+Name: Freestylin' Remix
+Description: Press play and set yourself free.
+ID: MusicPack_047_FreestylinClubRemix
+
+Name: Subterfuge
+Description: Press play and destroy after listening.
+ID: MusicPack_048_SpyRemix
+
+Name: Prima Remix
+Description: Press play and assemblé.
+ID: MusicPack_049_BalletSpinRemix
+
+Name: Billy Listen
+Description: Press play, Billy.
+ID: MusicPack_050_BillyBounce
+
+Name: Banger
+Description: Press play and bang away.
+ID: MusicPack_051_Headbanger
+
+Name: Shark Ride
+Description: Press play and ride the shark.
+ID: MusicPack_052_S13Cine
+
+Name: OG (Future Remix)
+Description: Press play and follow this remix into the future.
+ID: MusicPack_053_FortniteTrapRemix
+
+Name: The Device
+Description: Press play and... can you hear me?
+ID: MusicPack_054_Fritter
+
+Name: Switch Up
+Description: Press play and step it up.
+ID: MusicPack_055_Switchstep
+
+Name: War's Horizon
+Description: Press play and prepare for battle.
+ID: MusicPack_056_S14_Cine
+
+Name: Might
+Description: Press play and fight for justice.
+ID: MusicPack_057_S14_Hero
+
+Name: Menace
+Description: Press play and take over the world.
+ID: MusicPack_058_S14_Villain
+
+Name: Sweet Victory
+Description: Press play and savor the wins.
+ID: MusicPack_060_TakeTheW
+
+Name: Breathing Underwater
+Description: Don't Pause, Press Play.
+ID: MusicPack_061_RLxFN
+
+Name: Key Change
+Description: Press play and find your perfect key.
+ID: MusicPack_063_KeydUp
+
+Name: Fortnitemares 2020
+Description: Press play and get ready to scream!
+ID: MusicPack_064_FortniteFright
+
+Name: Boss Battle
+Description: Created by NAME MUSIC
+ID: MusicPack_065_FortlishRap
+
+Name: Herald's Warning
+Description: Press play and get ready to save the world.
+ID: MusicPack_066_ComicBookTrack
+
+Name: Click Pow Get Down
+Description: Click pow and get down. Featuring Raftaar.
+ID: MusicPack_067_Bollywood
+
+Name: Rise of the Devourer
+Description: Press play and chow down.
+ID: MusicPack_068_S14EndEvent
+
+Name: Old School Anthem
+Description: Press play. School's in session.
+ID: MusicPack_069_OldSchool
+
+Name: Star Power Remix
+Description: Press play and watch the stars.
+ID: MusicPack_070_StarPowerRemix
+
+Name: Frosty Serenade
+Description: Press play and belt it out.
+ID: MusicPack_071_FortniteCarollingRemix
+
+Name: Merry Mix
+Description: Press play and spread good tidings.
+ID: MusicPack_072_HolidayEuroDiscoRemix
+
+Name: Flip Reset
+Description: Press Reset and flip out.
+ID: MusicPack_073_RL2PromoTrack
+
+Name: Orbital Overload
+Description: Press play and rise up above.
+ID: MusicPack_074_PlanetaryVibe
+
+Name: Hooked On You
+Description: Press play and fall in love.
+ID: MusicPack_075_FishstickQuest
+
+Name: IO ATTACK
+Description: Press play and imagine.
+ID: MusicPack_076_IO_Guard
+
+Name: Butter Barn Hoedown
+Description: Press play and grab yer pardner.
+ID: MusicPack_077_ButterBarn
+
+Name: Raise Up
+Description: Press play and raise the roof.
+ID: MusicPack_078_RaiseTheRoof
+
+Name: Wild
+Description: Press play and get wild.
+ID: MusicPack_079_S16_Cine
+
+Name: After Zero
+Description: Press play and save all reality.
+ID: MusicPack_080_S15_EndEvent
+
+Name: Everybody Dance!
+Description: Press play and go supersonic.
+ID: MusicPack_081_RL_LlamaRama_9LRCK
+
+Name: Larger Than Life
+Description: Press play and reach for the moon.
+ID: MusicPack_082_LivingLarge
+
+Name: Random
+Description: Randomly chooses between favorite Music Packs (or all owned Music Packs if nothing is marked as a favorite)
+ID: MusicPack_Random
+
+Name: Stand and Fight
+Description: Press play to Stand and Fight!
+ID: MusicPack_STW001_CannyValley
+
+Name: Frostnite
+Description: Press play to get chilled!
+ID: MusicPack_STW001_Holdfast
+
+Name: Dungeons
+Description: Press play and dive into the darkness...
+ID: MusicPack_STW001_Starlight
 
