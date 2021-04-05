@@ -1,1150 +1,1150 @@
-name: Brite Unicorn
-description: Concept art for Brite Bomber's shirt design.
-id: LSID_001_Brite
+Name: Brite Unicorn
+Description: Concept art for Brite Bomber's shirt design.
+ID: LSID_001_Brite
 
-name: Raptor
-description: Concept art for Raptor.
-id: LSID_002_Raptor
+Name: Raptor
+Description: Concept art for Raptor.
+ID: LSID_002_Raptor
 
-name: Harvesting Tools
-description: Concept art for various harvesting tools.
-id: LSID_003_Pickaxes
+Name: Harvesting Tools
+Description: Concept art for various harvesting tools.
+ID: LSID_003_Pickaxes
 
-name: Tactical Shotgun
-description: Concept art for the Tactical Shotgun.
-id: LSID_004_TacticalShotgun
+Name: Tactical Shotgun
+Description: Concept art for the Tactical Shotgun.
+ID: LSID_004_TacticalShotgun
 
-name: Suppressed Pistol
-description: Concept art for the Suppressed Pistol.
-id: LSID_005_SuppressedPistol
+Name: Suppressed Pistol
+Description: Concept art for the Suppressed Pistol.
+ID: LSID_005_SuppressedPistol
 
-name: Minigun
-description: Concept art for the Minigun.
-id: LSID_006_Minigun
+Name: Minigun
+Description: Concept art for the Minigun.
+ID: LSID_006_Minigun
 
-name: Elite Agent
-description: Concept art for Elite Agent.
-id: LSID_007_TacticalCommando
+Name: Elite Agent
+Description: Concept art for Elite Agent.
+ID: LSID_007_TacticalCommando
 
-name: Battle Royale
-description: Concept art for Battle Royale.
-id: LSID_008_KeyArt
+Name: Battle Royale
+Description: Concept art for Battle Royale.
+ID: LSID_008_KeyArt
 
-name: Quiet On The Set!
-description: 'The Monster of Moisty"
+Name: Quiet On The Set!
+Description: 'The Monster of Moisty"
 Scene 23, Take 31
 Director's Notes: 'He was finally puckering up when it all came crashing down...'
-id: LSID_009_S4Cumulative1
-
-name: At Last... I Am Free
-description: I will reclaim my power. I will gather my allies. I will have my vengeance.
-id: LSID_010_S4Cumulative2
-
-name: A Looming Threat
-description: Once again, our heroes must unite and heed the call to action.
-id: LSID_011_S4Cumulative3
-
-name: Retribution
-description: I will overpower. I will prevail. I will reign.
-id: LSID_012_S4Cumulative4
-
-name: Showdown
-description: In the ultimate battle of good versus evil, who will prevail?
-id: LSID_013_S4Cumulative5
-
-name: That's a Wrap!
-description: Director's Notes: ‘What a crazy shoot! Those meteors that crashed down sure gave us a lot of extra free production value! Glad we survived it!’
-id: LSID_014_S4Cumulative6
-
-name: The Visitor
-description: From beyond the unknown to the center of Dusty Divot.
-id: LSID_015_S4Cumulative7
-
-name: Llama Spotted
-description: A majestic creature indeed.
-id: LSID_016_LlamaSniper
-
-name: Carbide
-description: Concept art for Carbide.
-id: LSID_017_Carbide
-
-name: Rex
-description: Showcase art for Rex.
-id: LSID_018_Rex
-
-name: Squad Leader
-description: Concept art for Squad Leader.
-id: LSID_019_TacticalJungle
-
-name: Supply Drop
-description: Loot worth battling over.
-id: LSID_020_SupplyDrop
-
-name: Leviathan
-description: Showcase art for Leviathan.
-id: LSID_021_Leviathan
-
-name: Brite Gunner
-description: Concept art for Brite Gunner.
-id: LSID_022_BriteGunner
-
-name: Zoey
-description: Concept art for Zoey.
-id: LSID_023_Candy
-
-name: Aerosol Assassins
-description: Concept art for Aerosol Assassins set.
-id: LSID_024_Graffiti
-
-name: Raven
-description: Showcase art for Raven.
-id: LSID_025_Raven
-
-name: Retrofit
-description: Modifications required...
-id: LSID_026_S4Cumulative8
-
-name: Road Trip!
-description: What better place to start than a giant hilltop burger? We convinced a new friend to join us as well.
-id: LSID_027_S5Cumulative1
-
-name: Fairway Fun
-description: We hit the links and invented some new rules for golf. They mostly involved driving around really fast.
-id: LSID_028_S5Cumulative2
-
-name: Track Record
-description: We learned that you can go really fast if you boost out of the corners. You may lose a passenger or two though.
-id: LSID_029_S5Cumulative3
-
-name: Poolside Paradise
-description: We found a pool party and decided to jump in. Whether we were invited or not doesn't really seem important.
-id: LSID_030_S5Cumulative4
-
-name: Blast From The Past
-description: After stumbling across a long lost relative, we all became part of the family.
-id: LSID_031_S5Cumulative5
-
-name: Opening Night
-description: We were lured by the smell of popcorn, and stuck around for a movie screening.
-id: LSID_032_S5Cumulative6
-
-name: Signing Back In
-description: The motel staff promised us a quiet stay without disturbance. Zero stars.
-id: LSID_033_S5Cumulative7
-
-name: Abstrakt
-description: Showcase art for Abstrakt.
-id: LSID_034_Abstrakt
-
-name: Bandolier
-description: Showcase art for Bandolier.
-id: LSID_035_Bandolier
-
-name: Drift
-description: Concept art for Drift's unlockable styles.
-id: LSID_036_Drift
-
-name: Tomatohead
-description: Showcase art for Tomatohead.
-id: LSID_037_Tomatohead
-
-name: High Explosives
-description: Showcase art for High Explosives.
-id: LSID_038_HighExplosives
-
-name: Jailbirds
-description: Showcase art for the Jailbirds.
-id: LSID_039_Jailbirds
-
-name: Sun Strider
-description: Concept art for Sun Strider.
-id: LSID_040_Lifeguard
-
-name: Supply Llama
-description: Showcase art for the Supply Llama.
-id: LSID_041_SupplyLlama
-
-name: Omen
-description: Showcase art for Omen.
-id: LSID_042_Omen
-
-name: Red Knight
-description: Showcase art for Red Knight.
-id: LSID_043_RedKnight
-
-name: Flytrap
-description: Showcase art for Flytrap.
-id: LSID_044_FlyTrap
-
-name: Huntress
-description: Concept art for Huntress.
-id: LSID_045_VikingFemale
-
-name: Norse Emblem
-description: Concept art for Norse Set emblem.
-id: LSID_046_VikingPattern
-
-name: Tomato Trek
-description: We never expected finding a slice of pizza would be this difficult.
-id: LSID_047_S5Cumulative8
-
-name: Six-Sided Mystery
-description: Despite all of the creepy noises and glowing glyphs, we couldn't resist taking a closer look.
-id: LSID_048_S5Cumulative9
-
-name: Dark Reflection
-description: I was looking at someone, but it wasn't me...
-id: LSID_049_S5Cumulative10
-
-name: Tomato Temple
-description: Showcase art for Tomato Temple.
-id: LSID_050_TomatoTemple
-
-name: Ravage
-description: Showcase art for Ravage.
-id: LSID_051_Ravage
-
-name: Emoticons!
-description: Collage of Battle Royale emoticons.
-id: LSID_052_EmoticonCollage
-
-name: Supply Llama
-description: Showcase art for Supply Llamas.
-id: LSID_053_SupplyLlama
-
-name: Chompmasters
-description: Showcase art for the Divemasters and Chomp sets.
-id: LSID_054_Scuba
-
-name: Valkyrie
-description: Showcase art for Valkyrie and Frostwing.
-id: LSID_055_Valkyrie
-
-name: Fate
-description: Showcase art for Fate.
-id: LSID_056_Fate
-
-name: Pastel Patrol
-description: Showcase art for Bunny Brawler and Rabbit Raider.
-id: LSID_057_Bunnies
-
-name: DJ Yonder
-description: Concept art for DJ Yonder.
-id: LSID_058_DJConcept
-
-name: Dusk
-description: Concept art for Dusk.
-id: LSID_059_Vampire
-
-name: Calamity
-description: Concept art for Calamity.
-id: LSID_060_Cowgirl
-
-name: Dire
-description: Concept art for Dire.
-id: LSID_061_Werewolf
-
-name: Down On The Ranch
-description: Llamas keep escaping their pen for some strange reason.
-id: LSID_062_S6Cumulative01
-
-name: Wailing Wolves
-description: Fireflies provide just enough distraction for an ambush.
-id: LSID_063_S6Cumulative02
-
-name: Fabled Hunter
-description: Once the pack is divided, they no longer pack much bite.
-id: LSID_064_S6Cumulative03
-
-name: Dinner Date At Dusk
-description: Red is such an appetizing color.
-id: LSID_065_S6Cumulative04
-
-name: Nite Coven Roundup
-description: When the sun goes down, it's time to cull the herd.
-id: LSID_066_S6Cumulative05
-
-name: Verge Of Despair
-description: For every one that goes down, two more take it's place.
-id: LSID_067_S6Cumulative06
-
-name: Turning Of The Tide
-description: As the sun rises, darkness falls.
-id: LSID_068_S6Cumulative07
-
-name: On Target
-description: Landing sequence complete. Initiate recon protocol.
-id: LSID_069_S6Cumulative08
-
-name: Rememberance
-description: In the calm after the storm, even flowers can bloom.
-id: LSID_070_S6Cumulative09
-
-name: Dance Party
-description: Leave the past behind, and dance into the night.
-id: LSID_071_S6Cumulative10
-
-name: Festive Firefight
-description: Showcase art for the holiday period.
-id: LSID_072_WinterLauncher
-
-name: Dusty Depot
-description: The original.
-id: LSID_073_DustyDepot
-
-name: Dark Llama
-description: Concept art for Dark Bomber's shirt design.
-id: LSID_074_DarkBomber
-
-name: Sgt. Winter
-description: Concept art for Sgt. Winter styles.
-id: LSID_075_TacticalSanta
-
-name: Support Squadron
-description: Showcase art for the Support Squadron set.
-id: LSID_076_Medics
-
-name: Skull Squad
-description: Showcase art for the Skull Squad set.
-id: LSID_078_SkullTrooper
-
-name: X-4 Stormwing
-description: Concept art for the X-4 Stormwing plane.
-id: LSID_079_Plane
-
-name: Gingerbread
-description: Concept art for Merry Marauder and Ginger Gunner.
-id: LSID_080_Gingerbread
-
-name: Tender Defender
-description: Showcase art for the Fowl Play set.
-id: LSID_081_TenderDefender
-
-name: Lynx
-description: Concept art for Lynx.
-id: LSID_082_NeonCat
-
-name: Crackshot
-description: Showcase art for Crackshot.
-id: LSID_083_Crackshot
-
-name: Wide Awake
-description: There's no pick me up quite like brisk mountain air.
-id: LSID_084_S7Cumulative01
-
-name: Feline By Design
-description: It's so satisfying to see a sketch become reality.
-id: LSID_085_S7Cumulative02
-
-name: Ready For Takeoff
-description: Fuel up before a long winter's night.
-id: LSID_086_S7Cumulative03
-
-name: Airtime
-description: You can catch air off of just about anything.
-id: LSID_087_S7Cumulative04
-
-name: Teatime
-description: Pine needles make unsurprisingly bad tea.
-id: LSID_088_S7Cumulative05
-
-name: Order Up!
-description: I made yours extra greasy.
-id: LSID_089_S7Cumulative06
-
-name: Unexpected Awakening
-description: Why am I awake?! The ice was never supposed to thaw.
-id: LSID_090_S7Cumulative07
-
-name: Summon The Storm
-description: I must restore order.
-id: LSID_091_S7Cumulative08
-
-name: Unchained
-description: The ice is beginning to thaw.
-id: LSID_092_S7Cumulative09
-
-name: Respite
-description: Reinvigorated by the warmth of the flame.
-id: LSID_093_S7Cumulative10
-
-name: Crackshot Special
-description: Showcase art from Season 7.
-id: LSID_094_HolidaySpecial
-
-name: True Form
-description: Ignite the fire inside.
-id: LSID_095_Prisoner
-
-name: Season 7
-description: Showcase art for Season 7.
-id: LSID_096_PlaneKey
-
-name: Power Chord
-description: Showcase art for the Volume 11 set.
-id: LSID_097_PowerChord
-
-name: Hybrid
-description: Concept art for Hybrid.
-id: LSID_098_DragonNinja
-
-name: Scallywags
-description: Showcase art for the Scallywags set.
-id: LSID_099_PirateTheme
-
-name: Sgt. Green Clover
-description: Showcase art for the Green Clover set.
-id: LSID_100_StPattyDay
-
-name: The Ice Queen
-description: Showcase art for The Ice Queen.
-id: LSID_101_IceQueen
-
-name: Tricera Ops
-description: Showcase art for the Dino Guard set.
-id: LSID_102_TriceraOps
-
-name: Spray Collage
-description: Collage of Battle Royale sprays.
-id: LSID_103_SprayCollage
-
-name: Master Key
-description: Showcase art for Master Key.
-id: LSID_104_MasterKey
-
-name: Arachnids
-description: Showcase art for the Arachnid set.
-id: LSID_105_BlackWidow
-
-name: Isle Of Treasure
-description: The search is on...
-id: LSID_106_TreasureMap
-
-name: A New Voyage
-description: Swab the deck and ready the cannons.
-id: LSID_107_S8Cumulative01
-
-name: Children Of The Brood
-description: Hatchlings born in a cauldron of fire.
-id: LSID_108_S8Cumulative02
-
-name: Darting Through Danger
-description: The shiniest treasure is always protected by the most traps.
-id: LSID_109_S8Cumulative03
-
-name: Ripening Ritual
-description: The ancient rite of passage for every young banana entering bananahood.
-id: LSID_110_S8Cumulative04
-
-name: Hands Of Flame
-description: The fire inside burns eternal.
-id: LSID_111_S8Cumulative05
-
-name: Strength Of Will
-description: The key to victory is determination.
-id: LSID_112_S8Cumulative06
-
-name: Life Of Luxury
-description: All that glitters is gold.
-id: LSID_113_S8Cumulative07
-
-name: Ruination
-description: The road to ruin...
-id: LSID_114_S8Cumulative08
-
-name: Loot Lava
-description: Bananas never split.
-id: LSID_115_S8Cumulative09
-
-name: Breakthrough
-description: What lies below...
-id: LSID_116_S8Cumulative10
-
-name: Marshmello
-description: Poster art for the Showtime event.
-id: LSID_117_Squishy
-
-name: The Getaway
-description: Showcase art for The Getaway.
-id: LSID_118_Heist
-
-name: Season 8
-description: Showcase art for Season 8.
-id: LSID_119_VolcanoKey
-
-name: Assemble
-description: Avenge the fallen.
-id: LSID_120_Ashton
-
-name: Conquest
-description: Showcase art from the Norse set.
-id: LSID_121_Vikings
-
-name: Mesmerized
-description: Showcase art from the Sun Soldiers set.
-id: LSID_122_Aztec
-
-name: Heat
-description: Showcase art from the Inferno set.
-id: LSID_123_Inferno
-
-name: Air Royale
-description: Hang on tight.
-id: LSID_124_AirRoyale
-
-name: Molten Legends
-description: Embrace the flames.
-id: LSID_125_LavaLegends
-
-name: Lava Rising
-description: The floor is literally lava.
-id: LSID_126_FloorIsLava
-
-name: Brite Future
-description: Showcase art from the Sunshine & Rainbows set.
-id: LSID_127_UnicornPickaxe
-
-name: Neon Glow
-description: Showcase art from the Neon Glow set.
-id: LSID_128_AuroraGlow
-
-name: Stratus
-description: Chase the storm.
-id: LSID_129_Stormtracker
-
-name: Rox
-description: The height of air superiority.
-id: LSID_130_StrawberryPilot
-
-name: Terminal Velocity
-description: Backup has arrived.
-id: LSID_131_S9Cumulative01
-
-name: Neochasers
-description: Last seen battling at Dino Park outhouse, these two can't be stopped.
-id: LSID_132_S9Cumulative02
-
-name: Dog Days
-description: You're the man now, Doggo.
-id: LSID_133_S9Cumulative03
-
-name: Winner Takes All
-description: Sandstorm and Scimitar race to the Keyboard King ATM, and the winner always gets paid.
-id: LSID_134_S9Cumulative04
-
-name: Raging Storm
-description: Not even the slipstream is safe from the raging storm...
-id: LSID_135_S9Cumulative05
-
-name: Sure shot
-description: Only the best snipers can take out a holo-clock tower lamp from the rooftops of Neo Tilted
-id: LSID_136_S9Cumulative06
-
-name: Stormlight Skirmish
-description: Nightbeam and Flare narrowly escape a daring midnight raid.
-id: LSID_137_S9Cumulative07
-
-name: High Score
-description: Peely and Jonesy first met at Bao Bros and instantly knew they would be friends forever.
-id: LSID_138_S9Cumulative08
-
-name: Beach Bowl
-description: Drop in.
-id: LSID_139_S9Cumulative09
-
-name: Neon Jungle
-description: You're a long long way from Lonely Lodge...
-id: LSID_140_S9Cumulative10
-
-name: Strikeforce
-description: They won't know what hit 'em.
-id: LSID_141_PS06
-
-name: Never Surrender
-description: Team up and take on the horde.
-id: LSID_142_MashLTM
-
-name: Soak It Up
-description: Kick back and relax in the sun.
-id: LSID_143_SummerDays
-
-name: Summertime Splashdown
-description: Soak or be soaked.
-id: LSID_144_WaterBalloonLTM
-
-name: Ready to Fight
-description: The island depends on you.
-id: LSID_145_Doggus
-
-name: Quest for the Cup
-description: The world is watching...
-id: LSID_146_WorldCup2019
-
-name: Season 9
-description: Showcase art for season 9.
-id: LSID_147_UtopiaKey
-
-name: Visions
-description: He tried to warn us.
-id: LSID_148_FortbyteReveal
-
-name: Bottomless Pit
-description: Created by Jim Mahfood.
-id: LSID_151_JMSparkle
-
-name: Waveriding
-description: Created by Jim Mahfood.
-id: LSID_152_JMLuxe
-
-name: Boost!
-description: Created by Ian Jepson.
-id: LSID_153_IJDriftboard
-
-name: Cuddle Up
-description: Created by Ian Jepson.
-id: LSID_154_IJCuddle
-
-name: Downtown Drift
-description: Created by Aaron Kraten.
-id: LSID_155_AKDrift
-
-name: Bombers
-description: Created by Aaron Kraten.
-id: LSID_156_AKBrite
-
-name: Twilight Flight
-description: Created by Timothy P Doyle and Sydney Roper.
-id: LSID_157_NTBattleBus
-
-name: Undurrr The Stars
-description: Created by Timothy P Doyle and Sydney Roper.
-id: LSID_158_NTDurrr
-
-name: Firewalker
-description: Created by Kiptoe.
-id: LSID_159_KTFirewalker
-
-name: Vengeance
-description: Created by Kiptoe.
-id: LSID_160_KTVendetta
-
-name: Suit Up
-description: Created by Hydro74.
-id: LSID_161_H7OutfitsA
-
-name: Nevermore
-description: Created by Hydro74.
-id: LSID_162_H7OutfitsB
-
-name: Rocket Ride
-description: Created by MUTI.
-id: LSID_163_SMRocketRide
-
-name: Crackshot Mural
-description: Created by MUTI.
-id: LSID_164_SMCrackshot
-
-name: B.R.U.T.E. Squad
-description: You can't hide.
-id: LSID_165_S10Cumulative01
-
-name: Shootout At Sundown
-description: This town ain't big enough...
-id: LSID_166_S10Cumulative02
-
-name: The Leftovers
-description: Get a taste for survival.
-id: LSID_167_S10Cumulative03
-
-name: Junk Storm
-description: Let it all rain down.
-id: LSID_168_S10Cumulative04
-
-name: Catastrophic
-description: Radiate confidence.
-id: LSID_169_S10Cumulative05
-
-name: The Return
-description: Darkness rises once more.
-id: LSID_170_S10Cumulative06
-
-name: Summer Slurp
-description: A moisty end to summer fun.
-id: LSID_171_S10Cumulative07
-
-name: Gothic
-description: Watch over the city.
-id: LSID_172_S10Cumulative08_E9M2F
-
-name: Ready or not...
-description: Welcome to the combine.
-id: LSID_173_S10Cumulative09
-
-name: Last Stop
-description: Thank you, bus driver!
-id: LSID_174_S10Cumulative10
-
-name: Sliced Up
-description: Created by Jim Mahfood.
-id: LSID_175_JMTomato
-
-name: Eruption
-description: Created by MUTI.
-id: LSID_176_SMVolcano
-
-name: Hands Off
-description: Created by Ian Jepson.
-id: LSID_177_IJLlama
-
-name: The Bat And The Cat
-description: Out of the Batcave and into the Battle Bus.
-id: LSID_178_BlackMonday_S815X
-
-name: Season X
-description: Showcase art for season X.
-id: LSID_179_SXKey
-
-name: New World
-description: Take in the sights.
-id: LSID_180_S11Cumulative01
-
-name: Open Water
-description: Reel in the big fish.
-id: LSID_181_S11Cumulative02
-
-name: Forged In Slurp
-description: A hero rises from the Slurpy Swamp.
-id: LSID_182_S11Cumulative03
-
-name: Dockyard Deal
-description: Lock down the docks.
-id: LSID_183_S11Cumulative04
-
-name: The Lowdown
-description: A plan unfolds in the darkness.
-id: LSID_184_S11Cumulative05
-
-name: Hunter and the Hunted
-description: Shh...
-id: LSID_185_S11Cumulative06
-
-name: Trick Shot
-description: Everything depends on the final shot.
-id: LSID_186_S11Cumulative07
-
-name: Dive!
-description: Into the deep end.
-id: LSID_187_S11Cumulative08
-
-name: Chaos Rising
-description: He's making plans...
-id: LSID_188_S11Cumulative09
-
-name: TBD
-description: TBD
-id: LSID_189_S11Cumulative10
-
-name: Mecha Punch
-description: Created by CLOGTWO.
-id: LSID_190_ICMechaTeam
-
-name: Nutcracker Crew
-description: Created by Kudaman.
-id: LSID_191_TZNutcracker
-
-name: Wiggle Trooper
-description: Created by Justine McAllister.
-id: LSID_192_JUWiggle
-
-name: Final Harvest
-description: Created by Jim Mahfood.
-id: LSID_193_JMHollowhead
-
-name: Western Wilds Duo
-description: Created by Kiptoe.
-id: LSID_194_KTDeadfire
-
-name: Skull Reaper
-description: Created by Hydro74.
-id: LSID_195_H7Skull
-
-name: Sky Session
-description: Created by amauryfilhoart.
-id: LSID_196_AMRockstar
-
-name: Mecha Intensity
-description: Created by MUTI.
-id: LSID_197_SMRobot
-
-name: Battle Pass X
-description: Created by Team Couscous.
-id: LSID_198_JYSeasonX
-
-name: Neon Tomato
-description: Created by MUTI.
-id: LSID_199_SMTomato
-
-name: Drift Print
-description: Created by Justine McAllister.
-id: LSID_200_JUDrift
-
-name: Elemental
-description: Created by Jim Mahfood.
-id: LSID_201_JMInferno
-
-name: Demi
-description: Created by Kudaman.
-id: LSID_202_TZDemi
-
-name: Kindred Bears
-description: Created by Timothy P. Doyle.
-id: LSID_204_NTBear
-
-name: Eternal Dominance
-description: Created by amauryfilhoart.
-id: LSID_205_AMEternal
-
-name: Llamafields
-description: Created by George Rose.
-id: LSID_206_GRLlama
-
-name: The Final Reckoning
-description: Your fate is in their hands.
-id: LSID_207_Fortnitemares
-
-name: Merry Beastmas
-description: Created by MUTI.
-id: LSID_208_SMPattern
-
-name: The Great Crackup
-description: Created by Aaron Kraten.
-id: LSID_209_AKCrackshot
-
-name: Grumbly Night
-description: Created by Nakatomi.
-id: LSID_210_NDoggo
-
-name: Hench Life
-description: Created by Delicious Design League.
-id: LSID_213_SkullDude
-
-name: Astrowild
-description: Created by Delicious Design League.
-id: LSID_214_CycloneA
-
-name: Cosmic Revolution
-description: Created by Alexis Ziritt.
-id: LSID_215_CycloneB
-
-name: TNT!
-description: Created by Mighty Canvas.
-id: LSID_216_TNTina
-
-name: Roy G Meowscles
-description: Two guns. Nine lives. Endless Swolitude.
-id: LSID_217_Meowscles
-
-name: Boss Fight
-description: Created by Mighty Canvas.
-id: LSID_218_TeamUp
-
-name: The Clash
-description: Where do your allegiances lie?
-id: LSID_219_AlterEgo
-
-name: Lost Levels
-description: Best friends and wild adventures.
-id: LSID_220_AdventureGirl
-
-name: Golden Empire
-description: Created by Ink and Clog.
-id: LSID_221_Midas
-
-name: The Harvest
-description: Reap what you sow.
-id: LSID_222_FrenzyFarms
-
-name: Dangerous Waters
-description: The shark swims at midnight.
-id: LSID_223_SharkIsland
-
-name: Visions of Love
-description: Look into the love dimension.
-id: LSID_224_LoveAndWar_Love
-
-name: Visions of War
-description: Victory is in your sights.
-id: LSID_225_LoveAndWar_War
-
-name: Meowscleteers
-description: Why stop at one?
-id: LSID_226_ThreeMeowscles
-
-name: Eye Of The Storm
-description: Created by Arno Kiss.
-id: LSID_227_LlamaStormCenter
-
-name: Our Man Peely
-description: Created by Delicious Design League.
-id: LSID_228_BananaAgent
-
-name: Mountain Raid
-description: The base is ours!
-id: LSID_229_MountainBase
-
-name: Cuddletime Coup
-description: There's a new leader in town.
-id: LSID_230_Donut
-
-name: Astrothunder
-description: Created by Arno Kiss.
-id: LSID_231_CycloneBraid
-
-name: Chapter Two, Season Two
-description: Showcase art for Chapter Two, Season Two.
-id: LSID_232_S12Key
-
-name: Storm The Agency
-description: The winds of change are blowing...
-id: LSID_233_StormTheAgency
-
-name: Honor
-description: Created by Joey Rex.
-id: LSID_234_BlackKnight
-
-name: Get Fixed
-description: Created by Delicious Design League.
-id: LSID_235_MechanicalEngineer
-
-name: Beyond The Waves
-description: Created by Joey Rex.
-id: LSID_236_OceanRider
-
-name: The Lab
-description: Created by Death Burger.
-id: LSID_237_ProfessorPup
-
-name: Beyond Zero
-description: Created by Joey Rex.
-id: LSID_238_RacerZero
-
-name: King Of The Beach
-description: Created by Dan Mora.
-id: LSID_239_Sandcastle
-
-name: Sightseer
-description: Created by Alexis Ziritt.
-id: LSID_240_SpaceWanderer
-
-name: From the deep!
-description: Created by Nick Derington.
-id: LSID_241_TacticalScuba
-
-name: I Call Shotgun
-description: Just drive.
-id: LSID_242_Valet
-
-name: Floatsburg
-description: Created by Delicious Design League.
-id: LSID_243_Floatilla
-
-name: SK8-Bit
-description: Let it roll.
-id: LSID_244_RollerDerby
-
-name: DOOM Unleashed
-description: Created by Tradd Moore.
-id: LSID_246_HighTowerDate
-
-name: Out on a Limb
-description: Created by Jorge Corona.
-id: LSID_247_HighTowerGrape
-
-name: Carrying the Team
-description: Created by James Harren.
-id: LSID_248_HighTowerHoneyDew
-
-name: Identity Crisis
-description: Created by Afu Chan.
-id: LSID_249_HighTowerMango
-
-name: Storm Flight
-description: Created by Rich Kelly.
-id: LSID_250_HighTowerSquash
-
-name: Herald's Hammer
-description: Created by Michael Cho.
-id: LSID_251_HighTowerTapas
-
-name: The Man in the Suit
-description: Created by Delicious Design League.
-id: LSID_252_HighTowerTomato
-
-name: Adamantium Slash
-description: Created by Gian Galang.
-id: LSID_253_HighTowerWasabi
-
-name: Cosmic Wave
-description: Created by Sebastian Von Buchwald
-id: LSID_254_S14SeasonalA
-
-name: Corrupted Legends
-description: There is no turning back...
-id: LSID_256_Corrupted
-
-name: Cuddle Team Winner
-description: Victory!
-id: LSID_257_FNCS_CuddleTeam
-
-name: The Daywalker
-description: His Name Is... Blade!
-id: LSID_258_Backspin
-
-name: Midas' Revenge
-description: Revenge from the shadows.
-id: LSID_259_MidasRevenge
-
-name: Menace Reigns
-description: Created by David Rubin.
-id: LSID_260_AncientGladiator
-
-name: Wildheart Way
-description: Created by Afu Chan.
-id: LSID_261_Shapeshifter
-
-name: Let's go, Mechafusion!
-description: Created by Afu Chan.
-id: LSID_262_Lexa
-
-name: Warrior Spirit
-description: Created by Brian Reedy.
-id: LSID_263_FutureSamurai
-
-name: Stack 'em High
-description: He's one bad breakfast.
-id: LSID_264_Flapjack
-
-name: Exterminator
-description: Created by ZHUU.
-id: LSID_265_SpaceFighter
-
-name: Mando
-description: Created by Matteo Scalera.
-id: LSID_266_Cosmos
-
-name: Royalty
-description: Created by Alex Maleev.
-id: LSID_267_S15SeasonalA
-
-name: Merry Marauding
-description: You just made their list.
-id: LSID_268_Holiday1
-
-name: Frost In Action
-description: Welcome to snowman's land.
-id: LSID_269_Holiday2
-
-name: The Hunt
-description: There's something in those trees.
-id: LSID_270_Nightmare_IZN91
-
-name: The Axe of Destiny
-description: Champions only.
-id: LSID_271_FNCS_S15_ChampAxe
-
-name: Kitsune's Pursuit
-description: Created by Amelia Vidal.
-id: LSID_272_FoxWarrior_6DFA1
-
-name: My name is Barry Allen.
-description: Traveler of the Multiverse.
-id: LSID_273_Tar_ITJ9S
-
-name: Player Select!
-description: Art by Shinkiro.
-id: LSID_274_Skirmish_PJ9TZ
-
-name: Fox Clan Reborn
-description: Catch us if you can..
-id: LSID_275_FoxWarrior2
-
-name: XenoSlurp
-description: Game over, man.
-id: LSID_276_Kepler
-
-name: The Sky Is Lava
-description: Art by Dexter Maur
-id: LSID_277_RustLordDoggoLavaRain
-
-name: The Golden Hour
-description: Marigold comes to collect...
-id: LSID_278_GoldenTouch
-
-name: Raven's Wrath
-description: Created by Jakub Rebelka
-id: LSID_279_Obsidian
-
-name: The Spire's Shadow
-description: Created by Dan Mumford
-id: LSID_280_Sentinel
-
-name: Glyph Raider
-description: Created by Kim Jacinto
-id: LSID_281_CubeNinja
-
-name: Primal Takedown
-description: Created by Phil Noto
-id: LSID_282_DinoHunter
-
-name: Ultimate Jones
-description: Created by Dave Johnson
-id: LSID_283_AgentJonesy
-
-name: Wing of the hill
-description: Created by Skottie Young
-id: LSID_284_ChickenWarrior
-
-name: Llama-rama
-description: Llamas, start your engines.
-id: LSID_286_LlamaRama2_8ASUQ
-
-name: Countdown To Zero
-description: The moment of truth...
-id: LSID_289_YogurtJonesy
-
-name: Catwalk
-description: Alli's on the prowl.
-id: LSID_290_AprilSubs
-
-name: Secrets of the Ancients
-description: The key to the future may lie in the past.
-id: LSID_291_S16_FNCS
-
-name: null
-description: null
-id: LSID_DefaultBG
-
-name: Random
-description: Randomly chooses between favorite Loading Screens (or all owned Loading Screens if nothing is marked as a favorite)
-id: LSID_Random
-
-name: Hit the Road
-description: Earned in the "Hit the Road" event in Save the World.
-id: LSID_STW001_HitTheRoad
-
-name: Frostnite Burner
-description: Earned by surviving the Final Frost in Save the World.
-id: LSID_STW001_Holdfast
-
-name: Dungeons
-description: Earned in the "Dungeons" event in Save the World.
-id: LSID_STW002_Starlight1
-
-name: Storm King
-description: Earned by defeating the Mythic Storm King in Save the World.
-id: LSID_STW002_StormKing
-
-name: Metal Team Leader
-description: Earned in the "Hit the Road" event in Save the World.
-id: LSID_STW003_HitTheRoad_MTL
+ID: LSID_009_S4Cumulative1
+
+Name: At Last... I Am Free
+Description: I will reclaim my power. I will gather my allies. I will have my vengeance.
+ID: LSID_010_S4Cumulative2
+
+Name: A Looming Threat
+Description: Once again, our heroes must unite and heed the call to action.
+ID: LSID_011_S4Cumulative3
+
+Name: Retribution
+Description: I will overpower. I will prevail. I will reign.
+ID: LSID_012_S4Cumulative4
+
+Name: Showdown
+Description: In the ultimate battle of good versus evil, who will prevail?
+ID: LSID_013_S4Cumulative5
+
+Name: That's a Wrap!
+Description: Director's Notes: ‘What a crazy shoot! Those meteors that crashed down sure gave us a lot of extra free production value! Glad we survived it!’
+ID: LSID_014_S4Cumulative6
+
+Name: The Visitor
+Description: From beyond the unknown to the center of Dusty Divot.
+ID: LSID_015_S4Cumulative7
+
+Name: Llama Spotted
+Description: A majestic creature indeed.
+ID: LSID_016_LlamaSniper
+
+Name: Carbide
+Description: Concept art for Carbide.
+ID: LSID_017_Carbide
+
+Name: Rex
+Description: Showcase art for Rex.
+ID: LSID_018_Rex
+
+Name: Squad Leader
+Description: Concept art for Squad Leader.
+ID: LSID_019_TacticalJungle
+
+Name: Supply Drop
+Description: Loot worth battling over.
+ID: LSID_020_SupplyDrop
+
+Name: Leviathan
+Description: Showcase art for Leviathan.
+ID: LSID_021_Leviathan
+
+Name: Brite Gunner
+Description: Concept art for Brite Gunner.
+ID: LSID_022_BriteGunner
+
+Name: Zoey
+Description: Concept art for Zoey.
+ID: LSID_023_Candy
+
+Name: Aerosol Assassins
+Description: Concept art for Aerosol Assassins set.
+ID: LSID_024_Graffiti
+
+Name: Raven
+Description: Showcase art for Raven.
+ID: LSID_025_Raven
+
+Name: Retrofit
+Description: Modifications required...
+ID: LSID_026_S4Cumulative8
+
+Name: Road Trip!
+Description: What better place to start than a giant hilltop burger? We convinced a new friend to join us as well.
+ID: LSID_027_S5Cumulative1
+
+Name: Fairway Fun
+Description: We hit the links and invented some new rules for golf. They mostly involved driving around really fast.
+ID: LSID_028_S5Cumulative2
+
+Name: Track Record
+Description: We learned that you can go really fast if you boost out of the corners. You may lose a passenger or two though.
+ID: LSID_029_S5Cumulative3
+
+Name: Poolside Paradise
+Description: We found a pool party and decided to jump in. Whether we were invited or not doesn't really seem important.
+ID: LSID_030_S5Cumulative4
+
+Name: Blast From The Past
+Description: After stumbling across a long lost relative, we all became part of the family.
+ID: LSID_031_S5Cumulative5
+
+Name: Opening Night
+Description: We were lured by the smell of popcorn, and stuck around for a movie screening.
+ID: LSID_032_S5Cumulative6
+
+Name: Signing Back In
+Description: The motel staff promised us a quiet stay without disturbance. Zero stars.
+ID: LSID_033_S5Cumulative7
+
+Name: Abstrakt
+Description: Showcase art for Abstrakt.
+ID: LSID_034_Abstrakt
+
+Name: Bandolier
+Description: Showcase art for Bandolier.
+ID: LSID_035_Bandolier
+
+Name: Drift
+Description: Concept art for Drift's unlockable styles.
+ID: LSID_036_Drift
+
+Name: Tomatohead
+Description: Showcase art for Tomatohead.
+ID: LSID_037_Tomatohead
+
+Name: High Explosives
+Description: Showcase art for High Explosives.
+ID: LSID_038_HighExplosives
+
+Name: Jailbirds
+Description: Showcase art for the Jailbirds.
+ID: LSID_039_Jailbirds
+
+Name: Sun Strider
+Description: Concept art for Sun Strider.
+ID: LSID_040_Lifeguard
+
+Name: Supply Llama
+Description: Showcase art for the Supply Llama.
+ID: LSID_041_SupplyLlama
+
+Name: Omen
+Description: Showcase art for Omen.
+ID: LSID_042_Omen
+
+Name: Red Knight
+Description: Showcase art for Red Knight.
+ID: LSID_043_RedKnight
+
+Name: Flytrap
+Description: Showcase art for Flytrap.
+ID: LSID_044_FlyTrap
+
+Name: Huntress
+Description: Concept art for Huntress.
+ID: LSID_045_VikingFemale
+
+Name: Norse Emblem
+Description: Concept art for Norse Set emblem.
+ID: LSID_046_VikingPattern
+
+Name: Tomato Trek
+Description: We never expected finding a slice of pizza would be this difficult.
+ID: LSID_047_S5Cumulative8
+
+Name: Six-Sided Mystery
+Description: Despite all of the creepy noises and glowing glyphs, we couldn't resist taking a closer look.
+ID: LSID_048_S5Cumulative9
+
+Name: Dark Reflection
+Description: I was looking at someone, but it wasn't me...
+ID: LSID_049_S5Cumulative10
+
+Name: Tomato Temple
+Description: Showcase art for Tomato Temple.
+ID: LSID_050_TomatoTemple
+
+Name: Ravage
+Description: Showcase art for Ravage.
+ID: LSID_051_Ravage
+
+Name: Emoticons!
+Description: Collage of Battle Royale emoticons.
+ID: LSID_052_EmoticonCollage
+
+Name: Supply Llama
+Description: Showcase art for Supply Llamas.
+ID: LSID_053_SupplyLlama
+
+Name: Chompmasters
+Description: Showcase art for the Divemasters and Chomp sets.
+ID: LSID_054_Scuba
+
+Name: Valkyrie
+Description: Showcase art for Valkyrie and Frostwing.
+ID: LSID_055_Valkyrie
+
+Name: Fate
+Description: Showcase art for Fate.
+ID: LSID_056_Fate
+
+Name: Pastel Patrol
+Description: Showcase art for Bunny Brawler and Rabbit Raider.
+ID: LSID_057_Bunnies
+
+Name: DJ Yonder
+Description: Concept art for DJ Yonder.
+ID: LSID_058_DJConcept
+
+Name: Dusk
+Description: Concept art for Dusk.
+ID: LSID_059_Vampire
+
+Name: Calamity
+Description: Concept art for Calamity.
+ID: LSID_060_Cowgirl
+
+Name: Dire
+Description: Concept art for Dire.
+ID: LSID_061_Werewolf
+
+Name: Down On The Ranch
+Description: Llamas keep escaping their pen for some strange reason.
+ID: LSID_062_S6Cumulative01
+
+Name: Wailing Wolves
+Description: Fireflies provide just enough distraction for an ambush.
+ID: LSID_063_S6Cumulative02
+
+Name: Fabled Hunter
+Description: Once the pack is divided, they no longer pack much bite.
+ID: LSID_064_S6Cumulative03
+
+Name: Dinner Date At Dusk
+Description: Red is such an appetizing color.
+ID: LSID_065_S6Cumulative04
+
+Name: Nite Coven Roundup
+Description: When the sun goes down, it's time to cull the herd.
+ID: LSID_066_S6Cumulative05
+
+Name: Verge Of Despair
+Description: For every one that goes down, two more take it's place.
+ID: LSID_067_S6Cumulative06
+
+Name: Turning Of The Tide
+Description: As the sun rises, darkness falls.
+ID: LSID_068_S6Cumulative07
+
+Name: On Target
+Description: Landing sequence complete. Initiate recon protocol.
+ID: LSID_069_S6Cumulative08
+
+Name: Rememberance
+Description: In the calm after the storm, even flowers can bloom.
+ID: LSID_070_S6Cumulative09
+
+Name: Dance Party
+Description: Leave the past behind, and dance into the night.
+ID: LSID_071_S6Cumulative10
+
+Name: Festive Firefight
+Description: Showcase art for the holiday period.
+ID: LSID_072_WinterLauncher
+
+Name: Dusty Depot
+Description: The original.
+ID: LSID_073_DustyDepot
+
+Name: Dark Llama
+Description: Concept art for Dark Bomber's shirt design.
+ID: LSID_074_DarkBomber
+
+Name: Sgt. Winter
+Description: Concept art for Sgt. Winter styles.
+ID: LSID_075_TacticalSanta
+
+Name: Support Squadron
+Description: Showcase art for the Support Squadron set.
+ID: LSID_076_Medics
+
+Name: Skull Squad
+Description: Showcase art for the Skull Squad set.
+ID: LSID_078_SkullTrooper
+
+Name: X-4 Stormwing
+Description: Concept art for the X-4 Stormwing plane.
+ID: LSID_079_Plane
+
+Name: Gingerbread
+Description: Concept art for Merry Marauder and Ginger Gunner.
+ID: LSID_080_Gingerbread
+
+Name: Tender Defender
+Description: Showcase art for the Fowl Play set.
+ID: LSID_081_TenderDefender
+
+Name: Lynx
+Description: Concept art for Lynx.
+ID: LSID_082_NeonCat
+
+Name: Crackshot
+Description: Showcase art for Crackshot.
+ID: LSID_083_Crackshot
+
+Name: Wide Awake
+Description: There's no pick me up quite like brisk mountain air.
+ID: LSID_084_S7Cumulative01
+
+Name: Feline By Design
+Description: It's so satisfying to see a sketch become reality.
+ID: LSID_085_S7Cumulative02
+
+Name: Ready For Takeoff
+Description: Fuel up before a long winter's night.
+ID: LSID_086_S7Cumulative03
+
+Name: Airtime
+Description: You can catch air off of just about anything.
+ID: LSID_087_S7Cumulative04
+
+Name: Teatime
+Description: Pine needles make unsurprisingly bad tea.
+ID: LSID_088_S7Cumulative05
+
+Name: Order Up!
+Description: I made yours extra greasy.
+ID: LSID_089_S7Cumulative06
+
+Name: Unexpected Awakening
+Description: Why am I awake?! The ice was never supposed to thaw.
+ID: LSID_090_S7Cumulative07
+
+Name: Summon The Storm
+Description: I must restore order.
+ID: LSID_091_S7Cumulative08
+
+Name: Unchained
+Description: The ice is beginning to thaw.
+ID: LSID_092_S7Cumulative09
+
+Name: Respite
+Description: Reinvigorated by the warmth of the flame.
+ID: LSID_093_S7Cumulative10
+
+Name: Crackshot Special
+Description: Showcase art from Season 7.
+ID: LSID_094_HolidaySpecial
+
+Name: True Form
+Description: Ignite the fire inside.
+ID: LSID_095_Prisoner
+
+Name: Season 7
+Description: Showcase art for Season 7.
+ID: LSID_096_PlaneKey
+
+Name: Power Chord
+Description: Showcase art for the Volume 11 set.
+ID: LSID_097_PowerChord
+
+Name: Hybrid
+Description: Concept art for Hybrid.
+ID: LSID_098_DragonNinja
+
+Name: Scallywags
+Description: Showcase art for the Scallywags set.
+ID: LSID_099_PirateTheme
+
+Name: Sgt. Green Clover
+Description: Showcase art for the Green Clover set.
+ID: LSID_100_StPattyDay
+
+Name: The Ice Queen
+Description: Showcase art for The Ice Queen.
+ID: LSID_101_IceQueen
+
+Name: Tricera Ops
+Description: Showcase art for the Dino Guard set.
+ID: LSID_102_TriceraOps
+
+Name: Spray Collage
+Description: Collage of Battle Royale sprays.
+ID: LSID_103_SprayCollage
+
+Name: Master Key
+Description: Showcase art for Master Key.
+ID: LSID_104_MasterKey
+
+Name: Arachnids
+Description: Showcase art for the Arachnid set.
+ID: LSID_105_BlackWidow
+
+Name: Isle Of Treasure
+Description: The search is on...
+ID: LSID_106_TreasureMap
+
+Name: A New Voyage
+Description: Swab the deck and ready the cannons.
+ID: LSID_107_S8Cumulative01
+
+Name: Children Of The Brood
+Description: Hatchlings born in a cauldron of fire.
+ID: LSID_108_S8Cumulative02
+
+Name: Darting Through Danger
+Description: The shiniest treasure is always protected by the most traps.
+ID: LSID_109_S8Cumulative03
+
+Name: Ripening Ritual
+Description: The ancient rite of passage for every young banana entering bananahood.
+ID: LSID_110_S8Cumulative04
+
+Name: Hands Of Flame
+Description: The fire inside burns eternal.
+ID: LSID_111_S8Cumulative05
+
+Name: Strength Of Will
+Description: The key to victory is determination.
+ID: LSID_112_S8Cumulative06
+
+Name: Life Of Luxury
+Description: All that glitters is gold.
+ID: LSID_113_S8Cumulative07
+
+Name: Ruination
+Description: The road to ruin...
+ID: LSID_114_S8Cumulative08
+
+Name: Loot Lava
+Description: Bananas never split.
+ID: LSID_115_S8Cumulative09
+
+Name: Breakthrough
+Description: What lies below...
+ID: LSID_116_S8Cumulative10
+
+Name: Marshmello
+Description: Poster art for the Showtime event.
+ID: LSID_117_Squishy
+
+Name: The Getaway
+Description: Showcase art for The Getaway.
+ID: LSID_118_Heist
+
+Name: Season 8
+Description: Showcase art for Season 8.
+ID: LSID_119_VolcanoKey
+
+Name: Assemble
+Description: Avenge the fallen.
+ID: LSID_120_Ashton
+
+Name: Conquest
+Description: Showcase art from the Norse set.
+ID: LSID_121_Vikings
+
+Name: Mesmerized
+Description: Showcase art from the Sun Soldiers set.
+ID: LSID_122_Aztec
+
+Name: Heat
+Description: Showcase art from the Inferno set.
+ID: LSID_123_Inferno
+
+Name: Air Royale
+Description: Hang on tight.
+ID: LSID_124_AirRoyale
+
+Name: Molten Legends
+Description: Embrace the flames.
+ID: LSID_125_LavaLegends
+
+Name: Lava Rising
+Description: The floor is literally lava.
+ID: LSID_126_FloorIsLava
+
+Name: Brite Future
+Description: Showcase art from the Sunshine & Rainbows set.
+ID: LSID_127_UnicornPickaxe
+
+Name: Neon Glow
+Description: Showcase art from the Neon Glow set.
+ID: LSID_128_AuroraGlow
+
+Name: Stratus
+Description: Chase the storm.
+ID: LSID_129_Stormtracker
+
+Name: Rox
+Description: The height of air superiority.
+ID: LSID_130_StrawberryPilot
+
+Name: Terminal Velocity
+Description: Backup has arrived.
+ID: LSID_131_S9Cumulative01
+
+Name: Neochasers
+Description: Last seen battling at Dino Park outhouse, these two can't be stopped.
+ID: LSID_132_S9Cumulative02
+
+Name: Dog Days
+Description: You're the man now, Doggo.
+ID: LSID_133_S9Cumulative03
+
+Name: Winner Takes All
+Description: Sandstorm and Scimitar race to the Keyboard King ATM, and the winner always gets paid.
+ID: LSID_134_S9Cumulative04
+
+Name: Raging Storm
+Description: Not even the slipstream is safe from the raging storm...
+ID: LSID_135_S9Cumulative05
+
+Name: Sure shot
+Description: Only the best snipers can take out a holo-clock tower lamp from the rooftops of Neo Tilted
+ID: LSID_136_S9Cumulative06
+
+Name: Stormlight Skirmish
+Description: Nightbeam and Flare narrowly escape a daring midnight raid.
+ID: LSID_137_S9Cumulative07
+
+Name: High Score
+Description: Peely and Jonesy first met at Bao Bros and instantly knew they would be friends forever.
+ID: LSID_138_S9Cumulative08
+
+Name: Beach Bowl
+Description: Drop in.
+ID: LSID_139_S9Cumulative09
+
+Name: Neon Jungle
+Description: You're a long long way from Lonely Lodge...
+ID: LSID_140_S9Cumulative10
+
+Name: Strikeforce
+Description: They won't know what hit 'em.
+ID: LSID_141_PS06
+
+Name: Never Surrender
+Description: Team up and take on the horde.
+ID: LSID_142_MashLTM
+
+Name: Soak It Up
+Description: Kick back and relax in the sun.
+ID: LSID_143_SummerDays
+
+Name: Summertime Splashdown
+Description: Soak or be soaked.
+ID: LSID_144_WaterBalloonLTM
+
+Name: Ready to Fight
+Description: The island depends on you.
+ID: LSID_145_Doggus
+
+Name: Quest for the Cup
+Description: The world is watching...
+ID: LSID_146_WorldCup2019
+
+Name: Season 9
+Description: Showcase art for season 9.
+ID: LSID_147_UtopiaKey
+
+Name: Visions
+Description: He tried to warn us.
+ID: LSID_148_FortbyteReveal
+
+Name: Bottomless Pit
+Description: Created by Jim Mahfood.
+ID: LSID_151_JMSparkle
+
+Name: Waveriding
+Description: Created by Jim Mahfood.
+ID: LSID_152_JMLuxe
+
+Name: Boost!
+Description: Created by Ian Jepson.
+ID: LSID_153_IJDriftboard
+
+Name: Cuddle Up
+Description: Created by Ian Jepson.
+ID: LSID_154_IJCuddle
+
+Name: Downtown Drift
+Description: Created by Aaron Kraten.
+ID: LSID_155_AKDrift
+
+Name: Bombers
+Description: Created by Aaron Kraten.
+ID: LSID_156_AKBrite
+
+Name: Twilight Flight
+Description: Created by Timothy P Doyle and Sydney Roper.
+ID: LSID_157_NTBattleBus
+
+Name: Undurrr The Stars
+Description: Created by Timothy P Doyle and Sydney Roper.
+ID: LSID_158_NTDurrr
+
+Name: Firewalker
+Description: Created by Kiptoe.
+ID: LSID_159_KTFirewalker
+
+Name: Vengeance
+Description: Created by Kiptoe.
+ID: LSID_160_KTVendetta
+
+Name: Suit Up
+Description: Created by Hydro74.
+ID: LSID_161_H7OutfitsA
+
+Name: Nevermore
+Description: Created by Hydro74.
+ID: LSID_162_H7OutfitsB
+
+Name: Rocket Ride
+Description: Created by MUTI.
+ID: LSID_163_SMRocketRide
+
+Name: Crackshot Mural
+Description: Created by MUTI.
+ID: LSID_164_SMCrackshot
+
+Name: B.R.U.T.E. Squad
+Description: You can't hide.
+ID: LSID_165_S10Cumulative01
+
+Name: Shootout At Sundown
+Description: This town ain't big enough...
+ID: LSID_166_S10Cumulative02
+
+Name: The Leftovers
+Description: Get a taste for survival.
+ID: LSID_167_S10Cumulative03
+
+Name: Junk Storm
+Description: Let it all rain down.
+ID: LSID_168_S10Cumulative04
+
+Name: Catastrophic
+Description: Radiate confidence.
+ID: LSID_169_S10Cumulative05
+
+Name: The Return
+Description: Darkness rises once more.
+ID: LSID_170_S10Cumulative06
+
+Name: Summer Slurp
+Description: A moisty end to summer fun.
+ID: LSID_171_S10Cumulative07
+
+Name: Gothic
+Description: Watch over the city.
+ID: LSID_172_S10Cumulative08_E9M2F
+
+Name: Ready or not...
+Description: Welcome to the combine.
+ID: LSID_173_S10Cumulative09
+
+Name: Last Stop
+Description: Thank you, bus driver!
+ID: LSID_174_S10Cumulative10
+
+Name: Sliced Up
+Description: Created by Jim Mahfood.
+ID: LSID_175_JMTomato
+
+Name: Eruption
+Description: Created by MUTI.
+ID: LSID_176_SMVolcano
+
+Name: Hands Off
+Description: Created by Ian Jepson.
+ID: LSID_177_IJLlama
+
+Name: The Bat And The Cat
+Description: Out of the Batcave and into the Battle Bus.
+ID: LSID_178_BlackMonday_S815X
+
+Name: Season X
+Description: Showcase art for season X.
+ID: LSID_179_SXKey
+
+Name: New World
+Description: Take in the sights.
+ID: LSID_180_S11Cumulative01
+
+Name: Open Water
+Description: Reel in the big fish.
+ID: LSID_181_S11Cumulative02
+
+Name: Forged In Slurp
+Description: A hero rises from the Slurpy Swamp.
+ID: LSID_182_S11Cumulative03
+
+Name: Dockyard Deal
+Description: Lock down the docks.
+ID: LSID_183_S11Cumulative04
+
+Name: The Lowdown
+Description: A plan unfolds in the darkness.
+ID: LSID_184_S11Cumulative05
+
+Name: Hunter and the Hunted
+Description: Shh...
+ID: LSID_185_S11Cumulative06
+
+Name: Trick Shot
+Description: Everything depends on the final shot.
+ID: LSID_186_S11Cumulative07
+
+Name: Dive!
+Description: Into the deep end.
+ID: LSID_187_S11Cumulative08
+
+Name: Chaos Rising
+Description: He's making plans...
+ID: LSID_188_S11Cumulative09
+
+Name: TBD
+Description: TBD
+ID: LSID_189_S11Cumulative10
+
+Name: Mecha Punch
+Description: Created by CLOGTWO.
+ID: LSID_190_ICMechaTeam
+
+Name: Nutcracker Crew
+Description: Created by Kudaman.
+ID: LSID_191_TZNutcracker
+
+Name: Wiggle Trooper
+Description: Created by Justine McAllister.
+ID: LSID_192_JUWiggle
+
+Name: Final Harvest
+Description: Created by Jim Mahfood.
+ID: LSID_193_JMHollowhead
+
+Name: Western Wilds Duo
+Description: Created by Kiptoe.
+ID: LSID_194_KTDeadfire
+
+Name: Skull Reaper
+Description: Created by Hydro74.
+ID: LSID_195_H7Skull
+
+Name: Sky Session
+Description: Created by amauryfilhoart.
+ID: LSID_196_AMRockstar
+
+Name: Mecha Intensity
+Description: Created by MUTI.
+ID: LSID_197_SMRobot
+
+Name: Battle Pass X
+Description: Created by Team Couscous.
+ID: LSID_198_JYSeasonX
+
+Name: Neon Tomato
+Description: Created by MUTI.
+ID: LSID_199_SMTomato
+
+Name: Drift Print
+Description: Created by Justine McAllister.
+ID: LSID_200_JUDrift
+
+Name: Elemental
+Description: Created by Jim Mahfood.
+ID: LSID_201_JMInferno
+
+Name: Demi
+Description: Created by Kudaman.
+ID: LSID_202_TZDemi
+
+Name: Kindred Bears
+Description: Created by Timothy P. Doyle.
+ID: LSID_204_NTBear
+
+Name: Eternal Dominance
+Description: Created by amauryfilhoart.
+ID: LSID_205_AMEternal
+
+Name: Llamafields
+Description: Created by George Rose.
+ID: LSID_206_GRLlama
+
+Name: The Final Reckoning
+Description: Your fate is in their hands.
+ID: LSID_207_Fortnitemares
+
+Name: Merry Beastmas
+Description: Created by MUTI.
+ID: LSID_208_SMPattern
+
+Name: The Great Crackup
+Description: Created by Aaron Kraten.
+ID: LSID_209_AKCrackshot
+
+Name: Grumbly Night
+Description: Created by Nakatomi.
+ID: LSID_210_NDoggo
+
+Name: Hench Life
+Description: Created by Delicious Design League.
+ID: LSID_213_SkullDude
+
+Name: Astrowild
+Description: Created by Delicious Design League.
+ID: LSID_214_CycloneA
+
+Name: Cosmic Revolution
+Description: Created by Alexis Ziritt.
+ID: LSID_215_CycloneB
+
+Name: TNT!
+Description: Created by Mighty Canvas.
+ID: LSID_216_TNTina
+
+Name: Roy G Meowscles
+Description: Two guns. Nine lives. Endless Swolitude.
+ID: LSID_217_Meowscles
+
+Name: Boss Fight
+Description: Created by Mighty Canvas.
+ID: LSID_218_TeamUp
+
+Name: The Clash
+Description: Where do your allegiances lie?
+ID: LSID_219_AlterEgo
+
+Name: Lost Levels
+Description: Best friends and wild adventures.
+ID: LSID_220_AdventureGirl
+
+Name: Golden Empire
+Description: Created by Ink and Clog.
+ID: LSID_221_Midas
+
+Name: The Harvest
+Description: Reap what you sow.
+ID: LSID_222_FrenzyFarms
+
+Name: Dangerous Waters
+Description: The shark swims at midnight.
+ID: LSID_223_SharkIsland
+
+Name: Visions of Love
+Description: Look into the love dimension.
+ID: LSID_224_LoveAndWar_Love
+
+Name: Visions of War
+Description: Victory is in your sights.
+ID: LSID_225_LoveAndWar_War
+
+Name: Meowscleteers
+Description: Why stop at one?
+ID: LSID_226_ThreeMeowscles
+
+Name: Eye Of The Storm
+Description: Created by Arno Kiss.
+ID: LSID_227_LlamaStormCenter
+
+Name: Our Man Peely
+Description: Created by Delicious Design League.
+ID: LSID_228_BananaAgent
+
+Name: Mountain Raid
+Description: The base is ours!
+ID: LSID_229_MountainBase
+
+Name: Cuddletime Coup
+Description: There's a new leader in town.
+ID: LSID_230_Donut
+
+Name: Astrothunder
+Description: Created by Arno Kiss.
+ID: LSID_231_CycloneBraid
+
+Name: Chapter Two, Season Two
+Description: Showcase art for Chapter Two, Season Two.
+ID: LSID_232_S12Key
+
+Name: Storm The Agency
+Description: The winds of change are blowing...
+ID: LSID_233_StormTheAgency
+
+Name: Honor
+Description: Created by Joey Rex.
+ID: LSID_234_BlackKnight
+
+Name: Get Fixed
+Description: Created by Delicious Design League.
+ID: LSID_235_MechanicalEngineer
+
+Name: Beyond The Waves
+Description: Created by Joey Rex.
+ID: LSID_236_OceanRider
+
+Name: The Lab
+Description: Created by Death Burger.
+ID: LSID_237_ProfessorPup
+
+Name: Beyond Zero
+Description: Created by Joey Rex.
+ID: LSID_238_RacerZero
+
+Name: King Of The Beach
+Description: Created by Dan Mora.
+ID: LSID_239_Sandcastle
+
+Name: Sightseer
+Description: Created by Alexis Ziritt.
+ID: LSID_240_SpaceWanderer
+
+Name: From the deep!
+Description: Created by Nick Derington.
+ID: LSID_241_TacticalScuba
+
+Name: I Call Shotgun
+Description: Just drive.
+ID: LSID_242_Valet
+
+Name: Floatsburg
+Description: Created by Delicious Design League.
+ID: LSID_243_Floatilla
+
+Name: SK8-Bit
+Description: Let it roll.
+ID: LSID_244_RollerDerby
+
+Name: DOOM Unleashed
+Description: Created by Tradd Moore.
+ID: LSID_246_HighTowerDate
+
+Name: Out on a Limb
+Description: Created by Jorge Corona.
+ID: LSID_247_HighTowerGrape
+
+Name: Carrying the Team
+Description: Created by James Harren.
+ID: LSID_248_HighTowerHoneyDew
+
+Name: Identity Crisis
+Description: Created by Afu Chan.
+ID: LSID_249_HighTowerMango
+
+Name: Storm Flight
+Description: Created by Rich Kelly.
+ID: LSID_250_HighTowerSquash
+
+Name: Herald's Hammer
+Description: Created by Michael Cho.
+ID: LSID_251_HighTowerTapas
+
+Name: The Man in the Suit
+Description: Created by Delicious Design League.
+ID: LSID_252_HighTowerTomato
+
+Name: Adamantium Slash
+Description: Created by Gian Galang.
+ID: LSID_253_HighTowerWasabi
+
+Name: Cosmic Wave
+Description: Created by Sebastian Von Buchwald
+ID: LSID_254_S14SeasonalA
+
+Name: Corrupted Legends
+Description: There is no turning back...
+ID: LSID_256_Corrupted
+
+Name: Cuddle Team Winner
+Description: Victory!
+ID: LSID_257_FNCS_CuddleTeam
+
+Name: The Daywalker
+Description: His Name Is... Blade!
+ID: LSID_258_Backspin
+
+Name: Midas' Revenge
+Description: Revenge from the shadows.
+ID: LSID_259_MidasRevenge
+
+Name: Menace Reigns
+Description: Created by David Rubin.
+ID: LSID_260_AncientGladiator
+
+Name: Wildheart Way
+Description: Created by Afu Chan.
+ID: LSID_261_Shapeshifter
+
+Name: Let's go, Mechafusion!
+Description: Created by Afu Chan.
+ID: LSID_262_Lexa
+
+Name: Warrior Spirit
+Description: Created by Brian Reedy.
+ID: LSID_263_FutureSamurai
+
+Name: Stack 'em High
+Description: He's one bad breakfast.
+ID: LSID_264_Flapjack
+
+Name: Exterminator
+Description: Created by ZHUU.
+ID: LSID_265_SpaceFighter
+
+Name: Mando
+Description: Created by Matteo Scalera.
+ID: LSID_266_Cosmos
+
+Name: Royalty
+Description: Created by Alex Maleev.
+ID: LSID_267_S15SeasonalA
+
+Name: Merry Marauding
+Description: You just made their list.
+ID: LSID_268_Holiday1
+
+Name: Frost In Action
+Description: Welcome to snowman's land.
+ID: LSID_269_Holiday2
+
+Name: The Hunt
+Description: There's something in those trees.
+ID: LSID_270_Nightmare_IZN91
+
+Name: The Axe of Destiny
+Description: Champions only.
+ID: LSID_271_FNCS_S15_ChampAxe
+
+Name: Kitsune's Pursuit
+Description: Created by Amelia Vidal.
+ID: LSID_272_FoxWarrior_6DFA1
+
+Name: My name is Barry Allen.
+Description: Traveler of the Multiverse.
+ID: LSID_273_Tar_ITJ9S
+
+Name: Player Select!
+Description: Art by Shinkiro.
+ID: LSID_274_Skirmish_PJ9TZ
+
+Name: Fox Clan Reborn
+Description: Catch us if you can..
+ID: LSID_275_FoxWarrior2
+
+Name: XenoSlurp
+Description: Game over, man.
+ID: LSID_276_Kepler
+
+Name: The Sky Is Lava
+Description: Art by Dexter Maur
+ID: LSID_277_RustLordDoggoLavaRain
+
+Name: The Golden Hour
+Description: Marigold comes to collect...
+ID: LSID_278_GoldenTouch
+
+Name: Raven's Wrath
+Description: Created by Jakub Rebelka
+ID: LSID_279_Obsidian
+
+Name: The Spire's Shadow
+Description: Created by Dan Mumford
+ID: LSID_280_Sentinel
+
+Name: Glyph Raider
+Description: Created by Kim Jacinto
+ID: LSID_281_CubeNinja
+
+Name: Primal Takedown
+Description: Created by Phil Noto
+ID: LSID_282_DinoHunter
+
+Name: Ultimate Jones
+Description: Created by Dave Johnson
+ID: LSID_283_AgentJonesy
+
+Name: Wing of the hill
+Description: Created by Skottie Young
+ID: LSID_284_ChickenWarrior
+
+Name: Llama-rama
+Description: Llamas, start your engines.
+ID: LSID_286_LlamaRama2_8ASUQ
+
+Name: Countdown To Zero
+Description: The moment of truth...
+ID: LSID_289_YogurtJonesy
+
+Name: Catwalk
+Description: Alli's on the prowl.
+ID: LSID_290_AprilSubs
+
+Name: Secrets of the Ancients
+Description: The key to the future may lie in the past.
+ID: LSID_291_S16_FNCS
+
+Name: null
+Description: null
+ID: LSID_DefaultBG
+
+Name: Random
+Description: Randomly chooses between favorite Loading Screens (or all owned Loading Screens if nothing is marked as a favorite)
+ID: LSID_Random
+
+Name: Hit the Road
+Description: Earned in the "Hit the Road" event in Save the World.
+ID: LSID_STW001_HitTheRoad
+
+Name: Frostnite Burner
+Description: Earned by surviving the Final Frost in Save the World.
+ID: LSID_STW001_Holdfast
+
+Name: Dungeons
+Description: Earned in the "Dungeons" event in Save the World.
+ID: LSID_STW002_Starlight1
+
+Name: Storm King
+Description: Earned by defeating the Mythic Storm King in Save the World.
+ID: LSID_STW002_StormKing
+
+Name: Metal Team Leader
+Description: Earned in the "Hit the Road" event in Save the World.
+ID: LSID_STW003_HitTheRoad_MTL
 
