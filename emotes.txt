@@ -1686,6 +1686,10 @@ Name: Flippin' Away
 Description: Back in action.
 ID: EID_SuperheroBackflip
 
+Name: Survivorsault
+Description: Been doing this.
+ID: EID_Survivorsault_NJ7WC
+
 Name: Deep End
 Description: Dive in.
 ID: EID_SwimDance
