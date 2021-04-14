@@ -1120,6 +1120,14 @@ Name: Secrets of the Ancients
 Description: The key to the future may lie in the past.
 ID: LSID_291_S16_FNCS
 
+Name: Aloy the Skywatcher
+Description: She's a natural.
+ID: LSID_294_Alchemy_09U3R
+
+Name: Pen (and Ink) Pals
+Description: Ever try making your own friends?
+ID: LSID_295_Headcase
+
 Name: null
 Description: null
 ID: LSID_DefaultBG
