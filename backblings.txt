@@ -2410,6 +2410,10 @@ Name: Octane RL
 Description: Take your shot!
 ID: BID_619_Turbo
 
+Name: Flutterfish
+Description: Designed exclusively for her royal fishness.
+ID: BID_620_TeriyakiFishPrincess
+
 Name: Holo-Skull
 Description: Glowing with dread.
 ID: BID_621_Poison
@@ -2861,6 +2865,22 @@ ID: BID_735_WickedDuckFemale
 Name: Gains!
 Description: Hodl!
 ID: BID_736_DayTrader_QS4PD
+
+Name: Blaze Canister
+Description: Preferred biofuel of Nora Seekers.
+ID: BID_737_Alchemy_1WW0D
+
+Name: Harley Quinn's Revenge
+Description: Wind her up. See what happens.
+ID: BID_738_CottonCandy
+
+Name: Globee
+Description: It looks so small from up here.
+ID: BID_742_TerrainMan
+
+Name: Glumbo
+Description: He wanna munch.
+ID: BID_743_Accumulate
 
 Name: TBD
 Description: TBD
