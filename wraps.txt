@@ -1314,6 +1314,22 @@ Name: Quack-Up
 Description: Show your style.
 ID: Wrap_344_WickedDuck
 
+Name: Grimules
+Description: Show your style.
+ID: Wrap_345_Accumulate
+
+Name: Bloomsday
+Description: Show your style.
+ID: Wrap_346_Flora
+
+Name: Aqua Royal
+Description: Show your style.
+ID: Wrap_347_TeriyakiFishPrincess
+
+Name: Shield-Weaver
+Description: Show your style.
+ID: Wrap_348_Alchemy_FYA4I
+
 Name: TBD
 Description: Show your style.
 ID: Wrap_CatBurglarGameplay
