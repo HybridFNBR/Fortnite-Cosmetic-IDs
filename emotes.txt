@@ -26,6 +26,10 @@ Name: Air Horn
 Description: Subtle.
 ID: EID_AirHornRaisin
 
+Name: Heart-rizon
+Description: With love from the world of Horizon.
+ID: EID_Alchemy_BZWS8
+
 Name: Extraterrestrial
 Description: Interplanetary groove.
 ID: EID_Alien
@@ -1394,6 +1398,10 @@ Name: Regal Wave
 Description: Greetings royale.
 ID: EID_RegalWave
 
+Name: Sweaty
+Description: We've all been there.
+ID: EID_Relaxed
+
 Name: Respect The Peace
 Description: Show some respect.
 ID: EID_RespectThePeace
@@ -1633,6 +1641,10 @@ ID: EID_Sparkler
 Name: Full Tilt
 Description: Lean into it.
 ID: EID_SpeedRun
+
+Name: Sproing!
+Description: Spring has sproinged.
+ID: EID_SpringRider
 
 Name: Sprinkler
 Description: Sprinkled with style.
