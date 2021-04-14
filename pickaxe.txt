@@ -1852,6 +1852,10 @@ Name: Tangerine Terror
 Description: A little sweet and a lot sharp.
 ID: Pickaxe_ID_471_StreetFashionGarnetFemale
 
+Name: Water Wand
+Description: Powered by Friendship.
+ID: Pickaxe_ID_472_TeriyakiFishPrincessFemale
+
 Name: Vamp Axe
 Description: It vants to slice your forts.
 ID: Pickaxe_ID_473_VampireCasualFemale
@@ -2267,6 +2271,18 @@ ID: Pickaxe_ID_578_WickedDuckFemale
 Name: Tactical Quaxes
 Description: Ain't nothing rubber about these duckies.
 ID: Pickaxe_ID_579_WickedDuckMale1H
+
+Name: Grafitaxe
+Description: Caution: Paint may be wet. And sharp.
+ID: Pickaxe_ID_580_AccumulateMale
+
+Name: Aloy's Spear
+Description: Turn the tables and venture into the wilds.
+ID: Pickaxe_ID_581_Alchemy_HKAS0
+
+Name: Devourer's Bane
+Description: Eco-friendly fiend fighter.
+ID: Pickaxe_ID_585_TerrainManMale
 
 Name: Ol' Woody
 Description: Looks... sturdy.
