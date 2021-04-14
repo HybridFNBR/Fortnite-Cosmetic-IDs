@@ -3389,6 +3389,10 @@ Name: Sagan
 Description: Live the journey and lead the way.
 ID: CID_871_Athena_Commando_F_StreetFashionGarnet
 
+Name: Princess Felicity Fish
+Description: First of her name. Long may she reign.
+ID: CID_872_Athena_Commando_F_TeriyakiFishPrincess
+
 Name: Recruit
 Description: Standard issue combatant outfit.
 ID: CID_873_Athena_Commando_M_RebirthDefaultE
@@ -3845,10 +3849,6 @@ Name: Black Panther
 Description: The rightful king of Wakanda.
 ID: CID_986_Athena_Commando_M_PlumRetro_4AJA2
 
-Name: Black Panther
-Description: The rightful king of Wakanda.
-ID: CID_986_PlumRetro_AnisoTest
-
 Name: Frost Broker
 Description: Welcome to the deep freeze.
 ID: CID_987_Athena_Commando_M_Frostbyte
@@ -4132,6 +4132,26 @@ ID: CID_A_060_Athena_Commando_M_Daytrader_8MRO2
 Name: IO Trooper
 Description: Elite commando from the Imagined Order.
 ID: CID_A_061_Athena_Commando_M_PaddedArmorOrder
+
+Name: Aloy
+Description: Outcast. Seeker. Champion.
+ID: CID_A_062_Athena_Commando_F_Alchemy_XD6GP
+
+Name: Rebirth Harley Quinn
+Description: She's callin' the shots now, puddin'.
+ID: CID_A_063_Athena_Commando_F_CottonCandy
+
+Name: Aspen
+Description: Storm the beeches.
+ID: CID_A_064_Athena_Commando_F_SurvivalSpecialistAutumn
+
+Name: Eco
+Description: He's got it all mapped out.
+ID: CID_A_068_Athena_Commando_M_TerrainMan
+
+Name: Grimey
+Description: Respect the drip... or else. Reactive: New soul added with each elimination.
+ID: CID_A_069_Athena_Commando_M_Accumulate
 
 Name: TBD
 Description: TBD
