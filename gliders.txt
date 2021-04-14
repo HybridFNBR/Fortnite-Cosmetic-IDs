@@ -1167,6 +1167,14 @@ Name: Spire Fire
 Description: The burning flame of a long ago sacrifice.
 ID: Glider_ID_285_TowerSentinelFemale
 
+Name: Drip Dropper
+Description: Nozzle up with a friend.
+ID: Glider_ID_286_AccumulateMale
+
+Name: Glinthawk
+Description: A tenuous alliance.
+ID: Glider_ID_287_Alchemy_W87KL
+
 Name: Raptor
 Description: Go ahead. Buzz the tower. You've earned it.
 ID: Glider_MiG
