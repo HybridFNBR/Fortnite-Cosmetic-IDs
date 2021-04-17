@@ -1374,6 +1374,10 @@ Name: Amazing Cube
 Description: Wow your friends! Intimidate your enemies! Be a hit at parties!
 ID: EID_PuzzleBox
 
+Name: Hit It
+Description: I think we got a winner.
+ID: EID_Quantity_39X5D
+
 Name: Jamboree
 Description: Celebrate anything and everything.
 ID: EID_QuickSweeper
