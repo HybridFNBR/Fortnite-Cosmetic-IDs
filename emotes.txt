@@ -138,6 +138,14 @@ Name: Best Mates
 Description: Who's your best mate?
 ID: EID_BestMates
 
+Name: Hang Loose Celebration
+Description: There is no pressure when you're making a dream come true.
+ID: EID_Bicycle
+
+Name: Shhh.
+Description: Talk less, play more.
+ID: EID_BicycleStyle
+
 Name: Sasquatchin'
 Description: Put you best bigfoot forward.
 ID: EID_BigfootWalk
@@ -685,6 +693,10 @@ ID: EID_GoodVibes
 Name: Infectious
 Description: Let it take over.
 ID: EID_GothDance
+
+Name: Get Griddy
+Description: Keep your eye on the end zone.
+ID: EID_Griddles
 
 Name: Controller Crew
 Description: Two sticks. One heart.
