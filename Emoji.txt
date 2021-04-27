@@ -798,6 +798,14 @@ Name: Miss Fish
 Description: Express yourself on the battlefield.
 ID: Emoji_S16_Alt_2
 
+Name: Stealth Shot
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_Bicycle
+
+Name: Spinner Takes All
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_Bicycle2
+
 Name: Eggy
 Description: Express yourself on the battlefield.
 ID: Emoji_S16_ChickenWarrior
@@ -813,6 +821,10 @@ ID: Emoji_S16_DinoHunter
 Name: Championship 2021
 Description: Express yourself on the battlefield.
 ID: Emoji_S16_FNCS
+
+Name: Enlightened Warrior
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_MaskedWarrior
 
 Name: Power of Azarath
 Description: Express yourself on the battlefield.
