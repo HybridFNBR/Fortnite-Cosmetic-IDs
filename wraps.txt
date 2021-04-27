@@ -1330,6 +1330,22 @@ Name: Shield-Weaver
 Description: Show your style.
 ID: Wrap_348_Alchemy_FYA4I
 
+Name: Doom Echo
+Description: Show your style.
+ID: Wrap_349_Cranium
+
+Name: Bees-y Does It
+Description: Show your style.
+ID: Wrap_350_BeeHive
+
+Name: Frenz 4 Ever
+Description: Show your style.
+ID: Wrap_351_DoodleColors
+
+Name: Lantern Glow
+Description: Show your style.
+ID: Wrap_352_LanternFest
+
 Name: TBD
 Description: Show your style.
 ID: Wrap_CatBurglarGameplay
