@@ -1108,6 +1108,10 @@ Name: Llama-rama
 Description: Llamas, start your engines.
 ID: LSID_286_LlamaRama2_8ASUQ
 
+Name: Matador
+Description: Created by Afu Chan
+ID: LSID_288_Bicycle
+
 Name: Countdown To Zero
 Description: The moment of truth...
 ID: LSID_289_YogurtJonesy
@@ -1120,6 +1124,10 @@ Name: Secrets of the Ancients
 Description: The key to the future may lie in the past.
 ID: LSID_291_S16_FNCS
 
+Name: Skull Stalker
+Description: A new gatekeeper for a new underworld.
+ID: LSID_293_Cranium
+
 Name: Aloy the Skywatcher
 Description: She's a natural.
 ID: LSID_294_Alchemy_09U3R
@@ -1127,6 +1135,10 @@ ID: LSID_294_Alchemy_09U3R
 Name: Pen (and Ink) Pals
 Description: Ever try making your own friends?
 ID: LSID_295_Headcase
+
+Name: Combo Meal
+Description: Ordered together, they stand as one.
+ID: LSID_297_FoodKnights
 
 Name: null
 Description: null
