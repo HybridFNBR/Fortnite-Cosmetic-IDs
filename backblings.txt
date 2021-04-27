@@ -2882,6 +2882,42 @@ Name: Glumbo
 Description: He wanna munch.
 ID: BID_743_Accumulate
 
+Name: Ohm's Mantle
+Description: Composed of nanotech-woven microfibers.
+ID: BID_746_ArmoredEngineer
+
+Name: Scarlet Sai
+Description: The fury is sleeping. For now.
+ID: BID_747_TacticalRedPunk
+
+Name: Joia Trophy
+Description: Gooooooooooal!
+ID: BID_748_BicycleMale
+
+Name: Tusk & Tooth
+Description: Earned. Never given.
+ID: BID_749_DinoCollector
+
+Name: Raptor's Way
+Description: The path ahead requires a brave and adventurous spirit.
+ID: BID_750_RaptorKnight
+
+Name: Beefsteel Blade
+Description: The condiments of its victims still cling to its blade.
+ID: BID_751_DurrburgerKnight
+
+Name: Buckler Supreme
+Description: Skimpeth not on the sour cream.
+ID: BID_752_TacoKnight
+
+Name: Zzarian Mantle
+Description: May your cheese be melty, may your crust never yield.
+ID: BID_753_TomatoKnight
+
+Name: Sorrow's Edge
+Description: Picked it up from a fallen traveler.
+ID: BID_754_CraniumMale
+
 Name: TBD
 Description: TBD
 ID: BID_NPC_HightowerDate
