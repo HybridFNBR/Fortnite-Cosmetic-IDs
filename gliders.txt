@@ -1175,6 +1175,14 @@ Name: Glinthawk
 Description: A tenuous alliance.
 ID: Glider_ID_287_Alchemy_W87KL
 
+Name: Aerial Acrobat
+Description: Keep searching, keep believing.
+ID: Glider_ID_288_BicycleMale
+
+Name: Batman Zero Wing
+Description: Battle-worn bat glider.
+ID: Glider_ID_289_CavernMale_5I9RD
+
 Name: Raptor
 Description: Go ahead. Buzz the tower. You've earned it.
 ID: Glider_MiG
