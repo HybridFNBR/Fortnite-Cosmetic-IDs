@@ -4153,6 +4153,38 @@ Name: Grimey
 Description: Respect the drip... or else. Reactive: New soul added with each elimination.
 ID: CID_A_069_Athena_Commando_M_Accumulate
 
+Name: Deimos
+Description: Travelers beware on the road to the next world.
+ID: CID_A_071_Athena_Commando_M_Cranium
+
+Name: Pico de Gallant
+Description: Seeker of the Guacamole Grail
+ID: CID_A_073_Athena_Commando_F_TacoKnight
+
+Name: Zzaria The Cruel
+Description: A heart blacker than olives and a spirit saltier than sardines.
+ID: CID_A_074_Athena_Commando_M_TomatoKnight
+
+Name: Surrr Burger
+Description: The Spatulady of the Lake's favored knight.
+ID: CID_A_075_Athena_Commando_M_DurrburgerKnight
+
+Name: Gia
+Description: As far as she's concerned, she's the rightful leader of the Clan.
+ID: CID_A_076_Athena_Commando_F_DinoCollector
+
+Name: Scrapknight Jules
+Description: A good build is worth the effort.
+ID: CID_A_077_Athena_Commando_F_ArmoredEngineer
+
+Name: Neymar Jr
+Description: Boldness is my nickname.
+ID: CID_A_078_Athena_Commando_M_Bicycle
+
+Name: Raptorian The Brave
+Description: Long may his banner fly.
+ID: CID_A_079_Athena_Commando_M_RaptorKnight
+
 Name: TBD
 Description: TBD
 ID: CID_NPC_Athena_Commando_F_HenchmanSpyDark
