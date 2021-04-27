@@ -2284,6 +2284,42 @@ Name: Devourer's Bane
 Description: Eco-friendly fiend fighter.
 ID: Pickaxe_ID_585_TerrainManMale
 
+Name: Wing Spanner
+Description: Wield the power of faultless engineering.
+ID: Pickaxe_ID_586_ArmoredEngineerFemale
+
+Name: Jaguar Strike
+Description: Gotta work hard to be the best.
+ID: Pickaxe_ID_587_BicycleMale
+
+Name: Sorrow's Reach
+Description: There's no escaping the underworld's clutches.
+ID: Pickaxe_ID_590_CraniumMale
+
+Name: Crossbite Toothaxes
+Description: Surprisingly chewy.
+ID: Pickaxe_ID_591_DinoCollectorFemale1H
+
+Name: Durrrburgian Battlespatch
+Description: Where the griddle hits the sizzle.
+ID: Pickaxe_ID_592_DurrburgerKnightMale
+
+Name: Oathmaker's Axe
+Description: Justice guide my path!
+ID: Pickaxe_ID_593_RaptorKnightMale
+
+Name: Chunky Salsax
+Description: Legend says it once belonged to Tortilla the Hun.
+ID: Pickaxe_ID_594_TacoKnightFemale
+
+Name: Scarlet Sai
+Description: The perfect balance of elegance and offense.
+ID: Pickaxe_ID_595_TacticalRedPunkFemale1H
+
+Name: Zzarian Slicers
+Description: Life's crusty. Slice hard.
+ID: Pickaxe_ID_596_TomatoKnightMale1H
+
 Name: Ol' Woody
 Description: Looks... sturdy.
 ID: Pickaxe_ID_STW001_Tier_1
