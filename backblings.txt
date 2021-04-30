@@ -2882,12 +2882,16 @@ Name: Glumbo
 Description: He wanna munch.
 ID: BID_743_Accumulate
 
+Name: Battle-Worn Cape
+Description: Never back down from a fight.
+ID: BID_744_CavernMale_CF6JE
+
 Name: Ohm's Mantle
 Description: Composed of nanotech-woven microfibers.
 ID: BID_746_ArmoredEngineer
 
 Name: Scarlet Sai
-Description: The fury is sleeping. For now.
+Description: The perfect balance of elegance and offense.
 ID: BID_747_TacticalRedPunk
 
 Name: Joia Trophy
