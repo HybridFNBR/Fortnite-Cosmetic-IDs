@@ -2292,6 +2292,10 @@ Name: Jaguar Strike
 Description: Gotta work hard to be the best.
 ID: Pickaxe_ID_587_BicycleMale
 
+Name: Grappling Axe
+Description: Strike like a bat.
+ID: Pickaxe_ID_589_CavernMale_9U0A8
+
 Name: Sorrow's Reach
 Description: There's no escaping the underworld's clutches.
 ID: Pickaxe_ID_590_CraniumMale
