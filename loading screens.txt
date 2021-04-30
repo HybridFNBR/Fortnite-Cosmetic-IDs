@@ -1136,6 +1136,10 @@ Name: Pen (and Ink) Pals
 Description: Ever try making your own friends?
 ID: LSID_295_Headcase
 
+Name: Batman From Zero
+Description: Art Inspired by Reilly Brown, Nelson De Castro and John Kalisz.
+ID: LSID_296_Cavern_60EXF
+
 Name: Combo Meal
 Description: Ordered together, they stand as one.
 ID: LSID_297_FoodKnights
