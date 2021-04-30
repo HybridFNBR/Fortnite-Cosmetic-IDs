@@ -4153,6 +4153,10 @@ Name: Grimey
 Description: Respect the drip... or else. Reactive: New soul added with each elimination.
 ID: CID_A_069_Athena_Commando_M_Accumulate
 
+Name: Batman Zero
+Description: The man behind the myth.
+ID: CID_A_070_Athena_Commando_M_Cavern_3I6I1
+
 Name: Deimos
 Description: Travelers beware on the road to the next world.
 ID: CID_A_071_Athena_Commando_M_Cranium
