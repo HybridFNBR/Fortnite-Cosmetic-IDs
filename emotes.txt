@@ -1274,6 +1274,10 @@ Name: B.R.U.T.A.L. Dab
 Description: Mecha flex on 'em.
 ID: EID_OstrichSpin
 
+Name: Onda Onda
+Description: Get ready to sweat.
+ID: EID_OverUnder_K3T0G
+
 Name: Tippy Tap
 Description: It's a real toe tapper.
 ID: EID_PartyJazzTwinkleToes
