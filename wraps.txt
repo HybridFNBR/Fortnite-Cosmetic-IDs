@@ -1330,7 +1330,7 @@ Name: Shield-Weaver
 Description: Show your style.
 ID: Wrap_348_Alchemy_FYA4I
 
-Name: Doom Echo
+Name: Doomed Echo
 Description: Show your style.
 ID: Wrap_349_Cranium
 
