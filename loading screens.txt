@@ -1144,6 +1144,10 @@ Name: Combo Meal
 Description: Ordered together, they stand as one.
 ID: LSID_297_FoodKnights
 
+Name: Bearallel Universe
+Description: The cuddliest timeline.
+ID: LSID_298_SpaceCuddles
+
 Name: null
 Description: null
 ID: LSID_DefaultBG
