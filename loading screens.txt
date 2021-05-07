@@ -1108,6 +1108,10 @@ Name: Llama-rama
 Description: Llamas, start your engines.
 ID: LSID_286_LlamaRama2_8ASUQ
 
+Name: Fantastic Cat
+Description: Created by Lance Inkwell
+ID: LSID_287_BuffCatComic_JBE9O
+
 Name: Matador
 Description: Created by Afu Chan
 ID: LSID_288_Bicycle
