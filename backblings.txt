@@ -2886,12 +2886,16 @@ Name: Battle-Worn Cape
 Description: Never back down from a fight.
 ID: BID_744_CavernMale_CF6JE
 
+Name: Toona Can
+Description: Fresh* Fish.
+ID: BID_745_BuffCatComic_AB1AX
+
 Name: Ohm's Mantle
 Description: Composed of nanotech-woven microfibers.
 ID: BID_746_ArmoredEngineer
 
 Name: Scarlet Sai
-Description: The perfect balance of elegance and offense.
+Description: The fury is sleeping. For now.
 ID: BID_747_TacticalRedPunk
 
 Name: Joia Trophy
