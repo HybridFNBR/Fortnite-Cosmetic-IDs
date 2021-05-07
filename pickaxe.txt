@@ -2292,6 +2292,10 @@ Name: Jaguar Strike
 Description: Gotta work hard to be the best.
 ID: Pickaxe_ID_587_BicycleMale
 
+Name: Ten-Ton Toon-Bells
+Description: As many rounds as possible.
+ID: Pickaxe_ID_588_BuffCatComicMale_12ZAD
+
 Name: Grappling Axe
 Description: Strike like a bat.
 ID: Pickaxe_ID_589_CavernMale_9U0A8
