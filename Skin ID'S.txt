@@ -4161,6 +4161,10 @@ Name: Deimos
 Description: Travelers beware on the road to the next world.
 ID: CID_A_071_Athena_Commando_M_Cranium
 
+Name: Toon Meowscles
+Description: Toon'd up for maximum cattitude.
+ID: CID_A_072_Athena_Commando_M_BuffCatComic_XG5XC
+
 Name: Pico de Gallant
 Description: Seeker of the Guacamole Grail
 ID: CID_A_073_Athena_Commando_F_TacoKnight
