@@ -226,6 +226,10 @@ Name: Swole Cat
 Description: Gotta get those gains.
 ID: EID_BuffCat
 
+Name: Squash & Stretch
+Description: Don't forget the follow-through.
+ID: EID_BuffCatComic_EV4HK
+
 Name: Snow Day
 Description: We'll make him our best friend.
 ID: EID_BuildASnowman
