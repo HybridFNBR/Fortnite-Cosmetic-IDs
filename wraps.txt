@@ -538,7 +538,7 @@ Name: Modern Hex
 Description: Show your style.
 ID: Wrap_142_HoneycombGrey
 
-Name: Rainbow Riot
+Name: Wild Rainbow
 Description: Show your style.
 ID: Wrap_143_RainbowStrike
 
@@ -1345,6 +1345,110 @@ ID: Wrap_351_DoodleColors
 Name: Lantern Glow
 Description: Show your style.
 ID: Wrap_352_LanternFest
+
+Name: Lost Riches
+Description: Show your style.
+ID: Wrap_353_Nautical
+
+Name: Planetary
+Description: Show your style.
+ID: Wrap_354_AstroMap
+
+Name: Miridescent
+Description: Show your style.
+ID: Wrap_355_TaxiUpgradedMulticolor
+
+Name: Sol's Curse
+Description: Show your style.
+ID: Wrap_356_GoldenSkeletonF_FT0B3
+
+Name: Cuddle Mech
+Description: Show your style.
+ID: Wrap_357_SpaceCuddles_8GDWQ
+
+Name: Nite Life
+Description: Show your style.
+ID: Wrap_358_NeonTiki
+
+Name: Cosmic Flair
+Description: Show your style.
+ID: Wrap_359_StrangeCosmos
+
+Name: X Marks
+Description: Show your style.
+ID: Wrap_360_FindersKeepers
+
+Name: Purrfect Spectrum
+Description: Show your style.
+ID: Wrap_361_RetroRainbow
+
+Name: Laser Blaze
+Description: Show your style.
+ID: Wrap_362_Believer
+
+Name: Zyggy
+Description: Show your style.
+ID: Wrap_363_Invader
+
+Name: Imagined Edge
+Description: Show your style.
+ID: Wrap_364_Innovator
+
+Name: Zip Flip
+Description: Show your style.
+ID: Wrap_365_Faux
+
+Name: Rick's Portal
+Description: Show your style.
+ID: Wrap_366_Ruckus
+
+Name: Oozey
+Description: Show your style.
+ID: Wrap_367_LavaLamp
+
+Name: Beamers
+Description: Show your style.
+ID: Wrap_368_UFOBeam
+
+Name: Pulse Phase
+Description: Show your style.
+ID: Wrap_369_AlienZapper
+
+Name: Silver Cloud
+Description: Show your style.
+ID: Wrap_370_DragonMaskV2
+
+Name: Onyx Cloud
+Description: Show your style.
+ID: Wrap_371_DragonMaskV3
+
+Name: Crystal Wings
+Description: Show your style.
+ID: Wrap_372_ButterflyWings
+
+Name: KA-BANG!
+Description: Show your style.
+ID: Wrap_373_Firecracker
+
+Name: Icy Pop
+Description: Show your style.
+ID: Wrap_374_Summer2021
+
+Name: Glyphika
+Description: Show your style.
+ID: Wrap_375_AlienPrism
+
+Name: Golden Black
+Description: Show your style.
+ID: Wrap_376_CatBurglarSummer
+
+Name: Pixellator
+Description: Show your style.
+ID: Wrap_379_Pliant
+
+Name: Inky
+Description: Show your style.
+ID: Wrap_381_InkBlot
 
 Name: TBD
 Description: Show your style.

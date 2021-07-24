@@ -740,10 +740,6 @@ Name: Chaos Rising
 Description: He's making plans...
 ID: LSID_188_S11Cumulative09
 
-Name: TBD
-Description: TBD
-ID: LSID_189_S11Cumulative10
-
 Name: Mecha Punch
 Description: Created by CLOGTWO.
 ID: LSID_190_ICMechaTeam
@@ -1149,8 +1145,116 @@ Description: Ordered together, they stand as one.
 ID: LSID_297_FoodKnights
 
 Name: Bearallel Universe
-Description: The cuddliest timeline.
+Description: The cuddliest timeline. May 2021 Crew Bonus.
 ID: LSID_298_SpaceCuddles
+
+Name: Bear Beginnings
+Description: How it started. May 2021 Crew Bonus.
+ID: LSID_299_SpaceCuddles2
+
+Name: Cuddle Charge!
+Description: How it's going. May 2021 Crew Bonus.
+ID: LSID_300_SpaceCuddles3
+
+Name: BBRae
+Description: Created by Gabriel Picolo
+ID: LSID_301_Broccoli_U6K04
+
+Name: Impossible Odds
+Description: Escape while you still can.
+ID: LSID_302_Daybreak
+
+Name: Scaly Standoff
+Description: Keep your wits sharp and your weapons sharper.
+ID: LSID_303_WastelandWarrior
+
+Name: Tribute
+Description: Take only what you deserve.
+ID: LSID_304_SkeletonQueen
+
+Name: A New Shardworld?
+Description: He's a long way from the Cosmere.
+ID: LSID_305_Downpour_CHB8O
+
+Name: The New Team
+Description: How it ends. May 2021 Crew Bonus.
+ID: LSID_306_SpaceCuddles4
+
+Name: The Last Son of Krypton
+Description: Kal-El takes flight. Created by Francis Manapul.
+ID: LSID_307_Emperor
+
+Name: Kymera Swarm
+Description: A new breed of alien invaders. Created by Greg Baldwin.
+ID: LSID_308_AlienTrooper
+
+Name: Get me out of here
+Description: Hitch a ride on a flying saucer. Created by Bruno Diberkato.
+ID: LSID_309_Believer
+
+Name: Facets
+Description: Created by Konstantin-Pixmilk Tarasov.
+ID: LSID_310_Faux
+
+Name: The Rickiverse
+Description: To live is to risk it all.
+ID: LSID_311_Ruckus
+
+Name: Slone's Mission
+Description: Created by Phil Noto.
+ID: LSID_312_Innovator
+
+Name: Pluxarian Gothic
+Description: Created by Pius Bak.
+ID: LSID_313_Invader
+
+Name: Guggi Vision
+Description: Guggi Vision cannot be unseen. Created by Delicious Design League.
+ID: LSID_314_Antique
+
+Name: Invasion
+Description: They come from above.
+ID: LSID_315_Key
+
+Name: Spire Strike
+Description: Created by Afu Chan.
+ID: LSID_316_Explosion
+
+Name: Cattle Royale
+Description: Get carried away. Created by Joey Rex.
+ID: LSID_317_Cow
+
+Name: Grand Finale
+Description: It's about to pop off. Created by Beast Wreck.
+ID: LSID_318_Firecracker
+
+Name: Believer Beach
+Description: Keep your eyes on the skies.
+ID: LSID_319_Summer
+
+Name: Loki's Welcoming
+Description: Not Midgard, but this will do.
+ID: LSID_320_Linguini_8O4H0
+
+Name: Ice Cream Social
+Description: Midas and Jules bond at the beach.
+ID: LSID_321_DaysStore
+
+Name: Cosmic Summer
+Description: The out of this world beach party begins now!
+ID: LSID_322_CosmicSummerWave
+
+Name: Court's in Session
+Description: All hail the King!
+ID: LSID_323_Majesty_0P2RG
+
+Name: Cosmic Cuddles
+Description: The inter-dimensional roadtrip starts now. Art by Delicious Design League.
+ID: LSID_326_RiftTourMKTG2
+
+Name: Slone Zone
+Description: The Doctor is in.
+ID: LSID_331_FNCS
 
 Name: null
 Description: null

@@ -2854,6 +2854,10 @@ Name: Skellebun Key
 Description: Spring any lock.
 ID: BID_732_HipHareMale
 
+Name: Oro Sol
+Description: The sun's light will guide you.
+ID: BID_733_TheGoldenSkeletonFemale_SG4HF
+
 Name: Mecha-Feathers
 Description: Ready for fowl play.
 ID: BID_734_WickedDuckMale
@@ -2895,7 +2899,7 @@ Description: Composed of nanotech-woven microfibers.
 ID: BID_746_ArmoredEngineer
 
 Name: Scarlet Sai
-Description: The fury is sleeping. For now.
+Description: The perfect balance of elegance and offense.
 ID: BID_747_TacticalRedPunk
 
 Name: Joia Trophy
@@ -2925,6 +2929,226 @@ ID: BID_753_TomatoKnight
 Name: Sorrow's Edge
 Description: Picked it up from a fallen traveler.
 ID: BID_754_CraniumMale
+
+Name: Mini Hoop
+Description: Take it to the rack.
+ID: BID_755_Hardwood_4KH3V
+
+Name: NBA Championship Trophy
+Description: Earned by the chosen few.
+ID: BID_756_Hardwood_Gold_4DX8C
+
+Name: Packbone
+Description: Show some spine.
+ID: BID_757_Caveman
+
+Name: Couch Titan
+Description: What else do you need for a Friday night?
+ID: BID_758_Broccoli_TK4HH
+
+Name: Crystal Spirit
+Description: Forged in a dream eons ago.
+ID: BID_759_DarkElfFemale
+
+Name: Agent Stones
+Description: You just had to look...
+ID: BID_760_StoneViper
+
+Name: Warrior's Wheel
+Description: Tread lightly and carry a big wheel.
+ID: BID_761_WastelandWarrior
+
+Name: Shots & Shells
+Description: Locked, loaded, and on target.
+ID: BID_762_SpartanFutureFemale
+
+Name: Extra Round
+Description: Ammo packed and perfectly round.
+ID: BID_764_Shrapnel
+
+Name: Hemalurgic Spikes
+Description: Ready for bind points.
+ID: BID_765_DownpourMale_YLV93
+
+Name: Reckoning
+Description: Their number's up. Reactive: Counter tracks eliminations.
+ID: BID_766_TacticalWoodlandBlue
+
+Name: Lok Block
+Description: Lovingly crafted for today's square robot on the go!
+ID: BID_767_AssembleL
+
+Name: Deathstroke's Katanas
+Description: Slade's tools of the trade.
+ID: BID_768_Grim_QR2Q2
+
+Name: Spire's Touch
+Description: Dark magic always leaves its mark.
+ID: BID_769_TowerSentinelMale
+
+Name: Psytronic Bow
+Description: Hearts!
+ID: BID_770_SpaceCuddles_X9QET
+
+Name: Hurri-Kane
+Description: A force of nature on the pitch.
+ID: BID_771_Lasso_ZN4VA
+
+Name: Survival Kit
+Description: Let us play!
+ID: BID_772_Lasso_Polo_BL4WE
+
+Name: Kymera's Plasma Pak
+Description: A roiling ball of raw energy. Might give you a sunburn.
+ID: BID_774_AlienTrooper
+
+Name: Superman's Cape
+Description: Neither bird nor plane.
+ID: BID_775_Emperor
+
+Name: The Daily Planet
+Description: Straight from the source.
+ID: BID_776_Emperor_Suit
+
+Name: Patch Pack
+Description: Packed with interstellar essentials.
+ID: BID_777_Believer
+
+Name: Fishstick Janky
+Description: A little fishy.
+ID: BID_778_Antique
+
+Name: Meowscles Janky
+Description: He's one swole backpack.
+ID: BID_779_AntiqueCat
+
+Name: 8-Ball Janky
+Description: Pack 'em up!
+ID: BID_780_AntiqueCrazy
+
+Name: Fashion Accident Janky
+Description: They've seen some things.
+ID: BID_781_AntiqueHeadphones
+
+Name: Butter Robot
+Description: Welcome to the club, pal.
+ID: BID_782_Ruckus
+
+Name: IO Orchestrator
+Description: Prototype IO Com-Pack.
+ID: BID_783_Innovator
+
+Name: Galactic Pack
+Description: Bloom beyond the stars.
+ID: BID_784_Faux
+
+Name: Spectral Star
+Description: Make your wish.
+ID: BID_785_Rockstar
+
+Name: Par Pack
+Description: Join the club.
+ID: BID_786_GolfMale
+
+Name: Lac-pack
+Description: Sun-warmed milky battle bag.
+ID: BID_787_JonesyCattle
+
+Name: Personal Pollinators
+Description: Chitinous and dangerous.
+ID: BID_788_JailBirdBumbleFemale
+
+Name: Exo-Glider Cape
+Description: Ready to take flight.
+ID: BID_789_CavernArmored
+
+Name: Fizzle
+Description: Ouch! Hot! HOT!!
+ID: BID_790_Firecracker
+
+Name: Loki's Cape
+Description: The perfect accessory for the God of Mischief.
+ID: BID_791_Linguini_GM9A0
+
+Name: Shelly
+Description: A little pinch on the back means he loves you.
+ID: BID_792_SlurpMonsterSummer
+
+Name: Scuba Satchel
+Description: For all forms of aquatic espionage.
+ID: BID_793_HenchmanSummer
+
+Name: Birthstone Backplate
+Description: Shield yourself with big birthday energy.
+ID: BID_794_JurassicArchaeologySummer
+
+Name: Plasmatic Gear
+Description: Stable enough to wear... but maybe don't throw it.
+ID: BID_795_MechanicalEngineerSummer
+
+Name: GHOST Skimboard
+Description: GHOST-issued water traversal device.
+ID: BID_796_CatBurglarSummer
+
+Name: Translucent Tote
+Description: The perfect bag for a bomb-y summer's day.
+ID: BID_797_StreetFashionSummer
+
+Name: Brain Freeze
+Description: Dripping with berry-blasted goodness.
+ID: BID_798_SummerPopsicle
+
+Name: Duffle Dog
+Description: A simple dog on a toasty bun.
+ID: BID_799_SummerHotdog
+
+Name: King's Bling
+Description: Ready for the tip-off.
+ID: BID_800_Majesty_U8JHQ
+
+Name: Pack Supreme
+Description: Every King Needs a Pack.
+ID: BID_801_MajestyTaco_FFH31
+
+Name: Feathered Flames
+Description: Rain fire from the skies.
+ID: BID_802_DarkVikingFireMale
+
+Name: Tire Fire
+Description: *Really* burn rubber.
+ID: BID_803_ScavengerFire
+
+Name: Flaming Dual Kama
+Description: A whirling inferno at your fingertips.
+ID: BID_804_BandageNinjaFire
+
+Name: Ferrari Turbo
+Description: Drive.
+ID: BID_806_Foray_WG30D
+
+Name: Infinity Gauntlet
+Description: The hardest choices require the strongest wills.
+ID: BID_807_Menace
+
+Name: Zoey Trophy
+Description: 11/10 would win again.
+ID: BID_808_BlueCheese
+
+Name: Slush Fighter Cape
+Description: Makes a pleasant swooshing sound.
+ID: BID_809_Dojo
+
+Name: Hard Case Hero
+Description: It's not here to fiddle around.
+ID: BID_810_Musician
+
+Name: Hologlyph
+Description: Everyone's favorite hologlyph, now with a battery booster.
+ID: BID_815_PliantFemale
+
+Name: Sleek Hologlyph
+Description: The original hologlyph you know and love.
+ID: BID_816_PliantMale
 
 Name: TBD
 Description: TBD

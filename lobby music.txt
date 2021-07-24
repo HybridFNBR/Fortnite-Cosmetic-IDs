@@ -331,8 +331,52 @@ Description: Press play and get to the Spire.
 ID: MusicPack_083_TowerGuards
 
 Name: Drop In
-Description: Featuring Trippie Redd
+Description: Featuring Trippie Redd.
 ID: MusicPack_084_BuffCatComic_5JC9Y
+
+Name: Turn Up
+Description: Press play and turn the tables.
+ID: MusicPack_085_Phonograph
+
+Name: Hype-notic
+Description: Press play and pump up the crowd.
+ID: MusicPack_086_Hype
+
+Name: Axe 2 Grind
+Description: Press play to end your day.
+ID: MusicPack_087_Antique
+
+Name: Sunny's Song
+Description: Press play and get carried beyond the clouds.
+ID: MusicPack_088_Believer
+
+Name: Detonation
+Description: Press play and start the countdown.
+ID: MusicPack_089_Innovator
+
+Name: UFOs & Aliens
+Description: Press play and explore the galaxy.
+ID: MusicPack_090_EasyLife
+
+Name: Beach Blast
+Description: Press play and have a blast.
+ID: MusicPack_091_Summer
+
+Name: The Invasion
+Description: Press play and take me to your leader.
+ID: MusicPack_092_Cine
+
+Name: Mecha Power
+Description: Press play and blast off to save the galaxy!
+ID: MusicPack_093_SpaceCuddles
+
+Name: Mecha Power (Instrumental)
+Description: Press play and create your own galactic battle song.
+ID: MusicPack_094_SpaceCuddlesInstrumental
+
+Name: Falling Stars
+Description: Press play and find your star
+ID: MusicPack_095_SummerNight
 
 Name: Random
 Description: Randomly chooses between favorite Music Packs (or all owned Music Packs if nothing is marked as a favorite)

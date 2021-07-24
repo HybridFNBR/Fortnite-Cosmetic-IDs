@@ -806,6 +806,10 @@ Name: Spinner Takes All
 Description: Express yourself on the battlefield.
 ID: Emoji_S16_Bicycle2
 
+Name: Happy Cat
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_BuffCat
+
 Name: Eggy
 Description: Express yourself on the battlefield.
 ID: Emoji_S16_ChickenWarrior
@@ -817,6 +821,10 @@ ID: Emoji_S16_CubeNinja
 Name: Skully Shout
 Description: Express yourself on the battlefield.
 ID: Emoji_S16_DinoHunter
+
+Name: Giddy Syrup
+Description: Express yourself on the battlefield.
+ID: Emoji_S16_FlapjackWrangler
 
 Name: Championship 2021
 Description: Express yourself on the battlefield.
@@ -837,6 +845,62 @@ ID: Emoji_S16_Sentinel
 Name: Little Bird
 Description: Express yourself on the battlefield.
 ID: Emoji_S16_Temple
+
+Name: Big Brain
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_AlienTrooper
+
+Name: Star Seer
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Alt_1
+
+Name: Eeeeh...
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Alt_2
+
+Name: Big Heff
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_AngryCow
+
+Name: Fever Dream
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Antique
+
+Name: Alie-yum
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Believer
+
+Name: Call to Action
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Emperor
+
+Name: Mlem
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Faux
+
+Name: Bonfire
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Fest
+
+Name: High Three!
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_FNCS
+
+Name: Buff Bash
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_FNCS_AllStars
+
+Name: * BUURRRPP *
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Ruckus
+
+Name: Winner's Cup
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Soccer
+
+Name: Stellar Sipper
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Summer2021
 
 Name: Season Level 100
 Description: Recognition for reaching Season Level 100 in Battle Royale Season 6.

@@ -1183,6 +1183,58 @@ Name: Batman Zero Wing
 Description: Battle-worn bat glider.
 ID: Glider_ID_289_CavernMale_5I9RD
 
+Name: Flair Fare
+Description: The meter is... stunning.
+ID: Glider_ID_291_TaxiUpgradedMulticolorFemale
+
+Name: Deathstroke Destroyer
+Description: Rain down destruction from above.
+ID: Glider_ID_292_GrimMale
+
+Name: Chop Dropper
+Description: Skull-infused battle balloon.
+ID: Glider_ID_293_AntiqueMale
+
+Name: Sunny's Lander
+Description: Take her to your leader.
+ID: Glider_ID_294_BelieverFemale
+
+Name: Kal-El's Cape
+Description: Up, up and away!
+ID: Glider_ID_295_EmperorMale
+
+Name: IO Stealth Sail
+Description: Built to Doctor Slone's specifications.
+ID: Glider_ID_296_InnovatorFemale
+
+Name: Zyg Ray
+Description: Choppy's choice for Intergalactic sting operations.
+ID: Glider_ID_297_InvaderMale
+
+Name: Rick's UFO Cruiser
+Description: Powered by Rick's Microverse.
+ID: Glider_ID_298_RuckusMale
+
+Name: Batman's Exo-Glider
+Description: Rebuilt and ready for action.
+ID: Glider_ID_299_CavernArmoredMale
+
+Name: Boomer
+Description: I'd land quickly if I were you.
+ID: Glider_ID_300_FirecrackerMale
+
+Name: Chitauri Chariot
+Description: Not of Asgard or any world known.
+ID: Glider_ID_301_LinguiniMale_IP674
+
+Name: Wingspan
+Description: Soar.
+ID: Glider_ID_302_MajestyMale_T1ICF
+
+Name: Cloud Llama Board
+Description: Surf the skies.
+ID: Glider_ID_303_SurfingSummerFemale
+
 Name: Raptor
 Description: Go ahead. Buzz the tower. You've earned it.
 ID: Glider_MiG
@@ -1255,6 +1307,10 @@ Name: Brella
 Description: Float into action with the first ever customizable umbrella.
 ID: Umbrella_BuildABrella
 
+Name: Escapist
+Description: You've earned this flight.
+ID: Umbrella_Daybreak
+
 Name: The Umbrella
 Description: The fabled victory umbrella.
 ID: Umbrella_Gold
@@ -1318,6 +1374,10 @@ ID: Umbrella_Season_15
 Name: Foundational 'Brella
 Description: No matter what happens, do not give up.
 ID: Umbrella_Season_16
+
+Name: Invasion
+Description: They're here.
+ID: Umbrella_Season_17
 
 Name: The Umbrella
 Description: The fabled victory umbrella.

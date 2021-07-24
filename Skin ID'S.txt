@@ -2737,14 +2737,6 @@ Name: Deadpool
 Description: The merc with a mouth.
 ID: CID_705_Athena_Commando_M_Donut
 
-Name: TBD
-Description: TBD
-ID: CID_706_Athena_Commando_M_HenchmanBad
-
-Name: TBD
-Description: TBD
-ID: CID_707_Athena_Commando_M_HenchmanGood
-
 Name: Slurp Jonesy
 Description: Slurp up and ship out.
 Reactive: Head transforms with higher shields
@@ -4054,7 +4046,7 @@ Description: Cheep cheep cheep, cheep cheep b'kaw.
 ID: CID_A_039_Athena_Commando_M_ChickenWarrior
 
 Name: Lara Croft
-Description: The extraordinary is in what we do, not who we are
+Description: The extraordinary is in what we do, not who we are.
 ID: CID_A_040_Athena_Commando_F_Temple
 
 Name: Raz
@@ -4117,6 +4109,10 @@ Name: Bunya
 Description: Never cross a bunny.
 ID: CID_A_056_Athena_Commando_F_BunnyFashion_E
 
+Name: Orelia
+Description: Golden treasure, a sacred duty.
+ID: CID_A_057_Athena_Commando_F_TheGoldenSkeleton
+
 Name: Megg
 Description: Duck... duck... doom!
 ID: CID_A_058_Athena_Commando_F_WickedDuck
@@ -4166,7 +4162,7 @@ Description: Toon'd up for maximum cattitude.
 ID: CID_A_072_Athena_Commando_M_BuffCatComic_XG5XC
 
 Name: Pico de Gallant
-Description: Seeker of the Guacamole Grail
+Description: Seeker of the Guacamole Grail.
 ID: CID_A_073_Athena_Commando_F_TacoKnight
 
 Name: Zzaria The Cruel
@@ -4193,6 +4189,298 @@ Name: Raptorian The Brave
 Description: Long may his banner fly.
 ID: CID_A_079_Athena_Commando_M_RaptorKnight
 
+Name: Fast Break
+Description: Grab it and go.
+ID: CID_A_080_Athena_Commando_M_Hardwood_I15AL
+
+Name: Half-Court Hero
+Description: Nothing but net.
+ID: CID_A_081_Athena_Commando_M_Hardwood_B_JRP29
+
+Name: Buzzer Beater
+Description: Live for overtime.
+ID: CID_A_082_Athena_Commando_M_Hardwood_C_YS5XC
+
+Name: Triple-Double
+Description: Double down and go for the win.
+ID: CID_A_083_Athena_Commando_M_Hardwood_D_7S0PN
+
+Name: Fadeaway
+Description: No guts no glory.
+ID: CID_A_084_Athena_Commando_M_Hardwood_E_II9YS
+
+Name: Rain Maker
+Description: Take it to the hoop.
+ID: CID_A_085_Athena_Commando_F_Hardwood_K7ZZ1
+
+Name: Dynamo Dribbler
+Description: Hold down the court.
+ID: CID_A_086_Athena_Commando_F_Hardwood_B_B7ZQA
+
+Name: Crossover Champion
+Description: Defenders don't stand a chance.
+ID: CID_A_087_Athena_Commando_F_Hardwood_C_AOU16
+
+Name: Rebound Raider
+Description: It's all in the reflexes.
+ID: CID_A_088_Athena_Commando_F_Hardwood_D_WPHX2
+
+Name: Splash Specialist
+Description: Take the shot.
+ID: CID_A_089_Athena_Commando_F_Hardwood_E_4TDWH
+
+Name: D'ugh
+Description: D'ugh good. D'ugh strong. Everybody love D'ugh.
+ID: CID_A_090_Athena_Commando_M_Caveman
+
+Name: Etheria
+Description: Twin-souled Elven warrior from beyond the Fallen Oasis.
+ID: CID_A_091_Athena_Commando_F_DarkElf
+
+Name: Beast Boy
+Description: If you ask him, he's "the cute one".
+ID: CID_A_092_Athena_Commando_M_Broccoli_PR297
+
+Name: Lyra
+Description: Sophomore enchantress at Gorgon U.
+ID: CID_A_093_Athena_Commando_F_StoneViper
+
+Name: Catwoman Zero
+Description: The cat came back.
+ID: CID_A_094_Athena_Commando_F_Cavern_33LMC
+
+Name: Marius
+Description: Move fast, think faster.
+ID: CID_A_095_Athena_Commando_M_DoubleAgentGrey
+
+Name: Rainbow Racer
+Description: Pedal to the metal, colors to the max.
+ID: CID_A_096_Athena_Commando_F_TaxiUpgradedMulticolor
+
+Name: Chiara
+Description: Guardian of the undiscovered wilds.
+ID: CID_A_097_Athena_Commando_F_WastelandWarrior
+
+Name: Spartan Assassin
+Description: One by one her enemies fall...
+ID: CID_A_098_Athena_Commando_F_SpartanFuture
+
+Name: Dizzie
+Description: Ain't nobody pushing her around.
+ID: CID_A_099_Athena_Commando_F_Shrapnel
+
+Name: Kelsier
+Description: The Survivor of Hathsin.
+ID: CID_A_100_Athena_Commando_M_Downpour_KC39P
+
+Name: Fixer
+Description: When it needs to be perfect.
+ID: CID_A_101_Athena_Commando_M_TacticalWoodlandBlue
+
+Name: Lok-Bot
+Description: A robot finding his way in the world.
+ID: CID_A_102_Athena_Commando_M_AssembleL
+
+Name: Deathstroke Zero
+Description: I am Deathstroke. The terminator.
+ID: CID_A_103_Athena_Commando_M_Grim_VM52M
+
+Name: Spire Immortal
+Description: The Spire's final nightmare.
+ID: CID_A_104_Athena_Commando_M_TowerSentinel
+
+Name: Mecha Cuddle Master
+Description: Snuggle through space and time.
+ID: CID_A_105_Athena_Commando_F_SpaceCuddles_5TEVA
+
+Name: The Champion
+Description: Some things must be earned.
+ID: CID_A_106_Athena_Commando_F_FuturePinkGoal
+
+Name: Harry Kane
+Description: Keep believing, keep working hard.
+ID: CID_A_107_Athena_Commando_M_Lasso_JHZA3
+
+Name: Marco Reus
+Description: There are no limits.
+ID: CID_A_108_Athena_Commando_M_LassoPolo_8GAM0
+
+Name: Clark Kent
+Description: Mild-mannered reporter.
+ID: CID_A_109_Athena_Commando_M_Emperor
+
+Name: Kymera
+Description: He may or may not come in peace.
+ID: CID_A_110_Athena_Commando_M_AlienTrooper
+
+Name: Joey
+Description: The perfect intergalactic double agent.
+ID: CID_A_111_Athena_Commando_M_Faux
+
+Name: Rick Sanchez
+Description: The Rickest Rick of them all.
+ID: CID_A_112_Athena_Commando_M_Ruckus
+
+Name: Doctor Slone
+Description: //REDACTED//
+ID: CID_A_113_Athena_Commando_F_Innovator
+
+Name: Sunny
+Description: Get me off of this rock.
+ID: CID_A_114_Athena_Commando_F_Believer
+
+Name: Guggimon
+Description: Fashion horror artist.
+ID: CID_A_115_Athena_Commando_M_Antique
+
+Name: Zyg
+Description: Faithful friend. Ferocious battledroid.
+ID: CID_A_116_Athena_Commando_M_Invader
+
+Name: Celeste
+Description: Serving cosmic justice on the battlefield.
+ID: CID_A_117_Athena_Commando_F_Rockstar
+
+Name: Guernsey
+Description: Manure-vure your way to a moo-ving victory.
+ID: CID_A_118_Athena_Commando_M_JonesyCattle
+
+Name: Bogey Basher
+Description: Always swings. Never misses.
+ID: CID_A_119_Athena_Commando_M_Golf
+
+Name: Swing Sargeant
+Description: Helping you hit a new personal best.
+ID: CID_A_120_Athena_Commando_M_Golf_B
+
+Name: Eagle Enforcer
+Description: Don't worry, he's only broken a dozen windows or so.
+ID: CID_A_121_Athena_Commando_M_Golf_C
+
+Name: Putt Pursuer
+Description: Guaranteed to get the little ball in the cup.
+ID: CID_A_122_Athena_Commando_M_Golf_D
+
+Name: Cart Champion
+Description: King of the green.
+ID: CID_A_123_Athena_Commando_M_Golf_E
+
+Name: Armored Batman Zero
+Description: When things get tough, get tougher.
+ID: CID_A_124_Athena_Commando_M_CavernArmored
+
+Name: Nitrojerry
+Description: Hot-tempered with an explosive personality.
+ID: CID_A_125_Athena_Commando_M_Firecracker
+
+Name: Loki Laufeyson
+Description: Your savior is here.
+ID: CID_A_126_Athena_Commando_M_Linguini_PX0QU
+
+Name: Beach Jules
+Description: Get some R&R to go with your R&D.
+ID: CID_A_127_Athena_Commando_F_MechanicalEngineerSummer
+
+Name: Thanos
+Description: I am inevitable.
+ID: CID_A_128_Athena_Commando_M_Menace
+
+Name: Midsummer Midas
+Description: Something's out there beyond the glittering sands...
+ID: CID_A_129_Athena_Commando_M_CatBurglarSummer
+
+Name: Beach Brutus
+Description: Show off that beach bodyguard.
+ID: CID_A_130_Athena_Commando_M_HenchmanSummer
+
+Name: Scuba Crystal
+Description: Dig up some summer fun.
+ID: CID_A_131_Athena_Commando_F_JurassicArchaeologySummer
+
+Name: Roast Lord
+Description: King of the burning scrap heap.
+ID: CID_A_132_Athena_Commando_M_ScavengerFire
+
+Name: Molten Ragnarok
+Description: The burning harbinger of fate.
+ID: CID_A_133_Athena_Commando_M_DarkVikingFire
+
+Name: Incinerator Kuno
+Description: Master the art of the slow burn.
+ID: CID_A_134_Athena_Commando_F_BandageNinjaFire
+
+Name: Boardwalk Ruby
+Description: Sometimes you've gotta check out the beach.
+ID: CID_A_135_Athena_Commando_F_StreetFashionSummer
+
+Name: LeBron James
+Description: The King.
+ID: CID_A_136_Athena_Commando_M_Majesty_YR1GJ
+
+Name: Tune Squad LeBron
+Description: A new legacy begins.
+ID: CID_A_137_Athena_Commando_M_MajestyBlue_3RVJS
+
+Name: Modena Icon
+Description: Embrace your racing soul.
+ID: CID_A_138_Athena_Commando_F_Foray_YQPB0
+
+Name: Maranello Racer
+Description: Discover the driving lifestyle.
+ID: CID_A_139_Athena_Commando_M_Foray_SD8AA
+
+Name: Bugha
+Description: Fortnite World Cup Champion in 2019
+ID: CID_A_140_Athena_Commando_M_BlueCheese
+
+Name: Gildedguy
+Description: Brightening everyone's day... with gold.
+ID: CID_A_141_Athena_Commando_M_Dojo
+
+Name: Wrap Recon
+Description: It's all in the details.
+ID: CID_A_142_Athena_Commando_M_Pliant
+
+Name: Quickchange
+Description: Ready for all fashion emergencies.
+ID: CID_A_143_Athena_Commando_M_Pliant_B
+
+Name: Wrap Trapper
+Description: Artfully tousled and ready for battle.
+ID: CID_A_144_Athena_Commando_M_Pliant_C
+
+Name: Lt. Look
+Description: Know your angles and work 'em.
+ID: CID_A_145_Athena_Commando_M_Pliant_D
+
+Name: Chic Commodore
+Description: Polished, paired, and layered.
+ID: CID_A_146_Athena_Commando_M_Pliant_E
+
+Name: Mod Marauder
+Description: Athleisure, elevated.
+ID: CID_A_147_Athena_Commando_F_Pliant
+
+Name: Vogue Visionary
+Description: Making future-forward fashion work.
+ID: CID_A_148_Athena_Commando_F_Pliant_B
+
+Name: The Stylist
+Description: Serving immaculate looks.
+ID: CID_A_149_Athena_Commando_F_Pliant_C
+
+Name: Customized Captain
+Description: Sporty, stylish, and chic.
+ID: CID_A_150_Athena_Commando_F_Pliant_D
+
+Name: Wrap Major
+Description: Flexing the perfect fit.
+ID: CID_A_151_Athena_Commando_F_Pliant_E
+
+Name: Pepper Thorne
+Description: Ask her about her latest self-produced EP, Salty Slurpwaters.
+ID: CID_A_152_Athena_Commando_F_Musician
+
 Name: TBD
 Description: TBD
 ID: CID_NPC_Athena_Commando_F_HenchmanSpyDark
@@ -4212,6 +4500,14 @@ ID: CID_NPC_Athena_Commando_F_RebirthDefault_Henchman
 Name: TBD
 Description: TBD
 ID: CID_NPC_Athena_Commando_F_TowerSentinel
+
+Name: TBD
+Description: TBD
+ID: CID_NPC_Athena_Commando_M_AlienRobot
+
+Name: Human Bill
+Description: He's just here to observe.
+ID: CID_NPC_Athena_Commando_M_AlienSummer
 
 Name: TBD
 Description: TBD

@@ -94,6 +94,10 @@ Name: Stormy
 Description: The forecast calls for frowns.
 ID: EID_BadMood
 
+Name: Rolly Rider
+Description: Roll with it.
+ID: EID_Balance
+
 Name: Balletic
 Description: So graceful.
 ID: EID_BalletJumps
@@ -118,6 +122,10 @@ Name: Baller
 Description: Show off your moves.
 ID: EID_Basketball
 
+Name: Dribblin'
+Description: Traveling, not "Traveling".
+ID: EID_BasketballDribble_E6OJV
+
 Name: Ballsy
 Description: Keep your eye on the ball.
 ID: EID_BasketballV2
@@ -125,6 +133,10 @@ ID: EID_BasketballV2
 Name: Beckon
 Description: Party Emote
 ID: EID_BeckonPapayaComms
+
+Name: Ska-stra-terrestrial
+Description: The invasion's fourth wave begins now!
+ID: EID_Believer
 
 Name: Ring it on
 Description: Shake those bells.
@@ -170,6 +182,10 @@ Name: Blowing Bubbles
 Description: Get poppin.
 ID: EID_BlowingBubbles
 
+Name: Build Up
+Description: I'm not built for you. Dance moves by Bella Poarch.
+ID: EID_BluePhoto_JSG4D
+
 Name: Bhangra Boogie
 Description: Celebrate together.
 ID: EID_Bollywood
@@ -214,6 +230,10 @@ Name: Primo Moves
 Description: Take it to the max!
 ID: EID_BreakfastCoffeeDance
 
+Name: Eureka!
+Description: I've done it!
+ID: EID_Breakthrough
+
 Name: Breaking Point
 Description: Give 'em a break.
 ID: EID_BreakYou
@@ -221,6 +241,10 @@ ID: EID_BreakYou
 Name: Bring It
 Description: Let's see what you've got.
 ID: EID_BringItOn
+
+Name: Go Ape
+Description: Hey, he called next.
+ID: EID_Broccoli_PZIIW
 
 Name: Swole Cat
 Description: Gotta get those gains.
@@ -254,6 +278,18 @@ Name: Burpee
 Description: Set a new personal best.
 ID: EID_Burpee
 
+Name: Hey Now!
+Description: Make those flames go higher.
+ID: EID_ByTheFire
+
+Name: null
+Description: null
+ID: EID_ByTheFire_Follower
+
+Name: null
+Description: null
+ID: EID_ByTheFire_Sync
+
 Name: Prickly Pose
 Description: Completely inconspicuous.
 ID: EID_CactusTPose
@@ -286,6 +322,10 @@ Name: Jubilation
 Description: A heaping helping of happiness!
 ID: EID_Celebration
 
+Name: Bring it around
+Description: It's all in the... elbows maybe?
+ID: EID_CelebrationDance
+
 Name: Have a Seat
 Description: Pull up a chair and relax.
 ID: EID_ChairTime
@@ -317,6 +357,14 @@ ID: EID_Chopsticks
 Name: Go! Go! Go!
 Description: You can do it!
 ID: EID_Chug
+
+Name: Chugga-Chugga
+Description: Your training begins now.
+ID: EID_Chugga
+
+Name: Chugga-Chugga
+Description: null
+ID: EID_ChuggaFollower
 
 Name: null
 Description: null
@@ -438,6 +486,10 @@ Name: Deep Dab
 Description: Bring 'em down to your level.
 ID: EID_DeepDab
 
+Name: Pump up the Jam
+Description: Pump it up. Dance moves by Perri Kiely.
+ID: EID_Deflated_6POAZ
+
 Name: Rawr
 Description: Tyrannosaurus royale.
 ID: EID_Dinosaur
@@ -530,6 +582,10 @@ Name: Electro Swing
 Description: Brand new groove, old school swing.
 ID: EID_ElectroSwing
 
+Name: Secret Identity
+Description: Tell no one.
+ID: EID_Emperor
+
 Name: Focused
 Description: Stay focused in the heat of battle.
 ID: EID_EngagedWalk
@@ -554,6 +610,10 @@ Name: Fanciful
 Description: Just a little dance to get the heartrate going.
 ID: EID_FancyWorkout
 
+Name: Unzipped
+Description: Zip it!
+ID: EID_Faux
+
 Name: Savage
 Description: You a challenger or what?
 ID: EID_Feral
@@ -565,6 +625,14 @@ ID: EID_FingerGuns
 Name: Sharpshooter
 Description: Lookin' good out there.
 ID: EID_FingerGunsV2
+
+Name: Short Fuse
+Description: Go ahead. Feel those feelings.
+ID: EID_Firecracker
+
+Name: Roman Candle
+Description: Are you feeling sparks?
+ID: EID_FirecrackerSparks
 
 Name: Fire Spinner
 Description: Heat it up.
@@ -782,6 +850,10 @@ Name: High Five
 Description: Up Top.
 ID: EID_HiFive
 
+Name: [PH] Join Squad
+Description: [PH] Stength in numbers
+ID: EID_HiFive_JoinAdHocSquads
+
 Name: High Five
 Description: Up Top.
 ID: EID_HiFive_Sync
@@ -789,6 +861,18 @@ ID: EID_HiFive_Sync
 Name: High Five
 Description: Up Top.
 ID: EID_HiFive_SyncOwned
+
+Name: High Five
+Description: Up Top.
+ID: EID_HiFive_SyncOwned_InfiniteTolerance
+
+Name: High Five
+Description: Up Top.
+ID: EID_HiFive_Sync_InfiniteTolerance
+
+Name: Kick Back
+Description: No sweat.
+ID: EID_HighActivity
 
 Name: Victory Von Doom
 Description: Earn a Victory Royal and sit in judgement with Doctor Doom's built-in emote.
@@ -974,6 +1058,10 @@ Name: Fishin'
 Description: There's always time for a little fishin'.
 ID: EID_JellyFrog
 
+Name: Lil' Treat
+Description: Here comes the sweetness!
+ID: EID_Jingle
+
 Name: Jugglin'
 Description: Pure concentration.
 ID: EID_Juggler
@@ -1074,6 +1162,14 @@ Name: Lazer Flex
 Description: Armed and dangerous.
 ID: EID_LasagnaFlex
 
+Name: Three Wise Monkeys
+Description: Collect the whole set.
+ID: EID_LassoPolo_G5AI0
+
+Name: Sweet Victory
+Description: That's how we do it.
+ID: EID_Lasso_ADP0O
+
 Name: Laugh It Up
 Description: What's so funny?
 ID: EID_Laugh
@@ -1138,9 +1234,17 @@ Name: PWR Punch
 Description: PWR up!
 ID: EID_LunchBox
 
+Name: The Macarena
+Description: Heeeeey Macarena.
+ID: EID_Macaroon_45LHE
+
 Name: Verve
 Description: It's all about the energy.
 ID: EID_MagicMan
+
+Name: The Silencer
+Description: Stun 'em.
+ID: EID_Majesty_49JWY
 
 Name: Make It Plantain
 Description: It's bananas.
@@ -1430,6 +1534,10 @@ Name: Respect The Peace
 Description: Show some respect.
 ID: EID_RespectThePeace
 
+Name: Leave Squad
+Description: Seeya!
+ID: EID_RespectThePeace_LeaveAdHocSquad
+
 Name: Lil' Octane
 Description: Pop it, tip it, and dodge it to the goal.
 ID: EID_RhymeLock_5B2Y3
@@ -1482,6 +1590,14 @@ Name: Jump Jets
 Description: Lift with your legs.
 ID: EID_RoosterMech
 
+Name: The Rick Dance
+Description: It's the Rick Dance.
+ID: EID_Ruckus
+
+Name: The Rick Dance
+Description: It's the Rick Dance.
+ID: EID_Ruckus_Follower
+
 Name: Running Man
 Description: The challenge is to never stop running.
 ID: EID_RunningMan
@@ -1501,6 +1617,10 @@ ID: EID_Salute
 Name: Go Mufasa
 Description: I did it legit-ly.
 ID: EID_SandwichBop
+
+Name: Lil' Saucer
+Description: Close encounters of the lil' kind.
+ID: EID_Saucer
 
 Name: Phone It In
 Description: Lay down a saxy groove.
@@ -1654,6 +1774,10 @@ Name: Fancy Footwork
 Description: Keep 'em guessing all the way to the goal.
 ID: EID_SoccerTraversal
 
+Name: Socks
+Description: Put in work.
+ID: EID_Socks_XA9HM
+
 Name: Something Stinks
 Description: Whoever smelt it...
 ID: EID_SomethingStinks
@@ -1661,6 +1785,10 @@ ID: EID_SomethingStinks
 Name: Sparkler
 Description: So sparkly!
 ID: EID_Sparkler
+
+Name: Take a 'bow
+Description: Make it rain... bow.
+ID: EID_Spectrum
 
 Name: Full Tilt
 Description: Lean into it.
@@ -1697,6 +1825,10 @@ ID: EID_StageBow
 Name: Statuesque
 Description: So lifelike!
 ID: EID_StatuePose
+
+Name: Tea Time
+Description: ...but that's none of my business.
+ID: EID_Steep
 
 Name: Side Hustle
 Description: The whole world's on your side.
@@ -1793,6 +1925,10 @@ ID: EID_Temple
 Name: Paddle Royale
 Description: Hop on the paddle bus.
 ID: EID_TennisPaddle
+
+Name: Vulcan Salute
+Description: Live long and prosper.
+ID: EID_Terminal
 
 Name: Busy
 Description: I'll be with you in just a moment.
@@ -1898,9 +2034,25 @@ Name: Last Forever
 Description: Who said love don't last forever?
 ID: EID_TwistEternity_Sync_Follower
 
+Name: Wake Up
+Description: Okay okay okay!
+ID: EID_TwistFire_I2VTA
+
 Name: Twist
 Description: It's all in the hips.
 ID: EID_TwistRaisin
+
+Name: null
+Description: null
+ID: EID_TwistWasp_Follower
+
+Name: null
+Description: null
+ID: EID_TwistWasp_Sync
+
+Name: My World
+Description: Shake ya feathers.
+ID: EID_TwistWasp_T2I4J
 
 Name: Cyberdyne Salute
 Description: He'll be back.

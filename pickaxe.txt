@@ -2264,6 +2264,10 @@ Name: Sl1c3 // D1c3
 Description: When virtual tools aren't enough for the job.
 ID: Pickaxe_ID_576_SailorSquadRoseFemale1H
 
+Name: Tribute's Flail
+Description: Give what you owe, or the light will change to shadow.
+ID: Pickaxe_ID_577_TheGoldenSkeletonFemale1H_Y6VJG
+
 Name: Quackhammer
 Description: Quack 'em up.
 ID: Pickaxe_ID_578_WickedDuckFemale
@@ -2327,6 +2331,166 @@ ID: Pickaxe_ID_595_TacticalRedPunkFemale1H
 Name: Zzarian Slicers
 Description: Life's crusty. Slice hard.
 ID: Pickaxe_ID_596_TomatoKnightMale1H
+
+Name: BB's Beast Bat
+Description: Vic made it for him.
+ID: Pickaxe_ID_597_BroccoliMale_GMZ6W
+
+Name: Fish Kabob
+Description: A rainbow of fishy flavor.
+ID: Pickaxe_ID_598_CavemanMale
+
+Name: Catwoman's Grappling Claw
+Description: Pickaxing Purrrfection.
+ID: Pickaxe_ID_599_CavernFemale
+
+Name: Crystaline Battle Wand
+Description: A gift from the spirits of the Oasis.
+ID: Pickaxe_ID_600_DarkElfFemale
+
+Name: Slitherous Staff
+Description: One head always lies. The other heads also lie. Don't trust snakes.
+ID: Pickaxe_ID_601_StoneViperFemale
+
+Name: Drive Shaft
+Description: Wield the power steering.
+ID: Pickaxe_ID_602_TaxiUpgradedMulticolorFemale
+
+Name: Lok Pick
+Description: Lok's signature Grabby Axe.
+ID: Pickaxe_ID_603_AssembleL
+
+Name: Volcanic Glass Daggers
+Description: Allomancers beware.
+ID: Pickaxe_ID_604_DownpourMale_Z48CM
+
+Name: Deathstroke's Katanas
+Description: Slade's tools of the trade.
+ID: Pickaxe_ID_605_GrimMale_8GT61
+
+Name: Rebel Slice
+Description: Everyone's got their limits.
+ID: Pickaxe_ID_606_ShrapnelFemale
+
+Name: Nuzzle Jet
+Description: Featuring genuine hug-blasted mecha-strike action.
+ID: Pickaxe_ID_607_SpaceCuddlesFemale_0ECBA
+
+Name: Vanguard Flame
+Description: Stoke the flames of battle.
+ID: Pickaxe_ID_608_SpartanFutureFemale
+
+Name: Spire Shard
+Description: Forged in the Spire's fury.
+ID: Pickaxe_ID_610_TowerSentinelMale
+
+Name: Grim Gouger
+Description: Please gouge responsibly.
+ID: Pickaxe_ID_611_WastelandWarriorFemale
+
+Name: Chop Chop
+Description: Drip chop, who's next?
+ID: Pickaxe_ID_612_AntiqueMale
+
+Name: The Fret Basher
+Description: Pitch perfect six-string striker.
+ID: Pickaxe_ID_613_BelieverFemale
+
+Name: Solitude Striker
+Description: Crafted from The Fortress of Solitude.
+ID: Pickaxe_ID_614_EmperorMale
+
+Name: Kittanas
+Description: Forged to purr-fection in the Pluxarian Quasar.
+ID: Pickaxe_ID_615_FauxMale
+
+Name: IO Eradicator
+Description: Glowing with top-secret IO technology.
+ID: Pickaxe_ID_616_InnovatorFemale
+
+Name: Zyg's Chainblade
+Description: Ouch, it hurts to hug!
+ID: Pickaxe_ID_617_InvaderMale
+
+Name: Sledge Heifer
+Description: Sizzle-blasted beef bat.
+ID: Pickaxe_ID_618_JonesyCattleMale
+
+Name: Prismablade
+Description: A truly stellar weapon.
+ID: Pickaxe_ID_619_Rockstar_Female
+
+Name: Hammerhead Morty
+Description: I'm more than just a hammer!
+ID: Pickaxe_ID_620_Ruckus
+
+Name: Gilded Shadow
+Description: Gold glitters even in the shade.
+ID: Pickaxe_ID_622_CatBurglarSummerMale
+
+Name: Batarang Axe
+Description: Improvised in the heat of battle.
+ID: Pickaxe_ID_623_CavernArmoredMale
+
+Name: Sparklaxe
+Description: Fired up and on a roll.
+ID: Pickaxe_ID_624_FirecrackerMale
+
+Name: Sandy Shoveler
+Description: Bury 'em in sand and put 'em to bed with the fishies.
+ID: Pickaxe_ID_625_HenchmanSummerMale
+
+Name: Rainbow Carver
+Description: A full-spectrum excavator.
+ID: Pickaxe_ID_626_JurassicArchaeologySummerFemale
+
+Name: Loki's Scepter
+Description: Also known as the glow stick of destiny.
+ID: Pickaxe_ID_627_LinguiniMale_2ZOX0
+
+Name: The Lion
+Description: Adopt a crushing offensive strategy.
+ID: Pickaxe_ID_628_MajestyMale_514VT
+
+Name: Aqua Lug
+Description: That's one sun-drenched wrench.
+ID: Pickaxe_ID_629_MechanicalEngineerSummerFemale
+
+Name: Aquari-Axe
+Description: A pickaxe made of water? Sounds fishy.
+ID: Pickaxe_ID_630_SlurpMonsterSummerMale
+
+Name: Hot Rod Ripper
+Description: Sleek. Stylish. Stripey.
+ID: Pickaxe_ID_631_StreetFashionSummerFemale
+
+Name: Marshmallets
+Description: Careful you don't burn 'em.
+ID: Pickaxe_ID_632_SummerMarshmallowFemale1H
+
+Name: Bugha Blades
+Description: Focus and preparation.
+ID: Pickaxe_ID_633_BlueCheeseMale
+
+Name: Stellapen Smashpack
+Description: Includes one stretchy longsword and a magic green stylus.
+ID: Pickaxe_ID_636_DojoMale1H
+
+Name: Dauntless Driver
+Description: Tee off in style.
+ID: Pickaxe_ID_637_Golf_Male
+
+Name: Orbital Abductor
+Description: Snatch victory from the clutches of defeat... or a nearby cornfield.
+ID: Pickaxe_ID_638_MusicianFemale
+
+Name: Futureproof Flail
+Description: Complete the look with a bold statement piece.
+ID: Pickaxe_ID_639_PliantFemale
+
+Name: Holoslash
+Description: Accessorize and make the driveway your runway.
+ID: Pickaxe_ID_640_PliantMale
 
 Name: Ol' Woody
 Description: Looks... sturdy.
