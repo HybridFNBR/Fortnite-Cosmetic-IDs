@@ -4481,6 +4481,10 @@ Name: Pepper Thorne
 Description: Ask her about her latest self-produced EP, Salty Slurpwaters.
 ID: CID_A_152_Athena_Commando_F_Musician
 
+Name: Summer Skye
+Description: Combat master, cat protector, and lover of all things kawaii.
+ID: CID_A_153_Athena_Commando_F_BuffCatFan_TS2DR
+
 Name: TBD
 Description: TBD
 ID: CID_NPC_Athena_Commando_F_HenchmanSpyDark

@@ -2472,6 +2472,10 @@ Name: Bugha Blades
 Description: Focus and preparation.
 ID: Pickaxe_ID_633_BlueCheeseMale
 
+Name: Epic Sword of Might
+Description: It's only a little bit cursed.
+ID: Pickaxe_ID_635_BuffCatFanFemale_J642P
+
 Name: Stellapen Smashpack
 Description: Includes one stretchy longsword and a magic green stylus.
 ID: Pickaxe_ID_636_DojoMale1H

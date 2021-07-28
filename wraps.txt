@@ -1442,6 +1442,10 @@ Name: Golden Black
 Description: Show your style.
 ID: Wrap_376_CatBurglarSummer
 
+Name: Cattitude
+Description: Show your style.
+ID: Wrap_378_BuffCatFanB_J74F1
+
 Name: Pixellator
 Description: Show your style.
 ID: Wrap_379_Pliant
@@ -1449,6 +1453,10 @@ ID: Wrap_379_Pliant
 Name: Inky
 Description: Show your style.
 ID: Wrap_381_InkBlot
+
+Name: Psspsspsspss!
+Description: Show your style.
+ID: Wrap_382_BuffCatFan_OQ9IZ
 
 Name: TBD
 Description: Show your style.

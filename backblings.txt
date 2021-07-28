@@ -3142,6 +3142,10 @@ Name: Hard Case Hero
 Description: It's not here to fiddle around.
 ID: BID_810_Musician
 
+Name: Cursed Eagleshield
+Description: Why even carry an Eagleshield if it's not cursed?
+ID: BID_814_BuffCatFan_C3DES
+
 Name: Hologlyph
 Description: Everyone's favorite hologlyph, now with a battery booster.
 ID: BID_815_PliantFemale

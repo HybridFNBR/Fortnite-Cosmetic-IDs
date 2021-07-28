@@ -1248,9 +1248,9 @@ Name: Court's in Session
 Description: All hail the King!
 ID: LSID_323_Majesty_0P2RG
 
-Name: Cosmic Cuddles
-Description: The inter-dimensional roadtrip starts now. Art by Delicious Design League.
-ID: LSID_326_RiftTourMKTG2
+Name: Afternoon Quest
+Description: Searching for adventure beyond the sky.
+ID: LSID_324_BuffCatFan_99Q4A
 
 Name: Slone Zone
 Description: The Doctor is in.
