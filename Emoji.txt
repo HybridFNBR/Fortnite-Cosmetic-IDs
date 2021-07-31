@@ -890,6 +890,10 @@ Name: Buff Bash
 Description: Express yourself on the battlefield.
 ID: Emoji_S17_FNCS_AllStars
 
+Name: Cloudy Kitty
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_RiftTour
+
 Name: * BUURRRPP *
 Description: Express yourself on the battlefield.
 ID: Emoji_S17_Ruckus

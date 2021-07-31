@@ -1454,7 +1454,7 @@ Name: Inky
 Description: Show your style.
 ID: Wrap_381_InkBlot
 
-Name: Psspsspsspss!
+Name: Pspspsps!
 Description: Show your style.
 ID: Wrap_382_BuffCatFan_OQ9IZ
 

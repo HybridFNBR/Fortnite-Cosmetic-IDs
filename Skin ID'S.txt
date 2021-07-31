@@ -2737,6 +2737,14 @@ Name: Deadpool
 Description: The merc with a mouth.
 ID: CID_705_Athena_Commando_M_Donut
 
+Name: SHADOW Enforcer
+Description: Get the job done. Nothing else matters.
+ID: CID_706_Athena_Commando_M_HenchmanBad_34LVU
+
+Name: GHOST Enforcer
+Description: GHOST for hire.
+ID: CID_707_Athena_Commando_M_HenchmanGood_9OBH6
+
 Name: Slurp Jonesy
 Description: Slurp up and ship out.
 Reactive: Head transforms with higher shields

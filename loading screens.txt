@@ -1252,6 +1252,10 @@ Name: Afternoon Quest
 Description: Searching for adventure beyond the sky.
 ID: LSID_324_BuffCatFan_99Q4A
 
+Name: Cosmic Cuddles
+Description: The inter-dimensional roadtrip starts now. Art by Delicious Design League.
+ID: LSID_326_RiftTourMKTG2
+
 Name: Slone Zone
 Description: The Doctor is in.
 ID: LSID_331_FNCS
