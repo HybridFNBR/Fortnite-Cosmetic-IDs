@@ -1458,6 +1458,18 @@ Name: Pspspsps!
 Description: Show your style.
 ID: Wrap_382_BuffCatFan_OQ9IZ
 
+Name: Doodler
+Description: Show your style.
+ID: Wrap_384_PaperAirplane
+
+Name: Bloodsport Camo
+Description: Show your style.
+ID: Wrap_385_SeesawSlipper
+
+Name: Adorbz!
+Description: Show your style.
+ID: Wrap_386_ToonHearts
+
 Name: TBD
 Description: Show your style.
 ID: Wrap_CatBurglarGameplay

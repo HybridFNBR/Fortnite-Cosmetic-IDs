@@ -4438,7 +4438,7 @@ Description: Discover the driving lifestyle.
 ID: CID_A_139_Athena_Commando_M_Foray_SD8AA
 
 Name: Bugha
-Description: Fortnite World Cup Champion in 2019
+Description: Fortnite World Cup Champion in 2019.
 ID: CID_A_140_Athena_Commando_M_BlueCheese
 
 Name: Gildedguy
@@ -4493,6 +4493,58 @@ Name: Summer Skye
 Description: Combat master, cat protector, and lover of all things kawaii.
 ID: CID_A_153_Athena_Commando_F_BuffCatFan_TS2DR
 
+Name: Bloodsport
+Description: Assassin and expert marksman.
+ID: CID_A_160_Athena_Commando_M_SeesawSlipper
+
+Name: Hi-Hat
+Description: Crank up the bass.
+ID: CID_A_163_Athena_Commando_M_Stands
+
+Name: Syncopator
+Description: Keep perfect 4/4 time. Everytime.
+ID: CID_A_164_Athena_Commando_M_Stands_B
+
+Name: Reverb
+Description: Climb to the top of the charts.
+ID: CID_A_165_Athena_Commando_M_Stands_C
+
+Name: Attenuator
+Description: Hear all the little details.
+ID: CID_A_166_Athena_Commando_M_Stands_D
+
+Name: Synth Striker
+Description: Expand your range.
+ID: CID_A_167_Athena_Commando_M_Stands_E
+
+Name: Melody Maverick
+Description: Stay in key, no matter what.
+ID: CID_A_168_Athena_Commando_F_Stands
+
+Name: Band Pass
+Description: Pitch perfect on the battlefield.
+ID: CID_A_169_Athena_Commando_F_Stands_B
+
+Name: Amplitude
+Description: Ride the waveforms.
+ID: CID_A_170_Athena_Commando_F_Stands_C
+
+Name: Harmonizer
+Description: Put on a showstopping performance.
+ID: CID_A_171_Athena_Commando_F_Stands_D
+
+Name: Pop Prodigy
+Description: The songstress of the summer.
+ID: CID_A_172_Athena_Commando_F_Stands_E
+
+Name: Human Bill
+Description: He's just here to observe.
+ID: CID_A_175_Athena_Commando_M_AlienSummer
+
+Name: Recruit
+Description: Standard issue combatant outfit.
+ID: CID_Creative_Mannequin_M_Default
+
 Name: TBD
 Description: TBD
 ID: CID_NPC_Athena_Commando_F_HenchmanSpyDark
@@ -4523,7 +4575,19 @@ ID: CID_NPC_Athena_Commando_M_AlienSummer
 
 Name: TBD
 Description: TBD
+ID: CID_NPC_Athena_Commando_M_Broccoli
+
+Name: TBD
+Description: TBD
 ID: CID_NPC_Athena_Commando_M_CatBurglar_Ghost
+
+Name: TBD
+Description: TBD
+ID: CID_NPC_Athena_Commando_M_CavernArmored
+
+Name: TBD
+Description: TBD
+ID: CID_NPC_Athena_Commando_M_EmperorSuit
 
 Name: TBD
 Description: TBD

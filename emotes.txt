@@ -178,6 +178,10 @@ Name: Bat Signal
 Description: Did somebody order a Batman?
 ID: EID_BlackMondayMale_E0VSB
 
+Name: Crossbounce
+Description: Bounce into the groove.
+ID: EID_Blaster
+
 Name: Blowing Bubbles
 Description: Get poppin.
 ID: EID_BlowingBubbles
@@ -297,6 +301,10 @@ ID: EID_CactusTPose
 Name: Calculated
 Description: Think about it.
 ID: EID_Calculated
+
+Name: Lights up
+Description: This is my song!
+ID: EID_Caller
 
 Name: Call me
 Description: Seriously though, just send a text.
@@ -1206,6 +1214,10 @@ Name: Llama Bell
 Description: Clang! Clang! Clang! Clang!
 ID: EID_LlamaBellRaisin
 
+Name: Lil' Floaticorn
+Description: Get a lil llama llift.
+ID: EID_LlamaFloat
+
 Name: Llama Conga
 Description: Trot on.
 ID: EID_LlamaMarch
@@ -1393,6 +1405,22 @@ ID: EID_PartyJazzTwinkleToes
 Name: Well rounded
 Description: Take your turn.
 ID: EID_PartyJazzWigglyDance
+
+Name: Bear Hug
+Description: Bear Hug
+ID: EID_PatPat
+
+Name: null
+Description: null
+ID: EID_PatPat_Sync
+
+Name: null
+Description: null
+ID: EID_PatPat_Sync_Follower
+
+Name: null
+Description: null
+ID: EID_PatPat_Sync_Owned_Follower
 
 Name: Paws & Claws
 Description: Meow it's time to dance.

@@ -890,6 +890,10 @@ Name: Buff Bash
 Description: Express yourself on the battlefield.
 ID: Emoji_S17_FNCS_AllStars
 
+Name: Just Between Us
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_ImposterWink
+
 Name: Cloudy Kitty
 Description: Express yourself on the battlefield.
 ID: Emoji_S17_RiftTour
@@ -901,6 +905,26 @@ ID: Emoji_S17_Ruckus
 Name: Winner's Cup
 Description: Express yourself on the battlefield.
 ID: Emoji_S17_Soccer
+
+Name: Happy Patty
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_StreamElementsBeefBoss
+
+Name: Record Scratch
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_StreamElementsDJ
+
+Name: Peely Parade
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_StreamElementsPeely
+
+Name: Whaaa?!
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_StreamElementsRaptor
+
+Name: Wet 'n Weepy
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_StreamElementsSlurpMonster
 
 Name: Stellar Sipper
 Description: Express yourself on the battlefield.

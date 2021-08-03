@@ -375,8 +375,12 @@ Description: Press play and create your own galactic battle song.
 ID: MusicPack_094_SpaceCuddlesInstrumental
 
 Name: Falling Stars
-Description: Press play and find your star
+Description: Press play and find your star.
 ID: MusicPack_095_SummerNight
+
+Name: Keep Poppin'
+Description: Press play and lock that pop.
+ID: MusicPack_098_PopLock
 
 Name: Random
 Description: Randomly chooses between favorite Music Packs (or all owned Music Packs if nothing is marked as a favorite)

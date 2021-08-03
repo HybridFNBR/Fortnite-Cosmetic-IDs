@@ -3154,6 +3154,18 @@ Name: Sleek Hologlyph
 Description: The original hologlyph you know and love.
 ID: BID_816_PliantMale
 
+Name: Guffie Stuffie
+Description: Lil' Guff, Big Fluff.
+ID: BID_817_CometSummer
+
+Name: A WEATHER BALLOON
+Description: Caused by light refracting through swamp gas.
+ID: BID_822_AlienSummer
+
+Name: Starro Specimen
+Description: He's under control. For now.
+ID: BID_823_SeesawSlipper
+
 Name: TBD
 Description: TBD
 ID: BID_NPC_HightowerDate
@@ -3173,4 +3185,8 @@ ID: BID_STWHeroNoDefaultBackpack
 Name: TBD
 Description: TBD
 ID: BID_TBD_Cosmos
+
+Name: TBD
+Description: TBD
+ID: Gadget_AlienSignalDetector
 

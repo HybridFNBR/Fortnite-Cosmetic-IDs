@@ -1256,6 +1256,14 @@ Name: Cosmic Cuddles
 Description: The inter-dimensional roadtrip starts now. Art by Delicious Design League.
 ID: LSID_326_RiftTourMKTG2
 
+Name: Skye up High
+Description: Cuddle team conqueror. Art by Yuko Shimizu.
+ID: LSID_329_Rift
+
+Name: Rotated Rift
+Description: It's Rift Tour all the way down. Art by FLOREY.
+ID: LSID_330_RiftStack_WHFK1
+
 Name: Slone Zone
 Description: The Doctor is in.
 ID: LSID_331_FNCS

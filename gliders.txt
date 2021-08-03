@@ -1303,6 +1303,14 @@ Name: The Umbrella
 Description: The fabled victory umbrella.
 ID: Umbrella_Bronze
 
+Name: Rainbow Cloudcruiser
+Description: A fuzzy, flashy flier.
+ID: Umbrella_Buffet_Rainbow_354HU
+
+Name: Cuddly Cloudcruiser
+Description: Fly in cuddly comfort.
+ID: Umbrella_Buffet_RD4DP
+
 Name: Brella
 Description: Float into action with the first ever customizable umbrella.
 ID: Umbrella_BuildABrella
