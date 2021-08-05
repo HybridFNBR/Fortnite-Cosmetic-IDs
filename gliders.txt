@@ -1235,6 +1235,14 @@ Name: Cloud Llama Board
 Description: Surf the skies.
 ID: Glider_ID_303_SurfingSummerFemale
 
+Name: Sweetener Sailshards
+Description: Make 'em say "Oh!"
+ID: Glider_ID_304_BuffetFemale_AOF61
+
+Name: V-Trigger Vector
+Description: Sonic Boom! Ear protection advised.
+ID: Glider_ID_305_QuarrelMale_ZTHTQ
+
 Name: Raptor
 Description: Go ahead. Buzz the tower. You've earned it.
 ID: Glider_MiG

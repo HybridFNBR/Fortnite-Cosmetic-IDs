@@ -2500,6 +2500,18 @@ Name: Freezie Friendz
 Description: Go on and give your friendz a lick.
 ID: Pickaxe_ID_643_AlienSummerMale
 
+Name: 7 Rings Smasher
+Description: Perfect for matching with 6 friends.
+ID: Pickaxe_ID_644_BuffetFemale_TOH8A
+
+Name: Delta Red Bowie Blade
+Description: Issued for field use by Delta Red.
+ID: Pickaxe_ID_645_QuarrelFemale_W3B7A
+
+Name: Guile's Knuckle Buster
+Description: Slice Shadaloo to ribbons.
+ID: Pickaxe_ID_646_QuarrelMale_PTOBI
+
 Name: A.R.G.U.S. Sabre
 Description: For when your normal weapon just won't do.
 ID: Pickaxe_ID_647_SeesawSlipperMale1H

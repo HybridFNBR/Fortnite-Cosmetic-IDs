@@ -1407,7 +1407,7 @@ Description: Take your turn.
 ID: EID_PartyJazzWigglyDance
 
 Name: Bear Hug
-Description: Bear Hug
+Description: Bring it in.
 ID: EID_PatPat
 
 Name: null
@@ -1529,6 +1529,14 @@ ID: EID_PuzzleBox
 Name: Hit It
 Description: I think we got a winner.
 ID: EID_Quantity_39X5D
+
+Name: Cannon Spike
+Description: Twirl and taunt your way to the top.
+ID: EID_QuarrelFemale_4ABL0
+
+Name: Flash Kick
+Description: Go home and be a family man.
+ID: EID_QuarrelMale_SGVNE
 
 Name: Jamboree
 Description: Celebrate anything and everything.

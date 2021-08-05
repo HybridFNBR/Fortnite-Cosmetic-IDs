@@ -1252,9 +1252,17 @@ Name: Afternoon Quest
 Description: Searching for adventure beyond the sky.
 ID: LSID_324_BuffCatFan_99Q4A
 
+Name: Knock, Knock
+Description: We'll see you again soon. Created by Yuko Shimizu X MONDO.
+ID: LSID_325_RiftTourMKTG1_18M49
+
 Name: Cosmic Cuddles
 Description: The inter-dimensional roadtrip starts now. Art by Delicious Design League.
 ID: LSID_326_RiftTourMKTG2
+
+Name: Round Two
+Description: Fight!
+ID: LSID_328_Quarrel_K4C12
 
 Name: Skye up High
 Description: Cuddle team conqueror. Art by Yuko Shimizu.

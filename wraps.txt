@@ -1458,6 +1458,10 @@ Name: Pspspsps!
 Description: Show your style.
 ID: Wrap_382_BuffCatFan_OQ9IZ
 
+Name: Sequined
+Description: Show your style.
+ID: Wrap_383_Buffet_KGN3R
+
 Name: Doodler
 Description: Show your style.
 ID: Wrap_384_PaperAirplane

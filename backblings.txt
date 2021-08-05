@@ -3158,6 +3158,18 @@ Name: Guffie Stuffie
 Description: Lil' Guff, Big Fluff.
 ID: BID_817_CometSummer
 
+Name: Piggy Smallz
+Description: She's a tiny pig with an enormous heart.
+ID: BID_818_Buffet_XRF7H
+
+Name: Borealis Backer
+Description: Carry the aurora of victory.
+ID: BID_820_QuarrelFemale_7CW31
+
+Name: K.O.
+Description: High Score!
+ID: BID_821_QuarrelMale_IKIS8
+
 Name: A WEATHER BALLOON
 Description: Caused by light refracting through swamp gas.
 ID: BID_822_AlienSummer

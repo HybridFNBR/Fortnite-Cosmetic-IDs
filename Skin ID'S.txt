@@ -4493,9 +4493,21 @@ Name: Summer Skye
 Description: Combat master, cat protector, and lover of all things kawaii.
 ID: CID_A_153_Athena_Commando_F_BuffCatFan_TS2DR
 
+Name: Ariana Grande
+Description: Her presence? Sweet. Her aura? Bright.
+ID: CID_A_158_Athena_Commando_F_Buffet_YC20H
+
 Name: Bloodsport
 Description: Assassin and expert marksman.
 ID: CID_A_160_Athena_Commando_M_SeesawSlipper
+
+Name: Guile
+Description: No need for talk. Let's do this!
+ID: CID_A_161_Athena_Commando_M_Quarrel_SLXQG
+
+Name: Cammy
+Description: For those who I wish to protect...I will fight you!
+ID: CID_A_162_Athena_Commando_F_Quarrel_E5D63
 
 Name: Hi-Hat
 Description: Crank up the bass.
@@ -4536,6 +4548,10 @@ ID: CID_A_171_Athena_Commando_F_Stands_D
 Name: Pop Prodigy
 Description: The songstress of the summer.
 ID: CID_A_172_Athena_Commando_F_Stands_E
+
+Name: Sparkle Skull
+Description: Make those bones shine bright.
+ID: CID_A_173_Athena_Commando_F_PartyTrooperBuffet_55Z8G
 
 Name: Human Bill
 Description: He's just here to observe.
