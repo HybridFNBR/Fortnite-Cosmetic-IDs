@@ -258,6 +258,10 @@ Name: Squash & Stretch
 Description: Don't forget the follow-through.
 ID: EID_BuffCatComic_EV4HK
 
+Name: XOXO
+Description: Send some love.
+ID: EID_BuffetMoment_LCZQS
+
 Name: Snow Day
 Description: We'll make him our best friend.
 ID: EID_BuildASnowman
