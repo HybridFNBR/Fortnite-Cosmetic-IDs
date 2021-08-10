@@ -3162,6 +3162,10 @@ Name: Piggy Smallz
 Description: She's a tiny pig with an enormous heart.
 ID: BID_818_Buffet_XRF7H
 
+Name: Gamora's Cloak
+Description: A cloak designed for a Zen-Whoberis assassin.
+ID: BID_819_Stereo_TE8RC
+
 Name: Borealis Backer
 Description: Carry the aurora of victory.
 ID: BID_820_QuarrelFemale_7CW31

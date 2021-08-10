@@ -1243,6 +1243,10 @@ Name: V-Trigger Vector
 Description: Sonic Boom! Ear protection advised.
 ID: Glider_ID_305_QuarrelMale_ZTHTQ
 
+Name: Godslayer Glideboard
+Description: ...Is that an Infinity Stone? Nah, couldn't be.
+ID: Glider_ID_306_StereoFemale_0ZZCF
+
 Name: Raptor
 Description: Go ahead. Buzz the tower. You've earned it.
 ID: Glider_MiG

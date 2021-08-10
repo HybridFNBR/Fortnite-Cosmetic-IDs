@@ -2516,6 +2516,10 @@ Name: A.R.G.U.S. Sabre
 Description: For when your normal weapon just won't do.
 ID: Pickaxe_ID_647_SeesawSlipperMale1H
 
+Name: The Godslayer
+Description: A modular blade, capable of besting even an Asgardian.
+ID: Pickaxe_ID_648_StereoFemale_0DTZ9
+
 Name: Ol' Woody
 Description: Looks... sturdy.
 ID: Pickaxe_ID_STW001_Tier_1

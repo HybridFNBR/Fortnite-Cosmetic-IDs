@@ -4493,6 +4493,10 @@ Name: Summer Skye
 Description: Combat master, cat protector, and lover of all things kawaii.
 ID: CID_A_153_Athena_Commando_F_BuffCatFan_TS2DR
 
+Name: Gamora
+Description: The deadliest woman in the galaxy.
+ID: CID_A_157_Athena_Commando_F_Stereo_3A08Z
+
 Name: Ariana Grande
 Description: Her presence? Sweet. Her aura? Bright.
 ID: CID_A_158_Athena_Commando_F_Buffet_YC20H
