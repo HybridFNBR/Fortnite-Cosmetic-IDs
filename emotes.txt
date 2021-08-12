@@ -326,6 +326,10 @@ Name: Cartwheelin'
 Description: Head over heels.
 ID: EID_Cartwheel
 
+Name: Good Guy
+Description: Don't have a good day... have a great day.
+ID: EID_Cashier_HGQ8X
+
 Name: Power Roar
 Description: Scream of the Devourer.
 ID: EID_CattusRoar
