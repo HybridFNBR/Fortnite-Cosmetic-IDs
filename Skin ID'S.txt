@@ -4501,6 +4501,10 @@ Name: Ariana Grande
 Description: Her presence? Sweet. Her aura? Bright.
 ID: CID_A_158_Athena_Commando_F_Buffet_YC20H
 
+Name: Dude
+Description: Nice guys don't always finish last.
+ID: CID_A_159_Athena_Commando_M_Cashier_7K3F0
+
 Name: Bloodsport
 Description: Assassin and expert marksman.
 ID: CID_A_160_Athena_Commando_M_SeesawSlipper
