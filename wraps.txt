@@ -1474,6 +1474,34 @@ Name: Adorbz!
 Description: Show your style.
 ID: Wrap_386_ToonHearts
 
+Name: Look at Me!
+Description: Show your style.
+ID: Wrap_387_RuckusMini_6I5DM
+
+Name: Fox Clan Future
+Description: Show your style.
+ID: Wrap_388_Polygon
+
+Name: Life's a Beach
+Description: Show your style.
+ID: Wrap_389_Footsteps
+
+Name: Vortextual
+Description: Show your style.
+ID: Wrap_390_CelestialGlow
+
+Name: Dragon's Scale
+Description: Show your style.
+ID: Wrap_391_Dragonfruit_YVN1M
+
+Name: Alien Peepers
+Description: Show your style.
+ID: Wrap_392_AlienFlora
+
+Name: Rainbow Bubblegum
+Description: Show your style.
+ID: Wrap_393_Suspenders
+
 Name: TBD
 Description: Show your style.
 ID: Wrap_CatBurglarGameplay

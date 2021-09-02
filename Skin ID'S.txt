@@ -4081,6 +4081,10 @@ Name: Robo-Ray
 Description: Robot chassis for extended field operations.
 ID: CID_A_046_Athena_Commando_F_AssembleR
 
+Name: Windwalker Echo
+Description: May the winds lead you home.
+ID: CID_A_047_Athena_Commando_F_Windwalker
+
 Name: Chigusa
 Description: Journalist turned vigilante sworn to liberate the world from R.E.M.Corp's virtual prison.
 ID: CID_A_048_Athena_Commando_F_SailorSquadLeader
@@ -4561,9 +4565,93 @@ Name: Sparkle Skull
 Description: Make those bones shine bright.
 ID: CID_A_173_Athena_Commando_F_PartyTrooperBuffet_55Z8G
 
+Name: Galaxy Grappler
+Description: Victory from the edge of the galaxy.
+ID: CID_A_174_Athena_Commando_F_CelestialGlow
+
 Name: Human Bill
 Description: He's just here to observe.
 ID: CID_A_175_Athena_Commando_M_AlienSummer
+
+Name: Wavy Warrior
+Description: Relaxed fit for a relaxed fight.
+ID: CID_A_176_Athena_Commando_F_TieDyeFashion
+
+Name: Dyed Breeze
+Description: Look cozy, get crazy.
+ID: CID_A_177_Athena_Commando_F_TieDyeFashion_B
+
+Name: Swirl Girl
+Description: Dress code is "Victory Casuale."
+ID: CID_A_178_Athena_Commando_F_TieDyeFashion_C
+
+Name: Color Crush
+Description: Battle-ready meets mall-ready.
+ID: CID_A_179_Athena_Commando_F_TieDyeFashion_D
+
+Name: Sunburst Dawn
+Description: Combat never cramps her breezy style.
+ID: CID_A_180_Athena_Commando_F_TieDyeFashion_E
+
+Name: Mecha Morty
+Description: Don't leave home without your Morty.
+ID: CID_A_181_Athena_Commando_M_RuckusMini_A6VG6
+
+Name: J Balvin
+Description: Reggaetón Global Ambassador.
+ID: CID_A_182_Athena_Commando_M_Vivid_LZGQ3
+
+Name: The Burning Wolf
+Description: The legend is nightmarish. The reality is worse.
+ID: CID_A_184_Athena_Commando_M_NinjaWolf_F09O3
+
+Name: Vox Hunter
+Description: The Fox Clan's dauntless tracker.
+ID: CID_A_185_Athena_Commando_M_Polygon
+
+Name: Lars
+Description: Storm scientist and founding member of Steel Wool.
+ID: CID_A_186_Athena_Commando_M_Lars
+
+Name: Wonder Woman
+Description: Amazonian warrior and daughter of Zeus.
+ID: CID_A_187_Athena_Commando_F_Monarch
+
+Name: Cade
+Description: He's got the high score in the arcade... and our hearts.
+ID: CID_A_188_Athena_Commando_M_ColorBlock
+
+Name: Mike Lowrey
+Description: Tough-talking detective who's ready for anything.
+ID: CID_A_189_Athena_Commando_M_Lavish_HUU31
+
+Name: Brainstorm
+Description: This one's a thinker.
+ID: CID_A_190_Athena_Commando_M_AlienAgent
+
+Name: Bloom
+Description: Lush and lively Pluxarian Plantsassin.
+ID: CID_A_191_Athena_Commando_M_AlienFlora
+
+Name: Joy
+Description: She's ready to roll.
+ID: CID_A_192_Athena_Commando_F_Suspenders
+
+Name: Shang-Chi
+Description: Master of Kung Fu.
+ID: CID_A_193_Athena_Commando_M_Dragonfruit_7N3A3
+
+Name: D'Ark
+Description: Open your heart to victory.
+ID: CID_A_194_Athena_Commando_F_AngelDark
+
+Name: Trespasser Elite
+Description: Infiltrate. Dominate. Terminate.
+ID: CID_A_195_Athena_Commando_M_Crisis
+
+Name: Major Glory
+Description: Celebrate the competition, savor the victory.
+ID: CID_A_196_Athena_Commando_F_FNCSGreen
 
 Name: Recruit
 Description: Standard issue combatant outfit.

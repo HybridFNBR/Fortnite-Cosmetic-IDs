@@ -206,6 +206,10 @@ Name: Boomin'
 Description: Music on the move.
 ID: EID_Boombox
 
+Name: Bim Bam Boom
+Description: It's pshht and it's vroom.
+ID: EID_Boomer_N2RQT
+
 Name: Boots 'n' Cats
 Description: Beat outside the box.
 ID: EID_BootsAndCats
@@ -994,6 +998,10 @@ Name: Bouncer
 Description: Hop on.
 ID: EID_Hopper
 
+Name: Square Up
+Description: This one goes all the way to the hop.
+ID: EID_Hoppin
+
 Name: Say So
 Description: Roll with the changes.
 ID: EID_HotPink
@@ -1322,6 +1330,10 @@ Name: Wanna See Me
 Description: Do your dance.
 ID: EID_ModerateAmount_9LUN1
 
+Name: Bracelets of Hephaestus
+Description: Powerful gauntlets forged from the Aegis.
+ID: EID_Monarch
+
 Name: Freemix
 Description: Anything goes.
 ID: EID_MonteCarlo
@@ -1373,6 +1385,10 @@ ID: EID_Noodles_X6R9E
 Name: Finger Wag
 Description: Not today, my friend.
 ID: EID_NotToday
+
+Name: Hey Now! FOR NPCs
+Description: USED FOR AI NPCs. SHOULD NOT BE ON STORE.
+ID: EID_NPC_ByTheFire
 
 Name: Azarath Metrion Zinthos!
 Description: Hone your power taught from the Monks of Azarath.
@@ -1638,6 +1654,18 @@ Name: The Rick Dance
 Description: It's the Rick Dance.
 ID: EID_Ruckus
 
+Name: null
+Description: null
+ID: EID_RuckusMiniFollower
+
+Name: null
+Description: null
+ID: EID_RuckusMiniLeader
+
+Name: Get Schwifty
+Description: Behind every great singer is a guy with a tambourine.
+ID: EID_RuckusMini_HW9YF
+
 Name: The Rick Dance
 Description: It's the Rick Dance.
 ID: EID_Ruckus_Follower
@@ -1902,6 +1930,10 @@ Name: Survivorsault
 Description: Been doing this.
 ID: EID_Survivorsault_NJ7WC
 
+Name: Roller Vibes
+Description: Just skatin' and vibin' out here.
+ID: EID_Suspenders
+
 Name: Deep End
 Description: Dive in.
 ID: EID_SwimDance
@@ -2110,6 +2142,10 @@ Name: Unicycle
 Description: Because you've made choices.
 ID: EID_UnicycleTraversal
 
+Name: Dream
+Description: null
+ID: EID_Unified
+
 Name: We are Venom
 Description: Watch your brains.
 ID: EID_Vertigo
@@ -2117,6 +2153,10 @@ ID: EID_Vertigo
 Name: Battle Call
 Description: Heed the call.
 ID: EID_VikingHorn
+
+Name: In Da Party
+Description: En el ghetto hay party, todo el mundo, everybody.
+ID: EID_Vivid_I434X
 
 Name: Breezy
 Description: Any way the wind blows.

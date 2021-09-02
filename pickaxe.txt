@@ -2424,6 +2424,10 @@ Name: Hammerhead Morty
 Description: I'm more than just a hammer!
 ID: Pickaxe_ID_620_Ruckus
 
+Name: Zen Axe
+Description: Carve out your Legacy.
+ID: Pickaxe_ID_621_CarabusMale
+
 Name: Gilded Shadow
 Description: Gold glitters even in the shade.
 ID: Pickaxe_ID_622_CatBurglarSummerMale
@@ -2519,6 +2523,66 @@ ID: Pickaxe_ID_647_SeesawSlipperMale1H
 Name: The Godslayer
 Description: A modular blade, capable of besting even an Asgardian.
 ID: Pickaxe_ID_648_StereoFemale_0DTZ9
+
+Name: Galaxy Starblades
+Description: Sharper than the trajectory from here to infinity.
+ID: Pickaxe_ID_650_CelestialGlowFemale
+
+Name: Qwerty Axe
+Description: Aw heck, the 'A' key popped off. Everyone help me look for it.
+ID: Pickaxe_ID_651_KeyboardMale
+
+Name: Prop Chop
+Description: Lars' biggest fan.
+ID: Pickaxe_ID_652_LarsMale
+
+Name: Loose Cannon Cutters
+Description: Partner up and hit the streets.
+ID: Pickaxe_ID_653_LavishMale1H_SWKJB
+
+Name: Oasis Wind
+Description: Legend says they were found at the center of an oasis.
+ID: Pickaxe_ID_654_MaskedWarriorSpringMale1H
+
+Name: Athena's Battleaxe
+Description: Enchanted with the powers of the Lasso of Truth.
+ID: Pickaxe_ID_655_MonarchFemale1H
+
+Name: Burning Fangs
+Description: Vengeance is only the beginning.
+ID: Pickaxe_ID_656_NinjaWolfMale_7PTDP
+
+Name: Vox Fangs
+Description: As crafty and cunning as their namesake.
+ID: Pickaxe_ID_657_PolygonMale1H
+
+Name: Vox Mane
+Description: Never lose sight of your quarry.
+ID: Pickaxe_ID_658_PolygonMale
+
+Name: Space Snake
+Description: Wow. There literally IS everything in space.
+ID: Pickaxe_ID_659_RuckusMini_O051M
+
+Name: Far Out Vibes
+Description: Can you feel them?
+ID: Pickaxe_ID_660_TieDyeFashionFemale
+
+Name: Real
+Description: Dabiznes.
+ID: Pickaxe_ID_661_VividMale1H_ZN6Q0
+
+Name: Pluxarian Floraxe
+Description: Fiercely sharp and pleasantly fragrant.
+ID: Pickaxe_ID_662_AlienFloraMale
+
+Name: Dark Blessing
+Description: A gift... and a curse.
+ID: Pickaxe_ID_663_AngelDarkFemale1H
+
+Name: Blades of Brother Hand
+Description: The Deadly Hands just got deadlier.
+ID: Pickaxe_ID_664_DragonfruitMale1H_4BIXL
 
 Name: Ol' Woody
 Description: Looks... sturdy.

@@ -1247,6 +1247,18 @@ Name: Godslayer Glideboard
 Description: ...Is that an Infinity Stone? Nah, couldn't be.
 ID: Glider_ID_306_StereoFemale_0ZZCF
 
+Name: Golden Eagle Wings
+Description: Forged by Pallas as a gift for Diana.
+ID: Glider_ID_307_MonarchFemale
+
+Name: Balvin Cruiser
+Description: Surf on colores.
+ID: Glider_ID_308_VividMale_H8JAS
+
+Name: Blue Viper
+Description: The cutting edge in aerial domination.
+ID: Glider_ID_309_TacticalWoodlandBlue
+
 Name: Raptor
 Description: Go ahead. Buzz the tower. You've earned it.
 ID: Glider_MiG
@@ -1322,6 +1334,10 @@ ID: Umbrella_Buffet_Rainbow_354HU
 Name: Cuddly Cloudcruiser
 Description: Fly in cuddly comfort.
 ID: Umbrella_Buffet_RD4DP
+
+Name: Chrome Cloudcruiser
+Description: Smooth. Sleek. Bear-o-dynamic.
+ID: Umbrella_Buffet_Silver_P2HUY
 
 Name: Brella
 Description: Float into action with the first ever customizable umbrella.

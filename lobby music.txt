@@ -378,9 +378,17 @@ Name: Falling Stars
 Description: Press play and find your star.
 ID: MusicPack_095_SummerNight
 
+Name: Invasion Remix
+Description: Press play and make contact.
+ID: MusicPack_096_CineAlienRemix
+
 Name: Keep Poppin'
 Description: Press play and lock that pop.
 ID: MusicPack_098_PopLock
+
+Name: Dream Runner
+Description: Press play and let your imagination go.
+ID: MusicPack_099_FNCS
 
 Name: Random
 Description: Randomly chooses between favorite Music Packs (or all owned Music Packs if nothing is marked as a favorite)

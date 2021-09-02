@@ -1276,6 +1276,22 @@ Name: Slone Zone
 Description: The Doctor is in.
 ID: LSID_331_FNCS
 
+Name: Honorary Amazons
+Description: Wonder Woman leads the Island's greatest warriors into battle.
+ID: LSID_332_Monarch
+
+Name: DC Trinity
+Description: Founding members of the Justice League.
+ID: LSID_333_Monarch2
+
+Name: Joyride
+Description: Skate on.
+ID: LSID_334_Suspenders
+
+Name: Warrior of the Wastes
+Description: Get a little sand in your tactical khakis.
+ID: LSID_335_WastelandWarrior
+
 Name: null
 Description: null
 ID: LSID_DefaultBG

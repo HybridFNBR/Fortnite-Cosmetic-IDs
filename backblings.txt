@@ -2998,6 +2998,10 @@ Name: Survival Kit
 Description: Let us play!
 ID: BID_772_Lasso_Polo_BL4WE
 
+Name: Protocol Pack
+Description: The Legacy begins.
+ID: BID_773_Carabus
+
 Name: Kymera's Plasma Pak
 Description: A roiling ball of raw energy. Might give you a sunburn.
 ID: BID_774_AlienTrooper
@@ -3181,6 +3185,70 @@ ID: BID_822_AlienSummer
 Name: Starro Specimen
 Description: He's under control. For now.
 ID: BID_823_SeesawSlipper
+
+Name: Hands of the Galaxy
+Description: How 'bout a high five?
+ID: BID_824_CelestialGlow
+
+Name: Real
+Description: Dabiznes.
+ID: BID_825_VividMale_7L9T0
+
+Name: Morty's Backpack
+Description: Get your stuff together, get it all together and put it in a backpack, all your stuff, so it's together.
+ID: BID_826_RuckusMini_4EP8L
+
+Name: Diana's Mantle
+Description: Woven with threads from the mythical Golden Fleece.
+ID: BID_828_Monarch
+
+Name: Tower of Power
+Description: Water-cooled, thread-ripping, gaming-on-the-go.
+ID: BID_829_ColorBlock
+
+Name: Burning Fangs
+Description: Vengeance is only the beginning.
+ID: BID_830_NinjaWolf_4CWAW
+
+Name: Elder Fox Crest
+Description: Carrying the Fox Clan's legacy into the future.
+ID: BID_831_PolygonMale
+
+Name: Detective's Duffle
+Description: Everything you need to take it to the max every day.
+ID: BID_832_Lavish_TV630
+
+Name: Whirl-Dye
+Description: Just chill out, man.
+ID: BID_833_TieDyeFashion
+
+Name: Oasis Wind
+Description: Out on the dunes you can only trust yourself.
+ID: BID_834_MaskedWarriorSpring
+
+Name: Storm Strummer
+Description: Shred those frets and ride the storm.
+ID: BID_835_Lars
+
+Name: Inter-vertebral Implant
+Description: A combination nerve-enhancing prosthesis and nightlight.
+ID: BID_836_AlienAgent
+
+Name: Great Protector's Shield
+Description: Enemies of the Five Weapons Society beware.
+ID: BID_837_Dragonfruit_0IZM3
+
+Name: Shattered Hope
+Description: Nothing can keep you down.
+ID: BID_838_AngelDark
+
+Name: Zoot
+Description: Always down to hang.
+ID: BID_839_AlienFloraMale
+
+Name: FNCS Holoflair
+Description: You earned it. Flaunt it.
+ID: BID_840_FNCSGreen
 
 Name: TBD
 Description: TBD

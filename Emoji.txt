@@ -890,9 +890,21 @@ Name: Buff Bash
 Description: Express yourself on the battlefield.
 ID: Emoji_S17_FNCS_AllStars
 
+Name: Outer Space Handshake
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_FriendFrenzy
+
 Name: Just Between Us
 Description: Express yourself on the battlefield.
 ID: Emoji_S17_ImposterWink
+
+Name: On the Rise
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_Island
+
+Name: Almost There!
+Description: Express yourself on the battlefield.
+ID: Emoji_S17_ReferAfriendTaxi
 
 Name: Cloudy Kitty
 Description: Express yourself on the battlefield.
