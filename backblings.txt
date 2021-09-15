@@ -3250,6 +3250,38 @@ Name: FNCS Holoflair
 Description: You earned it. Flaunt it.
 ID: BID_840_FNCSGreen
 
+Name: Tendrils of Carnage
+Description: Symbiote strength.
+ID: BID_841_Clash
+
+Name: Unicorn Flakes
+Description: Everybody get soooome Unicorn Flakes.
+ID: BID_842_CerealBox
+
+Name: Nanameter
+Description: Potassium-powered primate propulsion.
+ID: BID_843_SpaceChimp
+
+Name: Datafiber Chargepack
+Description: A portable energy source for hunters on the go.
+ID: BID_844_GhostHunter
+
+Name: Inky
+Description: Toona's best blub from back on the reef.
+ID: BID_845_TeriyakiFishToon
+
+Name: Kor's Toolkit
+Description: It's literally FULL of knives.
+ID: BID_846_Division
+
+Name: Lil' Black Heart
+Description: Send some love from the bottom of your cold, goth heart.
+ID: BID_847_PunkKoi
+
+Name: The Cubist
+Description: The cubiest possible cube.
+ID: BID_NPC_CloakedAssassin
+
 Name: TBD
 Description: TBD
 ID: BID_NPC_HightowerDate

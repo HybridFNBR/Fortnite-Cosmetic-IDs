@@ -1259,6 +1259,26 @@ Name: Blue Viper
 Description: The cutting edge in aerial domination.
 ID: Glider_ID_309_TacticalWoodlandBlue
 
+Name: Flavor-Dusted Sparklewings
+Description: A frosted flight of fanciful flavor.
+ID: Glider_ID_311_CerealBoxMale
+
+Name: Dark Symbiote
+Description: Let there be Carnage.
+ID: Glider_ID_312_ClashMale
+
+Name: IO Field Flyer
+Description: State-of-the-art solar panels, GPS tracker, and 64 TB of flash storage.
+ID: Glider_ID_313_DivisionFemale
+
+Name: Rocket Science
+Description: Ick, who shed all over the cockpit?
+ID: Glider_ID_314_SpaceChimpMale
+
+Name: Whale Sailer
+Description: The others always warned Toona Fish to watch where he was swimming.
+ID: Glider_ID_315_TeriyakiFishToon
+
 Name: Raptor
 Description: Go ahead. Buzz the tower. You've earned it.
 ID: Glider_MiG
@@ -1414,6 +1434,10 @@ ID: Umbrella_Season_16
 Name: Invasion
 Description: They're here.
 ID: Umbrella_Season_17
+
+Name: Umbrella of the Last Reality
+Description: We'll always have Cubetown.
+ID: Umbrella_Season_18
 
 Name: The Umbrella
 Description: The fabled victory umbrella.

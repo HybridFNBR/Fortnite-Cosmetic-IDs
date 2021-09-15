@@ -1292,6 +1292,54 @@ Name: Warrior of the Wastes
 Description: Get a little sand in your tactical khakis.
 ID: LSID_335_WastelandWarrior
 
+Name: Heart Pounder
+Description: Art by MITSUME.
+ID: LSID_336_PunkKoi
+
+Name: The Crunch Bunch
+Description: Art by Jason Raisch.
+ID: LSID_337_CerealBox
+
+Name: On the Job
+Description: Art by Rich Kelly.
+ID: LSID_338_Division
+
+Name: Dimension of Danger
+Description: Art by Christian Ward.
+ID: LSID_339_GhostHunter
+
+Name: The Chimpanski Horizon
+Description: Art by Brandon Graham.
+ID: LSID_340_SpaceChimp
+
+Name: Maximum Carnage
+Description: There's something different about Cletus Kasady. Art by Tyler Kirkham.
+ID: LSID_342_Clash
+
+Name: Sideways Survivor
+Description: Art by Christian Ward.
+ID: LSID_343_GhostHunterSideWas
+
+Name: To The Skies!
+Description: Art by Nicolas Dehghani.
+ID: LSID_344_SpaceChimp2
+
+Name: Enter the Sideways
+Description: Showcase art for Chapter Two, Season Eight.
+ID: LSID_345_S18KeyArt
+
+Name: Island, Corrupted
+Description: Art by Afu Chan.
+ID: LSID_347_Corrupt
+
+Name: Call the Shadows
+Description: What's the matter? Scared of the dark?
+ID: LSID_348_DarkTrioIntro
+
+Name: Unicorns on Parade
+Description: Art by Beast Wreck.
+ID: LSID_350_CerealBoxParade
+
 Name: null
 Description: null
 ID: LSID_DefaultBG

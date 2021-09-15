@@ -4653,9 +4653,41 @@ Name: Major Glory
 Description: Celebrate the competition, savor the victory.
 ID: CID_A_196_Athena_Commando_F_FNCSGreen
 
+Name: Carnage
+Description: He's gonna paint the town red.
+ID: CID_A_197_Athena_Commando_M_Clash
+
+Name: Fabio Sparklemane
+Description: His hoof shoots 5 kinds of sugar!
+ID: CID_A_198_Athena_Commando_M_CerealBox
+
+Name: J.B. Chimpanski
+Description: It was all fun and spacewalks... Until they left him behind.
+ID: CID_A_199_Athena_Commando_M_SpaceChimp
+
+Name: Torin
+Description: A hunter prepared for every dimension.
+ID: CID_A_200_Athena_Commando_F_GhostHunter
+
+Name: Toona Fish
+Description: Greyscale guppy. Aspiring rainbowfish.
+ID: CID_A_201_Athena_Commando_M_TeriyakiFishToon
+
+Name: Kor
+Description: Assassin for hire with some suspicious ties to the IO.
+ID: CID_A_202_Athena_Commando_F_Division
+
+Name: Charlotte
+Description: Your typical transforming, monster-slaying teen with a possessed sword.
+ID: CID_A_203_Athena_Commando_F_PunkKoi
+
 Name: Recruit
 Description: Standard issue combatant outfit.
 ID: CID_Creative_Mannequin_M_Default
+
+Name: U
+Description: NPC
+ID: CID_NPC_Athena_Commando_F_CloakedAssassin
 
 Name: TBD
 Description: TBD
@@ -4684,6 +4716,14 @@ ID: CID_NPC_Athena_Commando_M_AlienRobot
 Name: Human Bill
 Description: He's just here to observe.
 ID: CID_NPC_Athena_Commando_M_AlienSummer
+
+Name: Doombot Agent
+Description: Lives to serve Doom. Ready to die for him, too.
+ID: CID_NPC_Athena_Commando_M_Apparition_Grunt
+
+Name: Doombot Agent
+Description: Lives to serve Doom. Ready to die for him, too.
+ID: CID_NPC_Athena_Commando_M_Apparition_Heavy
 
 Name: TBD
 Description: TBD

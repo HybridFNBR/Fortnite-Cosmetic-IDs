@@ -1502,6 +1502,34 @@ Name: Rainbow Bubblegum
 Description: Show your style.
 ID: Wrap_393_Suspenders
 
+Name: Spectral Hunter
+Description: Show your style.
+ID: Wrap_397_PunkKoi
+
+Name: IO Elite Spec
+Description: Show your style.
+ID: Wrap_398_Division
+
+Name: Wrainbow Wrap
+Description: Show your style.
+ID: Wrap_399_CerealBox
+
+Name: Primate Space Program
+Description: Show your style.
+ID: Wrap_400_SpaceChimp
+
+Name: Cubed
+Description: Show your style.
+ID: Wrap_401_Cubes
+
+Name: Sidewayfarer
+Description: Show your style.
+ID: Wrap_402_Sideways
+
+Name: Dimensional Camo
+Description: Show your style.
+ID: Wrap_403_GhostHunter
+
 Name: TBD
 Description: Show your style.
 ID: Wrap_CatBurglarGameplay

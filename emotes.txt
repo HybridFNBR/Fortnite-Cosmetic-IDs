@@ -50,6 +50,10 @@ Name: Go home!
 Description: Leave us alone!
 ID: EID_AntiVisitorProtest
 
+Name: And The Crowd Goes Wild
+Description: Told you they'd like me someday, DAD.
+ID: EID_Applause
+
 Name: Backstroke
 Description: Put your back into it.
 ID: EID_ArmUpDance
@@ -290,6 +294,10 @@ Name: Burpee
 Description: Set a new personal best.
 ID: EID_Burpee
 
+Name: Gloss
+Description: Sleek and silky smooth.
+ID: EID_Butter_1R26Q
+
 Name: Hey Now!
 Description: Make those flames go higher.
 ID: EID_ByTheFire
@@ -345,6 +353,10 @@ ID: EID_Celebration
 Name: Bring it around
 Description: It's all in the... elbows maybe?
 ID: EID_CelebrationDance
+
+Name: Flake Shake
+Description: He's actually in horrible agony.
+ID: EID_CerealBox
 
 Name: Have a Seat
 Description: Pull up a chair and relax.
@@ -526,6 +538,10 @@ Name: Harmony
 Description: Achieve inner balance.
 ID: EID_DivinePose
 
+Name: Nailed it
+Description: I can only feign interest for so long.
+ID: EID_Division
+
 Name: Drop The Bass
 Description: Wait for it...
 ID: EID_DJ01
@@ -553,6 +569,10 @@ ID: EID_Donut2
 Name: Revel
 Description: Nothing wrong with a little celebration.
 ID: EID_Doublesnap
+
+Name: Stuck
+Description: Keep rising. Never back down.
+ID: EID_Downward_8GZUA
 
 Name: Dream Feet
 Description: Get some boogie in your boots.
@@ -757,6 +777,10 @@ ID: EID_GetOverHere
 Name: Bully
 Description: Get ready to charge.
 ID: EID_GetTheHorns
+
+Name: Sideways Shift
+Description: It's all Sideways, here.
+ID: EID_GhostHunter
 
 Name: Glowsticks
 Description: Make it glow.
@@ -1198,6 +1222,10 @@ Name: Laugh It Up
 Description: What's so funny?
 ID: EID_Laugh
 
+Name: [Insert Laughter Here]
+Description: I mean I thought it was funny but..
+ID: EID_LaughTrack
+
 Name: Lazy Shuffle
 Description: Keep it lazy.
 ID: EID_LazyShuffle
@@ -1542,6 +1570,10 @@ Name: Pump It Up
 Description: Carve out some space on the dance floor.
 ID: EID_PumpkinDance
 
+Name: Hand-Forged
+Description: Oni beware.
+ID: EID_PunkKoi
+
 Name: Pure Salt
 Description: All-purpose seasoning.
 ID: EID_PureSalt
@@ -1649,6 +1681,10 @@ ID: EID_RockPaperScissors
 Name: Jump Jets
 Description: Lift with your legs.
 ID: EID_RoosterMech
+
+Name: Lil' Rover
+Description: Onward to lil' discoveries.
+ID: EID_Roving
 
 Name: The Rick Dance
 Description: It's the Rick Dance.
@@ -1770,6 +1806,18 @@ Name: Shaolin Sip
 Description: Mind over body, but first- tea.
 ID: EID_ShaolinSipUp
 
+Name: Sway
+Description: Make your move and pass it on.
+ID: EID_Shindig_8W1AW
+
+Name: null
+Description: null
+ID: EId_Shindig_Follower
+
+Name: null
+Description: null
+ID: EId_Shindig_Sync
+
 Name: Dragon Stance
 Description: Form of the dragon.
 ID: EID_Shinobi
@@ -1822,6 +1870,10 @@ Name: Slow Clap
 Description: Express yourself on the battlefield.
 ID: EID_SlowClap
 
+Name: Mighty Ant
+Description: Hang on tight!
+ID: EID_SmallFry_KFFA1
+
 Name: Poof
 Description: Beguile your enemies in a cloud smoke.
 ID: EID_SmokeBombFail
@@ -1853,6 +1905,10 @@ ID: EID_Socks_XA9HM
 Name: Something Stinks
 Description: Whoever smelt it...
 ID: EID_SomethingStinks
+
+Name: Monkey Mosh
+Description: Put those opposable thumbs in the air.
+ID: EID_SpaceChimp
 
 Name: Sparkler
 Description: So sparkly!
@@ -2169,6 +2225,10 @@ ID: EID_WalkieWalk
 Name: Dance Therapy
 Description: Let it all out.
 ID: EID_Warehouse
+
+Name: Ready When You Are
+Description: No go on. Take your time. I'll wait.
+ID: EID_WatchThis
 
 Name: Wave
 Description: Express yourself on the battlefield.

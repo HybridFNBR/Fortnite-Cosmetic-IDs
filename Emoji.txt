@@ -942,6 +942,42 @@ Name: Stellar Sipper
 Description: Express yourself on the battlefield.
 ID: Emoji_S17_Summer2021
 
+Name: Toon Talkin'
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_AnimToonFishstick
+
+Name: Blaargh!
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_CerealBox
+
+Name: I'm Here!
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_Clash
+
+Name: Dualies
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_Division
+
+Name: Ghostly Watcher
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_GhostHunter
+
+Name: Spirit Eyes
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_PunkKoi
+
+Name: What's Wrong, Toona Fish?
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_SadToonFishstick
+
+Name: Call Me J.B.
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_SpaceChimp
+
+Name: Watch Out, Toona Fish!
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_TeriyakiFishToon
+
 Name: Season Level 100
 Description: Recognition for reaching Season Level 100 in Battle Royale Season 6.
 ID: Emoji_S6Lvl100
