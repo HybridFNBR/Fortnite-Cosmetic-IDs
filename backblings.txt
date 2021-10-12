@@ -2382,6 +2382,10 @@ Name: Holo-Back
 Description: Holographic self-expression.
 ID: BID_610_ElasticHologram
 
+Name: Floating Island
+Description: Honor The Cube.
+ID: BID_611_KevinCouture
+
 Name: Steelfeather Shield
 Description: The last of its kind.
 ID: BID_613_MythFemale
@@ -3146,6 +3150,18 @@ Name: Hard Case Hero
 Description: It's not here to fiddle around.
 ID: BID_810_Musician
 
+Name: TBD
+Description: TBD
+ID: BID_811_BrightBomberMint
+
+Name: TBD
+Description: TBD
+ID: BID_812_GoldenSkeletonMint
+
+Name: TBD
+Description: TBD
+ID: BID_813_TreasureHunterFashionMint
+
 Name: Cursed Eagleshield
 Description: Why even carry an Eagleshield if it's not cursed?
 ID: BID_814_BuffCatFan_C3DES
@@ -3197,6 +3213,10 @@ ID: BID_825_VividMale_7L9T0
 Name: Morty's Backpack
 Description: Get your stuff together, get it all together and put it in a backpack, all your stuff, so it's together.
 ID: BID_826_RuckusMini_4EP8L
+
+Name: Janky's Stunt Helmet
+Description: This helmet can really take a hit.
+ID: BID_827_AntiquePal_BL5ER
 
 Name: Diana's Mantle
 Description: Woven with threads from the mythical Golden Fleece.
@@ -3278,6 +3298,118 @@ Name: Lil' Black Heart
 Description: Send some love from the bottom of your cold, goth heart.
 ID: BID_847_PunkKoi
 
+Name: Tendrils of Venom
+Description: Now you're just making us mad.
+ID: BID_849_ClashV_D5UT3
+
+Name: Logo Lugger
+Description: An allover print is SO in right now.
+ID: BID_850_TextileRamFemale_2R9WR
+
+Name: Skate Pocket Duffle
+Description: Perfect for holding both stuff AND things.
+ID: BID_851_TextileKnightMale_MIPJ6
+
+Name: Everyday Sleekpack
+Description: High fashion. Low profile.
+ID: BID_852_TextileSparkleFemale_X8KOH
+
+Name: Camo Carrier
+Description: Where'd I leave that backpack?
+ID: BID_853_TextilePupMale_LFOE4
+
+Name: 4 Me???
+Description: You shouldn't have!
+ID: BID_854_FNBirthday_BA96D
+
+Name: Scottie Dog
+Description: Friend, confidant, and all around good pup.
+ID: BID_855_BigBucksDog_S1Y8P
+
+Name: Rubber Ducky
+Description: Float your way to the top.
+ID: BID_856_BigBucksDuck_0751N
+
+Name: Hazel
+Description: Loves sunbeams and basking in the lap of luxury.
+ID: BID_857_BigBucksCat_XTZ62
+
+Name: T-Rex
+Description: Powerful, loud, and surprisingly friendly.
+ID: BID_858_BigBucksRex_K3JSQ
+
+Name: Penguin
+Description: Dressed to impress.
+ID: BID_859_BigBucksPenguin_6NSWA
+
+Name: Racecar
+Description: Sleek, stylish, and ready to race.
+ID: BID_860_BigBucksRaceCar_5T4NY
+
+Name: Top Hat
+Description: Mr. Monopoly's signature top hat.
+ID: BID_861_BigBucksTopHat_J5LQQ
+
+Name: Battleship
+Description: Commanding the seas.
+ID: BID_862_BigBucksBattleship_1JA5G
+
+Name: Sheriff's Duffle
+Description: Everything you need. Nothing more.
+ID: BID_863_Tomcat_5V2TZ
+
+Name: Sockets
+Description: I don't know why he's on fire. I've never asked.
+ID: BID_864_RenegadeSkull
+
+Name: Wolfmoon Crest
+Description: Beware the wolf moon...
+ID: BID_865_WerewolfFemale
+
+Name: Llamabomination
+Description: We lost the assembly instructions on this one. Our bad.
+ID: BID_866_CritterCuddle
+
+Name: Monster Mind
+Description: It's a thinker.
+ID: BID_867_CritterFrenzy_3VYKQ
+
+Name: Siphon Pack
+Description: Don't spread yourself too thin.
+ID: BID_868_PsycheMale_CTVM0
+
+Name: Embalmwings
+Description: Curse-powered doom wings.
+ID: BID_869_CritterRaven
+
+Name: Jett's Jagged Heart
+Description: Hey, there's some hair dye in here! Want a pink streak?
+ID: BID_871_PinkEmo
+
+Name: The Original Puffa Pak
+Description: The frozen mask of horror means he's happy to see you!
+ID: BID_880_SweetTeriyakiRed
+
+Name: Backbiter
+Description: He's always hungry for knowledge.
+ID: BID_881_ScholarGhoul
+
+Name: The Big Stash
+Description: The gang's all here, and they're sweeter than ever.
+ID: BID_883_Disguise
+
+Name: Treats 2 Go
+Description: Mind if I have this Slurp-Blasted Sourfish?
+ID: BID_884_DisguiseFemale
+
+Name: Thinking Juice
+Description: I can taste his thoughts! They're... tomato-y.
+ID: BID_885_TomatoScary
+
+Name: Broken Fractal Wings
+Description: Crackling with a dark, vampiric power.
+ID: BID_886_DriftHorror
+
 Name: The Cubist
 Description: The cubiest possible cube.
 ID: BID_NPC_CloakedAssassin
@@ -3305,4 +3437,8 @@ ID: BID_TBD_Cosmos
 Name: TBD
 Description: TBD
 ID: Gadget_AlienSignalDetector
+
+Name: TBD
+Description: TBD
+ID: Gadget_SpiritVessel
 

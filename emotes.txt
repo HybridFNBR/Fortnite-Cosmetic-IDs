@@ -410,6 +410,10 @@ Name: Take 14
 Description: ...and action!
 ID: EID_Clapperboard
 
+Name: Venom Unleashed
+Description: Time to cut loose, Eddie!
+ID: EID_Clash_JLK96
+
 Name: Staff Stand
 Description: Staff up and take your stand.
 ID: EID_ClimbTheStaff
@@ -421,6 +425,10 @@ ID: EID_CloudFloat
 Name: Coin Flip
 Description: Best two out of three?
 ID: EID_CoinToss
+
+Name: Rushin' Around
+Description: There lived a certain man...
+ID: EID_Comrade_6O5AK
 
 Name: Confused
 Description: Seriously. What happened?
@@ -581,6 +589,10 @@ ID: EID_DreamFeet
 Name: Drum Major
 Description: Lead the line, and step in time.
 ID: EID_DrumMajor
+
+Name: Everybody Loves Me
+Description: Open your textbook to chapter seven.
+ID: EID_DuckTeacher_9IPLU
 
 Name: Featherweight
 Description: Do you even lift?
@@ -1046,6 +1058,10 @@ Name: Hula Hoopin'
 Description: Practice makes perfect.
 ID: EID_HulaHoopChallenge
 
+Name: Lil' Bounce
+Description: Custom built with lil' hydraulics.
+ID: EID_Hydraulics
+
 Name: Hype
 Description: Get hyped.
 ID: EID_Hype
@@ -1374,6 +1390,10 @@ Name: Moon Bounce
 Description: Gravity can't hold you down.
 ID: EID_Moonwalking
 
+Name: Leilt Elomr
+Description: Sweeten your life. Music by Hamaki.
+ID: EID_MyEffort_BT5Z0
+
 Name: My Idol!
 Description: ...in the presence of a legend.
 ID: EID_MyIdol
@@ -1449,6 +1469,10 @@ ID: EID_OstrichSpin
 Name: Onda Onda
 Description: Get ready to sweat.
 ID: EID_OverUnder_K3T0G
+
+Name: Page-Turner
+Description: Just a second, I'm almost at the end of the chapter.
+ID: EID_Pages
 
 Name: Tippy Tap
 Description: It's a real toe tapper.
@@ -2061,6 +2085,10 @@ ID: EID_TennisPaddle
 Name: Vulcan Salute
 Description: Live long and prosper.
 ID: EID_Terminal
+
+Name: The Look
+Description: Strike a Pose.
+ID: EID_Textile_3O8QG
 
 Name: Busy
 Description: I'll be with you in just a moment.

@@ -410,6 +410,10 @@ Name: Sky Fire
 Description: Press play and board the mothership.
 ID: MusicPack_104_Kiwi
 
+Name: Cube Theme
+Description: Press play and be square.
+ID: MusicPack_105_S18Cine
+
 Name: Random
 Description: Randomly chooses between favorite Music Packs (or all owned Music Packs if nothing is marked as a favorite)
 ID: MusicPack_Random

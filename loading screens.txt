@@ -1297,7 +1297,7 @@ Description: Art by MITSUME.
 ID: LSID_336_PunkKoi
 
 Name: The Crunch Bunch
-Description: Art by Jason Raisch.
+Description: Art by Jason Raish.
 ID: LSID_337_CerealBox
 
 Name: On the Job
@@ -1336,9 +1336,33 @@ Name: Call the Shadows
 Description: What's the matter? Scared of the dark?
 ID: LSID_348_DarkTrioIntro
 
+Name: Burning Wolf Strike
+Description: His shadow looms overhead. Art by Sebastian Fiumara.
+ID: LSID_349_DarkTrio2
+
 Name: Unicorns on Parade
 Description: Art by Beast Wreck.
 ID: LSID_350_CerealBoxParade
+
+Name: Feel My Wrath
+Description: Get wrapped up in the warm embrace of victory.
+ID: LSID_352_Wrath
+
+Name: Gridlock
+Description: Need a ride?
+ID: LSID_353_ReferaFriendTaxi
+
+Name: Combat Cubed
+Description: Defeat your opponents, fair and square.
+ID: LSID_354_FNCS18
+
+Name: Midnight Showdown
+Description: Weapons up. Fangs out.
+ID: LSID_355_VampireHunter
+
+Name: First Shadows
+Description: For honor. For vengeance. For chaos. For Midas. Art by Sebastian Fiumara
+ID: LSID_361_DarkTrioBonus
 
 Name: null
 Description: null

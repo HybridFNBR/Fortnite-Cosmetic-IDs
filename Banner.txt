@@ -314,6 +314,10 @@ Name: Homebase Banner
 Description: A new banner for your homebase. Find it in the homebase banner editor.
 ID: BannerToken_STW006_Starlight6
 
+Name: Homebase Banner
+Description: A new banner for your homebase. Find it in your Locker.
+ID: BannerToken_STW007_StarlightScience
+
 Name: Banner
 Description: A new icon for your banner. Assign it in the Locker.
 ID: BannerToken_TBD_S13_Badge_1

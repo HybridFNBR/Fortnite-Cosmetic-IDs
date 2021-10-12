@@ -1078,6 +1078,10 @@ Name: Cakey
 Description: Show your style.
 ID: Wrap_284_Birthday2020
 
+Name: Cubic Assimilation
+Description: Show your style.
+ID: Wrap_285_KevinCouture
+
 Name: The Beat
 Description: Show your style.
 ID: Wrap_286_Muzak
@@ -1450,6 +1454,10 @@ Name: Pixellator
 Description: Show your style.
 ID: Wrap_379_Pliant
 
+Name: TBD
+Description: Show your style.
+ID: Wrap_380_Mint
+
 Name: Inky
 Description: Show your style.
 ID: Wrap_381_InkBlot
@@ -1502,6 +1510,18 @@ Name: Rainbow Bubblegum
 Description: Show your style.
 ID: Wrap_393_Suspenders
 
+Name: Signature Look
+Description: Show your style.
+ID: Wrap_394_TextileSilver_ZUH63
+
+Name: Signature Look (Midnight)
+Description: Show your style.
+ID: Wrap_395_TextileBlack_DBVU2
+
+Name: Signature Look (24K)
+Description: Show your style.
+ID: Wrap_396_TextileGold_GC2TL
+
 Name: Spectral Hunter
 Description: Show your style.
 ID: Wrap_397_PunkKoi
@@ -1529,6 +1549,34 @@ ID: Wrap_402_Sideways
 Name: Dimensional Camo
 Description: Show your style.
 ID: Wrap_403_GhostHunter
+
+Name: Stitched Up
+Description: Show your style.
+ID: Wrap_404_CritterFrenzy_SNXC0
+
+Name: Goo Buddies
+Description: Show your style.
+ID: Wrap_405_GreenGel
+
+Name: World Dominator
+Description: Show your style.
+ID: Wrap_406_Psyche_YFO29
+
+Name: Plumage
+Description: Show your style.
+ID: Wrap_407_Peacock
+
+Name: Batty
+Description: Show your style.
+ID: Wrap_408_Vampire
+
+Name: Tagged
+Description: Show your style.
+ID: Wrap_410_Collage
+
+Name: Ultrasour
+Description: Show your style.
+ID: Wrap_411_SweetTeriyaki
 
 Name: TBD
 Description: Show your style.

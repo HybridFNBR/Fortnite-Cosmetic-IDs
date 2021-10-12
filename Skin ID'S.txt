@@ -2320,7 +2320,7 @@ Description: Undermine the order from the shadows.
 ID: CID_598_Athena_Commando_M_Mastermind
 
 Name: Wrath
-Description: Warden of the underwold.
+Description: Warden of the underworld.
 ID: CID_599_Athena_Commando_M_Phantom
 
 Name: Deadeye
@@ -3384,6 +3384,10 @@ ID: CID_868_Athena_Commando_M_Backspin_3U6CA
 Name: Victoria Saint
 Description: Vampire-hunter of the Old West.
 ID: CID_869_Athena_Commando_F_Cavalry
+
+Name: Geometrik
+Description: All is cube.
+ID: CID_870_Athena_Commando_M_KevinCouture
 
 Name: Sagan
 Description: Live the journey and lead the way.
@@ -4497,6 +4501,18 @@ Name: Summer Skye
 Description: Combat master, cat protector, and lover of all things kawaii.
 ID: CID_A_153_Athena_Commando_F_BuffCatFan_TS2DR
 
+Name: TBD
+Description: TBD
+ID: CID_A_154_Athena_Commando_F_TreasureHunterFashionMint
+
+Name: TBD
+Description: TBD
+ID: CID_A_155_Athena_Commando_F_BrightBomberMint
+
+Name: TBD
+Description: TBD
+ID: CID_A_156_Athena_Commando_M_GoldenSkeletonMint
+
 Name: Gamora
 Description: The deadliest woman in the galaxy.
 ID: CID_A_157_Athena_Commando_F_Stereo_3A08Z
@@ -4601,6 +4617,10 @@ Name: J Balvin
 Description: Reggaetón Global Ambassador.
 ID: CID_A_182_Athena_Commando_M_Vivid_LZGQ3
 
+Name: Janky
+Description: Indestructible stuntman and self-proclaimed streetwear icon.
+ID: CID_A_183_Athena_Commando_M_AntiquePal_S7A9W
+
 Name: The Burning Wolf
 Description: The legend is nightmarish. The reality is worse.
 ID: CID_A_184_Athena_Commando_M_NinjaWolf_F09O3
@@ -4658,7 +4678,7 @@ Description: He's gonna paint the town red.
 ID: CID_A_197_Athena_Commando_M_Clash
 
 Name: Fabio Sparklemane
-Description: His hoof shoots 5 kinds of sugar!
+Description: The official mascot of Unicorn Flakes.
 ID: CID_A_198_Athena_Commando_M_CerealBox
 
 Name: J.B. Chimpanski
@@ -4680,6 +4700,78 @@ ID: CID_A_202_Athena_Commando_F_Division
 Name: Charlotte
 Description: Your typical transforming, monster-slaying teen with a possessed sword.
 ID: CID_A_203_Athena_Commando_F_PunkKoi
+
+Name: Eddie Brock
+Description: You might call them a bit of an odd couple.
+ID: CID_A_204_Athena_Commando_M_ClashV_SQNVJ
+
+Name: Unchained Ramirez
+Description: She's coming in haute.
+ID: CID_A_205_Athena_Commando_F_TextileRam_GMRJ0
+
+Name: Fashion Banshee
+Description: Battle Bus prepped. Runway ready.
+ID: CID_A_206_Athena_Commando_F_TextileSparkle_V8YSA
+
+Name: Game Knight
+Description: So retro you can call it a renaissance.
+ID: CID_A_207_Athena_Commando_M_TextileKnight_9TE8L
+
+Name: Shady Doggo
+Description: Who's a stylish boy?
+ID: CID_A_208_Athena_Commando_M_TextilePup_C85OD
+
+Name: Ione
+Description: Raised by wolves. Now she bites the hand that feeds.
+ID: CID_A_209_Athena_Commando_F_Werewolf
+
+Name: Skeletara
+Description: Lightly irradiated for maximum destruction.
+ID: CID_A_210_Athena_Commando_F_RenegadeSkull
+
+Name: Chaos Origins
+Description: He's a mad, mad, mad, mad scientist.
+ID: CID_A_211_Athena_Commando_M_Psyche_JWQP3
+
+Name: Rick Grimes
+Description: Ought to be polite to a man with a gun.
+ID: CID_A_212_Athena_Commando_M_Tomcat_M1Z6G
+
+Name: Curdle Scream Leader
+Description: The ultimate monster mashup.
+ID: CID_A_213_Athena_Commando_M_CritterCuddle
+
+Name: Frankenstein's Monster
+Description: The original remix.
+ID: CID_A_214_Athena_Commando_M_CritterFrenzy_YDM1L
+
+Name: Graven
+Description: Brooding master of the cursed tomb.
+ID: CID_A_217_Athena_Commando_M_CritterRaven
+
+Name: Jett
+Description: She missed band practice for this. Better make it good.
+ID: CID_A_220_Athena_Commando_F_PinkEmo
+
+Name: Grisabelle
+Description: Voted "Most Likely to Crave Brains... or Haunt the Place Forever."
+ID: CID_A_224_Athena_Commando_F_ScholarGhoul
+
+Name: Gummy Fishstick
+Description: The ocean's chewiest hero.
+ID: CID_A_226_Athena_Commando_M_SweetTeriyakiRed
+
+Name: All-Hallow's Steve
+Description: Who's under the mask?
+ID: CID_A_228_Athena_Commando_M_DisguiseBlack
+
+Name: Tricksy
+Description: Treat the competition to a trick.
+ID: CID_A_229_Athena_Commando_F_DisguiseBlack
+
+Name: Driftwalker
+Description: Fall into the darkness, and find your way to corrupted victory.
+ID: CID_A_230_Athena_Commando_M_DriftHorror
 
 Name: Recruit
 Description: Standard issue combatant outfit.

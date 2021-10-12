@@ -1840,6 +1840,10 @@ Name: Stake & Stalker
 Description: Nothing better for a night of hunting.
 ID: Pickaxe_ID_466_CavalryFemale1H
 
+Name: Cube Axe
+Description: They're back.
+ID: Pickaxe_ID_468_KevinCoutureMale
+
 Name: Hunting Song
 Description: It's a little sharp.
 ID: Pickaxe_ID_469_MythFemale
@@ -2476,6 +2480,10 @@ Name: Bugha Blades
 Description: Focus and preparation.
 ID: Pickaxe_ID_633_BlueCheeseMale
 
+Name: TBD
+Description: TBD
+ID: Pickaxe_ID_634_BrightBomberMintFemale
+
 Name: Epic Sword of Might
 Description: It's only a little bit cursed.
 ID: Pickaxe_ID_635_BuffCatFanFemale_J642P
@@ -2500,6 +2508,14 @@ Name: Holoslash
 Description: Accessorize and make the driveway your runway.
 ID: Pickaxe_ID_640_PliantMale
 
+Name: TBD
+Description: TBD
+ID: Pickaxe_ID_641_TheGoldenSkeletonMintMale
+
+Name: TBD
+Description: TBD
+ID: Pickaxe_ID_642_TreasureHunterFashionMintFemale
+
 Name: Freezie Friendz
 Description: Go on and give your friendz a lick.
 ID: Pickaxe_ID_643_AlienSummerMale
@@ -2523,6 +2539,10 @@ ID: Pickaxe_ID_647_SeesawSlipperMale1H
 Name: The Godslayer
 Description: A modular blade, capable of besting even an Asgardian.
 ID: Pickaxe_ID_648_StereoFemale_0DTZ9
+
+Name: Janky's Dead Fish
+Description: Found while dumpster diving for new fits.
+ID: Pickaxe_ID_649_AntiquePalMale1H_GBT24
 
 Name: Galaxy Starblades
 Description: Sharper than the trajectory from here to infinity.
@@ -2592,9 +2612,17 @@ Name: Carnage Cleaver
 Description: What's his is his. And what's yours... is his.
 ID: Pickaxe_ID_667_ClashMale
 
+Name: Symbiote Scythe
+Description: As vicious as it looks.
+ID: Pickaxe_ID_668_ClashVMale1H_5TA18
+
 Name: Kor Flails
 Description: Cutting edge IO technology for close combat and stealthy retreats.
 ID: Pickaxe_ID_669_DivisionFemale1H
+
+Name: Hooplah Hammer
+Description: I hope I get a piece with lots of sprinkles! And minimal knives!
+ID: Pickaxe_ID_670_FNBirthdayMale_FQK1E
 
 Name: Torin's Lightblade
 Description: A very light sword made with data AND fibres!
@@ -2611,6 +2639,58 @@ ID: Pickaxe_ID_673_SpaceChimpMale
 Name: Stringles
 Description: It's me, Stringles! Your new best frien---OOF! OW! YIKES! HEY!
 ID: Pickaxe_ID_674_TeriyakiFishToonMale
+
+Name: Speed Sneaker
+Description: Accessorizing is always in.
+ID: Pickaxe_ID_675_TextilePupMale_96JZF
+
+Name: Grave Robber
+Description: Spare parts not included.
+ID: Pickaxe_ID_676_CritterFrenzyMale_B21OE
+
+Name: Chimeraxes
+Description: What's better than one pickaxe? Eight pickaxes, sewn together.
+ID: Pickaxe_ID_677_CritterCuddleMale1H
+
+Name: Mutagen Mace
+Description: The best mad scientists really put themselves in their work.
+ID: Pickaxe_ID_678_PsycheMale_81RMH
+
+Name: The Axe-Ray
+Description: Always knew that radiology degree would come in handy.
+ID: Pickaxe_ID_679_RenegadeSkullFemale
+
+Name: Walker Club
+Description: Keep 'em back.
+ID: Pickaxe_ID_680_TomcatMale_LOSMX
+
+Name: Might & Malice
+Description: The pup has turned.
+ID: Pickaxe_ID_681_WerewolfFemale
+
+Name: Perfect Prop Pickaxe
+Description: It almost looks real! Go ahead, try to slice me with it.
+ID: Pickaxe_ID_685_DisguiseBlackFemale
+
+Name: Corrupted Rift Edges
+Description: A creature of the night must carry sharp fangs.
+ID: Pickaxe_ID_686_DriftHorrorMale1H
+
+Name: Brokenheart Slicer
+Description: Like that Pepper Thorne song says: "Broken hearts make great pickaxes."
+ID: Pickaxe_ID_688_PinkEmoFemale
+
+Name: Cursed Crescent
+Description: Contains the ash of a thousand tombs and one tiny smoke machine.
+ID: Pickaxe_ID_689_RavenQuillDesertMale
+
+Name: All-Weather Extractor
+Description: Works best in the snow. Sleet and hail also acceptable.
+ID: Pickaxe_ID_692_SnowJacketFemale
+
+Name: Giant Jelly Sourfish
+Description: Sweet, slurpy, and smashingly sticky.
+ID: Pickaxe_ID_695_SweetTeriyakiMale
 
 Name: Ol' Woody
 Description: Looks... sturdy.

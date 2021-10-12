@@ -954,9 +954,25 @@ Name: I'm Here!
 Description: Express yourself on the battlefield.
 ID: Emoji_S18_Clash
 
+Name: Different Tasty Snack
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ClashV_I1DF9
+
 Name: Dualies
 Description: Express yourself on the battlefield.
 ID: Emoji_S18_Division
+
+Name: 4? Score!
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_FNBirthday_G7ZPV
+
+Name: FNCS 2:8
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_FNCS
+
+Name: Ghoul-d Game
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_FortnitemaresCup
 
 Name: Ghostly Watcher
 Description: Express yourself on the battlefield.

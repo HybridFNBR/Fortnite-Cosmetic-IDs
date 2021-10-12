@@ -999,6 +999,10 @@ Name: Dayflier
 Description: A Whistler Original.
 ID: Glider_ID_241_BackspinMale_97LM4
 
+Name: Cube Cruiser
+Description: Prepare for the ultimate unboxing.
+ID: Glider_ID_242_KevinCouture
+
 Name: Dawn's Promise
 Description: Chart a course for a new world.
 ID: Glider_ID_243_Myth
@@ -1278,6 +1282,26 @@ ID: Glider_ID_314_SpaceChimpMale
 Name: Whale Sailer
 Description: The others always warned Toona Fish to watch where he was swimming.
 ID: Glider_ID_315_TeriyakiFishToon
+
+Name: Parasail Purse
+Description: We left a lip balm in there for you.
+ID: Glider_ID_316_TextileMale_3S90R
+
+Name: Symbiotic Sail
+Description: So many snacks down below!
+ID: Glider_ID_317_VertigoMale_E3F81
+
+Name: Crashing Satellite
+Description: Set fire to the night.
+ID: Glider_ID_318_Wombat_1MQMN
+
+Name: Graven's Wings
+Description: Soar into a nightmare realm of endless suffering!
+ID: Glider_ID_320_CritterRavenMale
+
+Name: Corrupted Tendrils
+Description: Fly forth from the Last Reality.
+ID: Glider_ID_322_DriftHorrorMale
 
 Name: Raptor
 Description: Go ahead. Buzz the tower. You've earned it.
