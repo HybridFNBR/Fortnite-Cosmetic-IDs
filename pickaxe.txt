@@ -2668,6 +2668,10 @@ Name: Might & Malice
 Description: The pup has turned.
 ID: Pickaxe_ID_681_WerewolfFemale
 
+Name: Moonlit Lightscythe
+Description: Taking back everything the darkness stole.
+ID: Pickaxe_ID_682_BistroAstronautFemale_A3MD2
+
 Name: Perfect Prop Pickaxe
 Description: It almost looks real! Go ahead, try to slice me with it.
 ID: Pickaxe_ID_685_DisguiseBlackFemale
@@ -2687,6 +2691,14 @@ ID: Pickaxe_ID_689_RavenQuillDesertMale
 Name: All-Weather Extractor
 Description: Works best in the snow. Sleet and hail also acceptable.
 ID: Pickaxe_ID_692_SnowJacketFemale
+
+Name: Maker Hooks
+Description: A Fremen hook used to ride sandworms.
+ID: Pickaxe_ID_693_SunriseCastle1H_5XE1U
+
+Name: Twinblades
+Description: The weapon of choice for an Atreides warrior.
+ID: Pickaxe_ID_694_SunrisePalace1H_SDI6M
 
 Name: Giant Jelly Sourfish
 Description: Sweet, slurpy, and smashingly sticky.

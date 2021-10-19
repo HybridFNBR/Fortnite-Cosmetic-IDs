@@ -4678,7 +4678,7 @@ Description: He's gonna paint the town red.
 ID: CID_A_197_Athena_Commando_M_Clash
 
 Name: Fabio Sparklemane
-Description: The official mascot of Unicorn Flakes.
+Description: His hoof shoots 5 kinds of sugar!
 ID: CID_A_198_Athena_Commando_M_CerealBox
 
 Name: J.B. Chimpanski
@@ -4745,6 +4745,14 @@ Name: Frankenstein's Monster
 Description: The original remix.
 ID: CID_A_214_Athena_Commando_M_CritterFrenzy_YDM1L
 
+Name: Chani
+Description: A powerful Fremen warrior and skilled survivalist.
+ID: CID_A_215_Athena_Commando_F_SunriseCastle_48TIZ
+
+Name: Paul Atreides
+Description: Beyond fear, his destiny awaits.
+ID: CID_A_216_Athena_Commando_M_SunrisePalace_BBQY0
+
 Name: Graven
 Description: Brooding master of the cursed tomb.
 ID: CID_A_217_Athena_Commando_M_CritterRaven
@@ -4753,20 +4761,32 @@ Name: Jett
 Description: She missed band practice for this. Better make it good.
 ID: CID_A_220_Athena_Commando_F_PinkEmo
 
+Name: KAWS Skeleton
+Description: ALL BONES.
+ID: CID_A_223_Athena_Commando_M_Glitz_MJ5WQ
+
 Name: Grisabelle
 Description: Voted "Most Likely to Crave Brains... or Haunt the Place Forever."
 ID: CID_A_224_Athena_Commando_F_ScholarGhoul
+
+Name: The Cube Queen
+Description: Terror from beyond reality.
+ID: CID_A_225_Athena_Commando_F_CubeQueen
 
 Name: Gummy Fishstick
 Description: The ocean's chewiest hero.
 ID: CID_A_226_Athena_Commando_M_SweetTeriyakiRed
 
-Name: All-Hallow's Steve
-Description: Who's under the mask?
+Name: Spacefarer Ariana Grande
+Description: The galaxy's greatest monster hunter has arrived.
+ID: CID_A_227_Athena_Commando_F_BistroAstronaut_JJLK5
+
+Name: Masked Mercenary
+Description: Meowscles, is that you?
 ID: CID_A_228_Athena_Commando_M_DisguiseBlack
 
-Name: Tricksy
-Description: Treat the competition to a trick.
+Name: Costumed Corporal
+Description: Wow, you look just like Cuddle Team Leader!
 ID: CID_A_229_Athena_Commando_F_DisguiseBlack
 
 Name: Driftwalker

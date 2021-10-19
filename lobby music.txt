@@ -414,6 +414,10 @@ Name: Cube Theme
 Description: Press play and be square.
 ID: MusicPack_105_S18Cine
 
+Name: Rift Tour Countdown
+Description: Press play and relive the Rift Tour.
+ID: MusicPack_106_Bistro_DQZH0
+
 Name: Random
 Description: Randomly chooses between favorite Music Packs (or all owned Music Packs if nothing is marked as a favorite)
 ID: MusicPack_Random

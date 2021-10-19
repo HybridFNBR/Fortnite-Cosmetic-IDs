@@ -538,7 +538,7 @@ Name: Modern Hex
 Description: Show your style.
 ID: Wrap_142_HoneycombGrey
 
-Name: Wild Rainbow
+Name: Rainbow Riot
 Description: Show your style.
 ID: Wrap_143_RainbowStrike
 

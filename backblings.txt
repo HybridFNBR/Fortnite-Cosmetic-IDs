@@ -3386,6 +3386,23 @@ Name: Jett's Jagged Heart
 Description: Hey, there's some hair dye in here! Want a pink streak?
 ID: BID_871_PinkEmo
 
+Name: Chani's Satchel
+Description: Chani's personal Fremkit.
+ID: BID_875_SunriseCastle_91J3L
+
+Name: Fremkit
+Description: Essential for survival on the harsh desert world of Dune.
+ID: BID_876_SunrisePalace_7JPK6
+
+Name: I.R.I.S.
+Description: Is this the part where she breaks free?
+Accessory styles will automatically match outfit style, and respond to built-in emote!
+ID: BID_877_BistroAstronaut_LWL45
+
+Name: Spooky Smallz
+Description: She's a tiny pig with a spooktacular heart.
+ID: BID_878_BistroSpooky_VPF4T
+
 Name: The Original Puffa Pak
 Description: The frozen mask of horror means he's happy to see you!
 ID: BID_880_SweetTeriyakiRed
@@ -3393,6 +3410,10 @@ ID: BID_880_SweetTeriyakiRed
 Name: Backbiter
 Description: He's always hungry for knowledge.
 ID: BID_881_ScholarGhoul
+
+Name: No Ghost
+Description: Welcome to Rust City.
+ID: BID_882_EerieGhost_Y9N1T
 
 Name: The Big Stash
 Description: The gang's all here, and they're sweeter than ever.

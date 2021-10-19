@@ -170,6 +170,10 @@ Name: Billy Bounce
 Description: You do you.
 ID: EID_BillyBounce
 
+Name: Just Keep Breathin'
+Description: Find your way up into the clouds.
+ID: EID_BistroStyle_P0XFD
+
 Name: Whipcrack
 Description: Whip up some action.
 ID: EID_BlackMondayFemale_6HO4L
@@ -377,6 +381,10 @@ ID: EID_CheerPapayaComms
 Name: Chicken
 Description: Top of the pecking order.
 ID: EID_Chicken
+
+Name: Snare Solo
+Description: Who needs a hi-hat when you've got fancy footwork like this?
+ID: EID_ChickenLeg_TDJ0O
 
 Name: Cluck Strut
 Description: Who're you calling chicken?
@@ -2001,6 +2009,10 @@ ID: EID_SuckerPunch
 Name: Cardistry
 Description: Watch the hands.
 ID: EID_Suits
+
+Name: Sand Walk
+Description: Walk without rhythm to avoid attracting sandworms.
+ID: EID_Sunrise_RPZ6M
 
 Name: Flippin' Away
 Description: Back in action.

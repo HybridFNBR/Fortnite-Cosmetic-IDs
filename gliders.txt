@@ -1295,6 +1295,11 @@ Name: Crashing Satellite
 Description: Set fire to the night.
 ID: Glider_ID_318_Wombat_1MQMN
 
+Name: I.R.I.S. Daydream
+Description: Fly down and teach 'em love, patience, and/or pain.
+Accessory styles will automatically match outfit style, and respond to built-in emote!
+ID: Glider_ID_319_BistroAstronautFemale_A4839
+
 Name: Graven's Wings
 Description: Soar into a nightmare realm of endless suffering!
 ID: Glider_ID_320_CritterRavenMale
@@ -1302,6 +1307,10 @@ ID: Glider_ID_320_CritterRavenMale
 Name: Corrupted Tendrils
 Description: Fly forth from the Last Reality.
 ID: Glider_ID_322_DriftHorrorMale
+
+Name: Ornithopter
+Description: Multi-winged attack ship.
+ID: Glider_ID_324_SunriseCastleMale_2R4Q3
 
 Name: Raptor
 Description: Go ahead. Buzz the tower. You've earned it.
