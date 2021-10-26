@@ -4501,16 +4501,16 @@ Name: Summer Skye
 Description: Combat master, cat protector, and lover of all things kawaii.
 ID: CID_A_153_Athena_Commando_F_BuffCatFan_TS2DR
 
-Name: TBD
-Description: TBD
+Name: Fresh Aura
+Description: Get the goods in mint condition.
 ID: CID_A_154_Athena_Commando_F_TreasureHunterFashionMint
 
-Name: TBD
-Description: TBD
+Name: Minty Bomber
+Description: The future looks fresh...
 ID: CID_A_155_Athena_Commando_F_BrightBomberMint
 
-Name: TBD
-Description: TBD
+Name: Skellemint Oro
+Description: Minty mayhem, a refreshing obsession.
 ID: CID_A_156_Athena_Commando_M_GoldenSkeletonMint
 
 Name: Gamora
@@ -4678,7 +4678,7 @@ Description: He's gonna paint the town red.
 ID: CID_A_197_Athena_Commando_M_Clash
 
 Name: Fabio Sparklemane
-Description: His hoof shoots 5 kinds of sugar!
+Description: The official mascot of Unicorn Flakes.
 ID: CID_A_198_Athena_Commando_M_CerealBox
 
 Name: J.B. Chimpanski
@@ -4757,9 +4757,25 @@ Name: Graven
 Description: Brooding master of the cursed tomb.
 ID: CID_A_217_Athena_Commando_M_CritterRaven
 
+Name: The Mummy
+Description: Lurching into battle with bandages to spare.
+ID: CID_A_218_Athena_Commando_M_CritterManiac_KV6J0
+
+Name: The Batman Who Laughs
+Description: You see...a Batman who laughs...is a Batman who always wins. HAHAHAHAHAHAHAHA!
+ID: CID_A_219_Athena_Commando_M_Giggle_C2UK0
+
 Name: Jett
 Description: She missed band practice for this. Better make it good.
 ID: CID_A_220_Athena_Commando_F_PinkEmo
+
+Name: Chris Redfield
+Description: Mansion incident survivor and boulder enthusiast.
+ID: CID_A_221_Athena_Commando_M_Relish_8364H
+
+Name: Jill Valentine
+Description: The Umbrella Corporation doesn't stand a chance.
+ID: CID_A_222_Athena_Commando_F_Relish_G6S5T
 
 Name: KAWS Skeleton
 Description: ALL BONES.
@@ -4781,17 +4797,65 @@ Name: Spacefarer Ariana Grande
 Description: The galaxy's greatest monster hunter has arrived.
 ID: CID_A_227_Athena_Commando_F_BistroAstronaut_JJLK5
 
-Name: Masked Mercenary
-Description: Meowscles, is that you?
+Name: All-Hallow's Steve
+Description: Who's under the mask?
 ID: CID_A_228_Athena_Commando_M_DisguiseBlack
 
-Name: Costumed Corporal
-Description: Wow, you look just like Cuddle Team Leader!
+Name: Tricksy
+Description: Treat the competition to a trick.
 ID: CID_A_229_Athena_Commando_F_DisguiseBlack
 
 Name: Driftwalker
 Description: Fall into the darkness, and find your way to corrupted victory.
 ID: CID_A_230_Athena_Commando_M_DriftHorror
+
+Name: Haunted Hunter
+Description: Always feed your hunger.
+ID: CID_A_244_Athena_Commando_M_ZombieElastic
+
+Name: Horrorsonic
+Description: First to the brains, every time.
+ID: CID_A_245_Athena_Commando_M_ZombieElastic_B
+
+Name: Boo-lastoff
+Description: No vitals, all victories.
+ID: CID_A_246_Athena_Commando_M_ZombieElastic_C
+
+Name: Wanderlost
+Description: Predictably undead.
+ID: CID_A_247_Athena_Commando_M_ZombieElastic_D
+
+Name: The Bitey Volt
+Description: He's one dead battery.
+ID: CID_A_248_Athena_Commando_M_ZombieElastic_E
+
+Name: Doom Dancer
+Description: Lurch where your will takes you.
+ID: CID_A_249_Athena_Commando_F_ZombieElastic
+
+Name: They're Back-Lash
+Description: Reanimate, and strike back.
+ID: CID_A_250_Athena_Commando_F_ZombieElastic_B
+
+Name: Extinguished Firebrand
+Description: Peril on the event horizon.
+ID: CID_A_251_Athena_Commando_F_ZombieElastic_C
+
+Name: Putrid Polarity
+Description: Follow the bright light.
+ID: CID_A_252_Athena_Commando_F_ZombieElastic_D
+
+Name: Jolterror
+Description: Champion of the spectral winds.
+ID: CID_A_253_Athena_Commando_F_ZombieElastic_E
+
+Name: Kernel Poppy
+Description: He's a happy, buttery, lobby lad.
+ID: CID_A_254_Athena_Commando_M_ButterJack
+
+Name: Shadow Midas
+Description: The Midas Touch just got ghoulish.
+ID: CID_A_257_Athena_Commando_M_CatBurglar_Ghost
 
 Name: Recruit
 Description: Standard issue combatant outfit.

@@ -958,9 +958,17 @@ Name: Different Tasty Snack
 Description: Express yourself on the battlefield.
 ID: Emoji_S18_ClashV_I1DF9
 
+Name: Last Cube Standing
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_CubeQueen
+
 Name: Dualies
 Description: Express yourself on the battlefield.
 ID: Emoji_S18_Division
+
+Name: Skrrt
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_DriftDash
 
 Name: 4? Score!
 Description: Express yourself on the battlefield.
@@ -978,9 +986,17 @@ Name: Ghostly Watcher
 Description: Express yourself on the battlefield.
 ID: Emoji_S18_GhostHunter
 
+Name: Divined Victory
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_GrandRoyaleCompetition
+
 Name: Spirit Eyes
 Description: Express yourself on the battlefield.
 ID: Emoji_S18_PunkKoi
+
+Name: Skulluminated
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_RenegadeSkull
 
 Name: What's Wrong, Toona Fish?
 Description: Express yourself on the battlefield.
@@ -993,6 +1009,58 @@ ID: Emoji_S18_SpaceChimp
 Name: Watch Out, Toona Fish!
 Description: Express yourself on the battlefield.
 ID: Emoji_S18_TeriyakiFishToon
+
+Name: Bonenana
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Banana
+
+Name: Maceball Bats
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_BaseballBats
+
+Name: Brain Food
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Brain
+
+Name: Grrr Burger
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Burger
+
+Name: Foul Fowl
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Duck
+
+Name: Eye Scream
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Eye
+
+Name: Creepin' Along
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_FingerWalk
+
+Name: Good Grave
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_GG
+
+Name: Undead Digits
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Hand
+
+Name: Jonezombie
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Head
+
+Name: Punky
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Pumpkin
+
+Name: Dual Reaper
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Scythe
+
+Name: Ooze Z
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_ZombieElastic_Z
 
 Name: Season Level 100
 Description: Recognition for reaching Season Level 100 in Battle Royale Season 6.

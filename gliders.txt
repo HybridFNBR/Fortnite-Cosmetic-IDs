@@ -1304,9 +1304,17 @@ Name: Graven's Wings
 Description: Soar into a nightmare realm of endless suffering!
 ID: Glider_ID_320_CritterRavenMale
 
+Name: Queen's Procession
+Description: Make way for the queen.
+ID: Glider_ID_321_CubeQueenFemale
+
 Name: Corrupted Tendrils
 Description: Fly forth from the Last Reality.
 ID: Glider_ID_322_DriftHorrorMale
+
+Name: Wings of Madness
+Description: Stop me if you've heard this one before!
+ID: Glider_ID_323_GiggleMale_XADT7
 
 Name: Ornithopter
 Description: Multi-winged attack ship.

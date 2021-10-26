@@ -538,7 +538,7 @@ Name: Modern Hex
 Description: Show your style.
 ID: Wrap_142_HoneycombGrey
 
-Name: Rainbow Riot
+Name: Wild Rainbow
 Description: Show your style.
 ID: Wrap_143_RainbowStrike
 
@@ -1454,7 +1454,7 @@ Name: Pixellator
 Description: Show your style.
 ID: Wrap_379_Pliant
 
-Name: TBD
+Name: Fire Mint
 Description: Show your style.
 ID: Wrap_380_Mint
 
@@ -1570,6 +1570,10 @@ Name: Batty
 Description: Show your style.
 ID: Wrap_408_Vampire
 
+Name: Mummified
+Description: Show your style.
+ID: Wrap_409_CritterManiac_1B4II
+
 Name: Tagged
 Description: Show your style.
 ID: Wrap_410_Collage
@@ -1577,6 +1581,14 @@ ID: Wrap_410_Collage
 Name: Ultrasour
 Description: Show your style.
 ID: Wrap_411_SweetTeriyaki
+
+Name: Galactic Carnival
+Description: Show your style.
+ID: Wrap_412_AlienDay
+
+Name: Splat Splat Splat!
+Description: Show your style.
+ID: Wrap_414_Splash
 
 Name: TBD
 Description: Show your style.

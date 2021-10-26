@@ -391,7 +391,7 @@ Description: Press play and let your imagination go.
 ID: MusicPack_099_FNCS
 
 Name: Flake That
-Description: Press play and get flaky.
+Description: Press play and get flaky. Also includes Instrumental version!
 ID: MusicPack_100_CerealBox
 
 Name: Flake This
@@ -399,7 +399,7 @@ Description: Press play and flake out.
 ID: MusicPack_101_CerealBox_Instrumental
 
 Name: Space Chimp
-Description: Press play and lead the war effort.
+Description: Press play and lead the war effort. Also includes Instrumental version!
 ID: MusicPack_102_SpaceChimp
 
 Name: Astro Ape
@@ -417,6 +417,10 @@ ID: MusicPack_105_S18Cine
 Name: Rift Tour Countdown
 Description: Press play and relive the Rift Tour.
 ID: MusicPack_106_Bistro_DQZH0
+
+Name: Queen's Anthem
+Description: Press play and make way for the Queen.
+ID: MusicPack_109_CubeQueen
 
 Name: Random
 Description: Randomly chooses between favorite Music Packs (or all owned Music Packs if nothing is marked as a favorite)

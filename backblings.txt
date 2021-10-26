@@ -3150,16 +3150,16 @@ Name: Hard Case Hero
 Description: It's not here to fiddle around.
 ID: BID_810_Musician
 
-Name: TBD
-Description: TBD
+Name: Spearmint Satchel
+Description: Don't forget to pack a minty smile.
 ID: BID_811_BrightBomberMint
 
-Name: TBD
-Description: TBD
+Name: Minty Mantle
+Description: The refreshing rays of an ancient... mint.
 ID: BID_812_GoldenSkeletonMint
 
-Name: TBD
-Description: TBD
+Name: Minty Multipack
+Description: Long-lasting, refreshing exploration.
 ID: BID_813_TreasureHunterFashionMint
 
 Name: Cursed Eagleshield
@@ -3382,9 +3382,25 @@ Name: Embalmwings
 Description: Curse-powered doom wings.
 ID: BID_869_CritterRaven
 
+Name: Smallcophagus
+Description: Don't open it. You're not gonna like what you see.
+ID: BID_870_CritterManiac_8Y8KK
+
 Name: Jett's Jagged Heart
 Description: Hey, there's some hair dye in here! Want a pink streak?
 ID: BID_871_PinkEmo
+
+Name: Robin's Perch
+Description: The perfect place for a little pet.
+ID: BID_872_Giggle_LN5LR
+
+Name: Green Herb
+Description: Fresh from the Arklay Mountains.
+ID: BID_873_RelishMale_0Q8D9
+
+Name: Saving Keystroke
+Description: Hope you've got an ink ribbon.
+ID: BID_874_RelishFemale_I7B41
 
 Name: Chani's Satchel
 Description: Chani's personal Fremkit.
@@ -3402,6 +3418,10 @@ ID: BID_877_BistroAstronaut_LWL45
 Name: Spooky Smallz
 Description: She's a tiny pig with a spooktacular heart.
 ID: BID_878_BistroSpooky_VPF4T
+
+Name: Cubic Vortex
+Description: Time is running out for you. Tick, tick, tick.
+ID: BID_879_CubeQueen
 
 Name: The Original Puffa Pak
 Description: The frozen mask of horror means he's happy to see you!
@@ -3430,6 +3450,30 @@ ID: BID_885_TomatoScary
 Name: Broken Fractal Wings
 Description: Crackling with a dark, vampiric power.
 ID: BID_886_DriftHorror
+
+Name: The El Durrrado
+Description: Cooked with 24 karat beef bullion.
+ID: BID_887_DurrburgerGold
+
+Name: Blood Moon Rising
+Description: Waxing or waning, it's all bad news.
+ID: BID_889_FullMoon
+
+Name: Slurpy Slush'em
+Description: The crazy straw is definitely not optional.
+ID: BID_891_ButterJack
+
+Name: Gourdy
+Description: He's a little friend you can carve!
+ID: BID_892_JackOLantern
+
+Name: Stained Mantle
+Description: Once inspiring, now terrifying.
+ID: BID_893_ZombieElastic
+
+Name: Dead Pixels
+Description: I think something's wrong with your V-Sync.
+ID: BID_895_ZombieElasticNeon
 
 Name: The Cubist
 Description: The cubiest possible cube.

@@ -1134,6 +1134,10 @@ Name: Lil' Treat
 Description: Here comes the sweetness!
 ID: EID_Jingle
 
+Name: Rim Shot
+Description: Everybody thinks they're a comedian.
+ID: EID_Jokes
+
 Name: Jugglin'
 Description: Pure concentration.
 ID: EID_Juggler
@@ -1654,6 +1658,10 @@ Name: Sweaty
 Description: We've all been there.
 ID: EID_Relaxed
 
+Name: Brolly Stroll
+Description: I love the smell after it rains, don't you?
+ID: EID_Relish_TNPZI
+
 Name: Respect The Peace
 Description: Show some respect.
 ID: EID_RespectThePeace
@@ -1861,6 +1869,10 @@ ID: EID_Shiny
 Name: Jumbo Popcorn
 Description: This is getting really good.
 ID: EID_Shorts
+
+Name: Butter Buddy
+Description: Careful. He can be a handful.
+ID: EID_ShortScare
 
 Name: Showstopper
 Description: Pull out all the stops.
@@ -2345,6 +2357,10 @@ ID: EID_Zippy
 Name: Reanimated
 Description: From beyond the rave!
 ID: EID_Zombie
+
+Name: Zom-beam
+Description: Rise from the grave... and shine.
+ID: EID_ZombieElastic
 
 Name: Zombified
 Description: Braaaains.
