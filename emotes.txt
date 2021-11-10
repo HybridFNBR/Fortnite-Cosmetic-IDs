@@ -830,6 +830,10 @@ Name: Infectious
 Description: Let it take over.
 ID: EID_GothDance
 
+Name: ¡Que no panda el cúnico!
+Description: Calm down, let's panic, don't relax!
+ID: EID_Grasshopper_8D51K
+
 Name: Get Griddy
 Description: Keep your eye on the end zone.
 ID: EID_Griddles

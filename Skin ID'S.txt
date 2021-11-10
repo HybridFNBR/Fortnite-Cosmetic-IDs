@@ -4809,6 +4809,54 @@ Name: Driftwalker
 Description: Fall into the darkness, and find your way to corrupted victory.
 ID: CID_A_230_Athena_Commando_M_DriftHorror
 
+Name: Frankenstein's Bride
+Description: Reanimated and reimagined.
+ID: CID_A_232_Athena_Commando_F_CritterStreak_YILHR
+
+Name: El Chapulín Colorado
+Description: My super vinyl antennas are detecting the presence of an enemy!
+ID: CID_A_233_Athena_Commando_M_Grasshopper_5GTT3
+
+Name: Agente Colorado
+Description: All my moves are coldly calculated!
+ID: CID_A_234_Athena_Commando_M_Grasshopper_A_57ARK
+
+Name: Soldado Colorado
+Description: Good Guys, Follow my lead!
+ID: CID_A_235_Athena_Commando_M_Grasshopper_B_RHQUY
+
+Name: Guerrero Colorado
+Description: I meant to do that.
+ID: CID_A_236_Athena_Commando_M_Grasshopper_C_47TZ8
+
+Name: Héroe Colorado
+Description: More agile than a turtle!
+ID: CID_A_237_Athena_Commando_M_Grasshopper_D_5OEIK
+
+Name: Defensor Colorado
+Description: Stronger than a mouse!
+ID: CID_A_238_Athena_Commando_M_Grasshopper_E_Q14K1
+
+Name: Capitana Colorada
+Description: More noble than a head of lettuce.
+ID: CID_A_239_Athena_Commando_F_Grasshopper_H6LB7
+
+Name: Amazona Colorada
+Description: Full of heart.
+ID: CID_A_240_Athena_Commando_F_Grasshopper_B_9RSI1
+
+Name: Guerrera Colorada
+Description: Somewhat ready to save the day!
+ID: CID_A_241_Athena_Commando_F_Grasshopper_C_QGV1I
+
+Name: Heroína Colorada
+Description: You weren't counting on my cleverness!
+ID: CID_A_242_Athena_Commando_F_Grasshopper_D_EIQ7X
+
+Name: Defensora Colorada
+Description: Here to save the day. Accidentally.
+ID: CID_A_243_Athena_Commando_F_Grasshopper_E_L6I24
+
 Name: Haunted Hunter
 Description: Always feed your hunger.
 ID: CID_A_244_Athena_Commando_M_ZombieElastic
@@ -4852,6 +4900,14 @@ ID: CID_A_253_Athena_Commando_F_ZombieElastic_E
 Name: Kernel Poppy
 Description: He's a happy, buttery, lobby lad.
 ID: CID_A_254_Athena_Commando_M_ButterJack
+
+Name: Sierra
+Description: Avenging her past from the Shadows.
+ID: CID_A_255_Athena_Commando_F_SAM_QA7ZS
+
+Name: Arcane Jinx
+Description: She's a totally innocent bystander... with a rocket launcher.
+ID: CID_A_256_Athena_Commando_F_UproarBraids_8IOZW
 
 Name: Shadow Midas
 Description: The Midas Touch just got ghoulish.

@@ -1586,6 +1586,10 @@ Name: Galactic Carnival
 Description: Show your style.
 ID: Wrap_412_AlienDay
 
+Name: Glowing Vengeance
+Description: Show your style.
+ID: Wrap_413_SAM_WK0AX
+
 Name: Splat Splat Splat!
 Description: Show your style.
 ID: Wrap_414_Splash

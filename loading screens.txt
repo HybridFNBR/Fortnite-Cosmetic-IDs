@@ -1388,9 +1388,21 @@ Name: First Shadows
 Description: For honor. For vengeance. For chaos. For Midas. Art by Sebastian Fiumara
 ID: LSID_361_DarkTrioBonus
 
+Name: Wreaking Havoc
+Description: Say hello to my friends of varying sizes!
+ID: LSID_362_Jinx_F9OY4
+
+Name: Sierra's Vengeance
+Description: From now on, she has her own back. Art by Sebastian Fiumara.
+ID: LSID_363_DarkTrioNov_4B2M5
+
 Name: Resurrection Protocol
 Description: Here comes the cavalary...
 ID: LSID_365_ZombieElastic
+
+Name: Katchoo!
+Description: Stay still! I'm trying to shoot you!
+ID: LSID_366_Uproar_8MFSF
 
 Name: The Queen's Court
 Description: Nothing shall remain.

@@ -2725,6 +2725,18 @@ Name: Giant Jelly Sourfish
 Description: Sweet, slurpy, and smashingly sticky.
 ID: Pickaxe_ID_695_SweetTeriyakiMale
 
+Name: Chipote Chillón
+Description: ¡Toing!
+ID: Pickaxe_ID_696_Grasshopper_Male_24OGH
+
+Name: Serrated Steelblades
+Description: Forged with steel salvaged from Sierra's childhood home.
+ID: Pickaxe_ID_697_SAMFemale1H_RV6AN
+
+Name: Pow Pow Crusher
+Description: Built from surplus Pow Pow parts.
+ID: Pickaxe_ID_699_UproarBraidsFemale_LY5GM
+
 Name: Antimatter Pulse
 Description: Carry a touch of weaponized corruption.
 ID: Pickaxe_ID_700_ZombieElasticFemale1H

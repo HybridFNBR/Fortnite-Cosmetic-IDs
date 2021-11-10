@@ -422,6 +422,10 @@ Name: Queen's Anthem
 Description: Press play and make way for the Queen.
 ID: MusicPack_109_CubeQueen
 
+Name: Playground (Instrumental)
+Description: Press play and make Piltover your playground.
+ID: MusicPack_112_Uproar_59WME
+
 Name: Random
 Description: Randomly chooses between favorite Music Packs (or all owned Music Packs if nothing is marked as a favorite)
 ID: MusicPack_Random

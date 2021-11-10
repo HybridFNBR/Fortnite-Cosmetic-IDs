@@ -3455,9 +3455,17 @@ Name: The El Durrrado
 Description: Cooked with 24 karat beef bullion.
 ID: BID_887_DurrburgerGold
 
+Name: Sierra's Go Bag
+Description: Contains rations, field supplies, and one tattered family photo...
+ID: BID_888_SAM_4LYL3
+
 Name: Blood Moon Rising
 Description: Waxing or waning, it's all bad news.
 ID: BID_889_FullMoon
+
+Name: Jinx's Dream Monkey
+Description: Get Jinxed.
+ID: BID_890_UproarBraids_EF68P
 
 Name: Slurpy Slush'em
 Description: The crazy straw is definitely not optional.
@@ -3474,6 +3482,10 @@ ID: BID_893_ZombieElastic
 Name: Dead Pixels
 Description: I think something's wrong with your V-Sync.
 ID: BID_895_ZombieElasticNeon
+
+Name: Paralizatrón CH-3000
+Description: Obviously it honks. What were you expecting?
+ID: BID_896_GrasshopperMale_BRT10
 
 Name: The Cubist
 Description: The cubiest possible cube.
