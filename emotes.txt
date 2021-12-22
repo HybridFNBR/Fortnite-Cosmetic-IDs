@@ -46,6 +46,10 @@ Name: A Warrior Prepares
 Description: Fight dirty.
 ID: EID_AncientGladiator
 
+Name: Noisemaker
+Description: Let 'em know it's party o'clock.
+ID: EID_Annual
+
 Name: Go home!
 Description: Leave us alone!
 ID: EID_AntiVisitorProtest
@@ -65,6 +69,10 @@ ID: EID_ArmWave
 Name: Toosie Slide
 Description: Let it slide.
 ID: EID_ArtGiant
+
+Name: Rising Phoenix
+Description: No longer is she the woman you once knew.
+ID: EID_Ashes_MYQ8O
 
 Name: Widow’s Pirouette
 Description: A deadly dance.
@@ -366,6 +374,10 @@ Name: Have a Seat
 Description: Pull up a chair and relax.
 ID: EID_ChairTime
 
+Name: Ramen Break
+Description: Treat yourself to a lil' shinobi snack.
+ID: EID_Chashu
+
 Name: On Your Marks...
 Description: Get set... Go!
 ID: EID_CheckeredFlag
@@ -393,6 +405,10 @@ ID: EID_ChickenMoves
 Name: Distracted
 Description: Plan of attack... entirely forgotten.
 ID: EID_Chopsticks
+
+Name: Mwahaha
+Description: Evil laughter unleashed.
+ID: EID_Chuckle
 
 Name: Go! Go! Go!
 Description: You can do it!
@@ -457,6 +473,10 @@ ID: EID_CoolRobot
 Name: Overdrive
 Description: Push it past the limit.
 ID: EID_CoolRobotRaisin
+
+Name: Crowning Achievement
+Description: Oooh, sparkly.
+ID: EID_Coronet
 
 Name: Hover-Pram Control
 Description: Keep him close.
@@ -582,6 +602,10 @@ Name: Chimichanga!
 Description: Too hot! Too hot!
 ID: EID_Donut2
 
+Name: Love it!
+Description: A true work of art.
+ID: EID_Doodling
+
 Name: Revel
 Description: Nothing wrong with a little celebration.
 ID: EID_Doublesnap
@@ -622,6 +646,10 @@ Name: Squat Kick
 Description: Don't skip leg day.
 ID: EID_EasternBloc
 
+Name: I Ain't Afraid
+Description: There's somethin' strange, in your neighborhood... and that one... and that one...
+ID: EID_Eerie_8WGYK
+
 Name: Glyphic
 Description: A dance for the ages.
 ID: EID_EgyptianDance
@@ -649,6 +677,10 @@ ID: EID_Emperor
 Name: Focused
 Description: Stay focused in the heat of battle.
 ID: EID_EngagedWalk
+
+Name: Choice Knit
+Description: You wanted a v-neck, right?
+ID: EID_EpicYarn
 
 Name: Vivacious
 Description: Never stop dancing.
@@ -854,6 +886,10 @@ Name: Guitar Walk
 Description: Play on.
 ID: EID_GuitarWalk
 
+Name: Brain Candy
+Description: Unforgettable flavor.
+ID: EID_Gumball
+
 Name: Syrup Slinger
 Description: Syrup the ante.
 ID: EID_GunspinnerTeacup
@@ -897,6 +933,14 @@ ID: EID_HappySkipping
 Name: Hello Friend
 Description: Hi there!
 ID: EID_HappyWave
+
+Name: Dunk on 'Em
+Description: Make Jordan proud.
+ID: EID_Haste1_T98Z9
+
+Name: Summoning Jutsu
+Description: Did you remember to form your contract?
+ID: EID_Headband
 
 Name: Headbanger
 Description: Bang your head against the air.
@@ -1250,6 +1294,10 @@ Name: Sweet Victory
 Description: That's how we do it.
 ID: EID_Lasso_ADP0O
 
+Name: Amazing Unmasking
+Description: Because there's still no hole for eating.
+ID: EID_Lateral_7QJD6
+
 Name: Laugh It Up
 Description: What's so funny?
 ID: EID_Laugh
@@ -1257,6 +1305,10 @@ ID: EID_Laugh
 Name: [Insert Laughter Here]
 Description: I mean I thought it was funny but..
 ID: EID_LaughTrack
+
+Name: Frolic
+Description: Nothin' gets you down.
+ID: EID_Layers_BBZ49
 
 Name: Lazy Shuffle
 Description: Keep it lazy.
@@ -1273,6 +1325,10 @@ ID: EID_LetsPlay
 Name: Hunter Protocol
 Description: Set mechafusion levels to maximum.
 ID: EID_Lexa
+
+Name: Lil' Monster
+Description: Keep on lil' truckin.
+ID: EID_Lifted
 
 Name: Buckle Up
 Description: Line 'em up, pard'ner.
@@ -1305,6 +1361,18 @@ ID: EID_LlamaRider_Glitter
 Name: Lock It Up
 Description: Snap into place.
 ID: EID_LockItUp
+
+Name: Trinity's Kick
+Description: Dodge this.
+ID: EID_LogarithmKick_NJVD8
+
+Name: Neo's Bullet Time
+Description: It's not a matter of hope, but a matter of (bullet) time.
+ID: EID_LogarithmWhoa_T3PF9
+
+Name: Lunar Charge
+Description: Embrace the next phase of battle.
+ID: EID_LoneWolf
 
 Name: Bounce Berry
 Description: One sweet little berry.
@@ -1489,6 +1557,10 @@ ID: EID_OverUnder_K3T0G
 Name: Page-Turner
 Description: Just a second, I'm almost at the end of the chapter.
 ID: EID_Pages
+
+Name: Neighborly Hang
+Description: Maybe the Daily Bugle was wrong about him!
+ID: EID_ParallelComic
 
 Name: Tippy Tap
 Description: It's a real toe tapper.
@@ -1757,6 +1829,10 @@ ID: EID_RunningMan
 Name: Pick It Up
 Description: Pick it up, pick it up, pick it up!
 ID: EID_RunningManv3
+
+Name: Knife Tricks
+Description: Flourish of edged weapon skills.
+ID: EID_RustyBolt_ZMR13
 
 Name: Sad Trombone
 Description: Womp womp.
@@ -2353,6 +2429,10 @@ ID: EID_YouBoreMe
 Name: You're Awesome
 Description: Seriously. We all think so.
 ID: EID_YoureAwesome
+
+Name: It's... you?
+Description: How can it be?
+ID: EID_YouThere
 
 Name: Rambunctious
 Description: The embodiment of boundless energy.

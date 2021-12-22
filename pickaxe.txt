@@ -1840,6 +1840,10 @@ Name: Stake & Stalker
 Description: Nothing better for a night of hunting.
 ID: Pickaxe_ID_466_CavalryFemale1H
 
+Name: Cube Edge
+Description: Do not disappoint the Cube Edge.
+ID: Pickaxe_ID_467_CloakedAssassinFemale1H_XGC2B
+
 Name: Cube Axe
 Description: They're back.
 ID: Pickaxe_ID_468_KevinCoutureMale
@@ -2604,6 +2608,10 @@ Name: Blades of Brother Hand
 Description: The Deadly Hands just got deadlier.
 ID: Pickaxe_ID_664_DragonfruitMale1H_4BIXL
 
+Name: Llaminator
+Description: Should've finished him off when you had the chance.
+ID: Pickaxe_ID_665_BuffLlamaMale
+
 Name: The Big Spoon
 Description: Part of a balanced breakfast royale.
 ID: Pickaxe_ID_666_CerealBoxMale
@@ -2733,6 +2741,10 @@ Name: Serrated Steelblades
 Description: Forged with steel salvaged from Sierra's childhood home.
 ID: Pickaxe_ID_697_SAMFemale1H_RV6AN
 
+Name: Octane Whomper
+Description: Be the ultimate MVP.
+ID: Pickaxe_ID_698_SupersonicPink_8VM90
+
 Name: Pow Pow Crusher
 Description: Built from surplus Pow Pow parts.
 ID: Pickaxe_ID_699_UproarBraidsFemale_LY5GM
@@ -2740,6 +2752,126 @@ ID: Pickaxe_ID_699_UproarBraidsFemale_LY5GM
 Name: Antimatter Pulse
 Description: Carry a touch of weaponized corruption.
 ID: Pickaxe_ID_700_ZombieElasticFemale1H
+
+Name: Lucky 8's
+Description: Line 'em up and take your shot.
+ID: Pickaxe_ID_701_CrazyEightTechMale1H
+
+Name: Umbra-Axe
+Description: A sleet-sharpened slicing machine.
+ID: Pickaxe_ID_702_GrandeurMale_6UV6L
+
+Name: Kunai
+Description: A sharp weapon favored by the shinobi.
+ID: Pickaxe_ID_703_HeadbandMale1H
+
+Name: Black Ops Sword
+Description: A sword used by the black ops.
+ID: Pickaxe_ID_704_HeadbandKMale1H
+
+Name: Snake Sword
+Description: Sasuke's beloved sword.
+ID: Pickaxe_ID_705_HeadbandSMale1H
+
+Name: Hidan's Scythe
+Description: The scythe of choice for curse rituals.
+ID: Pickaxe_ID_706_HeadbandStandAloneMale
+
+Name: Neural-Scratch Claws
+Description: Matte black kitty claws for one tough cat.
+ID: Pickaxe_ID_707_NeonCatTechFemale1H
+
+Name: Director's Scythe
+Description: Slices through armored hulls like they're red tape.
+ID: Pickaxe_ID_708_NucleusMale_72W2J
+
+Name: NanaTech Blade
+Description: Make like a nanner and flay.
+ID: Pickaxe_ID_709_PeelyTechMale
+
+Name: Power Pick
+Description: Smashy AND zappy.
+ID: Pickaxe_ID_710_AssembleKMale
+
+Name: Abyssal Blade
+Description: Strike from the heart of the void.
+ID: Pickaxe_ID_711_DarkPitMale
+
+Name: Bronzed Scimitars
+Description: This ancient blade has turned the tide of many battles.
+ID: Pickaxe_ID_712_ExoSuitFemale1H
+
+Name: Gum Brawler
+Description: Long-lasting sticky sledge action.
+ID: Pickaxe_ID_713_GumballMale
+
+Name: Wilderspear
+Description: Sharp, swift, and wild beyond measure.
+ID: Pickaxe_ID_714_IslandNomadFemale
+
+Name: Blade of the Waning Moon
+Description: A treasured artifact from a dangerous quest.
+ID: Pickaxe_ID_715_LoneWolfMale
+
+Name: Spikebat
+Description: Classics never die.
+ID: Pickaxe_ID_716_MotorcyclistFemale
+
+Name: Cymitar
+Description: That which is connected may never be severed.
+ID: Pickaxe_ID_717_NetworkFemale
+
+Name: Wallopin' Web Hammer
+Description: Several thousand layers of web polymer reinforced for maximum wallop.
+ID: Pickaxe_ID_718_ParallelComicMale
+
+Name: Breaker Mace
+Description: Locust Shell fragments affixed to a motorized rotating rod...yeah...this will break a tree.
+ID: Pickaxe_ID_719_RustyBoltFemale_0VJ7J
+
+Name: Thumper
+Description: Call the Seeders to the surface!
+ID: Pickaxe_ID_720_RustyBoltMale_UZ5E5
+
+Name: Butcher Cleaver
+Description: A tool for cutting Rockworm meat but also cutting down the COG.
+ID: Pickaxe_ID_721_RustyBoltSliceMale_V3A4N
+
+Name: Foundation's Plasma Spike
+Description: Fight for those who cannot.
+ID: Pickaxe_ID_722_TurtleneckMale
+
+Name: Cold'en Touch
+Description: Chills the blood, doesn't it?
+ID: Pickaxe_ID_723_CatBurglarWinterMale
+
+Name: Ice Carver
+Description: Excavate the frozen past.
+ID: Pickaxe_ID_725_JurassicArchaeologyWinterFemale
+
+Name: Nyan Claws
+Description: Azuki's whisker-thin ancestral blade.
+ID: Pickaxe_ID_726_KittyWarriorMale
+
+Name: No Way Homerun Hitter
+Description: Finely tooled aluminum perfectly balanced for perfect bonking.
+ID: Pickaxe_ID_727_LateralFemale_D9XJG
+
+Name: Pincushion Punisher
+Description: You can use the extra tacks to hang up some posters.
+ID: Pickaxe_ID_729_PeppermintFemale
+
+Name: Glacial Slasher
+Description: Frozen in the winds of an icy storm.
+ID: Pickaxe_ID_730_RenegadeRaiderIceFemale
+
+Name: Holly Hatchets
+Description: Merry axmas!
+ID: Pickaxe_ID_731_ScholarFestiveFemale1h
+
+Name: Snowplower
+Description: Snow 'em under.
+ID: Pickaxe_ID_732_ShovelMale
 
 Name: Ol' Woody
 Description: Looks... sturdy.

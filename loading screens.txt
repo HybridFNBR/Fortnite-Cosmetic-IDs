@@ -1396,17 +1396,121 @@ Name: Sierra's Vengeance
 Description: From now on, she has her own back. Art by Sebastian Fiumara.
 ID: LSID_363_DarkTrioNov_4B2M5
 
+Name: Wrath of the Phoenix
+Description: The closer to the flame, the longer your shadow becomes.
+ID: LSID_364_Ashes_0XBPK
+
 Name: Resurrection Protocol
-Description: Here comes the cavalary...
+Description: Here comes the cavalry...
 ID: LSID_365_ZombieElastic
 
 Name: Katchoo!
 Description: Stay still! I'm trying to shoot you!
 ID: LSID_366_Uproar_8MFSF
 
+Name: land of freedom
+Description: From Radiohead's KID A MNESIA.
+ID: LSID_367_Paperbag_3WGO8
+
 Name: The Queen's Court
 Description: Nothing shall remain.
 ID: LSID_368_CubeQueen2
+
+Name: Team 7
+Description: Ready for an A-rank mission.
+ID: LSID_369_Headband
+
+Name: Pizza Eating Jutsu
+Description: Perfecting the art of pizza eating requires discipline. Art by Studio Pierrot.
+ID: LSID_370_HeadbandPizza
+
+Name: Shinobi Teamwork
+Description: Work together to protect your friends. Art by Studio Pierrot.
+ID: LSID_371_Headband_BB
+
+Name: The Summit
+Description: The view is worth the climb.
+ID: LSID_372_Grandeur_UOK4E
+
+Name: Quinjets in Flight
+Description: Don't yield. Back S.H.I.E.L.D.
+ID: LSID_373_Nucleus_TZ5C1
+
+Name: The Queen's Arrival
+Description: She'll take everything... Unless we can stop her.
+ID: LSID_374_GuavaKey_IY0H9
+
+Name: Cube's Cradle
+Description: The attack will come from above.
+ID: LSID_375_GuavaEvent_9GXE3
+
+Name: Flipped
+Description: Choose your side...
+ID: LSID_378_S19_KeyArt
+
+Name: Sanctuary Rising
+Description: A new Foundation for the future. Art by Martin Ansin.
+ID: LSID_379_Turtleneck
+
+Name: The Heat
+Description: The right Llama for the job. Art by Robert Ball.
+ID: LSID_381_BuffLlama
+
+Name: Munchy Mayhem
+Description: Here comes the apoc-chew-lypse. Art by Brock Hofer.
+ID: LSID_382_Gumball
+
+Name: Treetop Haven
+Description: Channeling the energy of the Island. Art by Roc Espinet.
+ID: LSID_383_IslandNomad
+
+Name: Ronin's Revenge
+Description: In the name of the Waning Moon, he will claim what is his. Art by Lewis Larosa & Colors by Bengal.
+ID: LSID_384_LoneWolf
+
+Name: Harlowe's Target
+Description: You're standin' on the wrong side of the bat, pal. Art by Liam Brazier.
+ID: LSID_385_Motorcyclist
+
+Name: Web-Slingin' Goodness
+Description: You said you wanted pictures of Spider-Man. Art by Ryan Smallman.
+ID: LSID_386_Parallel
+
+Name: The View from Afar
+Description: What awaits on the other side? Art by Alexis Ziritt.
+ID: LSID_387_Island
+
+Name: Explorers
+Description: It's like a whole new Island out there. Art by Delicious Design Group.
+ID: LSID_389_Collage
+
+Name: 8 Lives Down
+Description: Meow-t of the Shadows.
+ID: LSID_390_KittyWarrior
+
+Name: Icons of Eternity
+Description: Sanctuary's greatest protector. Art by Afu Chan.
+ID: LSID_391_TurtleneckAlt
+
+Name: Deep Freeze
+Description: When the action's heating up, they're ice cold. Art by Rodrigo Lorenzo.
+ID: LSID_392_IceLegends
+
+Name: You better watch out!
+Description: Special delivery from Sgt. Winter.
+ID: LSID_393_WinterFest2021
+
+Name: Gnash Bash
+Description: Dripping with pre-chewed attitude. Art by BeastWreck.
+ID: LSID_394_GumballStomp
+
+Name: Shanta's Tale
+Description: History will be written with the edge of her blade. Art by Ryan Smallman.
+ID: LSID_395_ExoSuitAlt
+
+Name: Grand Royale
+Description: The ultimate victory.
+ID: LSID_396_FNCS_GrandRoyale
 
 Name: null
 Description: null

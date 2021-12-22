@@ -982,6 +982,10 @@ Name: Ghoul-d Game
 Description: Express yourself on the battlefield.
 ID: Emoji_S18_FortnitemaresCup
 
+Name: Sad Sakura
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_F_Headband_S
+
 Name: Ghostly Watcher
 Description: Express yourself on the battlefield.
 ID: Emoji_S18_GhostHunter
@@ -989,6 +993,22 @@ ID: Emoji_S18_GhostHunter
 Name: Divined Victory
 Description: Express yourself on the battlefield.
 ID: Emoji_S18_GrandRoyaleCompetition
+
+Name: Happy Naruto
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_Headband
+
+Name: Shocked Kakashi
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_Headband_K
+
+Name: Angry Sasuke
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_Headband_S
+
+Name: Buono
+Description: Express yourself on the battlefield.
+ID: Emoji_S18_Italian
 
 Name: Spirit Eyes
 Description: Express yourself on the battlefield.
@@ -1061,6 +1081,46 @@ ID: Emoji_S18_ZombieElastic_Scythe
 Name: Ooze Z
 Description: Express yourself on the battlefield.
 ID: Emoji_S18_ZombieElastic_Z
+
+Name: It's perfect!
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_AnimWinterFest2021
+
+Name: Back 'n' Better
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_BuffLlama
+
+Name: Jolly Ball
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_Gumball
+
+Name: Fox Flair
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_IslandNomad
+
+Name: Ronin Flame
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_LoneWolf
+
+Name: Horned Heart
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_Motorcyclist
+
+Name: Spidey Senses Tingling!
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_ParallelSenses
+
+Name: Thwip thwip!
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_ParallelSling
+
+Name: Foundation's Fortune
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_Turtleneck
+
+Name: Ol' Cracky
+Description: Express yourself on the battlefield.
+ID: Emoji_S19_WinterFestCreative
 
 Name: Season Level 100
 Description: Recognition for reaching Season Level 100 in Battle Royale Season 6.

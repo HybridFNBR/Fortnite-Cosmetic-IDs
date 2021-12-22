@@ -1263,6 +1263,10 @@ Name: Blue Viper
 Description: The cutting edge in aerial domination.
 ID: Glider_ID_309_TacticalWoodlandBlue
 
+Name: Wooly Mammoth
+Description: Chonkers ain't got nothin' on this beast.
+ID: Glider_ID_310_BuffLlamaMale
+
 Name: Flavor-Dusted Sparklewings
 Description: A frosted flight of fanciful flavor.
 ID: Glider_ID_311_CerealBoxMale
@@ -1319,6 +1323,66 @@ ID: Glider_ID_323_GiggleMale_XADT7
 Name: Ornithopter
 Description: Multi-winged attack ship.
 ID: Glider_ID_324_SunriseCastleMale_2R4Q3
+
+Name: Para-Pluie
+Description: An umbrella, but in French.
+ID: Glider_ID_325_GrandeurMale_ES8I4
+
+Name: Kurama
+Description: A fearsome nine-tailed beast sealed inside Naruto Uzumaki.
+ID: Glider_ID_326_HeadbandMale
+
+Name: First-Strike Infiltration Glider
+Description: First on the scene. First to strike.
+ID: Glider_ID_327_NucleusMale_55HFK
+
+Name: Enchanted Lifebloom
+Description: A living memory of generations past.
+ID: Glider_ID_328_ExoSuitFemale
+
+Name: Bubbloon
+Description: Unpoppable. Unstoppable. Chewy.
+ID: Glider_ID_329_GumballMale
+
+Name: The Soaring Crescent
+Description: They said it was broken beyond repair. He said differently.
+ID: Glider_ID_330_LoneWolfMale
+
+Name: WYVERN X77
+Description: You're better off not knowing how she found this...
+ID: Glider_ID_331_MotorcyclistFemale
+
+Name: Web-Chute
+Description: After 3,657 tries, it's finally aerodynamic.
+ID: Glider_ID_332_ParallelComicMale
+
+Name: Skiff
+Description: Fast, wind powered, land vehicle that provides no protection from the elements.
+ID: Glider_ID_333_RustyBolt_13IXR
+
+Name: Icebound Wing
+Description: Perfect for landing on frozen tundra.
+ID: Glider_ID_334_DarkIceMale
+
+Name: Sentinel
+Description: Designed for one thing: search and destroy.
+ID: Glider_ID_335_Logarithm_40QGL
+
+Name: Swirly Soarer
+Description: 50% sweet, 50% spicy, 100% festive.
+ID: Glider_ID_337_PeppermintMale
+
+Name: Snowmando Board
+Description: Show off your snowiest stunts.
+ID: Glider_ID_338_SnowboardMale
+
+Name: Golden Look Board
+Description: He is watching...
+ID: Glider_ID_339_SnowboardGoldMale
+
+Name: Midnight Glidemast
+Description: Fly into the new year with sparkly style.
+ID: Glider_ID_340_TwentyTwoMale
 
 Name: Raptor
 Description: Go ahead. Buzz the tower. You've earned it.
@@ -1479,6 +1543,10 @@ ID: Umbrella_Season_17
 Name: Umbrella of the Last Reality
 Description: We'll always have Cubetown.
 ID: Umbrella_Season_18
+
+Name: Seven Signet
+Description: A glider with perfect post-flip handling.
+ID: Umbrella_Season_19
 
 Name: The Umbrella
 Description: The fabled victory umbrella.

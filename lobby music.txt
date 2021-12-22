@@ -418,6 +418,10 @@ Name: Rift Tour Countdown
 Description: Press play and relive the Rift Tour.
 ID: MusicPack_106_Bistro_DQZH0
 
+Name: Radiohead
+Description: Press play and listen to Untitled V1 from Radiohead.
+ID: MusicPack_108_Paperbag_R2R4P
+
 Name: Queen's Anthem
 Description: Press play and make way for the Queen.
 ID: MusicPack_109_CubeQueen
@@ -425,6 +429,30 @@ ID: MusicPack_109_CubeQueen
 Name: Playground (Instrumental)
 Description: Press play and make Piltover your playground.
 ID: MusicPack_112_Uproar_59WME
+
+Name: In Btwn
+Description: Press play and do your own thing.
+ID: MusicPack_113_S18_FNCS
+
+Name: Haven's Opus
+Description: Press play and honor the wilderness.
+ID: MusicPack_114_IslandNomad
+
+Name: Redline Cruise
+Description: Press play and cruise.
+ID: MusicPack_115_Motorcyclist
+
+Name: Chewer's Choice
+Description: Press play and get chewsy.
+ID: MusicPack_116_Gumball
+
+Name: Loot in the Mountains
+Description: Press play and climb the lootiest mountain.
+ID: MusicPack_117_WinterFest2021
+
+Name: The March
+Description: Press play and join The March
+ID: MusicPack_118_TheMarch
 
 Name: Random
 Description: Randomly chooses between favorite Music Packs (or all owned Music Packs if nothing is marked as a favorite)

@@ -1594,6 +1594,70 @@ Name: Splat Splat Splat!
 Description: Show your style.
 ID: Wrap_414_Splash
 
+Name: Inkprinted
+Description: Show your style.
+ID: Wrap_415_FingerprintSwirl
+
+Name: Target Locked
+Description: Show your style.
+ID: Wrap_416_QuantumShot
+
+Name: Royal Cube
+Description: Show your style.
+ID: Wrap_417_Guava_7J7EW
+
+Name: Assassin's Mark
+Description: Show your style.
+ID: Wrap_418_CloakedAssassin_I43FL
+
+Name: Foundational
+Description: Show your style.
+ID: Wrap_419_Turtleneck
+
+Name: Waning Moon
+Description: Show your style.
+ID: Wrap_420_LoneWolf
+
+Name: Lloose Cannon
+Description: Show your style.
+ID: Wrap_421_BuffLlama
+
+Name: Troubled Gum
+Description: Show your style.
+ID: Wrap_422_Gumball
+
+Name: Deep Future
+Description: Show your style.
+ID: Wrap_423_Motorcyclist
+
+Name: Nomad's Treasure
+Description: Show your style.
+ID: Wrap_424_IslandNomad
+
+Name: Lotus Touch
+Description: Show your style.
+ID: Wrap_425_Exosuit
+
+Name: Webslinger
+Description: Show your style.
+ID: Wrap_426_Parallel
+
+Name: Snowcapped
+Description: Show your style.
+ID: Wrap_427_Peppermint
+
+Name: Wooly
+Description: Show your style.
+ID: Wrap_429_HolidaySweater
+
+Name: Twinkly
+Description: Show your style.
+ID: Wrap_430_WinterLights
+
+Name: Ones and Zeros
+Description: Show your style.
+ID: Wrap_431_Logarithm_F8CWD
+
 Name: TBD
 Description: Show your style.
 ID: Wrap_CatBurglarGameplay

@@ -2386,6 +2386,10 @@ Name: Floating Island
 Description: Honor The Cube.
 ID: BID_611_KevinCouture
 
+Name: The Cubist
+Description: The cubiest possible cube.
+ID: BID_612_CloakedAssassin_K7415
+
 Name: Steelfeather Shield
 Description: The last of its kind.
 ID: BID_613_MythFemale
@@ -3298,6 +3302,10 @@ Name: Lil' Black Heart
 Description: Send some love from the bottom of your cold, goth heart.
 ID: BID_847_PunkKoi
 
+Name: Trot Shot
+Description: Llamas only.
+ID: BID_848_BuffLlama
+
 Name: Tendrils of Venom
 Description: Now you're just making us mad.
 ID: BID_849_ClashV_D5UT3
@@ -3486,6 +3494,142 @@ ID: BID_895_ZombieElasticNeon
 Name: Paralizatrón CH-3000
 Description: Obviously it honks. What were you expecting?
 ID: BID_896_GrasshopperMale_BRT10
+
+Name: The Phoenix Force
+Description: Only a sliver of its infinite, cosmic power.
+ID: BID_897_AshesFemale_DV4RB
+
+Name: Octane Cruiser
+Description: Don't forget to pack a little Octane.
+ID: BID_898_SupersonicPink_FCO9X
+
+Name: Neural-Scratch Claws
+Description: Matte black kitty claws for one tough cat.
+ID: BID_899_NeonCatTech
+
+Name: NanaTech Blade
+Description: Make like a nanner and flay.
+ID: BID_900_PeelyTech
+
+Name: Tech Plate 8
+Description: Your number's up...
+ID: BID_901_CrazyEightTech
+
+Name: Scroll
+Description: Contains jutsu.
+ID: BID_902_HeadbandMale
+
+Name: Pakkun
+Description: Kakashi's smallest ninken.
+ID: BID_903_HeadbandKMale
+
+Name: Demon Wind Shuriken
+Description: A shuriken with fearsome curved blades.
+ID: BID_904_HeadbandSMale
+
+Name: Hidden Leaf Cloak
+Description: A warm cloak fit for going on missions.
+ID: BID_905_HeadbandSFemale
+
+Name: Umbra-tube
+Description: The classic brolly, elevated.
+ID: BID_906_GrandeurMale_4JIZO
+
+Name: F.I.E.L.D. Pack
+Description: Just the thing for Front-line Infiltration, Espionage, and Long-term Deployment.
+ID: BID_907_Nucleus_J147F
+
+Name: Whirrr
+Description: Back-up power supply.
+ID: BID_908_AssembleK
+
+Name: Cool Grey
+Description: A retro classic.
+ID: BID_909_HasteMale_EPX5A
+
+Name: Victory Crest
+Description: A winning attitude, now in hologram form.
+ID: BID_910_FNCS_Purple
+
+Name: Crimson Crest
+Description: A mark worn by few, but feared by many.
+ID: BID_911_LoneWolfMale
+
+Name: Gummy Sack
+Description: Extra drippy for your busy lifestyle.
+ID: BID_912_GumballMale
+
+Name: Bladed TravPak
+Description: Stakeouts, shootouts, and sabotage: this bag has seen it all.
+ID: BID_913_MotorcyclistFemale
+
+Name: The Bestiary Chest
+Description: Overflowing with gifts from the wilds.
+ID: BID_914_IslandNomadFemale
+
+Name: Ancestral Bloom
+Description: May your memory blossom across eternity.
+ID: BID_915_ExoSuitFemale
+
+Name: Web-Head's Knapsack
+Description: Holds everything you need so you don't drop your wallet over the subway tracks again.
+ID: BID_916_ParallelComicMale
+
+Name: Sonic Resonator
+Description: Created by the Coalition of Ordered Governments to map the underground tunnels of Sera.
+ID: BID_917_RustyBoltMale_1DGTV
+
+Name: Reyna's Pendant
+Description: Family heirloom with mysterious origins.
+ID: BID_918_RustyBoltFemale_J4JW1
+
+Name: Inky Ire
+Description: Its dark energy beckons...
+ID: BID_919_DarkPitBlue
+
+Name: Foundation's Mantle
+Description: Worn through the ages by The Seven's intrepid leader.
+ID: BID_920_Turtleneck
+
+Name: Spider-Man Icon
+Description: Emblem of everyone's favorite wall-crawler.
+ID: BID_924_LateralMale_Y2INS
+
+Name: MJ's Bookbag
+Description: Room for all the extra-curriculars.
+ID: BID_925_LateralFemale_7RK0Z
+
+Name: Ffrosty
+Description: Keep your loot frosty.
+ID: BID_927_LlamaIce
+
+Name: Happy 2022
+Description: Bling in the new year.
+ID: BID_929_TwentyTwo
+
+Name: Beam Bag
+Description: A dazzling dream of skyward brillance.
+ID: BID_930_Sunshine
+
+Name: Catana
+Description: Can't have the paws without the claws.
+ID: BID_931_KittyWarrior
+
+Name: Frost Blast
+Description: Eternally cool.
+ID: BID_932_Peppermint
+
+Name: Cold Dagger Pack
+Description: For the chilliest capers.
+ID: BID_933_CatBurglarWinter
+
+Name: Glacial Backplate
+Description: Shield yourself with a tiny piece of a big glacier.
+ID: BID_934_JurassicArchaeologyWinter
+
+Name: Frozebud
+Description: Frosted, floral, and fashionable.
+ID: BID_935_RenegadeRaiderIce
 
 Name: The Cubist
 Description: The cubiest possible cube.

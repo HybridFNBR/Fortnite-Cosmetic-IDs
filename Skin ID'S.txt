@@ -3369,6 +3369,10 @@ Name: Joltara
 Description: Champion of the solar winds.
 ID: CID_864_Athena_Commando_F_Elastic_E
 
+Name: Cube Assassin
+Description: Unknowable. Unstoppable.
+ID: CID_865_Athena_Commando_F_CloakedAssassin_1XKHT
+
 Name: Antheia
 Description: Guardian of forgotten lands.
 ID: CID_866_Athena_Commando_F_Myth
@@ -3440,6 +3444,14 @@ ID: CID_882_Athena_Commando_F_RebirthDefault_I
 Name: Jonesy The First
 Description: Never forget your first run.
 ID: CID_883_Athena_Commando_M_ChOneJonesy
+
+Name: Jonesy The First
+Description: Never forget your first run.
+ID: CID_883_Athena_M_3L_LOD2
+
+Name: Jonesy The First
+Description: Never forget your first run.
+ID: CID_883_Athena_M_FN_Jonesy
 
 Name: Vintage Ramirez
 Description: Back again and ready for action.
@@ -4809,6 +4821,10 @@ Name: Driftwalker
 Description: Fall into the darkness, and find your way to corrupted victory.
 ID: CID_A_230_Athena_Commando_M_DriftHorror
 
+Name: Dark Phoenix
+Description: She is fire! And life incarnate!
+ID: CID_A_231_Athena_Commando_F_Ashes_TKGK9
+
 Name: Frankenstein's Bride
 Description: Reanimated and reimagined.
 ID: CID_A_232_Athena_Commando_F_CritterStreak_YILHR
@@ -4913,6 +4929,222 @@ Name: Shadow Midas
 Description: The Midas Touch just got ghoulish.
 ID: CID_A_257_Athena_Commando_M_CatBurglar_Ghost
 
+Name: NeuraLynx
+Description: Ready for whenever cat-astrophe strikes.
+ID: CID_A_258_Athena_Commando_F_NeonCatTech
+
+Name: P33LY
+Description: Nana-Nana's Banana Assassin.
+ID: CID_A_259_Athena_Commando_M_PeelyTech
+
+Name: CRZ-8
+Description: Hiding in the city's darkest pockets.
+ID: CID_A_260_Athena_Commando_M_CrazyEightTech
+
+Name: Naruto Uzumaki
+Description: Believe it!
+ID: CID_A_261_Athena_Commando_M_Headband
+
+Name: Kakashi Hatake
+Description: I'll protect you with my life. All of you.
+ID: CID_A_262_Athena_Commando_M_HeadbandK
+
+Name: Sasuke Uchiha
+Description: My only goal is in the darkness.
+ID: CID_A_263_Athena_Commando_M_HeadbandS
+
+Name: Sakura Haruno
+Description: We have to be strong. You and me together.
+ID: CID_A_264_Athena_Commando_F_HeadbandS
+
+Name: Andre
+Description: Ready for the slopes.
+ID: CID_A_265_Athena_Commando_M_Grandeur_TBC0O
+
+Name: Renee
+Description: Technical design, tactical precision.
+ID: CID_A_266_Athena_Commando_F_Grandeur_9CO1M
+
+Name: Nick Fury
+Description: Master of espionage and definitely probably not a Life-Model Decoy.
+ID: CID_A_267_Athena_Commando_M_Nucleus_XVIVU
+
+Name: Robo-Kevin
+Description: Homebase's triangular technologist.
+ID: CID_A_268_Athena_Commando_M_AssembleK
+
+Name: Hangtime
+Description: Stay Fly.
+ID: CID_A_269_Athena_Commando_F_HasteStreet_B563I
+
+Name: Swish
+Description: So Smooth With It.
+ID: CID_A_270_Athena_Commando_M_HasteDouble_8GQHC
+
+Name: Victor Elite
+Description: Rule your kingdom.
+ID: CID_A_271_Athena_Commando_M_FNCS_Purple
+
+Name: Recon Raider
+Description: Standard issue Island combatant.
+ID: CID_A_272_Athena_Commando_F_Prime
+
+Name: Sentry Specialist
+Description: Standard issue Island combatant.
+ID: CID_A_273_Athena_Commando_F_Prime_B
+
+Name: Tactical Tracker
+Description: Standard issue Island combatant.
+ID: CID_A_274_Athena_Commando_F_Prime_C
+
+Name: Infantry Commander
+Description: Standard issue Island combatant.
+ID: CID_A_275_Athena_Commando_F_Prime_D
+
+Name: Squad Leader
+Description: Standard issue Island combatant.
+ID: CID_A_276_Athena_Commando_F_Prime_E
+
+Name: Ballistics Tech
+Description: Standard issue Island combatant.
+ID: CID_A_277_Athena_Commando_F_Prime_F
+
+Name: Battalion Leader
+Description: Standard issue Island combatant.
+ID: CID_A_278_Athena_Commando_F_Prime_G
+
+Name: Battalion Brawler
+Description: Standard issue Island combatant.
+ID: CID_A_279_Athena_Commando_M_Prime
+
+Name: Stealth Specialist
+Description: Standard issue Island combatant.
+ID: CID_A_280_Athena_Commando_M_Prime_B
+
+Name: Field Commander
+Description: Standard issue Island combatant.
+ID: CID_A_281_Athena_Commando_M_Prime_C
+
+Name: Munitions Master
+Description: Standard issue Island combatant.
+ID: CID_A_282_Athena_Commando_M_Prime_D
+
+Name: Siege Sergeant
+Description: Standard issue Island combatant.
+ID: CID_A_283_Athena_Commando_M_Prime_E
+
+Name: Cavalry Captain
+Description: Standard issue Island combatant.
+ID: CID_A_284_Athena_Commando_M_Prime_F
+
+Name: Tank Gunner
+Description: Standard issue Island combatant.
+ID: CID_A_285_Athena_Commando_M_Prime_G
+
+Name: The Foundation
+Description: His mission is Everything. Leader of The Seven.
+ID: CID_A_286_Athena_Commando_M_Turtleneck
+
+Name: Ronin
+Description: A wanderer whose road will lead him to glory.
+ID: CID_A_287_Athena_Commando_M_LoneWolf
+
+Name: Lt. John Llama
+Description: Never send an alpaca to do a llama's job.
+ID: CID_A_288_Athena_Commando_M_BuffLlama
+
+Name: Gumbo
+Description: Synthetic flavors, authentic attitude.
+ID: CID_A_289_Athena_Commando_M_Gumball
+
+Name: Harlowe
+Description: Reality is what you make it.
+ID: CID_A_290_Athena_Commando_F_Motorcyclist
+
+Name: Haven
+Description: Raised by the Island. Born to defend it.
+ID: CID_A_291_Athena_Commando_F_IslandNomad
+
+Name: Shanta
+Description: Journey through the ancestral plane.
+ID: CID_A_292_Athena_Commando_F_ExoSuit
+
+Name: Spider-Man
+Description: Just your friendly neighborhood wall-crawler.
+ID: CID_A_293_Athena_Commando_M_ParallelComic
+
+Name: Kait Diaz
+Description: Outsider turned Soldier in the COG Army and member of Delta-One.
+ID: CID_A_294_Athena_Commando_F_RustyBolt_DB20X
+
+Name: Marcus Fenix
+Description: Legendary hero of the Pendulum and Locust Wars brought back into the fight by his son.
+ID: CID_A_295_Athena_Commando_M_RustyBolt_FEHJ0
+
+Name: Absenz
+Description: Leave only destruction in your absence...
+ID: CID_A_296_Athena_Commando_M_DarkPit
+
+Name: Sultura
+Description: Linked up and ready for combat.
+ID: CID_A_297_Athena_Commando_F_Network
+
+Name: Dawn
+Description: A dash of celestial sass.
+ID: CID_A_308_Athena_Commando_F_Sunshine
+
+Name: Krisabelle
+Description: Voted "Most Festive Holiday Witch" 3 years in a row.
+ID: CID_A_310_Athena_Commando_F_ScholarFestive
+
+Name: Blizzabelle
+Description: Voted Teen Queen of Winterfest by a jury of her witchy peers.
+ID: CID_A_311_Athena_Commando_F_ScholarFestiveWinter
+
+Name: Glumbunny
+Description: It's about to hop off.
+ID: CID_A_312_Athena_Commando_F_RainbowHat
+
+Name: Cozy Knit Jonesy
+Description: Perfect for snuggling up on cold Winterfest nights.
+ID: CID_A_313_Athena_Commando_M_BlizzardBomber
+
+Name: Spider-Man (No Way Home)
+Description: High school was hard enough even before Peter Parker got spider-powers.
+ID: CID_A_316_Athena_Commando_M_Lateral_K8XD9
+
+Name: MJ (No Way Home)
+Description: What's up, dorks?
+ID: CID_A_317_Athena_Commando_F_Lateral_HIKN9
+
+Name: Azuki
+Description: Wandering warrior destined to end the Whiskeria Wars.
+ID: CID_A_318_Athena_Commando_M_KittyWarrior
+
+Name: Reina
+Description: A ruthless reindeer warrior with a very shiny eyepatch.
+ID: CID_A_319_Athena_Commando_F_Peppermint
+
+Name: Icebound Midas
+Description: Golden touch, cold to touch.
+ID: CID_A_320_Athena_Commando_M_CatburglarWinter
+
+Name: Ice Crystal
+Description: You ever heard of the ice age?
+ID: CID_A_321_Athena_Commando_F_JurassicArchaeologyWinter
+
+Name: Permafrost Raider
+Description: What could freeze a heart that burns?
+ID: CID_A_322_Athena_Commando_F_RenegadeRaiderIce
+
+Name: Polar Peely
+Description: That's one cool banana.
+ID: CID_A_323_Athena_Commando_M_BananaWinter
+
+Name: Mel
+Description: In the mix and on the hunt.
+ID: CID_A_325_Athena_Commando_F_Scout
+
 Name: Recruit
 Description: Standard issue combatant outfit.
 ID: CID_Creative_Mannequin_M_Default
@@ -4920,6 +5152,10 @@ ID: CID_Creative_Mannequin_M_Default
 Name: U
 Description: NPC
 ID: CID_NPC_Athena_Commando_F_CloakedAssassin
+
+Name: TBD
+Description: TBD
+ID: CID_NPC_Athena_Commando_F_CubeQueen
 
 Name: TBD
 Description: TBD
@@ -4932,6 +5168,10 @@ ID: CID_NPC_Athena_Commando_F_HenchmanSpyGood
 Name: Marauder Elite
 Description: Menacing masters of marauder... combat.
 ID: CID_NPC_Athena_Commando_F_MarauderElite
+
+Name: TBD
+Description: TBD
+ID: CID_NPC_Athena_Commando_F_Prime
 
 Name: Recruit
 Description: Standard issue combatant outfit.
@@ -5011,7 +5251,15 @@ ID: CID_NPC_Athena_Commando_M_MarauderHeavy
 
 Name: TBD
 Description: TBD
+ID: CID_NPC_Athena_Commando_M_OrderGuardTank
+
+Name: TBD
+Description: TBD
 ID: CID_NPC_Athena_Commando_M_PaddedArmorArctic
+
+Name: TBD
+Description: TBD
+ID: CID_NPC_Athena_Commando_M_Prime
 
 Name: TBD
 Description: TBD
@@ -5058,9 +5306,9 @@ Name: TBD
 Description: TBD
 ID: CID_TBD_Athena_Commando_M_Nutcracker_CINE
 
-Name: The Foundation
-Description: His Sacrifice Won't Be Forgotten. Leader Of The Seven.
-ID: CID_TBD_Athena_Commando_M_Turtleneck
+Name: TBD
+Description: TBD
+ID: CID_TBD_Athena_Commando_M_OrderGuard
 
 Name: TBD
 Description: TBD
